@@ -53,20 +53,20 @@ pages:
 #  except:
 #  - master
 
-deploy:
-  environment: production
-  script:
-  ## Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
-  ## We're using tr to fix line endings which makes ed25519 keys work
-  ## without extra base64 encoding.
-  ## https://gitlab.com/gitlab-examples/ssh-private-key/issues/1#note_48526556
-  ##
-  - echo "${SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add - > /dev/null
-  - bundle exec jekyll build -d public/j
-  - rsync -rvzc -e 'ssh -p 2222' public/j $WEBHOST:public_html/
-  artifacts:
-    expire_in: 1 hour
-    paths:
-    - public
-  only:
-  - master
+# deploy:
+#   environment: production
+#   script:
+#   ## Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
+#   ## We're using tr to fix line endings which makes ed25519 keys work
+#   ## without extra base64 encoding.
+#   ## https://gitlab.com/gitlab-examples/ssh-private-key/issues/1#note_48526556
+#   ##
+#   - echo "${SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add - > /dev/null
+#   - bundle exec jekyll build -d public/j
+#   - rsync -rvzc -e 'ssh -p 2222' public/j $WEBHOST:public_html/
+#   artifacts:
+#     expire_in: 1 hour
+#     paths:
+#     - public
+#   only:
+#   - master
