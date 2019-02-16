@@ -1,0 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+.DS_Store
+Gemfile.lock
+public/
+images/resized/
+_data/events/*.csv
+_data/groups/*.csv

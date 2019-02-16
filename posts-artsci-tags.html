@@ -1,0 +1,29 @@
+---
+layout: single
+title: Arts & Sciences posts by subject
+permalink: /posts/artsci/tags/
+---
+
+{% assign sorted_tags = site.tags | sort %}
+
+Jump to:
+{% for tag in sorted_tags %}
+  {% assign zz = tag[1] | where: "category", "artsci" | sort %}
+  {% if zz != empty %}
+    <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+  {% endif %}
+{% endfor %}
+
+{% for tag in sorted_tags %}
+  {% assign zz = tag[1] | where: "category", "artsci" | sort %}
+  {% if zz != empty %}
+
+    <a name="{{ tag[0] }}"></a><h3><a href="{{ tag[0] }}">{{ tag[0] }}</a></h3>
+    <p>
+    {% for p in zz %}
+      <a href="{{ site.baseurl }}/{{ p.url }}">{{ p.title }}</a> on {{ p.date | date:"%Y-%m-%d" }}<br>
+    {% endfor %}
+    </p>
+  {% endif %}
+
+{% endfor %}

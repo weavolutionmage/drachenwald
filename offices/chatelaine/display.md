@@ -1,0 +1,7 @@
+---
+title: How to do a display
+---
+<p>A display is essentially a specialised demonstration. There are two types of displays: 1) a short term display where SCA people are present, and 2) a long term display where SCA people only set-up and take down the display.</p>
+<p>A short term display is often done at a busy place where there is not much space, for example, in the walkway of a shopping center. SCA people may sit at a table with examples and pictures of all the things that we do. This is often done in garb. It is good to have something to give passers-by, because they may not have time to stop. Banners and music can help to draw attention to your table.</p>
+<p>A long term display is often done in store windows, library or museum display cases, or other places that are already established for such purposes. These places are nice to use, because your items are often kept in a case, where they can be seen but not touched. This is especially important for real weapons, small items, and anything that is valuable. If these items cannot be secured, it is best to leave them at home.</p>
+<p>Use a lot of colour and variety in your display, so that it will interest the most people. Include items in the display that are relevant to the place that the demo is held, (i.e. put books in a library display case, put art work in a craft store window,) especially if this place is letting you use their space for free.</p>

@@ -1,0 +1,93 @@
+---
+title: Where we are
+---
+{% assign parents = site.data.groups.grouplist | map: "parent" | sort | uniq %}
+
+
+{% for parent in parents %}
+  {% unless parent == "" or parent == "Drachenwald" %}
+    {% assign item = site.data.groups.grouplist | where: "group", parent | first %}
+<a href="#{{ parent }}">{{ parent }}</a> ({{ item.region }})<br>
+  {% endunless %}
+{% endfor %}
+
+
+{% for parent in parents %}
+  {% unless parent == "" or parent == "Drachenwald" %}
+    {% assign item = site.data.groups.grouplist | where: "group", parent | first %}
+    {% unless item == null %}
+  
+  <a name="{{ item.group }}"></a>
+
+      {% if item.status == "Region" %}
+  <h2>{{ item.group }} Region</h2>
+      {% else %}
+  <h2>{{ item.status }} of {{ item.group }}</h2>
+      {% endif %}
+      
+  <strong>Region:</strong> {{ item.region }}<br>
+        {% unless item.website == "" %}<strong>Website:</strong> <a href="{{ item.website }}">{{ item.website }}</a><br>{% endunless %}
+        {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
+        {% if seneschal %}
+          {% unless seneschal.email == "" %}
+  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+            {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
+  <br>
+          {% endunless %}
+        {% endif %}
+
+    {% endunless %}
+
+
+
+
+    {% assign subgroups = site.data.groups.grouplist | where: "parent", item.group %}
+
+    {% for subgroup in subgroups %}
+
+      {% assign mod = forloop.index | modulo:"3" %}
+
+  <section>
+      {% if subgroup.status == "Dormant" %}
+  <h3>{{ subgroup.group }} (Dormant)</h3>
+      {% else %}
+  <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
+      {% endif %}
+      
+        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
+        {% unless subgroup.website == "" %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endunless %}
+ 
+        {% assign seneschal = site.data.groups.officerlist | where: "group", subgroup.group | where: "office", "seneschal" | first %}
+
+        {% if seneschal %}
+          {% unless seneschal.email == "" %}
+  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+            {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
+  <br>
+          {% endunless %}
+        {% endif %}
+      
+    </section>
+
+    {% endfor %}
+
+
+
+  {% endunless %}
+
+{% endfor %}
+
+<h2>Far away places</h2>
+
+<p>For areas other than above, contact the <a href="{{ site.baseurl }}{% link offices/seneschal/index.md %}">Kingdom Seneschal</a> or try these contacts.</p>
+
+<h3>Croatia</h3>
+<p>Contact: Lady Grainne Inghean Diarmada<br />Name: Rebecca Vidas<br />Email:&nbsp;<script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,97,117,100,97,120,46,114,101,98,101,99,99,97,64,103,109,97,105,108,46,99,111,109,39,62,97,117,100,97,120,46,114,101,98,101,99,99,97,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script></p>
+<h3 style="font-size: 21px;">Kuwait and Iraq</h3>
+<p>Contact: Lord Kerwyn McMichael&nbsp;<br />Name: Daniel Meeker&nbsp;<br />Email: <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,69,109,112,105,114,101,95,111,102,95,68,114,97,99,104,101,110,119,97,108,100,64,121,97,104,111,111,103,114,111,117,112,115,46,99,111,109,39,62,69,109,112,105,114,101,95,111,102,95,68,114,97,99,104,101,110,119,97,108,100,64,121,97,104,111,111,103,114,111,117,112,115,46,99,111,109,60,47,97,62));</script></p>
+<h3>Romania</h3>
+<p>Contact: Dizo Diurdanus Lupus<br />Name: Stoica Romulus<br />Email: <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,108,117,112,95,97,108,98,95,49,51,64,121,97,104,111,111,46,99,111,109,39,62,108,117,112,95,97,108,98,95,49,51,64,121,97,104,111,111,46,99,111,109,60,47,97,62));</script></p>
+<h3 style="font-size: 21px;">Switzerland</h3>
+<p>Contact: Baron Colin Tyndall de Ffrayser<br />Name: John Fraser<br />Email: <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,116,121,110,100,97,108,108,64,103,109,120,46,99,104,39,62,116,121,110,100,97,108,108,64,103,109,120,46,99,104,60,47,97,62));</script></p>
+<h3>United Arab Emirates</h3>
+<p>Contact: Lady Fiona ni Chiadubhain<br />Name: Joanne Labny<br />Email: <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,106,111,98,101,97,114,95,52,64,121,97,104,111,111,46,99,111,109,39,62,106,111,98,101,97,114,95,52,64,121,97,104,111,111,46,99,111,109,60,47,97,62));</script><br />Telephone: +971 50 721 8087<br />Abu Dhabi, UAE</p>

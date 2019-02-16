@@ -1,0 +1,6 @@
+{%- assign largest = resized | sort: 'width' | last %}
+{%- capture srcset %}
+{%- for i in resized %}
+{{ site.baseurl }}/{{ i.path }} {{ i.width }}w,
+{%- endfor %}
+{%- endcapture %}<img src="/{{ largest.path }}" alt="{{ alt }}" srcset="{{ srcset | strip_newlines }} /{{ path }} {{ site.baseurl }}/{{ original.width }}w" style="width: 100%">

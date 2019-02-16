@@ -1,0 +1,4 @@
+---
+title: Dealing with people who move from another group
+---
+<p>Usually, dealing with people who move in from another SCA group is easier than dealing with people totally new to the SCA. Basically, the same ideas work for making these people feel at home. The new members packet, minus the general SCA information, can be helpful for them. Getting these people involved is usually easy, but is still very important or they may drop out of the SCA. One way to get them involved is to use them as a resource person. Ask them, "How did you do this in your old group?" Basically the main thing to concern yourself with here is to listen to what they have to say about customs and practise from their old group. This is not to say that you have to change the way that you do things, but be aware that some ways might suit your group better. Not everthing will suit. It's all a question of being courteous and listening with an open mind.</p>

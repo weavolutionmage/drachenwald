@@ -1,0 +1,9 @@
+{% assign q = site.data.groups.officerlist | where: "office", page.officer %}
+{% assign office = site.data.people.offices | where: "shortname", page.officer | first %}
+<h1><a name="contacts"></a><br>{{ office.longname }} Points of Contact</h1>
+{% for item in q %}
+  {% assign group = site.data.groups.grouplist | where: "group", item.group | first %}
+  {% if group.parent == "Drachenwald" or group.group == "Drachenwald" %}
+    {% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
+  {% endif %}
+{% endfor %}

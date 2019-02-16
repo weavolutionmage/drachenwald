@@ -1,0 +1,61 @@
+main:
+
+- title: What we do
+  url: /activities/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Royals
+  url: /royals/
+
+- title: Offices
+  url: /offices/
+
+- title: Where we are
+  url: /groups/
+
+
+side:
+
+- title: What we do
+  url: /activities/
+  children:
+    - title: Archery
+      url: /activities/archery/
+    - title: Armoured Combat
+      url: /activities/armoured-combat/
+    - title: Arts and Sciences
+      url: /activities/artsci/
+    - title: Fencing
+      url: /activities/rapier/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Royals
+  url: /royals/
+
+- title: Offices
+  url: /offices/
+  children:
+    - title: Seneschal
+      url: /offices/seneschal/
+    - title: Exchequer
+      url: /offices/exchequer/
+    - title: Chatelaine
+      url: /offices/chatelaine/
+    - title: Fencing Marshal
+      url: /offices/fencing-marshal/
+    - title: Armoured Combat Marshal
+      url: /offices/heavy-marshal/
+    - title: University Chancellor
+      url: /offices/unichancellor/
+    - title: Arts and Sciences
+      url: /offices/moas/
+    - title: Chronicler
+      url: /offices/chronicler/
+
+- title: Where we are
+  url: /groups/
+  

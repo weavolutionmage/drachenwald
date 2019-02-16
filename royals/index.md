@@ -1,0 +1,237 @@
+---
+title: Their Royal Majesties, King and Queen of Drachenwald
+gallery:
+  - image_path: /images/royals/william-isabetta.jpg
+    title: "Their Majesties William and Isabetta"
+---
+
+<div style="margin-left:auto;margin-right:auto;max-width:300px;text-align: center">
+{% include gallery %}
+</div>
+
+<table>
+<tr>
+<td align="center">
+<h3 style="text-align: center;"><strong>William of Richwood</strong></h3>
+<h3 style="text-align: center;">(Johan Kriström)</h3>
+<p> <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,107,105,110,103,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,107,105,110,103,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script></p></td>
+
+<td align="center">
+<h3 style="text-align: center;"><strong>Isabetta del Verde<br /></strong></h3>
+<h3 style="text-align: center;">(Clara Brandkvist)</h3>
+<p> <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,113,117,101,101,110,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,113,117,101,101,110,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script></p></td>
+</tr>
+<tr>
+<td><b>His Majesty is interested in</b><br>
+
+crafts, textile and other, taking part is more fun than watching <br>
+dancing, especially social dances <br>
+regional variation in sca traditions and practice <br>
+
+</td>
+
+<td><b>Her Majesty is interested in</b><br>
+
+all kinds of hands on A&amp;S, especially textile <br>
+trying out new handicrafts <br>
+hanging out with new and old friends <br>
+
+</td>
+</tr>
+<tr>
+<td><b>His Majesty likes</b><br>
+
+Banners, flags and heraldic displays in general <br>
+Armour that looks like garb and/or historic armour <br>
+
+</td>
+
+<td><b>Her Majesty likes</b><br>
+
+seeing everyone help out at events <br>
+when people take time to get to know newcomers and make sure they feel welcome <br>
+
+</td>
+</tr>
+<tr>
+<td><b>His Majesty dislikes</b><br>
+
+flying home with wet armour/whatnot <br>
+being rushed off the field <br>
+
+</td>
+
+<td><b>Her Majesty dislikes</b><br>
+
+when  participants in tournaments don’t show who died, even a beginner  watching for the first time should be able to see who won and who didn’t <br>
+
+</td>
+</tr>
+<tr>
+<td><b>Please Feed His Majesty</b><br>
+
+food, beef jerky, cheese, bacon and mushrooms <br>
+
+</td>
+
+<td><b>Please Feed Her Majesty</b><br>
+
+chocolate and cookies and port wine <br>
+lots of fruits and vegetables <br>
+cheese <br>
+whatever is being served <br>
+
+</td>
+</tr>
+<tr>
+<td><b>To drink during the event His Majesty prefers</b><br>
+
+still water <br>
+coke <br>
+most drinks <br>
+
+</td>
+
+<td><b>To drink during the event Her Majesty prefers</b><br>
+
+water and coke zero during the day <br>
+sparkling wine or cider with feast <br>
+new flavours and home made drinks especially if they are sweet <br>
+
+</td>
+</tr>
+<tr>
+<td><b>Please Do Not Feed His Majesty</b><br>
+
+lamb or mutton <br>
+broccoli or brussel sprouts <br>
+
+</td>
+
+<td><b>Please Do Not Feed Her Majesty</b><br>
+
+mustard <br>
+beer <br>
+coffee <br>
+
+</td>
+</tr>
+<tr>
+<td><b>His Majesty has the following food restrictions</b><br>
+
+no food allergies <br>
+
+</td>
+
+<td><b>Her Majesty has the following food restrictions</b><br>
+
+no food allergies <br>
+
+</td>
+</tr>
+<tr>
+<td><b>For breakfast His Majesty prefers</b><br>
+
+Sandwiches or hot food <br>
+tea and/or water <br>
+
+</td>
+
+<td><b>For breakfast Her Majesty prefers</b><br>
+
+whatever is being served <br>
+tea and/or water <br>
+
+</td>
+</tr>
+<tr>
+<td><b>His Majesty would like events to feature</b><br>
+
+a schedule that has a bit of free time here and there <br>
+
+</td>
+
+<td><b>Her Majesty would like events to feature:</b><br>
+
+thrown weapons if there is time in her Majesty’s schedule <br>
+
+</td>
+</tr>
+  </table>
+
+  <table>
+
+  <caption><h3>Their Royal Majesties' Progress</h3></caption>
+
+  <thead>
+  <tr valign="top">
+  <th scope="col">
+  <h3>Date</h3>
+  </th>
+  <th scope="col">
+  <h3>Group</h3>
+  </th>
+  <th scope="col">
+  <h3>Event</h3>
+  </th>
+  <th scope="col">
+  <h3>Royal Presence</h3>
+  </th>
+  </tr>
+  </thead>
+
+  <tbody>
+
+  {% if site.data.events.eventlist %}
+    {% assign events = site.data.events.eventlist | sort:"start" %}
+  {% else %}
+    {% assign events = "" %}
+  {% endif %}
+
+  {% for item in events %}
+
+    {% if item.progress == "King" or item.progress == "Queen" or item.progress == "Both" %}
+
+      {% assign eventmonth = item.start | date: "%b" %}
+      {% unless eventmonth == currentmonth %}
+      <tr>
+      <td colspan="4">
+      <h3>{{ item.start | date: "%B %Y" }}</h3>
+      </td>
+      </tr>
+      {% assign currentmonth = eventmonth %}
+      {% endunless %}
+
+      <tr>
+      <td data-label="Date">{{ item.start | date: "%d" }}
+      {% unless item.end == "" or item.end == item.start %}
+        {% assign endmonth = item.end | date: "%b" %}
+        {% if currentmonth == endmonth %}
+        - {{ item.end | date: "%d" }}
+        {% else %}
+        - {{ item.end | date: "%d/%m" }}
+        {% endif %}
+      {% endunless %}</td>
+      <td data-label="Group">{{ item.group }}{% unless item.country == "" %} ({{ item.country }}){% endunless %}</td>
+      <td data-label="Event">
+      {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</td>
+      
+      <td data-label="Royal Presence">
+        {% if item.progress == "King" %}
+        King
+        {% elsif item.progress == "Queen" %}
+        Queen
+        {% elsif item.progress == "Both" %}
+        King & Queen
+        {% else %}
+        &nbsp;
+        {% endif %}
+      </td>
+
+      </tr>
+
+    {% endif %}
+  {% endfor %}
+
+  </tbody>
+  </table>

@@ -1,0 +1,194 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Drachenwald
+email: webminister@drachenwald.sca.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Kingdom of Drachenwald. Medieval recreation with the Society for Creative Anachronism in Europe.
+baseurl: "/j" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+minimal_mistakes_skin: "drachenwald"
+
+gitlab:
+  repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-redirect-from
+  - jekyll-responsive-image
+  - jekyll-sitemap
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - README.md
+  - Dockerfile
+  - docker-compose.yml
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/drachenwaldsca"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/kingdomofdrachenwald"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+#paginate: 3
+#paginate_path: "/artsci/page:num/"
+
+pagination:
+  enabled: true
+  per_page: 3
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+autopages:
+  enabled: true
+  
+  collections:
+    enabled: false
+
+  categories:
+    layouts:
+      - 'autopage_cat.html'
+    title: 'Latest :cat posts'
+    permalink: '/posts/:cat'
+  tags:
+    layouts: 
+      - 'autopage_tags.html'
+      - 'autopage_artsci_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/posts/tags/:tag'
+
+responsive_image:
+  template: _includes/responsive-image.html
+  strip: true
+  base_path: images
+  output_path_format: images/resized/%{width}/%{dirname}/%{filename}-%{width}.%{extension}
+  sizes:
+    - width: 2400
+    - width: 1200
+    - width: 800
+    - width: 480
+    - width: 240
+  extra_images:
+    - images/header/*
+
+logo: /images/drachenwald-crest.svg
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "single"
+      sidebar:
+        nav: "side"
+      header:
+        overlay_image: "/images/header/header.jpg"
+        show_overlay_excerpt: true
+  -
+    scope:
+      path: "offices/chatelaine"
+    values:
+      layout: "single"
+      officer: "chatelaine"
+  -
+    scope:
+      path: "offices/chronicler"
+    values:
+      layout: "single"
+      officer: "chronicler"
+  -
+    scope:
+      path: "offices/exchequer"
+    values:
+      layout: "single"
+      officer: "exchequer"
+  -
+    scope:
+      path: "offices/fencing-marshal"
+    values:
+      layout: "single"
+      officer: "fencing-marshal"
+  -
+    scope:
+      path: "offices/heavy-marshal"
+    values:
+      layout: "single"
+      officer: "heavy-marshal"
+  -
+    scope:
+      path: "offices/moas"
+    values:
+      layout: "single"
+      officer: "moas"
+  -
+    scope:
+      path: "offices/seneschal"
+    values:
+      layout: "single"
+      officer: "seneschal"
+  -
+    scope:
+      path: "offices/unichancellor"
+    values:
+      layout: "single"
+      officer: "unichancellor"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/posts/:categories/:year/:month/:day/:title/"
+
+

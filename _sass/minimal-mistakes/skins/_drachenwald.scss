@@ -1,0 +1,202 @@
+@charset "utf-8";
+
+/* ==========================================================================
+   Drachenwald skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #eeeeee !default;
+$text-color: #222831 !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #660000 !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #393e46 !default;
+$masthead-link-color: #fffb00 !default;
+$masthead-link-color-hover: #ffae00 !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.masthead {
+  background-color: #660000;
+}
+
+#site-nav {
+  background-color: #660000;
+}
+
+.masthead__menu-item {
+  background-color: $primary-color;
+}
+
+.page__footer {
+  color: #fffb00 !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+/*
+   Typography
+   ========================================================================== */
+
+$doc-font-size: 16 !default;
+
+/* paragraph indention */
+$paragraph-indent: false !default; // true, false (default)
+$indent-var: 1.3em !default;
+
+/* system typefaces */
+$serif: Georgia, Times, serif !default;
+$sans-serif: "Open Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow: Philosopher, Georgia, $sans-serif !default;
+$helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+/* serif typefaces */
+$georgia: Georgia, serif !default;
+$times: Times, serif !default;
+$bodoni: "Bodoni MT", serif !default;
+$calisto: "Calisto MT", serif !default;
+$garamond: Garamond, serif !default;
+
+$global-font-family: $sans-serif !default;
+$header-font-family: Philosopher, $serif !default;
+$caption-font-family: $serif !default;
+
+/* type scale */
+$type-size-1: 2.441em !default; // ~39.056px
+$type-size-2: 1.953em !default; // ~31.248px
+$type-size-3: 1.563em !default; // ~25.008px
+$type-size-4: 1.25em !default; // ~20px
+$type-size-5: 1em !default; // ~16px
+$type-size-6: 0.75em !default; // ~12px
+$type-size-7: 0.6875em !default; // ~11px
+$type-size-8: 0.625em !default; // ~10px
+
+
+.row {
+  display: flex;
+}
+
+.column-half {
+  flex: 50%;
+  padding: 5px;
+}
+
+
+
+.pagination {
+  display: inline-block;
+}
+
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+}
+
+.pagination a.active {
+  background-color: #666;
+  color: white;
+  border: 1px solid #666;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.pagination a:first-child {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+  empty-cells: show;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+    empty-cells: hide;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: center;
+  }
+  
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
