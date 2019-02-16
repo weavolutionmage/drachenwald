@@ -22,8 +22,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-minimal_mistakes_skin: "drachenwald"
-
 gitlab:
   repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/
 
