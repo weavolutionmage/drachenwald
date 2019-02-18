@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 gitlab:
-  repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/
+  repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io
 
 # Build settings
 markdown: kramdown
@@ -136,51 +136,55 @@ defaults:
         show_overlay_excerpt: true
   -
     scope:
+      path: "activities"
+    values:
+      sidebar:
+        nav: "side-whatwedo"
+  -
+    scope:
+      path: "offices"
+    values:
+      sidebar:
+        nav: "side-offices"
+  -
+    scope:
       path: "offices/chatelaine"
     values:
-      layout: "single"
       officer: "chatelaine"
   -
     scope:
       path: "offices/chronicler"
     values:
-      layout: "single"
       officer: "chronicler"
   -
     scope:
       path: "offices/exchequer"
     values:
-      layout: "single"
       officer: "exchequer"
   -
     scope:
       path: "offices/fencing-marshal"
     values:
-      layout: "single"
       officer: "fencing-marshal"
   -
     scope:
       path: "offices/heavy-marshal"
     values:
-      layout: "single"
       officer: "heavy-marshal"
   -
     scope:
       path: "offices/moas"
     values:
-      layout: "single"
       officer: "moas"
   -
     scope:
       path: "offices/seneschal"
     values:
-      layout: "single"
       officer: "seneschal"
   -
     scope:
       path: "offices/unichancellor"
     values:
-      layout: "single"
       officer: "unichancellor"
   -
     scope:

@@ -1,13 +1,13 @@
 ---
 title: Arts and Sciences
----
-### Costuming, cooking, metalwork, brewing,  leatherwork and so very, very much more...
+excerpt: Costuming, cooking, metalwork, brewing, leatherwork and so very, very much more
 
+---
 It's hard to escape the arts and sciences - what we we call the huge collection of research areas, art, craft and engineering within the Society. Even if you are considering joining with a single interest - maybe just to do archery or combat  - after a while you'll venture into A&S territory.  Maybe you might start researching how to make a leather armour piece, or how the fletching on arrows was done, or wondering what exactly famous Italian fencers had to say about that move they were talking about at practice last night.   All activity in the Society has A&amp;S underpinnings.   
 
 Still more members join *because* of the arts and sciences - just how many places can you find people to show you how to cut a quill, make pigment from oak galls, spit roast venison on a lake shore or build siege engines? We have people from all over the Isles who study and create works from nearly every type of craft from the Middle Ages.
 
-Just by way of a flavour of the kind of activities carries out in Insulae Draconis here's a small list of just some of the areas our members contribute to.
+By way of a flavour of the kind of activities carries out in Drachenwald, here's a small list of just some of the areas our members contribute to.
 
 ### The Culinary Arts
 

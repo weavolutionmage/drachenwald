@@ -20,6 +20,24 @@ side:
 
 - title: What we do
   url: /activities/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Royals
+  url: /royals/
+
+- title: Offices
+  url: /offices/
+
+- title: Where we are
+  url: /groups/
+
+
+side-whatwedo:
+
+- title: What we do
+  url: /activities/
   children:
     - title: Archery
       url: /activities/archery/
@@ -28,7 +46,24 @@ side:
     - title: Arts and Sciences
       url: /activities/artsci/
     - title: Fencing
-      url: /activities/rapier/
+      url: /activities/fencing/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Royals
+  url: /royals/
+
+- title: Offices
+  url: /offices/
+
+- title: Where we are
+  url: /groups/
+
+side-offices:
+
+- title: What we do
+  url: /activities/
 
 - title: Calendar
   url: /events/calendar/
@@ -58,4 +93,3 @@ side:
 
 - title: Where we are
   url: /groups/
-  
