@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 gitlab:
-  repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/
+  repository_url: https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io
 
 # Build settings
 markdown: kramdown
