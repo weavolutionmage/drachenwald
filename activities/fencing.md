@@ -2,34 +2,30 @@
 title: Historical fencing
 excerpt: For those who like style with their deadly weapons
 ---
-In Drachenwald we have many dedicated to the recreation of medieval styles of swordfighting based on research into original texts and theories of combat that have survived to this day. This is not modern Olympic style fencing, medieval rapier combat as practiced in the SCA uses a wide variety of weapons and wear stylish, medieval clothing as body protection (so long as it is tested as sufficient by punch test) with a modern fencing mask.  Rapier combat can be fought in  tournaments between individuals or team combatants, and at events there are often  larger melees and fun scenarios.
+Rapier fencing within the SCA recreates the civilian “art of defence” of the later middle ages – the period when wearing a sword while out and about was both fashionable and useful against ruffians or sworn enemies. 
 
-When you start rapier combat in the SCA you will be required to pass a safety and basic knowledge test, or &quot;authorise&quot; with a marshal before you can fight.
+Anyone aged over 14 can take part and there are fencers of all sizes, genders and ages. Depending on your location, introductory training may be available at a weekly or monthly local practice, so contact your local group to find out what is on offer. 
 
-Like armored combat, rapier combat in the Society is based on an honour system, the fighters judge if the attacks they receive were successful based on the angle, location, and force of the strike. Marshals will oversee all bouts, melees and competitions and must be heeded at all times. If you hear the word &quot;HOLD&quot;, whether fighter or onlooker, stop everything! The marshal is also responsible for making sure all fighters have up to regulation equipment and armour and  are always on hand to ensure that the combat is performed safely.
+All rapier fencing is overseen by rapier marshals, who are there for safety, not to referee scoring. Fencers must call any blows they receive themselves on an honour basis.
 
-Woman can, and absolutely do, engage in rapier combat. Rapier combat is not suitable for children under 14. 
+Fencing tourneys, challenges and classes take place as part of many SCA events. Sometimes fencing is the main feature of an event, such as the “Collegium of Defence”. 
 
-### Weapons and Armour
+### Equipment
 
-Weapons used in rapier combat are made out of safe, unsharpened steel capped with rubber and foam safety tips. There are a wide variety of these blades that range from small daggers to large, two-handed great swords. To assist with defence  bucklers or small shields, capes, canes and more can be used to block and parry attacks. Arapier fighter will usually have to authorise to start using that new weapon style in combat.
+We use real steel swords, which are blunt, flexible and have rubber tips. They are larger and heavier than those used in modern sports fencing. For safety, all skin must be covered and more vulnerable areas of the body must be covered by material which passes a puncture test (full details are in the fencing manual). The head, face and neck also need additional protection – modern fencing masks, hoods and plastic gorgets are the usual way to start. So long as you have adequate protection, you can dress to suit your historical preferences.
 
-Protective clothing is required for all rapier fighters, but as long as it meets safety requirements to repel actual cuts or punctures the syle is very much a matter of personal choice. Some fighters choose doublets to armour thickness, others choose thick, padded clothing such as coats or gambesons.  All fighters must wear clothes that cover and sufficiently protect arms and legs,  wear protection on their head and neck and men must protect their groins. 
+For attending a first practice, wear long sleeves, full length trousers and footwear that completely covers the foot. Groin protection for male or female-bodied people is available from sports stores. For everything else, you can ask your local group if loaner gear is available before buying your own. Many groups will have spare swords, masks, gorgets etc. but there may not always be a full range of sizes available.
+
+### Authorisations
+
+In order to take part in fencing at events, it is necessary to pass a safety test know as “authorisation”. This involves a theory test of being quizzed on the rules, and fencing with a marshal in order to demonstrate that you can handle a sword sensibly and with appropriate calibration (how hard you hit). Even if you have fenced to a high level elsewhere (sports, HEMA, other SCA kingdoms) you will need to authorise to fence in Drachenwald.
+
+Further authorisations allow fencers to use additional equipment, such as bucklers, cloaks and daggers.
 
 ### Cut and Thrust
 
-This is a more recent addition to combat styles practiced in Insulae Draconis - it uses heavier (unsharpened) blades, sturdier armour and stricter rules and the rules allow for percussive edge &quot;cuts&quot; . This style allows the use of two handed swords, which can't effectively be used  in normal rapier combat. If you have come across HEMA, this is in the same vein. 
+In addition to rapier fencing, there is also “cut and thrust” fencing, which allows for percussive cuts and therefore requires additional protective gear. 
 
-### Authorisation
+### The Drachenwald Academy of Defence
 
-Authorisation is the test you must pass with a marshal before engaging in combat. It is not an assessment of your skill but a test to make sure you know the rules as laid down by the society, that you know how to protect yourself in combat situations and you are basically competent with your equipment. You will be assessed on your knowledge of the rules.
-
-### Practical Tips for Starting with Rapier Combat 
-
-- Find a practice you can get to regularly
-- As a beginner you don't need to buy all equipment before you start, you can enqure about the availability of loaner equipment at your local practice or at an event. 
-- If you require groin protection, you will need to source your own &quot;box&quot; as these cannot be loaned between people. 
-- It is useful if you can bring 4 long sleeved tshirts to your first practices as basic armouring 
-- You MUST pay attention to what your rapier marshal tells you, they are there for your safety! 
-
- 
+All authorised fencers in the kingdom can join the Drachenwald Academy of Defence and take on challenges to move up in its ranks.
