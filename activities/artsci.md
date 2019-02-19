@@ -5,7 +5,7 @@ excerpt: Costuming, cooking, metalwork, brewing, leatherwork and so very, very m
 ---
 The phrase “Arts and Sciences” is widely used in the Society to cover the huge variety of medieval knowledge and skills available to explore, either theoretically or practically. For some people this means researching and cooking period dishes, for others, hand-crafting their own armour or performing music for an appreciative audience. 
 
-For everyone it’s a chance to try their hand all kinds of activities -- and for some it’s an opportunity to develop a high level of skill or expertise.
+For everyone it’s a chance to try their hand at all kinds of activities -- and for some it’s an opportunity to develop a high level of skill or expertise.
 
 ### Getting involved in “A&S”
 
