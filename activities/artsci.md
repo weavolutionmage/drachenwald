@@ -3,38 +3,20 @@ title: Arts and Sciences
 excerpt: Costuming, cooking, metalwork, brewing, leatherwork and so very, very much more
 
 ---
-It's hard to escape the arts and sciences - what we we call the huge collection of research areas, art, craft and engineering within the Society. Even if you are considering joining with a single interest - maybe just to do archery or combat  - after a while you'll venture into A&S territory.  Maybe you might start researching how to make a leather armour piece, or how the fletching on arrows was done, or wondering what exactly famous Italian fencers had to say about that move they were talking about at practice last night.   All activity in the Society has A&amp;S underpinnings.   
+The phrase “Arts and Sciences” is widely used in the Society to cover the huge variety of medieval knowledge and skills available to explore, either theoretically or practically. For some people this means researching and cooking period dishes, for others, hand-crafting their own armour or performing music for an appreciative audience. 
 
-Still more members join *because* of the arts and sciences - just how many places can you find people to show you how to cut a quill, make pigment from oak galls, spit roast venison on a lake shore or build siege engines? We have people from all over the Isles who study and create works from nearly every type of craft from the Middle Ages.
+For everyone it’s a chance to try their hand all kinds of activities -- and for some it’s an opportunity to develop a high level of skill or expertise.
 
-By way of a flavour of the kind of activities carries out in Drachenwald, here's a small list of just some of the areas our members contribute to.
+### Getting involved in “A&S”
 
-### The Culinary Arts
+Whether you arrive in the SCA as a complete beginner at a particular activity or bring with you many years of experience, you’ll be welcome to get stuck in and encouraged to have-a-go or share your knowledge. Many activities are affordable and easy to get started – and there will almost always be someone in the Kingdom who can help you to find a place to start. 
 
-Cooking is a huge part of life in the SCA and we have a proud tradition of excellent feast cooking in Insulae Draconis.  Our cooks research and recreate medieval dishes from period sources and share their work at events by cooking full, proper feasts for participants to enjoy.
+Many events include classes run by fellow participants. These could include a practical introduction to a craft, a talk about the topic of someone’s personal research, or a presentation of their latest project. Some examples from event schedules around Drachenwald include Italian bobbin lace, Pre-Norman Irish food and Heraldry in War and Tournament. 
 
-Medieval food is delicious, ignore all those misconceptions that spices were used to disguise bad meat.  You really should try grains of paradise, long pepper or cubebs. Of course for every fine dish you need fine wines and spirits to help it along and  we have many fine brewers and makers of meads, short beers, spiced wines and fantastic period concoctions you need to taste to believe! All the better to coax a song or or while you are entertained at feast by...
+Local groups may run their own crafting days. These could, for example, involve working together on a silk painting at a revel, getting together at a local paint-your-own pottery or a member hosting a ‘crafternoon’ at their own home, with everyone working on individual projects.
 
-### The performing/Bardic arts
+### Rewards and recognition
 
-We have singers, instrumentalists, dancers, puppeteers, storytellers and poets, all who research what was performed in period and share their knowledge and talent with us all. You haven't lived until you witness a procession of Royals led by musicians on the Onion flute. It's not all period material, our talented bards allow the past inspire new creative works of a medieval style to entertain us while we make merry and eat well.
+Creation is often its own reward. Making or decorating your own medieval clothing means you have clothing to be proud of. Brewing delicious beer means you and your friends have delicious beer to drink!
 
-### Armouring arts
-
-We can't all walk in and order a full set of plate armour from our local blacksmith, so many of our fighters learn to do it themsleves. 
-
-### Scribal Arts
-
-Many Society members take up calligraphy, miniature painting and illumination  and produce beautiful works of art. We have a great many truly talented scribes. They frequently showcase their talents by providing the award scrolls our members receive at Court at some events.
-
-### Fibre Arts and costuming
-
-We have members who could take the wool from a sheep and follow the process from cleaning the wool, spinning the yarn, dyeing and weaving, cutting to any century's pattern, sewing up, embroidering and topping it all off with the perfect hat, cloak and shoes. 
- 
-### Utilitarian Arts
-
-Wordturners to turn your drinking vessel, pewtercasters to cast you a spoon, armourers to get you in armour rather faster than you anticipated, glass bead makers to give your Viking garb some bling.  We have potters and glassblowers, we make boxes and carts, pole lathes and benches.  
-
-### The Sciences
-
-Behind every good dyer, pigment maker, metal caster, weapon builder, chandler and even cook is someone who has spent time researching the secrets of chemistry and physics. We have astronomers to guide you through the night sky, physicians who can tell you exactly why we *don't* make medicines the period way but maybe why we should be paying more attention to some of the old ingredients in our modern lives. We have cartographers and people who would benefit very much from consulting them.
+The society also recognises people’s work in the arts and sciences. Some events include displays or competitions, where people present the results of their study and/or creative efforts. And there are awards given to those who advance in their skills, who teach others and who generally help to make the society more beautiful, more entertained, better armed, better dressed, better fed and better informed about the medieval period. The highest award in the Arts and Sciences is membership of the Order of the Laurel.
