@@ -26,7 +26,7 @@ _Lady Gytha Ui Bhanain_
 > 
 > The first objective will be to get authorised, to ensure you can play safely according to the rules. Once you are willing to put a certain amount of effort into training, you will see yourself improving and entering into tourneys. Keep a roll of duct tape, a pair of shoelaces, and a leather punch in your armour bag and you'll find yourself integrating very quickly into the pre-tourney rituals. Armouring up with the other fighters is a great way of settling nerves, and there's always an extra pair of hands for that fiddly buckle.
 
-### Practical Tips for Starting with armoured Combat
+### Practical Tips for Starting with Armoured Combat
 
 - Find a practice you can get to regularly
 - As a beginner you don't need to buy all equipment before you start, you will be starting with unarmoured drills and &quot;slow work&quot; for a little while and you can chat with other fighters about your options. You can also enqure about the availability of loaner equipment at your local practice or at an event.
