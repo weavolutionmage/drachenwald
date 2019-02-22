@@ -2,6 +2,21 @@
 
 This is the source code for the website of the Kingdom of Drachenwald in the Society for Creative Anachronism. You are welcome to submit changes as merge requests through Gitlab. For individual pages, this can be done through the Gitlab interface. If you would like to make more substantial changes, follow these instructions to get a local copy of the code, build the website on your machine, and submit changes back.
 
+Overview for the internet-uninitiated
+======================
+
+The web artificers store the site content in GitLab, and use Git, a version-control software, to download copies to their local machines, work on the content, view/test new content on their machines, then save them back to GitLab. 
+
+The GitLab account and storage is free. A condition of free accounts is that they are public and open source - anyone can search for the content and view it, code and all. Anyone can submit changes or edits. The web artificers control the final published changes, to prevent malicious changes.
+
+Web artificers work on the content itself using source code editors. These are software tools that help you create code that the internet can read and turn into websites. 
+
+Two additional software packages, Ruby and Jekyll, work the magic between the text you see in the editor and what appears on the internet.
+
+Contributing at the 'code-face' requires time to download and install software, learn how to use it, and learn the order of publishing events (called the workflow). There are many guides, tutorials and cheatsheets available to help. Not to mention Pelicans.
+
+These instructions assume you have full permissions on your own machine to download, install and run software.
+
 Software needed
 ===============
 
@@ -26,12 +41,35 @@ Windows 10 Home and previous
 
 **Ruby and Jekyll:** Install using the [instructions on the Jekyll site](https://jekyllrb.com/docs/installation/windows/).
 
-Set up GitLab and SSH
-=====================
+### Jekyll
+
+If you have not used Jekyll before, [see the Jekyll website for a ground-up intro](https://jekyllrb.com/tutorials/convert-site-to-jekyll/#what-is-a-jekyll-website).
+
+**TL;dr**: 
+
+* You create content: mainly text in Markdown. 
+* Add images or data. 
+* Save content in appropriate folders.  
+* Commit (and push) the content to GitLab, using Git commands
+* Run Jekyll from the command line.  
+
+Jekyll creates the HTML versions of the pages, following the instructions in the theme to provide the layout, formatting and navigation. **You don't need to edit any HTML manually.**
+
+Set yourself up on GitLab with an SSH key
+=========================
 
 Set up an account on [GitLab](https://gitlab.com/).
 
 Create an SSH key and add the public key to your GitLab profile. [Instructions on GitLab.](https://docs.gitlab.com/ee/ssh/)
+
+
+Choose an editor to view and edit the content of the site
+================================
+**Notepad++** is plain and simple. [Notepad++](https://notepad-plus-plus.org/)
+
+**Visual Studio Code** is slightly whizzier, and helps you work through some of the downloading and uploading steps in Git as well. [Download Visual Studio code](https://code.visualstudio.com/)
+
+You now have all the tools to start copying the site from GitLab, and editing it on your own machine.
 
 Get your clone of the website
 =============================
@@ -107,4 +145,11 @@ git pull
 git merge staging
 ```
 
-A good editor, with Git support is [Visual Studio Code](https://code.visualstudio.com/).
+References
+============
+* [GitLab's command-line cheatsheet, if you haven't used command lines before]https://gitlab.com/help/gitlab-basics/command-line-commands.md
+* [Git's own documentation](https://git-scm.com/book/en/v2)
+* [Another cheat sheet for Git commands](https://git-scm.com/docs/giteveryday)
+
+
+
