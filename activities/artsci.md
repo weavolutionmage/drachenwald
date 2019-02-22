@@ -9,7 +9,7 @@ For everyone it’s a chance to try their hand at all kinds of activities -- and
 
 ### Getting involved in “A&S”
 
-Whether you arrive in the SCA as a complete beginner at a particular activity or bring with you many years of experience, you’ll be welcome to get stuck in and encouraged to have-a-go or share your knowledge. Many activities are affordable and easy to get started – and there will almost always be someone in the Kingdom who can help you to find a place to start. 
+Whether you arrive in the SCA as a complete beginner at a particular activity or bring with you many years of experience, you’ll be welcome to join in and encouraged to participate or share your knowledge. Many activities are affordable and easy to get started – and there will almost always be someone in the Kingdom who can help you to find a place to start. 
 
 Many events include classes run by fellow participants. These could include a practical introduction to a craft, a talk about the topic of someone’s personal research, or a presentation of their latest project. Some examples from event schedules around Drachenwald include Italian bobbin lace, Pre-Norman Irish food and Heraldry in War and Tournament. 
 
