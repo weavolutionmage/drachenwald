@@ -2,7 +2,7 @@
 title: Office of the Exchequer
 ---
 
-Welcome to the page for all Exchequer related activity in the Kingdom of Drachenwald. Here you will find the forms which must be completed for Shire Quarterly reports and for reporting on the finances-v2 and attendee numbers at events. There are also a number of useful articles describing how to complete these reports.
+Welcome to the page for all Exchequer related activity in the Kingdom of Drachenwald. Here you will find the forms which must be completed for Shire Quarterly reports and for reporting on the finances and attendee numbers at events. There are also a number of useful articles describing how to complete these reports.
 
 ## Corporate Policies
 
@@ -38,7 +38,7 @@ Request for Warrant: Please send the following information to your regional Exch
 
 - Event Report Form (xls): [all currencies]({{ site.baseurl }}{% link offices/exchequer/files/event-report-all-currencies.xls %})
 
-Note: NMS for Kingdom level events (Crown and Coronation) held outside the affiliate organisations (i.e not in Nordmark or Aarnimetsa) is now €5 per adult non-member. This must be sent to the Kingdom Exchequer after the event.
+Note: NMS for Kingdom level events (Crown and Coronation) held outside the affiliate organisations (i.e. not in Nordmark, Aarnimetsa, Insulae Draconis, or Ad Flumen Caerulum) is now €5 per adult non-member. This must be sent to the Kingdom Exchequer after the event.
 {: .notice}
 
 - Funds Transfer Form: [MS Word]({{ site.baseurl }}{% link offices/exchequer/files/funds-transfer.doc %}) or [PDF]({{ site.baseurl }}{% link offices/exchequer/files/funds-transfer.pdf %})
