@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-redirect-from
+  - jekyll-responsive-image
   - jekyll-sitemap
 
 permalink: pretty

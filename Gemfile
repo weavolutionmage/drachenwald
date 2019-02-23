@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate-v2", "2.0.0"
   gem "jekyll-redirect-from"
+  gem "jekyll-responsive-image"
   gem "jekyll-sitemap"
 end
 

@@ -37,7 +37,10 @@
     {% unless p.portrait == "" %}
     <br><br><br><br><br>
     <span class="image">
-      <img src="{{ site.baseurl }}/{{p.portrait}}" alt="{{p.scaname}}">
+      {% responsive_image_block %}
+      path: {{ p.portrait }}
+      alt: {{ p.scaname }}
+      {% endresponsive_image_block %}
     </span>
     {% endunless %}
   {% endif %}
