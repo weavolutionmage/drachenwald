@@ -9,7 +9,10 @@ The web artificers store the site content in [GitLab][], and use [Git][], a vers
 
 The GitLab account and storage is free. A condition of free accounts is that they are public and open source - anyone can search for the content and view it, code and all. Anyone with a GitLab account can submit changes or edits. The web artificers control the final published changes, to prevent malicious changes.
 
-Web artificers work on the content itself (the words) using source code editors. They use assorted graphics software to crop and resize photos.   
+Web artificers work on the content itself (the words) using source code editors. 
+The text is written using [Markdown] conventions, and saved as text files with .md suffix. Markdown is almost like writing email in plain text. 
+
+They use assorted graphics software to crop and resize photos.   
 
 To create the site, the web artificers use [Ruby][] a programming language, together with [Jekyll][] a Ruby 'gem' (a library of prewritten code, with specific chunks of instructions). Ruby has thousands of gems available, written by geeks who love to code, to make the magic of the internet happen.
 
@@ -19,17 +22,17 @@ The web artificers are using a theme designed for Jekyll called [Minimal Mistake
 
 Contributing at the 'code-face' requires time to download and install software, learn how to use it, and learn the order of publishing events (called the workflow). There are many guides, tutorials and cheatsheets available to help. Not to mention Pelicans.
 
-These instructions assume you have full permissions on your own machine to download, install and run software.
-
-[Gitlab] https://gitlab.com/
-[Git] https://git-scm.com/
-[Ruby] https://www.ruby-lang.org/en/
-[Jekyll] https://jekyllrb.com/
-[Minimal mistakes] https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+[Gitlab]: https://gitlab.com/
+[Git]: https://git-scm.com/
+[Ruby]: https://www.ruby-lang.org/en/
+[Jekyll]: https://jekyllrb.com/
+[Minimal mistakes]: https://mademistakes.com/work/minimal-mistakes-jekyll-theme/
+[Markdown]: https://daringfireball.net/projects/markdown/syntax
 
 
 Software needed
 ===============
+These instructions assume you have full permissions on your own machine to download, install and run software.
 
 macOS
 -----
@@ -52,7 +55,8 @@ Windows 10 Home and previous
 
 **Ruby and Jekyll:** Install using the [instructions on the Jekyll site](https://jekyllrb.com/docs/installation/windows/).
 
-### Jekyll
+- - - - -
+ Jekyll
 
 If you have not used Jekyll before, [see the Jekyll website for a ground-up intro](https://jekyllrb.com/tutorials/convert-site-to-jekyll/#what-is-a-jekyll-website).
 
@@ -65,6 +69,7 @@ If you have not used Jekyll before, [see the Jekyll website for a ground-up intr
 * Run Jekyll from the command line.  
 
 Jekyll creates the HTML versions of the pages, following the instructions in the theme to provide the layout, formatting and navigation. **You don't need to edit any HTML manually.**
+- - - - -
 
 Set yourself up on GitLab with an SSH key
 =========================
