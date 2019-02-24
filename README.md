@@ -55,8 +55,8 @@ Windows 10 Home and previous
 
 **Ruby and Jekyll:** Install using the [instructions on the Jekyll site](https://jekyllrb.com/docs/installation/windows/).
 
+### Jekyll
 - - - - -
- Jekyll
 
 If you have not used Jekyll before, [see the Jekyll website for a ground-up intro](https://jekyllrb.com/tutorials/convert-site-to-jekyll/#what-is-a-jekyll-website).
 
@@ -163,7 +163,7 @@ git merge staging
 
 References
 ============
-* [GitLab's command-line cheatsheet, if you haven't used command lines before]https://gitlab.com/help/gitlab-basics/command-line-commands.md
+* [GitLab's command-line cheatsheet, if you haven't used command lines before](https://gitlab.com/help/gitlab-basics/command-line-commands.md)
 * [Git's own documentation](https://git-scm.com/book/en/v2)
 * [Another cheat sheet for Git commands](https://git-scm.com/docs/giteveryday)
 * [Git the simple guide](https://rogerdudler.github.io/git-guide/)
