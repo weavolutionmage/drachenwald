@@ -17,7 +17,7 @@
 
   {% if site.gitlab.repository_url %}
   <ul>
-    <li><a href="{{site.gitlab.repository_url}}/blob/master/"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Edit this site on GitLab</a></li>
+    <li><a href="{{site.gitlab.repository_url}}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Edit this site on GitLab</a></li>
   </ul>
   {% endif %}
 </div>
@@ -25,3 +25,4 @@
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. This is the recognised web site for the Kingdom of Drachenwald in the Society for Creative Anachronism.
 Copyright on all content and images remains with the creators.  
 {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<!-- {{ page.path }} -->
