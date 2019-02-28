@@ -161,11 +161,77 @@ git pull
 git merge staging
 ```
 
-References
+Git References
 ============
 * [GitLab's command-line cheatsheet, if you haven't used command lines before](https://gitlab.com/help/gitlab-basics/command-line-commands.md)
 * [Git's own documentation](https://git-scm.com/book/en/v2)
 * [Another cheat sheet for Git commands](https://git-scm.com/docs/giteveryday)
 * [Git the simple guide](https://rogerdudler.github.io/git-guide/)
+
+## Ruby and Jekyll Troubleshooting: when stuff just doesn't work
+
+This anecdotal checklist is for people new to using command line tools, Ruby and Jekyll. 
+It's based on using these tools on a creaking Toshiba laptop, with Win10 Home, and also in a Windows-based work setting with more modern hardware. YMMV.
+
+## Installing Ruby in a Windows environment
+Ruby requires a directory 'path' that has no spaces in it. So unfortunately, installing it in 'Program Files' with the rest of your applications won't work. You need a path that has no gaps. 
+
+At home, this requirement meant installing Ruby on C:\ drive, the same 'level' as my 'Windows' and 'Program Files' directories.
+
+At work, where I don't have permissions to add or change anything on my C:\ drive, it meant installing Ruby at the highest 'level' within my user profile.
+
+## Installing Jekyll gems
+Each Git directory (aka repository, containing website content) requires *its own set of gems*, including the Jekyll-related ones that generate the site. So for example, if you are working both on the Drachenwald website, and a shire website, both stored on GitLab, you need to install the Jekyll bundle once in each directory.
+
+This is a *different location* from where you install Ruby.
+
+If you try to run Jekyll using 'bundle exec jekyll serve' when the gems aren't there, Ruby will tell you she can't find the gems and doesn't recognise the command.
+
+So from your Git Bash shell, `cd` (change directory) to the cloned directories of each site, then run 
+`gem install bundler`
+then
+`bundle install`
+
+## Jekyll says it cannot build because it's missing a gem
+
+Sometimes...gems have 'dependencies' - they need another gem buddy in order to run. 
+And they need a *specific version* of their buddy to work. 
+
+You can track down individual gems in https://rubygems.org/ and add them to the bundle (entering the command from the correct directory location).
+
+`gem install <name of gem you want>`
+
+Alternately you can update all the gems. This option takes a little longer, and requires admin privileges. 
+`gem update --system` 
+
+## Jekyll doesn't build and throws a peculiar error
+
+You saved your content, added it, committed it, and pushed it. You run 'bundle exec jekyll serve' but it gives you an  error. The error is about a different file from the one you were working on.
+
+Check: which directory are you in? You can only run Jekyll from the 'top' of the directory for your site, so for the Drachenwald website it's 
+` $ `[your_directories_path`]/git/sca-drachenwald.gitlab.io`>
+
+## Jekyll doesn't build and throws an error, with a filename, a line and column location of the error
+
+Jekyll is picky about the syntax that tells it what is text, and what is an instruction. 
+
+It especially needs clear 'front matter' - the first few lines of every file, marked off with 3 hyphens above and below, where you specify the file name, the file title, the file path, which page template to use when building the html. 
+Typically you have to open the file, go to the point where the character is wrong, and change it. Save, add, commit, try again.
+
+Example: a colon (:) is part of the syntax for Jekyll. 
+If you put a colon in a page title (eg. a page title of 'Drachenwald: where you persona comes from'), Jekyll is wondering where tf its instructions are. 
+So for any page titles that need colons, enter the whole title within double quotes ("Drachenwald: where your persona comes from"). The quotes tell Jekyll not to pay any attention to this particular colon.
+
+## Jekyll runs ok and builds on your machine, but *none of your stuff* is there 
+
+Check: are you running Jekyll in the right branch? 
+Git allows you to 'branch' (start a separate copy) of the site, for you to work on, and add back into the main copy ('merge') later. If you save your work in one branch, but run Jekyll from another, your work won't appear. Cue panic...
+
+In Git Bash: look at the branch name. Check and see where your work is and move to it, to see your changes.
+
+## Jekyll References
+
+<https://guides.rubygems.org/rubygems-basics/#installing-gems>
+<https://jekyllrb.com/tutorials/convert-site-to-jekyll/>
 
 
