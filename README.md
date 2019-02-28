@@ -168,7 +168,7 @@ Git References
 * [Another cheat sheet for Git commands](https://git-scm.com/docs/giteveryday)
 * [Git the simple guide](https://rogerdudler.github.io/git-guide/)
 
-## Ruby and Jekyll Troubleshooting: when stuff just doesn't work
+# Ruby and Jekyll Troubleshooting: when stuff just doesn't work
 
 This anecdotal checklist is for people new to using command line tools, Ruby and Jekyll. 
 It's based on using these tools on a creaking Toshiba laptop, with Win10 Home, and also in a Windows-based work setting with more modern hardware. YMMV.
