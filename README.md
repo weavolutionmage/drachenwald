@@ -194,7 +194,8 @@ then
 
 ## Jekyll says it cannot build because it's missing a gem
 
-Sometimes...gems have 'dependencies' - they need another gem buddy in order to run. 
+Sometimes...gems have 'dependencies' - they need another gem buddy in order to run.  
+
 And they need a *specific version* of their buddy to work. 
 
 You can track down individual gems in https://rubygems.org/ and add them to the bundle (entering the command from the correct directory location).
@@ -231,7 +232,8 @@ In Git Bash: look at the branch name. Check and see where your work is and move 
 
 ## Jekyll References
 
-<https://guides.rubygems.org/rubygems-basics/#installing-gems>
+<https://guides.rubygems.org/rubygems-basics/#installing-gems>  
+
 <https://jekyllrb.com/tutorials/convert-site-to-jekyll/>
 
 
