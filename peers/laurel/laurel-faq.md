@@ -1,5 +1,12 @@
+---
+title: Order of the Laurel
+excerpt: Frequently Asked Questions
+---
+
 # Frequently Asked Questions for the Drachenwald Order of the Laurel
+
 ## Why has the Order not made X a Laurel yet?
+
 Perhaps the most commonly asked question - and the answer is that the Order does not elevate anyone. Only the Crown can recognize a new Peer. 
 The Crown of Drachenwald has the power to make anyone a member of the Order of the Laurel, Pelican, Chivalry or Defense. They must ask the opinion of the Order before they do so, but are not obligated to follow the opinion given. See Kingdom Law 9.03.
 

@@ -1,3 +1,7 @@
+---
+title: Order of Chivalry
+---
+
 ## Drachenwald Order of the Chivalry
 
 Resident Chivalry, in order of elevation
@@ -7,7 +11,7 @@ Insulae Draconis
 
 Elevated: 1989  
  
-##Wiglaf Wildfriding
+## Wiglaf Wildfriding
 Frankmark
 
 Elevated: 1989 

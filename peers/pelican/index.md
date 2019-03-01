@@ -1,3 +1,7 @@
+---
+title: Order of the Pelican
+---
+
 ## Drachenwald Order of the Pelican 
 Assembled by Etienne, edited by Genevieve. Send comments to the order secretary.
 ## The nature of the order
@@ -127,6 +131,6 @@ The order has a secretary who:
 The secretary is selected by majority vote of the order if more than one candidate presents for the post. There is no set term of office.
 
 ## Pelicans outside of Drachenwald
-For another view of the order, see the Pelican webpage for the kingdom of Lochac:<a href="http://lochac.sca.org/pelicans/index.htm">http://lochac.sca.org/pelicans/index.htm</a>
+For another view of the order, see the Pelican webpage for the [Kingdom of Lochac](http://lochac.sca.org/pelicans/index.htm)
     
     
