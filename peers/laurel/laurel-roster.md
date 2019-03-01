@@ -1,3 +1,8 @@
+---
+title: Order of the Laurel
+excerpt: Roster of members
+---
+
 ## Alphabetical Roster
 
 ## Mistress Anna Laresdotter

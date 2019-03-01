@@ -1,3 +1,8 @@
+---
+title: Order of the Laurel
+excerpt: Laure Sponsored Prize Displays
+---
+
 ## Laurel sponsored Prize Displays
 
 The Laurel sponsored Prize Displays is a project that comes to Drachenwald inspired by The Garden of Earthly Delights and the Laurels Prize in Lochac.
