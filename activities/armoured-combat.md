@@ -4,7 +4,7 @@ excerpt: For those with the heart of a knight
 ---
 Probably some of the most iconic images of the Society for Creative Anachronism have involved armoured combatants in full face helmets and armour, their personal heraldry painted large on their shields. Armoured combat (also commonly refered to as heavy fighting) is thrilling to watch, either in  tournaments between individuals or roving teams of fighters  in  melees.
 
-Armoured combat requires armour, but instead of steel weapons the weapons are usually made from rattan. Combat itself uses  a scoring system based on honor and chivalry; the fighters declare a blow they receive &quot;good&quot; themselves,  based on the angle, location, and force of the strike. Bouts are overseen by Heavy marshals, and all fighters must attend to their instructions at all times. It is the duty of the marshals to ensire all armour and weaponry is safe to use and  meets society standards.
+Armoured combat requires armour, but instead of steel weapons the weapons are usually made from rattan. Combat itself uses  a scoring system based on honor and chivalry; the fighters declare a blow they receive &quot;good&quot; themselves,  based on the angle, location, and force of the strike. Bouts are overseen by armoured combat marshals, and all fighters must attend to their instructions at all times. It is the duty of the marshals to ensire all armour and weaponry is safe to use and  meets society standards.
 
 Women can, and absolutely do, engage in armoured combat. Armoured combat is not suitable for children under  16. 
 
