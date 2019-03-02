@@ -218,6 +218,9 @@ Check: which directory are you in? You can only run Jekyll from the 'top' of the
 
 ## Jekyll doesn't build and throws an error, with a filename, a line and column location of the error
 
+~~~~
+YAML Exception reading C:/Users/eabrown/git/sca-drachenwald.gitlab.io/offices/herald/zenofgoodcourtguidance.md: (<unknown>): mapping values are not allowed in this context at line 2 column 29
+~~~~~~~
 Jekyll is picky about the syntax that tells it what is text, and what is an instruction. 
 
 It especially needs clear 'front matter' - the first few lines of every file, marked off with 3 hyphens above and below, where you specify the file name, the file title, the file path, which page template to use when building the html. 

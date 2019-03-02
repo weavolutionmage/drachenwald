@@ -13,7 +13,7 @@ Grants of Arms in accordance with the laws and customs of the kingdom.
 
 They also select candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense.
 
-A distinctive feature of Drachenwald's kingdom awards is that their symbols and badges are all things you can wear. From its early days, the award and order regalia have been jewellery and accessories. The Panache is a badge for holding feathers in your hat; the Lindquist Ringe is a ring; the Silver Guard is a wristband. 
+The symbols and badges of Drachenwald's kingdom awards are all things that you can wear. From its early days, the award and order regalia have been jewellery and accessories. The Panache is a badge for holding feathers in your hat; the Lindquist Ringe is a ring; the Silver Guard is a wristband. 
 
 Drachenwalders have interpreted these regalia broadly and lovingly, so you may see many variations of these badges in wearer's accessories, for every era of history, and to suit every persona. 
 
@@ -75,7 +75,7 @@ The badge of this company of the order is (fieldless) a wing terminating in a ha
 
 # Non-armigerous awards
 
-The Crown can bestow awards that carry no precedence, but are cherished for they bear great honour and dignity, and are cherished as such.
+The Crown can bestow awards that carry no precedence, but bear great honour and dignity, and are cherished as such.
 
 ## The King's Order of the Companions of Albion, also The Royal Order of the Companions of Albion
 
