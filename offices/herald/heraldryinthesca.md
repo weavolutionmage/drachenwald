@@ -1,7 +1,6 @@
 ---
 layout:
 sidebar: 
-permalink:.../heraldry-in-the-sca.html
 title: Heraldry in the SCA
 exerpt: Help make the magic of the Current Middle Ages
 ---
