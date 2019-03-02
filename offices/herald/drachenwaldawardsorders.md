@@ -1,11 +1,9 @@
 ---
 title: Drachenwald Awards and Orders
 toc: true
-exerpt: How the Crown of Drachenwald honours its citizens
+toc_label: Contents
+excerpt: How the Crown of Drachenwald honours its citizens
 ---
-
-# Drachenwald Awards and Orders
-
 It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things. All this work for the kingdom makes our game richer and more fulfilling. 
 
 Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/docs/pdf/govdocs.pdf). From Corpora, IV, G:

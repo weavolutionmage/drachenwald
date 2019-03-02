@@ -1,6 +1,6 @@
 ---
 title: Heraldry in the SCA
-exerpt: Help make the magic of the Current Middle Ages
+excerpt: Help make the magic of the Current Middle Ages
 ---
 The term 'heraldry' draws up a whole series of associations, particularly with the Middle Ages.
 Most people will think vaguely of knights in heraldic surcoats; banners hung in churches and ancestral homes; family lineages represented with coats of arms; perhaps even messengers and diplomats travelling between noble families and kingdoms.
@@ -31,3 +31,4 @@ Those who enjoy visual arts learn the artistic conventions of heraldry that dist
 Any member can become a herald - no experience is necessary to start! Your interest and enthusiasm are your qualifications to begin If you are interested in heraldry in the SCA, contact the regional or kingdom herald.
   
 Text originally written for Insulae Draconis, by Dame Genevieve la flechiere
+{: .notice}

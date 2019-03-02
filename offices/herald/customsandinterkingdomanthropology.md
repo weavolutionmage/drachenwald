@@ -1,6 +1,7 @@
 ---
 title: "Drachenwald customs: some inter-kingdom anthropology"
 toc: true
+toc_label: Contents
 excerpt: Enjoying Drachenwald, if you've come from another kingdom
 ---
 
@@ -47,7 +48,7 @@ Its members typically wore a braid of the three kingdom colours on their left sl
 
 ## Awards and Orders of Precedence
 
-See [Drachenwald Awards and Orders] ({{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %})
+See [Drachenwald Awards and Orders]({{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %})
 
 See [Before the Internet...there were heralds]({{ site.baseurl }}{% link offices/herald/heraldsbeforetheinternet.md %}), for a link to our OP.
 
@@ -74,7 +75,7 @@ If you've moved to Drachenwald and want to keep doing heraldry: contact the Schw
 
 You request a warrant by providing your Society and legal names and your contact information. Both branch heralds and heralds-at-large report quarterly to remain warranted.
 
-Join the [Drachenwald heralds FB group](https://www.facebook.com/groups/drachenwald.heralds/) for announcements and discussion. We also use a [Drachenwald Slack channel](drachenwald.slack.com) for everyday chat. 
+Join the [Drachenwald heralds FB group](https://www.facebook.com/groups/drachenwald.heralds/) for announcements and discussion. We also use a [Drachenwald Slack channel](https://drachenwald.slack.com) for everyday chat. 
 
 The Drachenwald college doesn't conduct tests for pursuivants. Your enthusiasm, interest and expertise at whatever level are qualification enough. Don't worry - there's lots of heraldry to go round.
 

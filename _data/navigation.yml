@@ -90,6 +90,8 @@ side-offices:
       url: /offices/moas/
     - title: Chronicler
       url: /offices/chronicler/
+    - title: Herald
+      url: /offices/herald/
 
 - title: Where we are
   url: /groups/

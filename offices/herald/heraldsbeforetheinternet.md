@@ -1,10 +1,12 @@
 ---
 toc: true
+toc_label: Contents
 title: Before the Internet, before Google...there were heralds
-exerpt: Keeping records, and documenting noble armory
+excerpt: Keeping records, and documenting noble armory
 ---
 
-__Too long; didn't read: Heralds keep track of the awards given by royalty in an [Order of Precedence](http://op.drachenwald.sca.org/), and help make the game better for everyone.__ 
+__Too long; didn't read:__  Heralds keep track of the awards given by royalty in an [Order of Precedence](http://op.drachenwald.sca.org/), and help make the game better for everyone.
+{: .notice--primary}
 
 Heralds of the middle ages were the multipurpose communication, messaging and record-keeping 'systems' of choice for the nobility.
 
@@ -49,4 +51,5 @@ If you find any mistakes (for instance, you saw an award given in court, but you
 
 If record-keeping, researching names and painting armory, learning to blazon or organising court appeal to you, you too could have an inner herald waiting for their chance to shine. You just need to get in touch to find out how to take part. Contact your local herald or [join the Drachenwald heralds FB group](https://www.facebook.com/groups/drachenwald.heralds/)
 
-Reference: Dennys, R. The heraldic imagination. Clarkson N. Potter, Inc, 1975.
+__Reference:__ Dennys, R. The heraldic imagination. Clarkson N. Potter, Inc, 1975.
+{: .notice}

@@ -5,8 +5,8 @@ excerpt: Playing games with heralds, at modest rates
 ---
 
 # Registering names and heraldic insignia
-  > Registering a device is a worthwhile effort. It involves communication, historical research and creativity, meaning you touch on all three aspects of the Society for Creative Anachronism. It allows you to make something and call it your own. It exposes you to a complicated process with a thousand years of history behind it. These are all Good Things.
-  (Karl Faustus von Aachen, Kingdom of Lochac)
+  > "Registering a device is a worthwhile effort. It involves communication, historical research and creativity, meaning you touch on all three aspects of the Society for Creative Anachronism. It allows you to make something and call it your own. It exposes you to a complicated process with a thousand years of history behind it. These are all Good Things."  
+  -- (Karl Faustus von Aachen, Kingdom of Lochac)
 
 In the Society, you can freely choose a name, which your friends will call you. A different name can make the game richer, as you build up a persona, imagining yourself in a different age.
 
@@ -20,7 +20,8 @@ These rules are available online, as are all the tools you need to register your
 
 With several decades of legacy practice, however, sometimes folks new to the process need help navigating the forms. So this page, plus your local friendly herald, are here to help.
 
-__Modern privacy note__: By sending a filled submission form to the kingdom Submissions Herald, you give the SCA College of Heralds, based in the USA, permission to process and maintain all information on the form in relation to everything required for registering your submission. The records may be maintained indefinitely. For more information, please see Your information and privacy.
+__Modern privacy note__: By sending a filled submission form to the kingdom Submissions Herald, you give the SCA College of Heralds, based in the USA, permission to process and maintain all information on the form in relation to everything required for registering your submission. The records may be maintained indefinitely. For more information, please see [Your information and privacy](#your-information-and-privacy).
+{: .notice--warning}
 
 All successfully registered items from all SCA kingdoms are listed in the SCA Armorial.
 
@@ -109,16 +110,17 @@ By sending a filled submission form to the kingdom Submissions Herald, you give 
 
 ### What happens to your submission form?
 
-* You give forms to Edelweiss herald
-* Edelweiss uploads your forms and (minimal personal) data for discussion to the SCA Laurel Sovereign of Arms Online System for Commentary and Response (OSCAR), the international client used by heralds for the online parts of processing the submission.
+You give forms to Edelweiss herald.
+
+Edelweiss uploads your forms and (minimal personal) data for discussion to the SCA Laurel Sovereign of Arms Online System for Commentary and Response (OSCAR), the international client used by heralds for the online parts of processing the submission.
 
 1. Only the following parts of each submission are public:
 
-* Society Name: you need a name to hold your submissions together
-* Name Being Submitted if other than Society Name (we can talk about alternate personas another time)
-* The picture of the heraldic insignia, both line drawing and colour versions, because it is the submitted item.
-* The blazon (the 'heraldese') of the heraldic insignia, which is the textual explanation of the submitted heraldic insignia.
-* The support and any required documents (any personal information is redacted) since they are needed for evaluating the registrability of the submitted item.
+    * Society Name: you need a name to hold your submissions together
+    * Name Being Submitted if other than Society Name (we can talk about alternate personas another time)
+    * The picture of the heraldic insignia, both line drawing and colour versions, because it is the submitted item.
+    * The blazon (the 'heraldese') of the heraldic insignia, which is the textual explanation of the submitted heraldic insignia.
+    * The support and any required documents (any personal information is redacted) since they are needed for evaluating the registrability of the submitted item.
 
 2. The commentary section related to specific submitted item is visible to all those who have commenting rights to that item. Comments do no contain contact information of the submitter or other sensitive information.
 
@@ -126,11 +128,11 @@ By sending a filled submission form to the kingdom Submissions Herald, you give 
 
 ### Who can see your submission form?
 
-* In Drachenwald, the kingdom Submissions Heralds (Edelweiss Herald and Albion Herald and their deputies) and Schwarzdrachen Principal Herald. They use the submitter's personal information only for contacting the submitter regarding the submission. Beyond uploading the submissions in OSCAR, they never give out any personal information of submitters.
+In Drachenwald, the kingdom Submissions Heralds (Edelweiss Herald and Albion Herald and their deputies) and Schwarzdrachen Principal Herald. They use the submitter's personal information only for contacting the submitter regarding the submission. Beyond uploading the submissions in OSCAR, they never give out any personal information of submitters.
 
-* In the SCA, Laurel Sovereign of Arms and their deputies whose duties are directly related to handling submission forms. They use the submitter's personal information for verifying submissions during submission process, and ensuring that registered names and heraldic insignia are correctly maintained. They never give out any personal information of submitters.
+In the SCA, Laurel Sovereign of Arms and their deputies whose duties are directly related to handling submission forms. They use the submitter's personal information for verifying submissions during submission process, and ensuring that registered names and heraldic insignia are correctly maintained. They never give out any personal information of submitters.
 
-* In the SCA, an Archivist retains one copy of successful submissions.
+In the SCA, an Archivist retains one copy of successful submissions.
 
 ## What happens to your data after the submission process?
 
@@ -151,6 +153,7 @@ A copy of the submission forms stay in the kingdom submissions archive, accessib
 One copy of your submission forms are kept in the Society submissions archive. You can request a picture of registered heraldic insignia (but no other data) based on its O&A information, if required.
 
 ## What data do we ask from you and why?
+
 We ask for enough data so we can process your submission, and provide you with the happy news of a registration.  We do not give your contact information to any third parties.
 
 ### Mandatory personal information 
@@ -159,11 +162,13 @@ Mandatory means, in this context: without this information on a submission form,
 
 __Your Society name__
 * The College of Arms maintains all your submissions under your Primary Society name ("SCA Name").
+
 __Your Legal Name__
 * To identify your submission fee paid to kingdom account as related to your submission. Unfortunately international money transfers do not usually carry messages over, so we need whatever name you use in the modern world for banking.
 * Together with your Address and possibly your Date of Birth, these identify you during the submission process, so all submissions are correctly attributed to individuals.
 * To be able to contact you via mail. This is only done regarding the particular submission the form contains and in Drachenwald it is only done if all other contact methods fail. (Other kingdoms may have different policies on this matter.)
 * If College of Arms needs to create a Holding Name for you, a usual pattern for it is '[Your legal first name] of [Your SCA Branch]'. Please note that you may refuse the creation of a holding name on the Name Submission Form.
+
 __Your Address__
 * Together with your Legal Name and possibly your Date of Birth, to identify you during the submission process, so all submissions are correctly attributed to individuals.
 * To be able to contact you via mail to notify you regarding the particular submission on the form. In Drachenwald contacting via mail is only done if e-mail contacting fails. (Some other kingdoms have different policies on this matter.)
@@ -171,6 +176,7 @@ __ Your Branch Name__ if you live in the area of an SCA Branch smaller than king
 If College of Arms needs to create a Holding Name for you, a usual pattern for it is '[Your legal first name] of [Your SCA Branch]'.
 
 Please note that you may refuse the creation of a holding name on the Name Submission Form.
+
 ### Recommended personal information and what it is used for
 
 Recommended means, for us, that it is very useful during the submission process, but not mandatory.
@@ -180,7 +186,11 @@ __Your E-mail Address__ is very important to us, to be able to contact you via e
 __Date of Birth__ is not mandatory to give, and in fact does not need to be your legal date of birth. What matters is that everything you ever submit has the same "Date of Birth" value. It is used together with your Legal Name and Address to identify you during the submission process, so all submissions are correctly attributed to individuals.
 
 ### Other personal information: nice but not necessary
+
 __Gender of Submitter__ is not required. We expect that the next version of the Name Submission Forms will not request for this information. We don't use this info.
+
 __Your Phone Number__ to be able to contact you via phone to notify you regarding the particular submission on the form. In Drachenwald contacting via phone is only done if e-mail contacting fails. (Some other kingdoms have different policies on this matter.) 
+
 __Consulting Herald (Socety Name)__ if applicable. Drachenwald does not require a submission to have or be submitted by a warranted consulting herald (some kingdoms do), but it's often helpful. If a particular herald has helped you with your submission, it is a good idea to mention them on the form - particularly if they have copies of your submission, armory pictures and/or the documentation. If there are problems with your submission, the consulting herald may be able to help in resolving them.
+
 __Herald's E-mail (preferred) / Phone__ to help fix any problems.
