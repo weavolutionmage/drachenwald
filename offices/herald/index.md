@@ -1,6 +1,6 @@
 ---
 title: Kingdom Herald
-exerpt: Heralds help make the magic of the medieval come alive
+excerpt: Heralds help make the magic of the medieval come alive
 ---
 
 Heralds bring magic to the society: we often turn things from a modern experience into an authentic medieval one. We do this in several ways.
@@ -10,3 +10,5 @@ Heralds bring magic to the society: we often turn things from a modern experienc
 * [Before the Internet...there were heralds]({{ site.baseurl }}{% link offices/herald/heraldsbeforetheinternet.md %})
 * [Registering names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/registeringnamesheraldry.md %})
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %})
+
+{% include officer-contacts.html %}
