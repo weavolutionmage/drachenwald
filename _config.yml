@@ -167,9 +167,9 @@ defaults:
       officer: "fencing-marshal"
   -
     scope:
-      path: "offices/heavy-marshal"
+      path: "offices/armoured-combat-marshal"
     values:
-      officer: "heavy-marshal"
+      officer: "armoured-combat-marshal"
   -
     scope:
       path: "offices/moas"
@@ -185,6 +185,11 @@ defaults:
       path: "offices/unichancellor"
     values:
       officer: "unichancellor"
+  -
+    scope:
+      path: "offices/herald"
+    values:
+      officer: "herald"
   -
     scope:
       path: ""
