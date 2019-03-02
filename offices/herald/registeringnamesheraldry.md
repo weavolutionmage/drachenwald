@@ -52,21 +52,21 @@ albion@drachenwald.sca.org
 The External Submissions Herald sends Letters of Intent (ie 'Unless you say otherwise we intend to register these names and armory') to the SCA College of Arms for the second, Society-wide review. This person will notify you about the outcome of the submission process.
 
 ## Submission fees
-The fee is is £4 / 5€ / 50 SEK for each submission item.
-For example, for a name and device the total fee is £8 / 10€ / 100 SEK
+The fee is is £4 / 5€ / 50 SEK for each submission item.  
+For example, for a name and device the total fee is £8 / 10€ / 100 SEK  
 Residents of Nordmark pay their fees via Nordmark account. Contact the Nordmark Exchequer at exchequer@nordmark.org for bank account details.
 
 The rest of Drachenwald pays directly to Drachenwald Exchequer, who looks after the College of Heralds account.
 
 After paying, please send an e-mail to Edelweiss Herald and Kingdom Exchequer (edelweiss@drachenwald.sca.org, exchequer@drachenwald.sca.org) briefly stating what you paid for. For example: "I just paid for name and device submissions for [SCA name], the payer should show as [payer's legal name]." This will help us very much in connecting payments with received submissions!
 
-__Details for UK payments__
+__Details for UK payments__  
 Kingdom of Drachenwald  
 HSBC  
 Account Number: 91484060  
 Sort Code: 40-47-34  
 
-__Details for paying outside UK__
+__Details for paying outside UK__  
 IBAN: GB49MIDL40473491484060  
 BIC / SWIFT Code: MIDLGB2165G  
 Account Name: SCA - Kingdom of Drachenwald  
@@ -131,7 +131,7 @@ Edelweiss uploads your forms and (minimal personal) data for discussion to the S
 
 3. The submission forms are handled only by heralds involved in your submission.
 
-### Submission form access
+## Submission form access
 
 In Drachenwald, the kingdom Submissions Heralds (Edelweiss Herald and Albion Herald and their deputies) and Schwarzdrachen Principal Herald. They use the submitter's personal information only for contacting the submitter regarding the submission. Beyond uploading the submissions in OSCAR, they never give out any personal information of submitters.
 
@@ -192,7 +192,7 @@ __Your E-mail Address__ is our main and preferred means to notify you about the 
 
 __Date of Birth__ is not mandatory to give, and in fact does not need to be your legal date of birth. What matters is that everything you ever submit has the same "Date of Birth" value. It is used together with your Legal Name and Address to identify you during the submission process, so all submissions are correctly attributed to individuals.
 
-### Other personal information: nice but not necessary
+## Other personal information: nice but not necessary
 
 __Gender of Submitter__ is not required. We expect that the next version of the Name Submission Forms will not request for this information. We don't use this info.
 
