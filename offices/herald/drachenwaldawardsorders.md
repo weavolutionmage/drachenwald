@@ -75,7 +75,7 @@ The badge of this company of the order is (fieldless) a wing terminating in a ha
 
 # Non-armigerous awards
 
-The Crown can bestow awards that carry no precedence, but are cherished for they bear great honour and dignity, and are cherished as such.
+The Crown can bestow awards that carry no precedence, but bear great honour and dignity, and are cherished as such.
 
 ## The King's Order of the Companions of Albion, also The Royal Order of the Companions of Albion
 
