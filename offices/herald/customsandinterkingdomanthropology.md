@@ -13,7 +13,7 @@ Welcome to Drachenwald! We're glad you're here.
 This article covers some of the aspects of protocol and traditions of Drachenwald. It is especially intended for Society folk coming from other kingdoms.
 
 ## Kingdom cheer
-The kingdom cheer is "Vivat!" 3 tiems, for a single person, or "Vivant!" 3 times for a few people.
+The kingdom cheer is "Vivat!" 3 times, for a single person, or "Vivant!" 3 times for a few people.
 Other cheers are available in some regions. 
 
 ## Toasts
@@ -71,7 +71,9 @@ First, contact your home kingdom and try to find out why your submission was ret
 
 You're already a herald? Fantastic, welcome!
 
-If you've moved to Drachenwald and want to keep doing heraldry: contact the Schwarzdrachen Herald (e-mail address is on the heraldry section of the kingdom website) to introduce yourself and [get an OSCAR login](http://oscar.sca.org/), or square away a change to your commenting-kingdom details.
+If you've moved to Drachenwald and want to keep doing heraldry: contact the Schwarzdrachen Herald (e-mail address is on the heraldry section of the kingdom website) to introduce yourself and [get an OSCAR login](http://oscar.sca.org/), or square away a change to your commenting-kingdom details. 
+
+Contact Edelweiss herald (internal submissions) to request internal letters. 
 
 You request a warrant by providing your Society and legal names and your contact information. Both branch heralds and heralds-at-large report quarterly to remain warranted.
 
@@ -79,4 +81,3 @@ Join the [Drachenwald heralds FB group](https://www.facebook.com/groups/drachenw
 
 The Drachenwald college doesn't conduct tests for pursuivants. Your enthusiasm, interest and expertise at whatever level are qualification enough. Don't worry - there's lots of heraldry to go round.
 
-Contact the Edelweiss Herald to get on the internal letter distribution list and get an OSCAR login. 
