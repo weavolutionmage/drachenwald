@@ -9,7 +9,7 @@ excerpt: Playing games with heralds, at modest rates
 
 In the Society, you can freely choose a name, which your friends will call you. A different name can make the game richer, as you build up a persona, imagining yourself in a different age.
 
-Registering a name, and possibly heraldry to accompany it, can round out your sense that this is The Medieval You. 
+Registering a name, and possibly heraldry to accompany it, can round out your sense that this name is part of The Medieval You. 
 
 Since early in Society years, the Society-wide College of Arms has registered names and armory that is broadly compatible with names and armory from before 1600, following rules they developed in the process. In this context, 'registering' means 'the heralds will record your name and armory design in a really big book just like in medieval times, and ensure noone registers exactly the same thing again'. 
 
