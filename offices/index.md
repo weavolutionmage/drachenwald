@@ -11,3 +11,4 @@ These pages are here so far:
 * [Minister of Arts and Sciences]({{ site.baseurl }}{% link offices/moas/index.md %})
 * [Seneschal]({{ site.baseurl }}{% link offices/seneschal/index.md %})
 * [University Chancellor]({{ site.baseurl }}{% link offices/unichancellor/index.md %})
+* [Herald]({{ site.baseurl }}{% link offices/herald/index.md %})

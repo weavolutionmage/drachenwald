@@ -128,6 +128,8 @@ Now visit https://127.0.0.1:4000/j/ in your browser and you should see the front
 Make changes and submit them back
 =================================
 
+__NOTE: All your filenames must use lower case only.__ Mixed case filenames introduce errors in systems that are case sensitive. Avoid entirely by using only lower case.
+
 To get the latest changes from GitLab:
 
 ```
@@ -207,7 +209,9 @@ Alternately you can update all the gems. This option takes a little longer, and 
 
 ## Jekyll doesn't build and throws a peculiar error
 
-You saved your content, added it, committed it, and pushed it. You run 'bundle exec jekyll serve' but it gives you an  error. The error is about a different file from the one you were working on.
+You saved your content, added it, committed it, and pushed it. You run 'bundle exec jekyll serve' but it gives you an  error. Here's an example:
+
+`Liquid Exception: Could not find document 'offices/herald/drachenwaldawardsorders.md' in tag 'link'. Make sure the document exists and the path is correct. in heraldsbeforetheinternet.md`
 
 Check: which directory are you in? You can only run Jekyll from the 'top' of the directory for your site, so for the Drachenwald website it's 
 ` $ `[your_directories_path`]/git/sca-drachenwald.gitlab.io`>

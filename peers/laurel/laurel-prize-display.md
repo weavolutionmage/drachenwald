@@ -38,28 +38,30 @@ If you bring documentation, make it short enough that the main points can be gla
 
 ## Archive of Displays
 
+### 2014, AS 49
 * The first opportunity to participate was at Double Wars XXVII (May 2014). On Wednesday we had twelve people participating and putting up things as diverse as a meal cooked over an open fire, weaving, sewing, brewing, shoemaking and more.
-Photos by Mistress Lia de Thornegge (on flickr)
-Photos by Meisterinne Katheryn Hebenstreitz (on Facebook)
+ Photos by [Mistress Lia de Thornegge on Flickr](https://www.flickr.com/photos/liabucket/collections/72157645978982225/) 
+Photos by [Meisterinne Katheryn Hebenstreitz on Facebook](https://www.facebook.com/annika.madejska/media_set?set=a.10152198031394296.1073741840.645649295&type=3)
 
-* The second opportunity to participate was at Cugel War in Aarnimetsä (July 2014). During the display on Tuesday the 15th, there were eleven artisans displaying crafts ranging from leatherwork, tablet weaving, enamelling, embroidery and more.
- * Photos by Mistress Lia de Thornegge (on flickr)
+* Cugel War in Aarnimetsä, July 2014. During the display on Tuesday the 15th, there were eleven artisans displaying crafts ranging from leatherwork, tablet weaving, enamelling, embroidery and more.
+ * Photos by [Mistress Lia de Thornegge on Flickr](https://www.flickr.com/photos/liabucket/collections/72157645978982225/)
 
-* The third Laurel sponsored Prize Display was at Double Wars XXVIII (May 2015). On Wednesday we had seven displays, all of very high quality arts - among other things an attempt to smelt iron out of limonite in a kiln built on site.
+ ### 2015, AS 50
+* Double Wars XXVIII, May 2015. On Wednesday we had seven displays, all of very high quality arts - among other things an attempt to smelt iron out of limonite in a kiln built on site.
 
-* The fourth Prize Display was held at Cudgel War (July 2015). Thursday afternoon nine gentles displayed diverse items such as shoes, furniture and stoneware pottery.
+* Cudgel War, July 2015. Thursday afternoon nine gentles displayed diverse items such as shoes, furniture and stoneware pottery.
 
-* The fifth LPD was held at Double Wars XXIX (May 2016). This year combined with a Fika arranged by Mistress Signe, the display was well visited by those with a bit of a sweet toth and a hankering to view beautiful things.
+### 2016, AS 51 
+* Double Wars XXIX, May 2016. This year combined with a Fika arranged by Mistress Signe, the display was well visited by those with a bit of a sweet tooth and a hankering to view beautiful things.
 
-* At Cudgel War in July 2016 the sixth display drew artisans from Aarnimetsä, Nordmark and Insulae Draconis! 
+* Cudgel War, July 2016 drew artisans from Aarnimetsä, Nordmark and Insulae Draconis! 
 
-* The fourth year of Laurel sponsored Prize Displays kicked off with:
-* Double Wars XXX (May 2017), where once again we combined Fika and the display. Despite being scheduled opposite three tournaments the display was well visited, and saw participants who found our society only last year.
-* Cudgel War (July 2017), and the display was as usual well visited and gave the opportunity to taste food items made on site and the youngest participant at 13 years of age who had done research on medieval pirates!
- * Raglan Fair (August 2017) where eleven brave artisans showed up and shared their works and thoughts to much acclaim.
+### 2017, AS 52
+* Double Wars XXX, May 2017, where once again we combined Fika and the display. Despite being scheduled opposite three tournaments the display was well visited, and saw participants who found our society only last year.
+* Cudgel War, July 2017, and the display was as usual well visited and gave the opportunity to taste food items made on site and the youngest participant at 13 years of age who had done research on medieval pirates!
+ * Raglan Fair August 2017 where eleven brave artisans showed up and shared their works and thoughts to much acclaim.
 
-* The fifth year of displays started in May 2018
-
-*  During Wednesday afternoon of Double Wars XXXI, May 9, a record seventeen gentles showed up and displayed their arts. From illuminations, to tanning, to armouring, silk painting and one performance in rapier fighting, in addition to a lot of textile arts, including knitting.
-* At Cudgel War in Aarnimetsä the artisans gathered outdoors in July AS 53, and displayed their skills and talked to many interested visitors. Notable this year was posaments, glass beads, leatherworkers and scribal artistry.
- * For the second time Raglan Fair in Insulae Draconis saw a Display at Raglan Fair, AS 53. Both tower rooms were filled with artisans who shared their art and had many a grand conversations.
+### 2018, AS 53
+*  Wednesday afternoon of Double Wars XXXI, May 9, a record seventeen gentles showed up and displayed their arts. From illuminations, to tanning, to armouring, silk painting and one performance in rapier fighting, in addition to a lot of textile arts, including knitting.
+* Cudgel War in Aarnimetsä the artisans gathered outdoors in July AS 53, and displayed their skills and talked to many interested visitors. Notable this year was posaments, glass beads, leatherworkers and scribal artistry.
+* For the second time Raglan Fair in Insulae Draconis saw a Display at Raglan Fair, AS 53. Both tower rooms were filled with artisans who shared their art and had many a grand conversations.
