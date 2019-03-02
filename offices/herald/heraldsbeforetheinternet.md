@@ -1,6 +1,7 @@
 ---
 layout: 
 sidebar:
+toc: true
 title: Before the Internet, before Google...there were heralds
 subtitle: Keeping records, and documenting noble armory
 ---
@@ -17,10 +18,14 @@ In the Current Middle Ages, what we call our time in the SCA, heralds continue t
 
 Happily, we now share that work with computers and the Internet: it's no longer an exclusive preserve of a handful of noblemen, but available to everyone. You too can release your inner herald!
 
+## Awards and honours
+
 In our courts, our royals give out awards, to thank its volunteers for their good work, and to recognise
 individuals' learning, improvement and excellence in the arts of war and of peace. Broadly modelled on medieval orders and honours, some awards are described in the Society's laws, but each kingdom also develops its own honours, with names and badges that mean something special to the people who live there.
 
 The Drachenwald site [lists those awards the king and queen can give out]{{ baseurl }}{% link offices/herald/drachenwaldawardsorders.md %}. After someone receives an award in court, it's the heralds' job to record the name of the recipient and the award details.
+
+## Order of Precedence
 
 This information goes into the Order of Precedence (OP, or 'oh-pee'). Each kingdom keeps its own records, and [ours is kept in a searchable online database](http://op.drachenwald.sca.org/). Using the OP, you can look up:
 - all the awards a person has received, using their Society name or their legal name
@@ -36,6 +41,8 @@ The most frequent use of the order of precedence database is to check who has wh
 
 Before you write a recommendation to their Highnesses or to their Majesties, start by checking the OP, to see if the person you're recommending already has the award. If it's not listed, then you can
 start your message to the coronet or crown.
+
+## Fixing errors
 
 Of course, like medieval heralds, heralds and their records aren't perfect. Sometimes the court herald doesn't turn in the report right away; sometimes a planned award is delayed, or the recipient
 doesn't attend the event as expected. 

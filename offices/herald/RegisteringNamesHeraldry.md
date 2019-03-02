@@ -1,5 +1,6 @@
 ---
 title: Registering names and heraldry in Drachenwald
+toc: true
 excerpt: Playing games with heralds, at modest rates
 ---
 

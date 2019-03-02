@@ -1,5 +1,6 @@
 ---
 title: Drachenwald Awards and Orders
+toc: true
 exerpt: How the Crown of Drachenwald honours its citizens
 ---
 
