@@ -5,7 +5,7 @@ exerpt: How the Crown of Drachenwald honours its citizens
 
 # Drachenwald Awards and Orders
 
-It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things so that our game together is richer and more fulfilling. 
+It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things. All this work for the kingdom makes our game richer and more fulfilling. 
 
 Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/docs/pdf/govdocs.pdf). From Corpora, IV, G:
 
@@ -14,13 +14,19 @@ Grants of Arms in accordance with the laws and customs of the kingdom.
 
 They also select candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense.
 
-A unique feature of Drachenwald's kingdom awards is that they are all things you can wear. From its first days, the award and order regalia have been jewellery and accessories. The Panache is a badge for holding feathers in your hat; the Lindquist Ringe is a ring; the Silver Guard is a wristband. 
+A distinctive feature of Drachenwald's kingdom awards is that their symbols and badges are all things you can wear. From its first days, the award and order regalia have been jewellery and accessories. The Panache is a badge for holding feathers in your hat; the Lindquist Ringe is a ring; the Silver Guard is a wristband. 
 
-Drachenwalders have interpreted these regalia broadly and lovingly, so you may see many variations of these designs in wearer's accessories for every era of study and for every persona. 
+Drachenwalders have interpreted these regalia broadly and lovingly, so you may see many variations of these badges in wearer's accessories, for every era of history, and to suit every persona. 
+
+Following the historic practice of medieval heralds keeping lists of who showed up to what battle and what they wore, like a sort of medieval gossip columnist/paparazzo, we now keep an online database of who has received what, and when. 
+
+The [Order of Precedence (OP)](http://op.drachenwald.sca.org/) records all awards given in Drachenwald, from its earliest days.
+
+The awards described are unique to Drachenwald, established from principality days onward.
 
 # Armigerous awards
 
-Drachenwald has three awards that confer an Award of Arms upon the recipient, if they do not already hold one (as heralds say, 'are armigerous'). 
+Drachenwald has three awards that confer an Award of Arms upon the recipient, if the receiver does not already hold one (as heralds say, 'are armigerous'). 
 
 ## Orden Des Lindquistringes
 
@@ -70,7 +76,7 @@ The badge of this company of the order is (fieldless) a wing terminating in a ha
 
 # Non-armigerous awards
 
-The Crown can bestow honours that carry no precedence, but carry great honour and dignity.
+The Crown can bestow awards that carry no precedence, but are cherished for they bear great honour and dignity, and are cherished as such.
 
 ## The King's Order of the Companions of Albion, also The Royal Order of the Companions of Albion
 
@@ -121,7 +127,7 @@ The Sigillum are awarded for personal service to the Crown(s) that far exceeds a
 
 ## Order of the Edelweiss (formerly Marguerite)
 
-In principality years, Consorts of the Principality of Drachenwald joined the order at the end of their (first) reign. Companions of this Order are styled "Lord/Lady of the Edelweiss" as appropriate. Stefan Wasniewski Ste'Kolm is the only Lord of the Edelweiss. It carried an Award of Arms, if the recipient did not already hold one.
+When Drachenewald was a principality of the East Kingdom, Consorts of the Principality of Drachenwald joined the order at the end of their (first) reign. Companions of this Order are styled "Lord/Lady of the Edelweiss" as appropriate. Stefan Wasniewski Ste'Kolm is the only Lord of the Edelweiss. It carried an Award of Arms, if the recipient did not already hold one.
 
 The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
 
