@@ -5,10 +5,14 @@ exerpt: How the Crown of Drachenwald honours its citizens
 
 # Drachenwald Awards and Orders
 
-As is practice across the Society, the Crown may confer an Award of Arms, and/or a Court Barony and/or a
-Grant of Arms at their discretion to those citizens of the Kingdom deemed worthy.
+It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things so that our game together is richer and more fulfilling. 
 
-They also invite candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense.
+Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/docs/pdf/govdocs.pdf). From Corpora, IV, G:
+
+> The Crown may present Awards of Arms, the titles of Court Baron and Court Baroness, and
+Grants of Arms in accordance with the laws and customs of the kingdom.
+
+They also select candidates to join the Society-wide bestowed peerages, which each confer a Patent of Arms: Order of Chivalry, Order of the Laurel, Order of the Pelican, and Mastery of Defense.
 
 A unique feature of Drachenwald's kingdom awards is that they are all things you can wear. From its first days, the award and order regalia have been jewellery and accessories. The Panache is a badge for holding feathers in your hat; the Lindquist Ringe is a ring; the Silver Guard is a wristband. 
 
@@ -43,18 +47,24 @@ When the Crown appoints someone to the Ring, the new companion's arms are confir
 The Ring comprises three orders or companies: Ordo hirundinis, Ordo cygni, and Ordo alae.
 
 ## Ordo Hirundinis
-Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a swallow was a good omen for work (and business and marriage). In classical literature and art the Swallow's song was paired in chorus with that of the nightingale, each as beautiful as the other. Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
+Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a swallow was a good omen for work (and business and marriage). In classical literature and art the Swallow's song was paired in chorus with that of the nightingale, each as beautiful as the other. 
+
+Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
 
 The badge of this company of the order is (fieldless) a martlet volant Or.
 
 ## Ordo Cygni
-The Roman poet Juvenal wrote, 'rara avis in terris nigroque simillima cygno': a rare bird indeed, in the world, is the black Swan. The rare companions in Ordo cygni (the Company of the Swan) have distinguished themselves by superior achievement in scholarship, the arts and the advancement of beauty and knowledge in Drachenwald.
+The Roman poet Juvenal wrote, 'rara avis in terris nigroque simillima cygno': a rare bird indeed, in the world, is the black Swan. 
+
+The rare companions in Ordo cygni (the Company of the Swan) have distinguished themselves by superior achievement in scholarship, the arts and the advancement of beauty and knowledge in Drachenwald.
 
 The badge of this company of the order is (fieldless) a swan sable.
 
 ## Ordo Alae
 
-In the lands of Drachenwald before there was a kingdom, the cavalry of Roman armies were called the 'allies': they fought close on the wings (alae) of their companions. Companions in Ordo alae (the Company of the Wing) have displayed superior abilities in their fields of martial activity in Drachenwald. All Drachenwald's practitioners of the arts of combat who show high prowess in the eyes of the Crown are united in this order, without distinction among steel fighters, armoured fighters, archers and their other companions in arms.
+In the lands of Drachenwald before there was a kingdom, the cavalry of Roman armies were called the 'allies': they fought close on the wings (alae) of their companions. Companions in Ordo alae (the Company of the Wing) have displayed superior abilities in their fields of martial activity in Drachenwald. 
+
+All Drachenwald's practitioners of the arts of combat who show high prowess in the eyes of the Crown are united in this order, without distinction among steel fighters, armoured fighters, archers and their other companions in arms.
 
 The badge of this company of the order is (fieldless) a wing terminating in a hand gules sustaining a sword fesswise reversed proper.
 
@@ -64,16 +74,18 @@ The Crown can bestow honours that carry no precedence, but carry great honour an
 
 ## The King's Order of the Companions of Albion, also The Royal Order of the Companions of Albion
 
-Formerly the Prince's Order of the Companions of Albion The Albion is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is recommended that it only be given once a reign. It became the King's order when Drachenwald became a Kingdom. 
+The Albion is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is recommended that it only be given once a reign. 
 
 The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. (Read the story of Albion)
 
 ## Queen's Order of Courtesy
-Formerly the Princess' Order of Courtesy, This "Queen's" award is awarded for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". It became the Queen's order when Drachenwald became a Kingdom. The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
+This "Queen's" award is awarded for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
 
 ## Order of the Dragon's Bowle
 
-The Order of the Dragon's Bowle is awarded at the discretion of the Crown to those who have displayed notable attention to authenticity. The symbol of this Award is (Fieldless) a dragon passant coward sable charged with a bowl per pale Or and gules.
+The Order of the Dragon's Bowle is awarded at the discretion of the Crown to those who have displayed notable attention to authenticity. 
+
+The symbol of this Award is (Fieldless) a dragon passant coward sable charged with a bowl per pale Or and gules.
 
 ## Order of the Dragon's Jewel
 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary behaviour or service.
@@ -81,8 +93,8 @@ This award will be given to children (under 12 years of age) who have distinguis
 ## Order of the Dragon's Pride
 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary work in the arts and sciences.
 
-## Order of the Dragon's Tear
-This Award is given at the discretion of the Crown to the host(s) of an extraordinarily successful event. This Award can be received more than once. Recipients of this Award may be styled, "Holder of the Dragon's Tear" (or, if they have more than one, "Holder of the Dragon's Tears"). 
+## Award of the Dragon's Tear
+This Award is given at the discretion of the Crown to the host(s) of an extraordinarily successful event. This award can be received more than once. Recipients of this award may be styled, "Holder of the Dragon's Tear" (or, if they have more than one, "Holder of the Dragon's Tears"). 
 
 The symbol of this award is (Fieldless) on a goutte per pale Or and gules a dragon passant coward sable.
 
@@ -92,12 +104,12 @@ The Hospitallers of Albion are those gentles (or groups) in distant lands who ma
 The symbol of the Hospitallers is (Fieldless) on a dragon passant coward sable a wake knot argent. 
 
 ## Popular Company of Sojourners (PCS)
-Formerly the Principality Company of Sojourners, it is presented at the discretion of the Crown to those members departing the Kingdom, who have contributed to Drachenwald. They are expected to recall to all and sundry tales the recipient has to tell of the Lands of Drachenwald.
+This award is presented at the discretion of the Crown to those members departing the Kingdom, who have contributed to Drachenwald. They are expected to recall to all and sundry tales the recipient has to tell of the Lands of Drachenwald.
 
 The members may bear the badge of the company: "Barry wavy argent and azure, two flaunches vert" in whatever manner deemed appropriate to signify membership. 
 
 ## Sigillum
-The Sigillum (Sigillum Coronae) is given by the King or the Queen, (formerly by the Prince or the Princess), or by both of them together. This is shown in the name. When it says "Sigillum Coronae" only, it is unclear who has given the award. 
+The Sigillum (Sigillum Coronae) is given by the King or the Queen, or by both of them together. This is shown in the name. When it says "Sigillum Coronae" only, it is unclear who has given the award. 
 
 The Sigillum are awarded for personal service to the Crown(s) that far exceeds any expected measure. The number given during a reign is generally limited to three. This award can be received more than once. 
 
@@ -113,12 +125,10 @@ In principality years, Consorts of the Principality of Drachenwald joined the or
 
 The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
 
-As a kingdom, now former Consorts join the Order of the Rose at the end of their reign.
-
 ## Order of The Dragon's Steel
 
-This award was given to "those members of the foil, epee and schlager fighting community, who exemplify courtesy, chivalry, dedicated patronage to the arts and sciences and show continual service to local branches and the Kingdom of Drachenwald and who shall have displayed superior abilities in light weaponry". It conveyed a Grant of Arms, and was a consulting order. 
+From AS 32 to AS 49 (1998 to 2015, by common reckoning), this award was given to "those members of the foil, epee and schlager fighting community, who exemplify courtesy, chivalry, dedicated patronage to the arts and sciences and show continual service to local branches and the Kingdom of Drachenwald and who shall have displayed superior abilities in light weaponry". It conveyed a Grant of Arms, and was a consulting order. 
 
-The badge of the order is Or, three pine trees in fess eradicated gules, overall a dragon passant coward sable, and on a chief gules a rapier argent.
+The badge of the order is Or, three pine trees in fess eradicated gules, overall a dragon passant coward sable, and on a chief gules a rapier argent. Typically members  wore a braid of the Drachenwald colours, on their left sleeve.
 
 This order was closed when the Society introduced the peerage of Mastery of Defense.
