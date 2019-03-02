@@ -1,7 +1,4 @@
 ---
-layout:
-sidebar: 
-
 title: Heraldry in the SCA
 exerpt: Help make the magic of the Current Middle Ages
 ---
