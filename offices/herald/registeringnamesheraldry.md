@@ -5,9 +5,10 @@ toc_label: Contents
 excerpt: Playing games with heralds, at modest rates
 ---
 
+Too long; didn't read: we register medieval names and armory for SCA use, modelled on the English College of Heralds. [Download the forms](#submission-forms).
+{: .notice--primary}
+
 # Registering names and heraldic insignia
-  > "Registering a device is a worthwhile effort. It involves communication, historical research and creativity, meaning you touch on all three aspects of the Society for Creative Anachronism. It allows you to make something and call it your own. It exposes you to a complicated process with a thousand years of history behind it. These are all Good Things."  
-  -- (Karl Faustus von Aachen, Kingdom of Lochac)
 
 In the Society, you can freely choose a name, which your friends will call you. A different name can make the game richer, as you build up a persona, imagining yourself in a different age.
 
@@ -81,9 +82,9 @@ E-mail edelweiss@drachenwald.sca.org to send your digital files or to ask for a 
 The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (Laurel Approved 15 Apr 2014). Please do not use forms dated any earlier, as they are no longer complete.
 
 * [Name form (for branches)]({{ site.baseurl }}{% link offices/herald/files/name-branches.pdf %})
-* Name form (for individuals)({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
-* Device form (for branches and individuals)({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
-* Badge form (for branches and individuals)({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
+* [Name form (for individuals)]({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
+* [Device form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
+* [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
 
 ## Digital submission notes
 All files (both submission forms and any documentation) must be 300 dpi and printable size, JPG or PDF.
@@ -201,3 +202,8 @@ __Your Phone Number__ to contact you about your submission. In Drachenwald conta
 __Consulting Herald (Socety Name)__ if applicable. Drachenwald does not require a submission to have or be submitted by a warranted consulting herald (some kingdoms do). If a particular herald has helped you with your submission, it is a good idea to mention them on the form - particularly if they have copies of your submission, armory pictures and/or the documentation. If there are problems with your submission, the consulting herald may be able to help in resolving them.
 
 __Herald's E-mail (preferred) / Phone__ to help fix any problems.
+
+# Last word
+
+ > "Registering a device is a worthwhile effort. It involves communication, historical research and creativity, meaning you touch on all three aspects of the Society for Creative Anachronism. It allows you to make something and call it your own. It exposes you to a complicated process with a thousand years of history behind it. These are all Good Things."  
+  -- (Karl Faustus von Aachen, Kingdom of Lochac)

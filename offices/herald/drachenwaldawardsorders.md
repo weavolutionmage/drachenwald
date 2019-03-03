@@ -36,12 +36,13 @@ The badge of the order is '(fieldless) a ring formed of a wingless dragon in ann
 ## Order of the Panache 
 The Panache is the awarded to those who have distinguished themselves by long and consistent excellence in the Arts (and Sciences) and who have also constantly made their expertise available to the various members of the Kingdom. 
 
+![Panache-image-right]({{ site.baseurl }}{% link images/heraldry/sm_panache.gif %}){: .align-right}
 The symbol of the Order is (Fieldless) issuant to chief from a torteau charged with a bezant pierced sable three feathers gules, Or and Sable.
 
 ## Order of the Silver Guard
 The Silver Guard is presented to those members who have distinguished themselves by chivalry and prowess in the arts of combat, including armoured combat, fencing, archery and thrown weapons. 
 
-The badge of this Order is (Tinctureless) a silver wrist-guard bearing a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect. 
+![SilverGuard-image-right]({{ site.baseurl }}{% link images/heraldry/sguard.gif %}){: .align-right}The badge of this Order is (Tinctureless) a silver wrist-guard bearing a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect. 
 
 #  Ordo Annuli or Ordo Annulorum
 
