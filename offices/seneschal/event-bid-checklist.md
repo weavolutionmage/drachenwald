@@ -30,7 +30,7 @@ Note: A copy of the budget MUST also be included.
 
 1. Besides the expected items, what other things are scheduled for the event (e.g . classes, a ball, etc)? Who will be running them?  
 2. What space/location is there for the kingdom A&amp;S competition?  
-3. What martial activities will you have? Heavy Weapons? Fencing? Archery? Do you have marshals for these activities? Do you have List Ministers for these activities?  
+3. What martial activities will you have? Armoured Combat? Fencing? Archery? Do you have marshals for these activities? Do you have List Ministers for these activities?  
 
 ### Miscellaneous Questions.
 
