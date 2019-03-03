@@ -73,17 +73,17 @@ Account Name: SCA - Kingdom of Drachenwald
 Bank's Address: 2 North Walk, Yate, Bristol BS37 4AR  
 Bank: HSBC  
 
-## Submission forms
+# Submission forms
 The Drachenwald submission forms are PDF files that you can fill out digitally, or print on paper to complete by hand. Edelweiss herald accepts email and paper submissions.
 
 E-mail edelweiss@drachenwald.sca.org to send your digital files or to ask for a postal address.
 
 The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (Laurel Approved 15 Apr 2014). Please do not use forms dated any earlier, as they are no longer complete.
 
-* Name form (for branches)
-* Name form (for individuals)
-* Device form (for branches and individuals)
-* Badge form (for branches and individuals)
+* [Name form (for branches)]({{ site.baseurl }}{% link offices/herald/files/name-branches.pdf %})
+* Name form (for individuals)({{ site.baseurl }}{% link offices/herald/files/name-individuals.pdf %})
+* Device form (for branches and individuals)({{ site.baseurl }}{% link offices/herald/files/device.pdf %})
+* Badge form (for branches and individuals)({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
 
 ## Digital submission notes
 All files (both submission forms and any documentation) must be 300 dpi and printable size, JPG or PDF.
