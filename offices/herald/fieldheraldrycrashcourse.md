@@ -31,7 +31,9 @@ Tip: keep water supplies away from the list table!
 
 __Ask:__ "How much help do you want from me?" Get a clear idea of what the marshal and MoL want from you. The goal is a smooth-running tournament, rather than a scramble.   
 
-__Remember__ that running the tournament is the marshals' and MoL's job – yours is to help it run smoothly, keep people informed and make it look good.  Refer any questions from fighters about how to run the tourney to the marshal or list minister.  
+__Remember__ that you help run the tournament with clear communication: making it easy for the fighters to hear their calls to the field, for the list minister to hear results, for the gallery of spectators to understand the outcomes.  
+
+The marshals' and MoLs' look after the fighters, the rules, and any rule interpretation.  Refer any questions from fighters about how to run the tourney to the marshal or list minister.  
 
 __Get a list__ of the initial fighting order from the MoL. Ideally, these are on small index cards.   
 For example, for a  'round' of bouts, the MoL typically sorts the cards into pairs, so everyone has an opponent. Keep the pairs together! and keep the pairs in the order you received them.  
