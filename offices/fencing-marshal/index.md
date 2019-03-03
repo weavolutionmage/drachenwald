@@ -1,6 +1,6 @@
 ---
 title: Kingdom fencing marshal
-exerpt: Full speed, touch combat with steel weapons, following historic manuals
+excerpt: Full speed, touch combat with steel weapons, following historic manuals
 ---
 
 * [Drachenwald historical fencing marshal's handbook]({{ site.baseurl }}{% link offices/fencing-marshal/files/drachenwald_historical_fencing_marshals_handbook_sept_2018.pdf %}), introducing the basics of protective equipment, weapons, rules, and conventions
