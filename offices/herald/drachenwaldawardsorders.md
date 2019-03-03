@@ -35,7 +35,7 @@ Drachenwald has three awards that confer an Award of Arms upon the recipient, if
 
 This order was established to honor a former member of the Principality/Protectorate, Fahrquar Finley Fahrquarson (John Lindquist). It is now presented to those people who have distinguished themselves by long and extraordinary service to the Kingdom. 
 
-The badge of the order is '(fieldless) a ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules'.
+![lindquistringe-image-right]({{ site.baseurl }}{% link images/heraldry/lindquistringe_ror.jpg %}){: .align-right} The badge of the order is '(fieldless) a ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules'.
 
 ## Order of the Panache 
 The Panache is the awarded to those who have distinguished themselves by long and consistent excellence in the Arts (and Sciences) and who have also constantly made their expertise available to the various members of the Kingdom. 
@@ -78,20 +78,20 @@ All Drachenwald's practitioners of the arts of combat who show high prowess in t
 
 ![OrdoAlae-image-right]({{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}){: .align-right} The badge of this company of the order is (fieldless) a wing terminating in a hand gules sustaining a sword fesswise reversed proper.
 
-# Awards which do not carry additional rank
+# Awards which do not carry additional rank or responsibility
 
-The Crown can bestow awards that carry no precedence, but bear great honour and dignity, and are cherished as such.
+The Crown can bestow awards that carry no new precedence, but bear great honour and dignity, and are cherished as such.
 
-## The King's Order of the Companions of Albion, also The Royal Order of the Companions of Albion
+## The King's Order of the Companions of Albion
 
-The Albion is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is recommended that it only be given once a reign. 
+Also known as the Royal Order of the Companions of Albion, 'the Albion' is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is typically given just once a reign. 
 
 ![CompanionAlbion-image-right]({{ site.baseurl }}{% link images/heraldry/albion.gif %}){: .align-right} The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. 
 
 (Read the story of Albion)
 
 ## Queen's Order of Courtesy
-This award, given at the Queen's discretion, is for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". 
+This award, given at the Queen's discretion, but typically just one per reign, is for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". 
 
 ![QueensOrderCourtesy-image-right]({{ site.baseurl }}{% link images/heraldry/edelweiss.jpg %}){: .align-right}The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
 
