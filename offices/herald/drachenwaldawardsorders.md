@@ -4,6 +4,10 @@ toc: true
 toc_label: Contents
 excerpt: How the Crown of Drachenwald honours its citizens
 ---
+
+__Too long; didn't read:__ A list of the awards and orders unique to Drachenwald, and their badges and insignia.
+{: .notice--primary}
+
 It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things. All this work for the kingdom makes our game richer and more fulfilling. 
 
 Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/docs/pdf/govdocs.pdf). From Corpora, IV, G:
@@ -57,14 +61,14 @@ Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a s
 
 Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
 
-The badge of this company of the order is (fieldless) a martlet volant Or.
+![OrdoHirundinis-image-right]({{ site.baseurl }}{% link images/heraldry/annuli_hirundinis.jpg %}){: .align-right}The badge of this company of the order is (fieldless) a martlet volant Or.
 
 ## Ordo Cygni
 The Roman poet Juvenal wrote, 'rara avis in terris nigroque simillima cygno': a rare bird indeed, in the world, is the black Swan. 
 
 The rare companions in Ordo cygni (the Company of the Swan) have distinguished themselves by superior achievement in scholarship, the arts and the advancement of beauty and knowledge in Drachenwald.
 
-The badge of this company of the order is (fieldless) a swan sable.
+![OrdoCygni-image-right]({{ site.baseurl }}{% link images/heraldry/annuli_cygni.jpg %}){: .align-right} The badge of this company of the order is (fieldless) a swan sable.
 
 ## Ordo Alae
 
@@ -72,7 +76,7 @@ In the lands of Drachenwald before there was a kingdom, the cavalry of Roman arm
 
 All Drachenwald's practitioners of the arts of combat who show high prowess in the eyes of the Crown are united in this order, without distinction among steel fighters, armoured fighters, archers and their other companions in arms.
 
-The badge of this company of the order is (fieldless) a wing terminating in a hand gules sustaining a sword fesswise reversed proper.
+![OrdoAlae-image-right]({{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}){: .align-right} The badge of this company of the order is (fieldless) a wing terminating in a hand gules sustaining a sword fesswise reversed proper.
 
 # Non-armigerous awards
 
@@ -82,10 +86,14 @@ The Crown can bestow awards that carry no precedence, but bear great honour and 
 
 The Albion is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is recommended that it only be given once a reign. 
 
-The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. (Read the story of Albion)
+![CompanionAlbion-image-right]({{ site.baseurl }}{% link images/heraldry/albion.gif %}){: .align-right} The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. 
+
+(Read the story of Albion)
 
 ## Queen's Order of Courtesy
-This "Queen's" award is awarded for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
+This award, given at the Queen's discretion, is for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". 
+
+![QueensOrderCourtesy-image-right]({{ site.baseurl }}{% link images/heraldry/edelweiss.jpg %}){: .align-right}The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
 
 ## Order of the Dragon's Bowle
 
@@ -112,7 +120,7 @@ The symbol of the Hospitallers is (Fieldless) on a dragon passant coward sable a
 ## Popular Company of Sojourners (PCS)
 This award is presented at the discretion of the Crown to those members departing the Kingdom, who have contributed to Drachenwald. They are expected to recall to all and sundry tales the recipient has to tell of the Lands of Drachenwald.
 
-The members may bear the badge of the company: "Barry wavy argent and azure, two flaunches vert" in whatever manner deemed appropriate to signify membership. 
+![PopCompanySojourners-image-right]({{ site.baseurl }}{% link images/heraldry/sm_pcs.gif %}){: .align-right} The members may bear the badge of the company: "Barry wavy argent and azure, two flaunches vert" in whatever manner deemed appropriate to signify membership. 
 
 ## Sigillum
 The Sigillum (Sigillum Coronae) is given by the King or the Queen, or by both of them together. This is shown in the name. When it says "Sigillum Coronae" only, it is unclear who has given the award. 
@@ -129,7 +137,7 @@ The Sigillum are awarded for personal service to the Crown(s) that far exceeds a
 
 When Drachenewald was a principality of the East Kingdom, Consorts of the Principality of Drachenwald joined the order at the end of their (first) reign. Companions of this Order are styled "Lord/Lady of the Edelweiss" as appropriate. Stefan Wasniewski Ste'Kolm is the only Lord of the Edelweiss. It carried an Award of Arms, if the recipient did not already hold one.
 
-The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
+![EdelweissMarguerite-image-right]({{ site.baseurl }}{% link images/heraldry/edelweiss.gif %}){: .align-right} The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
 
 ## Order of The Dragon's Steel
 
