@@ -11,6 +11,11 @@ The rhythms and ceremonies of court are part of what makes the SCA different fro
 
 __What does court do for us?__
 
+# Court is communication  
+Court is the chance for the royals to speak with the people of their kingdom. Changes to law are announced at court, as are decisions of Curia (the head officers and public servants of the kingdom). Heralds lend their voices to make those messages clear, along with the many other pieces of news we share.  
+
+While SCA court is a modern construct, we can learn about how medieval monarchs held court, and emulate them: for example, with seating arrangements which follow period practice. 
+
 # Court is ceremony
 * A special occasion: it's almost always someone's first court, or their first award, and you always remember your first
 * A framework to show off our monarchs at their best 
@@ -41,7 +46,7 @@ The herald is part of what makes court happen – as facilitator, not star.
 
 # Getting started as court herald 
 
-Offer your help – either to the court herald, or to their Highnesses or Majesties.
+Offer your help, __ideally in advance of an event__ – either to the court herald, or to their Highnesses or Majesties. Good court takes preparation from all people involved. 
 
 ## Assist the herald in charge
 * Read scrolls 

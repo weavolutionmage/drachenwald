@@ -3,6 +3,8 @@ title: Kingdom Herald
 excerpt: Heralds bring alive the pageantry of the medieval era
 ---
 
+Heralds in the Middle Ages were specialists in chivalry, tournaments, coats-of-arms and the technicalities of war.  Heralds in the Society are experts in communicating tournament combat, court ceremony, and the specifics of historical names and coats-of-arms.
+
 Heralds bring pageantry to the Society: we help make a modern experience turn into a near-medieval one. We do this in several ways.
 
 * [Heraldry in the SCA]({{ site.baseurl }}{% link offices/herald/heraldryinthesca.md %})
@@ -10,7 +12,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Before the Internet...there were heralds]({{ site.baseurl }}{% link offices/herald/heraldsbeforetheinternet.md %})
 * [Registering names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/registeringnamesheraldry.md %})
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %})
-* [Field heraldry crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
+* [Field heralding crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
 * [The Zen of good court: building the special occasions of the Society]({{ site.baseurl }}{% link offices/herald/zenofgoodcourtguidance.md %})
 * [Drachenwald Book of Ceremonies, version 3, Jan 2017, AS 51]({{ site.baseurl }}{% link offices/herald/files/ceremonies-v3.pdf %})
 * [Drachenwald Book of Ceremonies Apocrypha, Jan 2017, AS 51 (examples of ceremonies)]({{ site.baseurl }}{% link offices/herald/files/drachenwald_apocrypha.pdf %})
