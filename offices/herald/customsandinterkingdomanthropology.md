@@ -12,8 +12,9 @@ Welcome to Drachenwald! We're glad you're here.
 
 This article covers some of the aspects of protocol and traditions of Drachenwald. It is especially intended for Society folk coming from other kingdoms.
 
-## Kingdom cheer
-The kingdom cheer is "Vivat!" 3 times, for a single person, or "Vivant!" 3 times for a few people.
+## The way we cheer
+At court, to mark a piece of Crown business , we cheer "Vivat!" 3 times, for a single person, or "Vivant!" 3 times for a few people.
+
 Other cheers are available in some regions. 
 
 ## Toasts
@@ -23,7 +24,7 @@ Typically the attending peers work out who toasts what for themselves.
 
 ## Coronets, circlets and titles
 
-In Drachenwald you can wear whatever regalia, and use whatever title, that you are allowed in your first homeland. 
+In Drachenwald you _can wear_ whatever regalia, and use whatever title, that you are allowed in your first homeland. 
 
 Drachenwald is a 'light-touch' kingdom on sumptuary laws. 
 
@@ -51,6 +52,8 @@ Its members typically wore a braid of the three kingdom colours on their left sl
 See [Drachenwald Awards and Orders]({{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %})
 
 See [Before the Internet...there were heralds]({{ site.baseurl }}{% link offices/herald/heraldsbeforetheinternet.md %}), for a link to our OP.
+
+__Please contact__ the Posthorn herald, posthorn@drachenwald.sca.org, to add your honours to the kingdom order of precedence. We can only add you, if you tell us you're here!
 
 ##  Finding arms submitted from another kingdom
 Submissions in process are grouped by kingdom. If you submitted your names and arms in another kingdom, your submission will continue in the process. Noone will pull it out just because your address has changed.

@@ -35,18 +35,22 @@ Drachenwald has three awards that confer an Award of Arms upon the recipient, if
 
 This order was established to honor a former member of the Principality/Protectorate, Fahrquar Finley Fahrquarson (John Lindquist). It is now presented to those people who have distinguished themselves by long and extraordinary service to the Kingdom. 
 
-![lindquistringe-image-right]({{ site.baseurl }}{% link images/heraldry/lindquistringe_ror.jpg %}){: .align-right} The badge of the order is '(fieldless) a ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules'.
+<img src="{{ site.baseurl }}{% link images/heraldry/lindquistringe_aleydis.jpg %}" width="180" alt="Lindquistringe by Fru Aleydis">{: .align-left}
+<img src="{{ site.baseurl }}{% link images/heraldry/lindquistringe_lia.jpg %}" width="180" alt="Lindquistringe by Lia de Thornegge">{: .align-middle}
+<img src="{{ site.baseurl }}{% link images/heraldry/lindquistringe_ror.jpg %}" width="180" alt="Lindquistringe by Robyn of Rye">{: .align-right}
+
+The badge of the order is '(fieldless) a ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules'.
 
 ## Order of the Panache 
 The Panache is the awarded to those who have distinguished themselves by long and consistent excellence in the Arts (and Sciences) and who have also constantly made their expertise available to the various members of the Kingdom. 
 
-![Panache-image-right]({{ site.baseurl }}{% link images/heraldry/sm_panache.gif %}){: .align-right}
+![Panache]({{ site.baseurl }}{% link images/heraldry/sm_panache.gif %}){: .align-right}
 The symbol of the Order is (Fieldless) issuant to chief from a torteau charged with a bezant pierced sable three feathers gules, Or and Sable.
 
 ## Order of the Silver Guard
 The Silver Guard is presented to those members who have distinguished themselves by chivalry and prowess in the arts of combat, including armoured combat, fencing, archery and thrown weapons. 
 
-![SilverGuard-image-right]({{ site.baseurl }}{% link images/heraldry/sguard.gif %}){: .align-right}The badge of this Order is (Tinctureless) a silver wrist-guard bearing a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect. 
+![SilverGuard]({{ site.baseurl }}{% link images/heraldry/sguard.gif %}){: .align-right}The badge of this Order is (Tinctureless) a silver wrist-guard bearing a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect. 
 
 #  Ordo Annuli or Ordo Annulorum
 
@@ -59,7 +63,7 @@ The Ring comprises three orders or companies: Ordo hirundinis, Ordo cygni, and O
 ## Ordo Hirundinis
 Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a swallow was a good omen for work (and business and marriage). In classical literature and art the Swallow's song was paired in chorus with that of the nightingale, each as beautiful as the other.
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis.jpg %}" width="200">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis.jpg %}" width="200" "Ordo Hirundinis">{: .align-right}
 
 Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
 
@@ -68,7 +72,7 @@ The badge of this company of the order is (fieldless) a martlet volant Or.
 ## Ordo Cygni
 The Roman poet Juvenal wrote, 'rara avis in terris nigroque simillima cygno': a rare bird indeed, in the world, is the black Swan. 
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_cygni.jpg %}" width="200">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_cygni.jpg %}" width="200" alt="Ordo Cygni">{: .align-right}
 
 The rare companions in Ordo cygni (the Company of the Swan) have distinguished themselves by superior achievement in scholarship, the arts and the advancement of beauty and knowledge in Drachenwald.
 
@@ -78,7 +82,7 @@ The badge of this company of the order is (fieldless) a swan sable.
 
 In the lands of Drachenwald before there was a kingdom, the cavalry of Roman armies were called the 'allies': they fought close on the wings (alae) of their companions. Companions in Ordo alae (the Company of the Wing) have displayed superior abilities in their fields of martial activity in Drachenwald.
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}" width="200">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}" width="200" alt="Ordo Alae">{: .align-right}
 
 All Drachenwald's practitioners of the arts of combat who show high prowess in the eyes of the Crown are united in this order, without distinction among steel fighters, armoured fighters, archers and their other companions in arms.
 
@@ -92,14 +96,16 @@ The Crown can bestow awards that carry no new precedence, but bear great honour 
 
 Also known as the Royal Order of the Companions of Albion, 'the Albion' is one of the most prestigious awards in our Kingdom. It is given for "untiring service, courtesy and devotion to the needs of others". It is typically given just once a reign. 
 
-![CompanionAlbion-image-right]({{ site.baseurl }}{% link images/heraldry/albion.gif %}){: .align-right} The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. 
+<img src="{{ site.baseurl }}{% link images/heraldry/albion.gif %}" width="200" alt="Companion of Albion">{: .align-right}
+
+ The Companions of this Order have the right to display the regalia of the Order, which shall be (fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules. 
 
 (Read the story of Albion)
 
 ## Queen's Order of Courtesy
 This award, given at the Queen's discretion, but typically just one per reign, is for "untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others". 
 
-![QueensOrderCourtesy-image-right]({{ site.baseurl }}{% link images/heraldry/edelweiss.jpg %}){: .align-right}The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
+![QueensOrderCourtesy]({{ site.baseurl }}{% link images/heraldry/edelweiss.jpg %}){: .align-right}The symbol for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
 
 ## Order of the Dragon's Bowle
 
@@ -126,7 +132,7 @@ The symbol of the Hospitallers is (Fieldless) on a dragon passant coward sable a
 ## Popular Company of Sojourners (PCS)
 This award is presented at the discretion of the Crown to those members departing the Kingdom, who have contributed to Drachenwald. They are expected to recall to all and sundry tales the recipient has to tell of the Lands of Drachenwald.
 
-![PopCompanySojourners-image-right]({{ site.baseurl }}{% link images/heraldry/sm_pcs.gif %}){: .align-right} The members may bear the badge of the company: "Barry wavy argent and azure, two flaunches vert" in whatever manner deemed appropriate to signify membership. 
+![PopCompanySojourners]({{ site.baseurl }}{% link images/heraldry/sm_pcs.gif %}){: .align-right} The members may bear the badge of the company: "Barry wavy argent and azure, two flaunches vert" in whatever manner deemed appropriate to signify membership. 
 
 ## Sigillum
 The Sigillum (Sigillum Coronae) is given by the King or the Queen, or by both of them together. This is shown in the name. When it says "Sigillum Coronae" only, it is unclear who has given the award. 
@@ -143,7 +149,7 @@ The Sigillum are awarded for personal service to the Crown(s) that far exceeds a
 
 When Drachenewald was a principality of the East Kingdom, Consorts of the Principality of Drachenwald joined the order at the end of their (first) reign. Companions of this Order are styled "Lord/Lady of the Edelweiss" as appropriate. Stefan Wasniewski Ste'Kolm is the only Lord of the Edelweiss. It carried an Award of Arms, if the recipient did not already hold one.
 
-![EdelweissMarguerite-image-right]({{ site.baseurl }}{% link images/heraldry/edelweiss.gif %}){: .align-right} The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
+![EdelweissMarguerite]({{ site.baseurl }}{% link images/heraldry/edelweiss.gif %}){: .align-right} The symbol of the Order is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an amulet argent. 
 
 ## Order of The Dragon's Steel
 
