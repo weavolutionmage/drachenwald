@@ -27,7 +27,7 @@ The [Order of Precedence (OP)](http://op.drachenwald.sca.org/) records all award
 
 The awards described are unique to Drachenwald, established from principality days onward.
 
-# Armigerous awards
+# Awards which convey a new rank to the recipient
 
 Drachenwald has three awards that confer an Award of Arms upon the recipient, if the receiver does not already hold one (as heralds say, 'are armigerous'). 
 
@@ -78,7 +78,7 @@ All Drachenwald's practitioners of the arts of combat who show high prowess in t
 
 ![OrdoAlae-image-right]({{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}){: .align-right} The badge of this company of the order is (fieldless) a wing terminating in a hand gules sustaining a sword fesswise reversed proper.
 
-# Non-armigerous awards
+# Awards which do not carry additional rank
 
 The Crown can bestow awards that carry no precedence, but bear great honour and dignity, and are cherished as such.
 
