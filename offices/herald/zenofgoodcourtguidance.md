@@ -5,8 +5,8 @@ toc_label: Contents
 excerpt: Some guidance for new heralds serving in court
 ---
 
-The rhythms and ceremonies of court are part of what makes the SCA different from other clubs. This discussion about being the herald in charge assumes you've been to a couple of events which included court, and decided, 'this bit looks like fun'.
-Add link to kingdom book of ceremonies
+The rhythms and ceremonies of court are part of what makes the SCA different from other clubs. This roundup about being the herald in charge assumes you've been to a couple of events which included court, and decided, 'this bit looks like fun'.
+[Download the Drachenwald Book of Ceremonies, version 3, Jan 2017, AS 51]({{ site.baseurl }}{% link offices/herald/files/ceremonies-v3.pdf %})
 {: .notice--primary}
 
 __What does court do for us?__
