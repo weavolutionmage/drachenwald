@@ -63,11 +63,7 @@ The Ring comprises three orders or companies: Ordo hirundinis, Ordo cygni, and O
 ## Ordo Hirundinis
 Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a swallow was a good omen for work (and business and marriage). In classical literature and art the Swallow's song was paired in chorus with that of the nightingale, each as beautiful as the other.
 
-<<<<<<< HEAD
 <img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis_by_mor.jpg %}" width="200" alt="Ordo Hirundinis">{: .align-right}
-=======
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis.jpg %}" width="200" "Ordo Hirundinis">{: .align-right}>
->>>>>>> 7ffdf94c9ddb9c39d7634c4cf819485d33c3f1d2
 
 Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
 
