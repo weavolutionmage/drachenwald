@@ -63,7 +63,7 @@ The Ring comprises three orders or companies: Ordo hirundinis, Ordo cygni, and O
 ## Ordo Hirundinis
 Artemidorus of Daldis, the 2nd Century Greek diviner, wrote that dreaming of a swallow was a good omen for work (and business and marriage). In classical literature and art the Swallow's song was paired in chorus with that of the nightingale, each as beautiful as the other.
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis.jpg %}" width="200" "Ordo Hirundinis">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_hirundinis_by_mor.jpg %}" width="200" alt="Ordo Hirundinis">{: .align-right}
 
 Those who labour to enable the special beauty that is Drachenwald, and thereby create beauty of their own; are brought together as Companions of Ordo hirundinis (the Company of the Swallow) because they have distinguished themselves by superior service within the Kingdom.
 
@@ -72,7 +72,7 @@ The badge of this company of the order is (fieldless) a martlet volant Or.
 ## Ordo Cygni
 The Roman poet Juvenal wrote, 'rara avis in terris nigroque simillima cygno': a rare bird indeed, in the world, is the black Swan. 
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_cygni.jpg %}" width="200" alt="Ordo Cygni">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_cygni_by_mor.jpg %}" width="200" alt="Ordo Cygni">{: .align-right}
 
 The rare companions in Ordo cygni (the Company of the Swan) have distinguished themselves by superior achievement in scholarship, the arts and the advancement of beauty and knowledge in Drachenwald.
 
@@ -82,7 +82,7 @@ The badge of this company of the order is (fieldless) a swan sable.
 
 In the lands of Drachenwald before there was a kingdom, the cavalry of Roman armies were called the 'allies': they fought close on the wings (alae) of their companions. Companions in Ordo alae (the Company of the Wing) have displayed superior abilities in their fields of martial activity in Drachenwald.
 
-<img src="{{ site.baseurl }}{% link images/heraldry/annuli_alae.jpg %}" width="200" alt="Ordo Alae">{: .align-right}
+<img src="{{ site.baseurl }}{% link images/heraldry/annuli_alae_by_mor.jpg %}" width="200" alt="Ordo Alae">{: .align-right}
 
 All Drachenwald's practitioners of the arts of combat who show high prowess in the eyes of the Crown are united in this order, without distinction among steel fighters, armoured fighters, archers and their other companions in arms.
 
