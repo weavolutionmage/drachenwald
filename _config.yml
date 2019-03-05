@@ -192,6 +192,11 @@ defaults:
       officer: "herald"
   -
     scope:
+      path: "offices/signet"
+    values:
+      officer: "signet"
+  -
+    scope:
       path: ""
       type: "posts"
     values:
