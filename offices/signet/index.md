@@ -26,8 +26,10 @@ https://www.facebook.com/groups/DragonScribes/
 http://dragonscribes.blogspot.de/
 
 # Advice for active scribes
-* [Kingdom scribal standards]({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls
 
+* [Kingdom scribal standards]({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls
+* [Scribal materials handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_materials_by_bridget.pdf %}) with details about brands available
+* [Scroll layout and design handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_layout_design_by_bridget.pdf %})
 
 
 {% include officer-contacts.html %}
