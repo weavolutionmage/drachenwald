@@ -27,8 +27,8 @@ http://dragonscribes.blogspot.de/
 
 # Advice for active scribes
 * [Kingdom scribal standards]({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls
-* [Scribal materials handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_materials_by_bridget.pdf %}) with details about brands available
 * [Scroll layout and design handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_layout_design_by_briget.pdf %})
+* [Scribal materials handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_materials_by_bridget.pdf %}) with details about brands available
 * [Getting started handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_do_and_dont_by_bridget.pdf %}) about good working practices as a scribe 
 * [Some very basic texts and text building methods by Countess Honor of Restormel]({{ site.baseurl }}{% link offices/signet/files/basic_scribal_texts_by_honor_restormel.doc%}), to help answer the question, 'But what do I write?' A great tool for starting scroll wordings, especially if English is your second, third or Nth language.
 * Sample scroll texts from medieval sources (in progress)
