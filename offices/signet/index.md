@@ -26,13 +26,13 @@ https://www.facebook.com/groups/DragonScribes/
 http://dragonscribes.blogspot.de/
 
 # Advice for active scribes
-* [Kingdom scribal standards](({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls
-* [Scribal materials handout by Mistress Bridget Greywolf]
-* [Scroll layout and design handout by Mistress Bridget Greywolf]
-* [Getting started handout by Mistress Bridget Greywolf] (Fiona Messer)
-* Some very basic texts and text building methods by Mistress Honor of Restormel
+* [Kingdom scribal standards]({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls
+* [Scribal materials handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/scribal_materials_by_bridget.pdf %}) with details about brands available
+* [Scroll layout and design handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/scribal_layout_design_by_briget.pdf %})
+* [Getting started handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/scribal_do_and_dont_by_bridget.pdf %}) about good working practices as a scribe 
+* [Some very basic texts and text building methods by Countess Honor of Restormel]({{ site.baseurl }}{% link offices/signet/basic_scribal_texts_by_honor_restormel.doc%}), to help answer the question, 'But what do I write?' A great tool for starting scroll wordings, especially if English is your second, third or Nth language.
 * Sample scroll texts from medieval sources (in progress)
-* The imperfect treaty of Making Wax Seals for documents [pdf] by Master Haakon Pikinokka (Harri Ryynänen)
+* [The imperfect treaty of Making Wax Seals for documents booklet by Master Haakon Pikinokka]({{ site.baseurl }}{% link offices/signet/wax_seals_for_documents_by_haakon.pdf %})
 
 
 {% include officer-contacts.html %}
