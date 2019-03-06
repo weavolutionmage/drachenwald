@@ -42,6 +42,8 @@ The most frequent use of the order of precedence database is to check who has wh
 Before you write a recommendation to their Highnesses or to their Majesties, start by checking the OP, to see if the person you're recommending already has the award. If it's not listed, then you can
 start your message to the coronet or crown.
 
+The Crown decides who to recognise based on recommendations from the people of Drachenwald. You can email their Majesties, or [send a recommendation via a form online](http://op.drachenwald.sca.org/recommend).
+
 ## Fixing errors
 
 Of course, like medieval heralds, heralds and their records aren't perfect. Sometimes the court herald doesn't turn in the report right away; sometimes a planned award is delayed, or the recipient

@@ -5,7 +5,7 @@ toc_label: Contents
 excerpt: How the Crown of Drachenwald honours its citizens
 ---
 
-__Too long; didn't read:__ A list of the awards and orders unique to Drachenwald, and their badges and insignia.
+__Too long; didn't read:__ A list of the awards and orders unique to Drachenwald, and their badges and insignia. [Click to submit a recommendation via online form](http://op.drachenwald.sca.org/recommend).
 {: .notice--primary}
 
 It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things. All this work for the kingdom makes our game richer and more fulfilling. 
@@ -26,6 +26,8 @@ Following the historic practice of medieval heralds keeping lists of who showed 
 The [Order of Precedence (OP)](http://op.drachenwald.sca.org/) records all awards given in Drachenwald, from its earliest days.
 
 The awards described are unique to Drachenwald, established from principality days onward.
+
+The Crown decides who to recognise based on recommendations from the people of Drachenwald. You can email their Majesties, or [send a recommendation via a form online](http://op.drachenwald.sca.org/recommend).
 
 # Awards which convey a new rank to the recipient
 
