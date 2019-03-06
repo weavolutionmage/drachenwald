@@ -13,32 +13,6 @@ The Signet Clerk coordinates the volunteer artists, scriveners, gilders and arti
 
 The artists keep their assignments confidential until the Crown, Coronet or baron and baroness have presented them. 
 
-# Contactts
-
-Kingdom Drachenwald Signet Clerk: works on behalf of king and queen of Drachenwald  
-Baroness Aria Gemina Mala  
-signet@drachenwald.sca.org  
-
-Principality Nordmark Signet Clerk: for Nordmark royals (Sweden)  
-Countess Agnes Odygd  
-signet@nordmark.org  
-
-Principality Insulae Draconis Signet Clerk: for Insulae Draconis royals (UK, R. of Ireland, Iceland)  
-Lord Richard of Salesberry  
-signet@insulaedraconis.org  
-
-Barony of Aarnimetsä Signet Clerk: for Aarnimetsän royals (Finland)  
-Lady Joanne am Rein  
-kirjuri@aarnimetsa.org  
-
-Barony of Styringheim Signet Clerk: for Styringheim royals (Isle of Gotland)  
-Viscountess Wilda Frejasdottir  
-prantare@styringheim.se  
-
-Barony of Knight's Crossing Signet Clerk: for Knight's Crossing royals (Germany)  
-Mistress Ailitha de Ainwyk  
-ailithadeainwyk@yahoo.com  
-
 # Social media
 
 Yahoogroup  
@@ -51,14 +25,14 @@ https://www.facebook.com/groups/DragonScribes/
 
 http://dragonscribes.blogspot.de/
 
-# Kingdom scribal standards
-Getting Started
-Getting started [pdf] by Mistress Bridget Greywolf (Fiona Messer)
-Some very basic texts and text building methods by Mistress Honor of Restormel
-Scroll [pdf] - Layout and Design [pdf] by Mistress Bridget Greywolf (Fiona Messer)
-Materials [pdf] by Mistress Bridget Greywolf (Fiona Messer)
-The imperfect treaty of Making Wax Seals for documents [pdf] by Master Haakon Pikinokka (Harri Ryynänen)
-Sample scroll texts (in progress)
+# Advice for active scribes
 
+* [Kingdom scribal standards]({{ site.baseurl }}{% link offices/signet/drachenwaldscribalstandards.md %}) outline the materials we use to make scrolls - good for active scribes
+* [Scribal materials handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/adviceonmaterialsbybridget.md %}) with details about brands available, good for novices
+* [Scroll layout and design handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_layout_design_by_bridget.pdf %})
+* [Getting started handout by Mistress Bridget Greywolf]({{ site.baseurl }}{% link offices/signet/files/scribal_do_and_dont_by_bridget.pdf %}) about good working practices as a scribe 
+* [Some basic texts and text building methods by Countess Honor of Restormel]({{ site.baseurl }}{% link offices/signet/files/basic_scribal_texts_by_honor_restormel.doc%}), to help answer the question, 'But what do I write?' A great tool for starting scroll wordings, especially if English is your second, third or Nth language.
+* Sample scroll texts from medieval sources (in progress)
+* [The imperfect treaty of Making Wax Seals for documents booklet by Master Haakon Pikinokka]({{ site.baseurl }}{% link offices/signet/files/wax_seals_for_documents_by_haakon.pdf %})
 
 {% include officer-contacts.html %}

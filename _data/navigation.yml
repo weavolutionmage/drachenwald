@@ -92,6 +92,8 @@ side-offices:
       url: /offices/chronicler/
     - title: Herald
       url: /offices/herald/
+    - title: Signet clerk
+      url: /offices/signet/
 
 - title: Where we are
   url: /groups/
