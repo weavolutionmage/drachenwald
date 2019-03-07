@@ -1,7 +1,14 @@
+---
+title: Advice on Materials
+excerpt: by Bridget Greywolf
+toc: true
+toc_label: Contents
+---
 [1](http://en.wikipedia.org/wiki/Parchment)
 [2](http://en.wikipedia.org/wiki/Papermaking)
 
-#Vellum /Parchment
+# Vellum/Parchment
+
 Parchment or vellum is probably the most sought out material for scribal use and also the most
 expensive. It is also the traditional material from which medieval documents, books, writs and so on
 were made upon. 
