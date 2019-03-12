@@ -28,7 +28,7 @@ Those who enjoy research and languages learn about names and naming practices of
 
 Those who enjoy visual arts learn the artistic conventions of heraldry that distinguish it from other art forms, and then help others create medieval artwork for their own use at events.
 
-Any member can become a herald - no experience is necessary to start! Your interest and enthusiasm are your qualifications to begin If you are interested in heraldry in the SCA, contact the regional or kingdom herald.
+Any member can become a herald - no experience is necessary to start! Your interest and enthusiasm are your qualifications to begin. If you are interested in heraldry in the SCA, contact the regional or kingdom herald.
   
 Text originally written for Insulae Draconis, by Dame Genevieve la flechiere
 {: .notice}
