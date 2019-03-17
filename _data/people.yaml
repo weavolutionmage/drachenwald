@@ -17,3 +17,5 @@ offices:
     longname: "Armoured Combat Marshal"
   - shortname: "herald"
     longname: "Herald"
+  - shortname: "signet"
+    longname: "Signet"

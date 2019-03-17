@@ -25,12 +25,12 @@ With several decades of legacy practice, however, sometimes folks new to the pro
 __Modern privacy note__: By sending a filled submission form to the kingdom Submissions Herald, you give the SCA College of Heralds, based in the USA, permission to process and maintain all information on the form in relation to everything required for registering your submission. The records may be maintained indefinitely. For more information, please see [Your information and privacy](#your-information-and-privacy).
 {: .notice--warning}
 
-All successfully registered items from all SCA kingdoms are listed in the SCA Armorial.
+All successfully registered items from all SCA kingdoms [are listed in the SCA Armorial](http://oanda.sca.org).
 
 ## Overview
 
 All residents and branches of Drachenwald send their heraldic submissions (names, armory) to Drachenwald College of Heralds. 
-You send the forms to the kingdom Submissions Heralds, and send the fees (covering postage and some costs) to the Exchequers of Drachenwald and Nordmark. You can do almost all this process electronically.
+You send the forms to the kingdom Submissions Heralds, and send the fees (covering postage and some costs) to the appropriate Exchequer (treasurer). You can do almost all this process electronically.
 
 * Starts with an idea of a name or device, and continue with a bit of research, to come up with the item you wish to submit for registration.
 * Fill out a submission form, and attach the fruits of the research, in other words any documentation needed for supporting your item as compatible with period equivalents.
@@ -55,19 +55,20 @@ The External Submissions Herald sends Letters of Intent (ie 'Unless you say othe
 ## Submission fees
 The fee is is £4 / 5€ / 50 SEK for each submission item.  
 For example, for a name and device the total fee is £8 / 10€ / 100 SEK  
-Residents of Nordmark pay their fees via Nordmark account. Contact the Nordmark Exchequer at exchequer@nordmark.org for bank account details.
 
-The rest of Drachenwald pays directly to Drachenwald Exchequer, who looks after the College of Heralds account.
+Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the  Swedish treasurer) at exchequer@nordmark.org for bank account details.
+
+Everyone else in Europe pays directly to kingdom exchequer, who looks after the College of Heralds account. Note: the payment details are slightly different within UK than rest of Europe. 
 
 After paying, please send an e-mail to Edelweiss Herald and Kingdom Exchequer (edelweiss@drachenwald.sca.org, exchequer@drachenwald.sca.org) briefly stating what you paid for. For example: "I just paid for name and device submissions for [SCA name], the payer should show as [payer's legal name]." This will help us very much in connecting payments with received submissions!
 
-__Details for UK payments__  
+__Details for payments within UK__  
 Kingdom of Drachenwald  
 HSBC  
 Account Number: 91484060  
 Sort Code: 40-47-34  
 
-__Details for paying outside UK__  
+__Details for paying from outside UK__  
 IBAN: GB49MIDL40473491484060  
 BIC / SWIFT Code: MIDLGB2165G  
 Account Name: SCA - Kingdom of Drachenwald  
@@ -89,7 +90,7 @@ The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (
 ## Digital submission notes
 All files (both submission forms and any documentation) must be 300 dpi and printable size, JPG or PDF.
 If pictures are used, please make sure that they are of equal quality.
-If you need to digitize from paper, quality scans are required (e.g. photos are not acceptable).
+If you need to digitize from paper, quality scans are required (e.g. photos of your paper verisons are not acceptable).
 
 ## Paper submission notes
 When printing out the (fully or partially filled) PDF file: in your printer's Page Scaling options, choose None (vs. Fit to Paper, a common default for A4 paper). Make sure you print a 100% scale version of the PDF, to produce a form of the correct size.

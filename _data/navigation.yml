@@ -80,6 +80,8 @@ side-offices:
       url: /offices/exchequer/
     - title: Chatelaine
       url: /offices/chatelaine/
+    - title: Archery and thrown weapons marshal
+      url: /offices/archery/thrown-marshal
     - title: Fencing Marshal
       url: /offices/fencing-marshal/
     - title: Armoured Combat Marshal
@@ -92,6 +94,8 @@ side-offices:
       url: /offices/chronicler/
     - title: Herald
       url: /offices/herald/
+    - title: Signet clerk
+      url: /offices/signet/
 
 - title: Where we are
   url: /groups/
