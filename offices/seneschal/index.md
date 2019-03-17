@@ -21,7 +21,7 @@ Welcome! In this page you should find everything you need to help in the smooth 
 * [Warrant of Appointment to Office]({{ site.baseurl }}{% link offices/seneschal/files/warrant_blank_feb_2018.doc %}) (DOC)
 * [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/drachenwald-law-sep2017.pdf %}) (PDF)
 * [Seneschal Policies]({{ site.baseurl }}{% link offices/seneschal/seneschal-policies.md %})
-* [Bidding for a crown event in Drachenwald]({% link offices/seneschal/event-bid-checklist.md %})
+* [Bidding for a crown event in Drachenwald]({{ site.baseurl }}{% link offices/seneschal/event-bid-checklist.md %})
 * [Seneschals Handbook]({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)
 * [Participate in Crown Tourney]({{ site.baseurl }}{% link offices/seneschal/participate-in-crown-tourney.md %})
