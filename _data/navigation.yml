@@ -1,6 +1,6 @@
 main:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -9,16 +9,16 @@ main:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 
 side:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -27,16 +27,16 @@ side:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 
 side-whatwedo:
 
-- title: What we do
+- title: What We Do
   url: /activities/
   children:
     - title: Archery
@@ -54,15 +54,15 @@ side-whatwedo:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 side-offices:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -71,7 +71,7 @@ side-offices:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
   children:
     - title: Seneschal
@@ -97,5 +97,5 @@ side-offices:
     - title: Signet clerk
       url: /offices/signet/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
