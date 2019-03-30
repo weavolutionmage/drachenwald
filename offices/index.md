@@ -13,3 +13,10 @@ These pages are here so far:
 * [University Chancellor]({{ site.baseurl }}{% link offices/unichancellor/index.md %})
 * [Herald]({{ site.baseurl }}{% link offices/herald/index.md %})
 * [Signet]({{ site.baseurl }}{% link offices/signet/index.md %})
+
+# Bestowed peers
+
+* [Order of Chivalry]({{ site.baseurl }}{% link peers/chivalry/index.md %})
+* [Order of the Laurel]({{ site.baseurl }}{% link peers/laurel/index.md %})
+* [Order of the Pelican]({{ site.baseurl }}{% link peers/pelican/index.md %})
+* [Order of Defense]({{ site.baseurl }}{% link peers/defence/index.md %})

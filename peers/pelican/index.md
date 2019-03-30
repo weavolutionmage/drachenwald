@@ -2,8 +2,18 @@
 title: Order of the Pelican
 ---
 
+The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. 
+
+The Order of the Laurel are a Society-wide order, which recognises excellence in some area of the arts or sciences of peace. 
+
+It is a consultation order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
+
+The order secretary is Dom Duarte Gonçalves de Montel. Email: 
+
+
 ## Drachenwald Order of the Pelican 
 Assembled by Etienne, edited by Genevieve. Send comments to the order secretary.
+
 ## The nature of the order
 The Order of the Pelican is 'the service order', composed of individuals whose areas of expertise and contributions vary greatly. Given this variety of background, experiences and roles, there is no common form of pelican service.
 
