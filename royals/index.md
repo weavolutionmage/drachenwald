@@ -4,8 +4,9 @@ gallery:
   - image_path: /images/royals/william-isabetta.jpg
     title: "Their Majesties William and Isabetta"
 ---
+<p align="center"><a href="#royals">Their Majesties</a> | <a href="#heirs">Their Highnesses</a></p>
 
-<div style="margin-left:auto;margin-right:auto;max-width:300px;text-align: center">
+<a name="royals"></a><div style="margin-left:auto;margin-right:auto;max-width:300px;text-align: center">
 {% include gallery %}
 </div>
 
@@ -236,37 +237,29 @@ thrown weapons if there is time in her Majesty’s schedule <br>
   </tbody>
   </table>
   
+<h2 style="text-align: center;"><a name="heirs"></a>Their Highnesses<br/>The Crown Prince and Crown Princess of Drachenwald</h2>
+
 <table border="0">
 <tbody>
 <tr>
 <td><img src="{{ site.baseurl }}{% link images/royals/vitus.jpg %}" width="300" height="200" alt="Vitus Polonius"></td>
 <td><img src="{{ site.baseurl }}{% link images/royals/isabel.jpg %}" width="300" height="200" alt="Isabel Peregrinus"></td>
 </tr>
-</tbody>
-</table>
-<h2 style="text-align: center;"><a name="heirs"></a>Their Highnesses<br/>The Crown Prince and Crown Princess of Drachenwald</h2>
-<table>
-<tbody>
 <tr>
 <td>
 <h4 style="text-align: center;"><strong>Vitus Polonius</strong></h4>
 <h4 style="text-align: center;">(Rene Vestfjörd)</h4>
-<div style="text-align: center;"><script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,107,105,110,103,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,107,105,110,103,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script></div>
+<div style="text-align: center;"><a href="mailto:crownprince@drachenwald.sca.org">crownprince@drachednwald.sca.org</a></div>
 </td>
 <td>&nbsp;</td>
 <td>
 <h4 style="text-align: center;"><strong>Isabel Peregrinus<br/></strong></h4>
 <h4 style="text-align: center;">(Helena Vestfjörd)</h4>
-<div style="text-align: center;"><script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,113,117,101,101,110,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,113,117,101,101,110,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script></div>
+<div style="text-align: center;"><a href="mailto:crownprincess@drachenwald.sca.org">crownprincess@drachednwald.sca.org</a></div>
 </td>
 </tr>
-<tr>
-<td></td>
-<td>&nbsp;</td>
-<td></td>
-</tr>
 <tr width="47%" valign="top">
-<td>
+<td valign="top">
 <p><strong>About Vitus Polonius</strong></p>
 <p>His Highness was born a younger son of a Polish nobleman. Looking for his lot in life, he became involved in the founding of a city militia, but had to make a swift departure shortly afterwards following a dispute concerning taxes. On his way West from Poland he met part of Frederick I Barbarossa's host on their way to the Holy Land. Since the pay on offer was not bad, he signed up. Misfortune struck when the Emperor drowned in the Saleph river, but five thousand of his men reached Acre, Vitus among them. There, Vitus joined up with the forces of Richard Lionheart, since the pay on offer still was not bad. He saw the walls of Jerusalem and fought many battles in Outremer. He left on one of the last ships to Italy, and from there continued to England. Eventually, he made a small fortune and acquired an estate that allowed him to be knighted. He lives on the Downs in one of his estates, overseeing his large household.&nbsp;</p>
 <p><strong>His Highness is interested in:</strong></p>
@@ -283,7 +276,7 @@ thrown weapons if there is time in her Majesty’s schedule <br>
 <p>Dancing; bardic performances and especially entertainment during feasts; feasts early in the day (finished by 19:30) so that Their Highnesses and Their children can spend time with the people); modern mundane items (including plastic bottles, boxes and wrappings) being kept out of sight at all times.</p>
 </td>
 <td>&nbsp;</td>
-<td width="47%">
+<td width="47%" valign="top">
 <p><strong>About Isabel Peregrinus</strong></p>
 <p>Her Highness is the daughter of a Northern Italian nobleman. In the manner of the Known World, the tangling streams of time mean that her time of origin is the late fourteenth - early part of the fifteenth century. She met Vitus when he was on his way back from Palestine, passing through Italy, and they fell deeply in love. She is fond of travelling, and is often seen wearing the quaint dress of the Northern Europeans.</p>
 <p><strong>Her Highness is interested in:</strong></p>
