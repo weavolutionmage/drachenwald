@@ -17,6 +17,8 @@ offices:
     longname: "Armoured Combat Marshal"
   - shortname: "archery-thrown-marshal"
     longname: "Archery & Thrown Weapons Marshal"
+  - shortname: "equestrian-marshal"
+    longname: "Equestrian Marshal"
   - shortname: "herald"
     longname: "Herald"
   - shortname: "signet"
