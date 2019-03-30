@@ -1,0 +1,185 @@
+---
+title: Add an Event to the Calendar
+---
+<caption><h3>Add an Event to the Calendar</h3></caption>
+
+<p>Corpora requires that an event be registered by the seneschal of the sponsoring branch, therefore, this form must be completed by the <strong>branch seneschal</strong>, not the event steward. Please check the calendar before requesting a date to ensure that there is no conflict with Kingdom events, or other events in your region. By requesting a date on the Kingdom Calendar, you are agreeing to make your event official for business. This means you are obliged to provide an event announcement for publication in the Dragon’s Tale (as well as submitting an event financial report and keeping track of non-members). Please note that failure to provide the event announcement may prevent official business from taking place at your event.</p>
+
+<p>Any queries and updates must be sent to calendar@drachenwald.sca.org</p>
+
+<p>Fields marked with an * are required</p>
+<form
+  action="https://formspree.io/mvbjjrpm"
+  method="POST"
+>
+  <input type="hidden" name="_cc" value="calendar@drachenwald.sca.org" />
+  <input type="hidden" name="_subject" value="Calendar Request" />
+  <input type="hidden" name="_next" value="https://www.drachenwald.sca.org/j/events/calendar-thanks.html"/>
+ 
+  <!-- your other form fields go here -->
+
+  <h3>Event:</h3>
+    <p>
+    Name *:  
+    <input type="text" name="_aa-event-name" required />
+    </p>
+    
+    <p>
+    URL  
+    <input type="text" name="event-url" />
+    </p>
+
+    <p>
+    Reservation Information *
+    <textarea name="reservation-information" required></textarea>
+    </p>
+
+    <p>
+    Site Address *
+    <textarea name="site-address" required></textarea>
+    </p>
+
+    <p>
+    Site Information 
+    <textarea name="site-information"></textarea>
+    </p>
+
+    <p>
+    Start Date *
+    <input type="date" name="start-date" required />
+    </p>
+
+    <p>
+    Start Time *
+    <input type="text" name="start-time" required />
+    </p>
+
+    <p>
+    End Date *
+    <input type="date" name="end-date" required />
+    </p>
+    
+    <p>
+    End Time *
+    <input type="text" name="end-time" required />
+    </p>    
+
+    <p>
+    Cost *
+    <input type="text" name="cost" />
+    </p>
+
+    <p>
+    Payment Information * 
+    <textarea name="payment-information"></textarea>
+    </p>
+
+    <p>
+    Special Notes     
+    <textarea name="special-notes"></textarea>
+    </p>        
+
+  <h3>Seneschal</h3>
+
+    <p>
+    Modern Name *
+    <input type="text" name="seneschal-modern-name" required />
+    </p>
+
+    <p>
+    SCA Name *
+    <input type="text" name="seneschal-sca-name" required />
+    </p>
+
+    <p>
+    Phone Number * 
+    <input type="text" name="seneschal-phone-number" required />
+    </p>        
+
+    <p>
+    Email *
+    <input type="text" name="_replyto" required />
+    </p>
+
+  <h3>Event Steward</h3>
+
+    <p>
+    Modern Name * 
+    <input type="text" name="event-steward-modern-name" required />
+    </p>
+
+    <p>
+    SCA Name *
+    <input type="text" name="event-steward-sca-name" required />
+    </p>
+
+    <p>
+    Phone Number *
+    <input type="text" name="event-steward-phone-number" required />
+    </p>        
+
+    <p>
+    Email *
+    <input type="text" name="event-steward-email" required />
+    </p>    
+
+  <h3>Host Group</h3>
+
+    <p>
+    Host Branch Name * 
+    <input type="text" name="host-branch-name" required />    
+    </p>
+
+    <p>
+    Sponsoring Branch Name 
+    <input type="text" name="sponsoring-branch-name" required />    
+    </p>
+
+    <p>
+    Host Branch Region *
+    <select name="host-branch-region" required>
+        <option value="" selected="">(select option)</option>
+        <option value="Aarnimetsä">Aarnimetsä</option>
+        <option value="Central">Central</option>
+        <option value="Insulae Draconis">Insulae Draconis</option>
+        <option value="Nordmark">Nordmark</option>
+        <option value="Southern">Southern</option>
+    </select>
+    </p>
+
+    <p>
+    Host Branch Country *
+    <input type="text" name="host-branch-country" required />   
+    </p>
+
+  <h3>Event Staff</h3>
+
+    <p>
+    Marshal in Charge *
+    <input type="text" name="marshal-in-charge" required />
+    </p>
+
+    <p>
+    Food Coordinator *
+    <input type="text" name="food-coordinator" required />
+    </p>
+
+    <p>
+    Herald in Charge *
+    <input type="text" name="herald-in-charge" required />
+    </p>
+
+  <h3>Seneschal Declaration</h3>
+
+    <p>
+    I understand that my group must submit a financial report to the Kingdom Exchequer *
+    <input type="checkbox" name="seneschal-declares-exchequer" required />    
+    </p>
+
+    <p>
+    I understand that my group must keep track of the non-members who attend this event *
+    <input type="checkbox" name="seneschal-declares-non-members" required />    
+    </p>
+
+  <button type="submit">Send</button>
+</form>

@@ -3,11 +3,12 @@ title: Where we are
 ---
 {% assign parents = site.data.groups.grouplist | map: "parent" | sort | uniq %}
 
+<p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 
 {% for parent in parents %}
   {% unless parent == "" or parent == "Drachenwald" %}
     {% assign item = site.data.groups.grouplist | where: "group", parent | first %}
-<a href="#{{ parent }}">{{ parent }}</a> ({{ item.region }})<br>
+<b>{{ parent }}</b> ({{ item.region }})<br>
   {% endunless %}
 {% endfor %}
 

@@ -1,6 +1,6 @@
 main:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -9,16 +9,16 @@ main:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 
 side:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -27,16 +27,16 @@ side:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 
 side-whatwedo:
 
-- title: What we do
+- title: What We Do
   url: /activities/
   children:
     - title: Archery
@@ -54,15 +54,15 @@ side-whatwedo:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
 
 side-offices:
 
-- title: What we do
+- title: What We Do
   url: /activities/
 
 - title: Calendar
@@ -71,7 +71,7 @@ side-offices:
 - title: Royals
   url: /royals/
 
-- title: Offices
+- title: In the Kingdom
   url: /offices/
   children:
     - title: Seneschal
@@ -80,11 +80,13 @@ side-offices:
       url: /offices/exchequer/
     - title: Chatelaine
       url: /offices/chatelaine/
-    - title: Archery and thrown weapons marshal
-      url: /offices/archery/thrown-marshal
-    - title: Fencing Marshal
+    - title: Archery & Thrown Weapons
+      url: /offices/archery-thrown-marshal/
+    - title: Equestrian
+      url: /offices/equestrian-marshal/
+    - title: Fencing
       url: /offices/fencing-marshal/
-    - title: Armoured Combat Marshal
+    - title: Armoured Combat
       url: /offices/armoured-combat-marshal/
     - title: University Chancellor
       url: /offices/unichancellor/
@@ -96,6 +98,14 @@ side-offices:
       url: /offices/herald/
     - title: Signet clerk
       url: /offices/signet/
+    - title: Order of Chivalry
+      url: /peers/chivalry/
+    - title: Order of the Laurel
+      url: /peers/laurel/
+    - title: Order of the Pelican
+      url: /peers/pelican/
+    - title: Order of Defense
+      url: /peers/defence/
 
-- title: Where we are
+- title: Where We Are
   url: /groups/
