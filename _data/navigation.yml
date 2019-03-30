@@ -96,6 +96,14 @@ side-offices:
       url: /offices/herald/
     - title: Signet clerk
       url: /offices/signet/
+    - title: Order of Chivalry
+      url: /peers/chivalry/
+    - title: Order of the Laurel
+      url: /peers/laurel/
+    - title: Order of the Pelican
+      url: /peers/pelican/
+    - title: Order of Defense
+      url: /peers/defence/
 
 - title: Where We Are
   url: /groups/
