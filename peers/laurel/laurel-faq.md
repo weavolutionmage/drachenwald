@@ -78,4 +78,4 @@ No one ever joined the SCA as a Peer; everyone had to work their way up and earn
 
 The Secretaries of the Orders are listed on the Kingdom webpage and in the Newsletter; if you're too shy to ask a Peer questions in person or there are no Peers in your local area, write a letter to the Secretary of the appropriate Order. 
 
-The Secretary of the Order of the Laurel can be reached through laurelsecretary@drachenwald.sca.org
+{% include peer-secretary.html order="laurel" %}

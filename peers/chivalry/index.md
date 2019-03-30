@@ -8,4 +8,4 @@ The Order of Chivalry are a Society-wide order, which recognises excellence in t
 
 It is a consultation order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
 
-The order secretary is Sir Æiríkr inn Hárfagri. Email: 
+{% include peer-secretary.html order="chivalry" %}
