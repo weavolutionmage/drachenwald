@@ -172,6 +172,16 @@ defaults:
       officer: "armoured-combat-marshal"
   -
     scope:
+      path: "offices/archery-thrown-marshal"
+    values:
+      officer: "archery-thrown-marshal"
+  -
+    scope:
+      path: "offices/equestrian-marshal"
+    values:
+      officer: "equestrian-marshal"
+  -
+    scope:
       path: "offices/moas"
     values:
       officer: "moas"
