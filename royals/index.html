@@ -9,7 +9,11 @@ gallery_heirs:
   - image_path: /images/royals/isabel.jpg
     title: Her Royal Highness Isabel
 ---
-<p align="center"><a href="#royals">Their Majesties</a> | <a href="#heirs">Their Highnesses</a></p>
+<p align="center">
+<a href="#">King & Queen</a>{: .btn .btn--inverse}
+<a href="{{ site.baseurl }}{% link royals/heirs.html %}">Crown Prince & Princess</a>{: .btn .btn--primary}
+<a href="{{ site.baseurl }}{% link royals/territorial-royals.md %}">Landed Nobility</a>{: .btn .btn--primary}
+</p>
 
 <a name="royals"></a><div style="margin-left:auto;margin-right:auto;max-width:300px;text-align: center">
 {% include gallery %}
