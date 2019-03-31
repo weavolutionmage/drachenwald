@@ -63,7 +63,7 @@ deploy:
   ##
   - echo "${SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add - > /dev/null
   - JEKYLL_ENV=production bundle exec jekyll build -d public/j
-  - rsync -rvzc -e 'ssh -p 2222' public/j $WEBHOST:public_html/
+  - rsync -rvzc --delete -e 'ssh -p 2222' public/j $WEBHOST:public_html/
   artifacts:
     expire_in: 1 hour
     paths:
