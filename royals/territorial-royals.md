@@ -4,8 +4,9 @@ exerpt: Lands held in fief to the Crown of Drachenwald
 ---
 <p align="center">
 <a href="{{ site.baseurl }}{% link royals/index.html %}" class="btn btn--primary">King & Queen</a>
-<a href="{{ site.baseurl }}{% link royals/heirs.html %}" class="btn btn--primary">Crown Prince & Princess</a>
+<a href="{{ site.baseurl }}{% link royals/heirs.html %}" class="btn btn--primary">The Heirs</a>
 <a href="#" class="btn btn--inverse">Landed Nobility</a>
+<a href="{{ site.baseurl }}{% link royals/drachenwald-succession.md %}" class="btn btn--primary">Drachenwald Succession</a>
 </p>
 
 Across Drachenwald, certain lands are secured by local nobility who hold regions in fief to the Crown.
