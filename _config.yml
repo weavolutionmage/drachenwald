@@ -154,6 +154,12 @@ defaults:
         nav: "side-offices"
   -
     scope:
+      path: "peers"
+    values:
+      sidebar:
+        nav: "side-offices"
+  -
+    scope:
       path: "offices/chatelaine"
     values:
       officer: "chatelaine"
