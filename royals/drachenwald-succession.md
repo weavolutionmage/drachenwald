@@ -9,7 +9,8 @@ exerpt: Starting in its days as a principality of the East Kingdom
 <a href="#" class="btn btn--inverse">Drachenwald Succession</a>
 </p>
 
-Following the tradition of the East Kingdom (US and Canada eastern seaboard), Drachenwald royals reign for six months at a time, being crowned at 12th night in January, and Midsummer in June. 
+Drachenwald royals reign for six months at a time, being crowned at 12th night in January, and Midsummer in June.  
+ 
 These are the names of those who reigned first over the principality, and then the kingdom, of Drachenwald.  
 
 A.S. is _Anno Societatis_, [the Society year](https://sca.org/links/calendar.html), which numbers from 1 May, 1966, the date of The First Tournament.   
