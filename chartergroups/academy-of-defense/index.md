@@ -1,15 +1,15 @@
 ---
 title: Drachenwald Academy of Defense 
-excerpt: Promoting the art of defense after the manner of the ancient schools of London
+excerpt: After the manner of the ancient schools of London
 ---
-<img src="{{ site.baseurl }}{% link images/heraldry/academyofdefenseflag.gif %} alt="Academy of Defense Badge">{: .align-left}  
+<img src="{{ site.baseurl }}{% link images/heraldry/academyofdefenseflag.gif %}" alt="Academy of Defense Badge">{: .align-left}  
 
 The Academy promotes the noble art of fence within the Kingdom of Drachenwald through recognition, education, and training of fencers of all levels of skill. Membership is open, upon application to the Praeceptor, to all those who love the challenge of arms.  
 
 Akin to a guild, it has ranks which candidates challenge into, by meeting three companions of the academy of appropriate skill level, in tests of skill at arms, and of endurance.  
 
 * [Academy charter and bylaws]({{ site.baseurl }}{% link chartergroups/files/academy_defense_charter_2017_05_20.pdf %})  
-* [Meeting minutes from Collegium of Defense in Mynydd Gwyn, May 2017](({{ site.baseurl }}{% link chartergroups/files/academy_meeting_minutes_06_05_2017.pdf %})  
+* [Meeting minutes from Collegium of Defense in Mynydd Gwyn, May 2017]({{ site.baseurl }}{% link chartergroups/files/academy_meeting_minutes_06_05_2017.pdf %})  
 * [Yahoogroup](http://groups.yahoo.com/group/DW_AC/)  
 * [Facebook group](https://www.facebook.com/groups/DWAcademyOfDefense/)  
 
@@ -183,7 +183,7 @@ Vitus Polonius
 
 ## Preceptor
 
-Lord Esbiorn Jensson (D. Cordes)<script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,39,62,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>  
+Lord Esbiorn Jensson (D. Cordes) <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,39,62,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>  
 
 ## Scribe
 H Lady Gwenllian verch Andreas (K. Bernard) <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,39,62,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>
