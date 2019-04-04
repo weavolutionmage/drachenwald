@@ -32,6 +32,11 @@ These pages provide the forms, handbooks and guidance for local and regional off
 
 * [Signet]({{ site.baseurl }}{% link offices/signet/index.md %}) a specialist office, the signet coordinates with volunteer artists to record awards and honours given by royalty in the form of original artwork.
 
+# Charter groups
+Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
+
+* [Drachenwald Academy of Defense]({{ site.baseurl }}{% link chartergroups/academy-of-defense/index.md %}) 
+
 # Bestowed peers
 The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. These are honours recognised across the Society.
 
