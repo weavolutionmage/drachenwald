@@ -158,7 +158,7 @@ defaults:
     values:
       sidebar:
         nav: "side-offices"
-        
+  -
     scope:
       path: "chartergroups"
     values:
