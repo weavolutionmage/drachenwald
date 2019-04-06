@@ -5,7 +5,8 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Marshal's handbooks, report forms, and links to equipment and scoresheets for archery rounds. Marshal contacts at bottom of the page. {: .notice--primary}
+__Too long; didn't read:__ Marshal's handbooks, report forms, and links to equipment and scoresheets for archery rounds. Marshal contacts at bottom of the page. 
+{: .notice--primary}
 
 Drachenwald offers many opportunities to practice the important medieval skill of archery and to take part in competitions.
 
@@ -28,11 +29,11 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 Click to use Googleforms to submit a report for your region.
 
-* [Principality of Nordmark (SE)](https://goo.gl/forms/zfE5wygztHLnsl9g2)  
-* [Principality of Insulae Draconis (IE, IS, UK)](https://goo.gl/forms/PB965pufulcSfZzJ3)   
-* [Barony of Aarnimetsä (FI)](https://goo.gl/forms/E9mXJClDWIVMWD7f2)
-* [Central region (AT, CH, BE, DK, FR, NL, PL, RO, RU)](https://goo.gl/forms/OKvdVid4v3obVX6A3)
-* [Southern region (BG, IL, IT, ZA)](https://goo.gl/forms/qAazDUfGV5lCLlR03)
+* [Principality of Nordmark](https://goo.gl/forms/zfE5wygztHLnsl9g2) (SE)
+* [Principality of Insulae Draconis](https://goo.gl/forms/PB965pufulcSfZzJ3) (IE, IS, UK)  
+* [Barony of Aarnimetsä](https://goo.gl/forms/E9mXJClDWIVMWD7f2)(FI)
+* [Central region](https://goo.gl/forms/OKvdVid4v3obVX6A3) (AT, CH, BE, DK, FR, NL, PL, RO, RU)
+* [Southern region](https://goo.gl/forms/qAazDUfGV5lCLlR03) (BG, IL, IT, ZA)
 
 # Rounds
 
@@ -40,7 +41,7 @@ Click to use Googleforms to submit a report for your region.
 
 # Equipment divisions
 
-[Read a description of the equipment used in Drachenwald competitions]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-equipment-divisions.md %})
+[Read a description of the equipment]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
 
 # Social media
 * [Yahoogroup](https://groups.yahoo.com/neo/groups/DW_Archery/info)

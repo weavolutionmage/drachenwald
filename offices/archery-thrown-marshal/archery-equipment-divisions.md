@@ -15,7 +15,9 @@ In the Open Handbow Division, recurves and longbows, both period and modern, may
  
 # Open Crossbow Division
 Both modern and period style crossbows may compete in the Open Crossbow Division. Crossbows may compete only in the crossbow Divisions.  
-No compound crossbows. Sights are allowed as specified in the SCA rules. Crossbow and bolt must conform to the SCA archery rules. There is no minimum or maximum weight for the prod. Any type of lock mechanism is allowed. The crossbow may be shot from any position. But the crossbow may be held only by the hands, not on sandbags, etc. Slings are not allowed for shooting, but may be used to carry the crossbow.  
+No compound crossbows. Sights are allowed as specified in the SCA rules. Crossbow and bolt must conform to the SCA archery rules. There is no minimum or maximum weight for the prod. Any type of lock mechanism is allowed.  
+
+The crossbow may be shot from any position. But the crossbow may be held only by the hands, not on sandbags, etc. Slings are not allowed for shooting, but may be used to carry the crossbow.  
 There is no limit to the number of bolts that may be shot in the speed ends. The target and scoring are the same as in the Open Division.  
  
 # Period Handbow Division
@@ -65,7 +67,7 @@ To be counted as a period style crossbow all the following conditions must be me
 * It may not have a modern style lock (period forms of self-resetting mechanisms are fine, however) or a trigger.   
 * It may not have sights.  
 
-Period Crossbows may not have a modern style lock nor a modern trigger. They must have a period-style lock and release mechanism. The Lock and Release Mechanism should be documentable to 16th century or earlier.  
+Period Crossbows may not have a modern style lock nor a modern trigger. They must have a period-style lock and release mechanism. The Lock and Release Mechanism should be documentable to 16th century or earlier.     
 
 If there is a question about the mechanisms being in period, then the Marshal in Charge of the shoot may request proof or allow its one time use at that event, until proof is provided. Archers using crossbows that might be questioned should be encouraged to bring documentation.  
 
