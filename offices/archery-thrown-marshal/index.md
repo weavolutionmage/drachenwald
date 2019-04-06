@@ -1,10 +1,50 @@
 ---
 title: Captain general of archers 
 excerpt: "Archery: weapon of war, pastime of nobles, and a link to the middle ages"
+toc: true
+toc_label: Contents
 ---
 
-* [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}), explaining safety rules, equipment guidelines and how to run tournaments within the SCA 
+__Too long; didn't read:__ Marshal's handbooks, report forms, and links to equipment and scoresheets for archery rounds. Marshal contacts at bottom of the page. {: .notice--primary}
 
-* [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format, for those who are teaching archery and running practices and tournaments
+Drachenwald offers many opportunities to practice the important medieval skill of archery and to take part in competitions.
+
+Archery is an accessible sport for all ages, and adapts well for people with disabilities. 
+
+These documents outline how Drachenwald's marshals (who act as safety officers and organise tournaments) serve to make archery safe and fun for everyone, and how to teach and mentor new marshals. 
+
+We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
+
+# Handbooks and authorisation forms
+* [Society-wide target archery and thrown weapons rules (2 documents)](https://www.sca.org/officers/marshal/combat/t_archery/) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
+
+* [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. 
+
+* [Drachenwald archery marshal authorisation form](https://goo.gl/forms/vjRyAuy7UfNwsuEa2), online format, for those who are teaching archery marshals
+
+* [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format for offline use, for those who are teaching archery marshals
+
+# Reporting: forms for quarterly marshal's reports
+
+Click to use Googleforms to submit a report for your region.
+
+* [Principality of Nordmark (SE)](https://goo.gl/forms/zfE5wygztHLnsl9g2)  
+* [Principality of Insulae Draconis (IE, IS, UK)](https://goo.gl/forms/PB965pufulcSfZzJ3)   
+* [Barony of Aarnimetsä (FI)](https://goo.gl/forms/E9mXJClDWIVMWD7f2)
+* [Central region (AT, CH, BE, DK, FR, NL, PL, RO, RU)](https://goo.gl/forms/OKvdVid4v3obVX6A3)
+* [Southern region (BG, IL, IT, ZA)](https://goo.gl/forms/qAazDUfGV5lCLlR03)
+
+# Rounds
+
+[Read the rules and download the score sheets]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-rounds.md %}).
+
+# Equipment divisions
+
+[Read a description of the equipment used in Drachenwald competitions]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-equipment-divisions.md %})
+
+# Social media
+* [Yahoogroup](https://groups.yahoo.com/neo/groups/DW_Archery/info)
+* [Facebook Archers of Drachenwald](https://www.facebook.com/groups/DW.Archer/)
 
 {% include officer-contacts.html %}
+
