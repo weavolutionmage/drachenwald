@@ -1,3 +1,8 @@
+---
+title: The Story of Abion
+excerpt: A tale from the prinicpality years
+---
+
 # The story of Albion, the Black Dragon Protector of Drachenwald
  
 In the years before history was recorded in our land, in a dark forest to the North, called in the German the "Schwarzwald", which the "Black Forest", there lived an ancient black dragon whose name was Albion. And it was in this forest one winter's day that Albion came across a young boy. He was but fifteen and he was Prince of the land, and his name was Yustav, and he was crying.  

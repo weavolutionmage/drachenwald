@@ -1,3 +1,8 @@
+---
+title: Queen's Order of Courtesy
+excerpt: A tale commissioned by Queen Honor of Restormel
+---
+
 # The Queen's Order of Courtesy
 
 Long ago, the lands of Drachenwald were forged into a mighty Kingdom, and in the King's army was a virtuous but impoverished nobleman. One day in the fierce heat of battle, a foul arrow struck him under the arm, where he was lightly armoured, and he fell. The chirurgeon, knowing the esteem in which the man was held, worked long into the night to save him. Eventually, the arrowhead was withdrawn, but it was clear that he could play no further part in that campaign.  
