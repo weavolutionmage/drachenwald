@@ -5,7 +5,7 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Marshal's handbooks, report forms, and links to equipment and scoresheets for archery rounds. Marshal contacts at bottom of the page. 
+__Too long; didn't read:__ Marshal's handbooks, report forms, links to equipment,  scoresheets for archery rounds, and Drachenwald Company of Archers. Marshal contacts at bottom of the page. 
 {: .notice--primary}
 
 Drachenwald offers many opportunities to practice the important medieval skill of archery and to take part in competitions.
@@ -46,7 +46,8 @@ Click to use Googleforms to submit a marshal's report for your region.
 [Read a description of the equipment]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
 
 # Drachenwald Company of Archers
-The Drachenwald Company of Archers promotes archery within the Kingdom of Drachenwald, through recognition, education, and training.  
+The Drachenwald Company of Archers promotes archery within the Kingdom of Drachenwald, through recognition, education, and training. 
+ 
 * [Drachenwald Company of Archers Charter]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald-company-archers_charter.pdf %})  
 * [Company aims and ranks]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %})  
 * [Company members and current standings]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-ranks-scores.xls %})  
