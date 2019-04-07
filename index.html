@@ -17,20 +17,15 @@ header:
 
 <h2>Latest News</h2>
 
-<h3>31st March 2019</h3>
-<p>We hear now from Holmrike that Victoria Piera Rosselli has been issued a writ by King William and Queen Isabetta inviting her to sit vigil for elevation to the Order of the Laurel at a future date.
+<p><a href="{{ site.baseurl }}/posts/news/" class="btn btn--primary">See all the news...</a></p>
 
-</p>
+{% assign posts = site.posts | where_exp: "item", "item.categories contains 'news'" %}
+{% for post in posts limit:3 %}
+<h3>{{ post.title }}</h3>
 
-<h3>30th March 2019</h3>
-<p>
-<b>Drachenwald has heirs!</b> In the Crown Tournament in Nordmark's Shire of Holmrike, Duke Vitus Polonius and Duchess Isabel Peregrinus were victorious! They will be crowned at Summer Coronation in Polderslot, June 21st-23rd.
-</p>
-
-<h3>29th March 2019</h3>
-<p>
-Word reaches us from Crown Tournament in Holmrike that Ingrid Audardotter has been invited by King William and Queen Isabetta to sit vigil for elevation to the Order of the Pelican.
-</p>
+<h6><i>{{ post.date | date_to_string }}</i></h6>
+<p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn--primary">Read more...</a></p>
+{% endfor %}
 
 </div>
 
