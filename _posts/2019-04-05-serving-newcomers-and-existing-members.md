@@ -8,7 +8,8 @@ sitemap: false
 author: Aodh and Genevieve
 ---
 
-__Too long; didn't read:__ New site, new blog, new emphasis on showing off the best of Drachenwald. {: .notice--primary}
+__Too long; didn't read:__ New site, new blog, new emphasis on showing off the best of Drachenwald. 
+{: .notice--primary}
 
 At Spring Crown tourney weekend AS53 (2019), the kingdom web artificers spent a day pulling together the last of the content needed 'for launch', and published to www.drachenwald.sca.org/j/.
  
@@ -59,9 +60,10 @@ We're highlighting a few changes in thinking to this version of the site.
 
    So there's room for more: every page of the site has an 'Edit this page on GitLab' link. GitLab is the repository site which holds all the Drachenwald website files. Registering for an account is free, and means you can send corrections and changes as soon as you see a fix needed.
 
-   Genevieve had sworn off websites, after years of tinkering with a shire website first with Dreamweaver, and then on WordPress. She's now a complete convert to using GitLab and assembling sites using Jekyll (a software package that runs on a programming language called Ruby). {: .notice--primary}  
+   Genevieve had sworn off websites, after years of tinkering with a shire website first with Dreamweaver, and then on WordPress. She's now a complete convert to using GitLab and assembling sites using Jekyll (a software package that runs on a programming language called Ruby). 
+   {: .notice--primary}  
    
-   If you are interested in contributing as a writer, or you want to edit your own office's content, [see the README about the site on GitLab](https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/blob/staging/README.md).   
+   If you are interested in contributing, or you want to edit your own office's content, [see the README about the site on GitLab](https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/blob/staging/README.md).   
    
    If you can write an email in plain text, you can contribute content to the website.
    
@@ -72,7 +74,7 @@ We're highlighting a few changes in thinking to this version of the site.
 
    If you are an officer in Drachenwald, please make sure your regional and kingdom officers know your details as appropriate, so they appear correctly on the site. 
 
-   We want to draw as many new members with this site as we can. That plan will only work if their nearest local contact is still at their stated email address.   
+   We want to draw as many new members with this site as we can. This plan will only work if their nearest local contact is still at their stated email address.   
    
  With best wishes, 
  
