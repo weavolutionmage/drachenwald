@@ -25,5 +25,4 @@ Many groups have loaner bows and arrows available and there are often experience
 
 ### The Drachenwald Company of Archers
 
-All archers in the kingdom can join the Drachenwald Company of Archers and can advance through its ranks by achieving target scores in certain competitions.
-
+All archers in the kingdom can join the [Drachenwald Company of Archers]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/#drachenwald-company-of-archers %}) and can advance through its ranks by achieving target scores in certain competitions.

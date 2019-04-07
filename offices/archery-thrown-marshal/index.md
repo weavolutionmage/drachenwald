@@ -14,9 +14,11 @@ Archery is an accessible sport for all ages, and adapts well for people with dis
 
 These documents outline how Drachenwald's marshals (who act as safety officers and organise tournaments) serve to make archery safe and fun for everyone, and how to teach and mentor new marshals. 
 
-We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
+The Drachenwald Company of Archers is a 'guild' for archers, providing ranks and advancement with recognition from your fellow archers.
 
 # Handbooks and authorisation forms
+We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
+
 * [Society-wide target archery and thrown weapons rules (2 documents)](https://www.sca.org/officers/marshal/combat/t_archery/) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. 
@@ -27,7 +29,7 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 # Reporting: forms for quarterly marshal's reports
 
-Click to use Googleforms to submit a report for your region.
+Click to use Googleforms to submit a marshal's report for your region.
 
 * [Principality of Nordmark](https://goo.gl/forms/zfE5wygztHLnsl9g2) (SE)
 * [Principality of Insulae Draconis](https://goo.gl/forms/PB965pufulcSfZzJ3) (IE, IS, UK)  
@@ -42,6 +44,12 @@ Click to use Googleforms to submit a report for your region.
 # Equipment divisions
 
 [Read a description of the equipment]({{ site.baseurl }}{% link  offices/archery-thrown-marshal/archery-equipment-divisions.md %}) used in Drachenwald competitions.
+
+# Drachenwald Company of Archers
+The Drachenwald Company of Archers promotes archery within the Kingdom of Drachenwald, through recognition, education, and training.  
+* [Drachenwald Company of Archers Charter]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald-company-archers_charter.pdf %})  
+* [Company aims and ranks]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %})  
+* [Company members and current standings]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-ranks-scores.xls %})  
 
 # Social media
 * [Yahoogroup](https://groups.yahoo.com/neo/groups/DW_Archery/info)
