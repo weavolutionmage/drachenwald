@@ -104,12 +104,14 @@ Also known as the Royal Order of the Companions of Albion, 'the Albion' is one o
 
 The Companions of this Order have the right to display the regalia of the Order, which is '(Fieldless) A dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules'. 
 
-(Read the story of Albion)
+[Read the story of Albion]({{ site.baseurl }}{% link offices/herald/story-of-albion.md %})
 
 ## Queen's Order of Courtesy
 This award, given at the Queen's discretion, but typically just once per reign, is for 'untiring devotion to the ideals of courtesy and for consistent consideration of the needs of others'. 
 
 ![QueensOrderCourtesy]({{ site.baseurl }}{% link images/heraldry/edelweiss.jpg %}){: .align-right} The badge for this award is an Edelweiss with a red center to be worn on a pin or silver chain.
+
+[Read the story of the Queen's Order of Courtesy]({{ site.baseurl }}{% link offices/herald/queens-order-courtesy.md %})
 
 ## Order of the Dragon's Bowle
 

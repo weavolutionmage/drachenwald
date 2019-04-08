@@ -23,6 +23,7 @@ pages:
   environment: staging
   script:
   - JEKYLL_ENV=staging bundle exec jekyll build -d public/j
+  - cp public/j/robots.txt public/robots.txt
   artifacts:
     expire_in: 1 hour
     paths:

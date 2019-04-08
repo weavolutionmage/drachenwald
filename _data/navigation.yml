@@ -60,6 +60,35 @@ side-whatwedo:
 - title: Where We Are
   url: /groups/
 
+
+side-royals:
+
+- title: What We Do
+  url: /activities/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Royals
+  url: /royals/
+  children:
+    - title: King & Queen
+      url: /royals/
+    - title: The Heirs
+      url: /royals/heirs/
+    - title: Landed Nobility
+      url: /royals/territorial-royals/
+    - title: Succession
+      url: /royals/drachenwald-succession/
+  
+
+- title: In the Kingdom
+  url: /offices/
+
+- title: Where We Are
+  url: /groups/
+
+
 side-offices:
 
 - title: What We Do

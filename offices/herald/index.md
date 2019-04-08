@@ -33,6 +33,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [SCA Armorial](http://oanda.sca.org/), every herald's favourite database
 * [Morsulus Herald's precedent searches](http://www.morsulus.org/)
 * [Sofya la Rus' name and heraldry searches](http://sofyalarus.info/searches.html)
+* [East Kingdom Herald University](https://elmet.eastkingdom.org/ekhu/)
 
 # Society-wide College of Arms
 

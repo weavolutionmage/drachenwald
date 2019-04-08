@@ -1,3 +1,9 @@
+{% unless jekyll.environment == "production" %}
+<div style="text-align: center;">
+  This is the {{ jekyll.environment }} environment.
+  <a href="http://www.drachenwald.sca.org/">Go to the official site</a>.
+</div>
+{% endunless %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">

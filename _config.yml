@@ -148,6 +148,12 @@ defaults:
         nav: "side-whatwedo"
   -
     scope:
+      path: "royals"
+    values:
+      sidebar:
+        nav: "side-royals"
+  -
+    scope:
       path: "offices"
     values:
       sidebar:
@@ -158,7 +164,7 @@ defaults:
     values:
       sidebar:
         nav: "side-offices"
-        
+  -
     scope:
       path: "chartergroups"
     values:
@@ -231,5 +237,7 @@ defaults:
     values:
       permalink: "/posts/:categories/:year/:month/:day/:title/"
       author_profile: true
+      header:
+        show_overlay_excerpt: false
 
 
