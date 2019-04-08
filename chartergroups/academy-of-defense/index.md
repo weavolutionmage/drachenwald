@@ -31,7 +31,7 @@ Katarina Krognos af Ystad
 Konrad von Lewenstein  
 Thomas Bainbridge of Manchester  
 
-## Free Scholars: who have achieved the first rank of the Acdemy
+## Free Scholars: who have achieved the first rank of the Academy
 Acarin St Cyr  
 Áedán Páirce na Fia  
 Aidan McGuire  
