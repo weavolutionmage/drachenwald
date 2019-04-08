@@ -24,6 +24,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [OSCAR, Online System for Commentary and Response, where heralds gather online](https://oscar.sca.org/index.php?action=181)
 * [LoARs: Archive of Letters of Acceptance and Return](http://heraldry.sca.org/loar/)
 * [SCA Armorial, every herald's favourite database](http://oanda.sca.org/)
+* [East Kingdom Herald University](https://elmet.eastkingdom.org/ekhu/)
 
 # Society-wide College of Arms
 
