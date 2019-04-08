@@ -1,17 +1,14 @@
 ---
 title:  "Serving newcomers and existing members: about the Drachenwald website, AS 53"
-exerpt: "New site and new blog to feature the best of SCA kingdom of Drachenwald."
+excerpt: "At Spring Crown tourney weekend AS53 (2019), the kingdom web artificers spent a day pulling together the last of the content needed 'for launch', and published to www.drachenwald.sca.org. We're pleased with the reception so far, and have plans to make it better."
 date:   2019-04-05 00:00:00 +0100
 tags: webartificers, 
 category: news
 sitemap: false
 author: Aodh and Genevieve
+tldr: "New site, new blog, new emphasis on showing off the best of Drachenwald."
 ---
-
-__Too long; didn't read:__ New site, new blog, new emphasis on showing off the best of Drachenwald. 
-{: .notice--primary}
-
-At Spring Crown tourney weekend AS53 (2019), the kingdom web artificers spent a day pulling together the last of the content needed 'for launch', and published to www.drachenwald.sca.org/j/.
+At Spring Crown tourney weekend AS53 (2019), the kingdom web artificers spent a day pulling together the last of the content needed 'for launch', and published to [www.drachenwald.sca.org](http://www.drachenwald.sca.org).
  
 We're pleased with the reception so far, and have plans to make it better.
  

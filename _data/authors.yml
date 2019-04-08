@@ -1,7 +1,6 @@
 Genevieve:
   name        : "Genevieve Rouge Maunche"
   bio         : "I could tell you what Rouge Maunche does...but you'd have to become a herald."
-  avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -15,7 +14,6 @@ Genevieve:
 Aodh and Genevieve:
   name        : "Aodh and Genevieve"
   bio         : "Greater House Sylveaston in Drachenwald"
-  avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -30,7 +28,6 @@ Aodh and Genevieve:
 Aodh:
   name        : "Aodh O'Siadhail"
   bio         : "Webminister. Seneschal. Cook. Spreadsheets make everything better."
-  avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -45,7 +42,6 @@ Aodh:
 Sela:
   name        : "Sela de la Rosa"
   bio         : "Herald. Scribe. Improv."
-  avatar      : "/assets/images/bio-photo-2.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
