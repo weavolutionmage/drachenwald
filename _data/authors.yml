@@ -1,0 +1,57 @@
+Genevieve:
+  name        : "Genevieve Rouge Maunche"
+  bio         : "I could tell you what Rouge Maunche does...but you'd have to become a herald."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/j/offices/herald/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+Aodh and Genevieve:
+  name        : "Aodh and Genevieve"
+  bio         : "Greater House Sylveaston in Drachenwald"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/j/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
+Aodh:
+  name        : "Aodh O'Siadhail"
+  bio         : "Webminister. Seneschal. Cook. Spreadsheets make everything better."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/j/offices/herald/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
+Sela:
+  name        : "Sela de la Rosa"
+  bio         : "Herald. Scribe. Improv."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/j/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
+
+

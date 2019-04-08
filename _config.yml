@@ -230,5 +230,8 @@ defaults:
       type: "posts"
     values:
       permalink: "/posts/:categories/:year/:month/:day/:title/"
+      author_profile: true
+      header:
+        show_overlay_excerpt: false
 
 

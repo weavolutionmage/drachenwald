@@ -10,22 +10,25 @@ All rapier fencing is overseen by rapier marshals, who are there for safety, not
 
 Fencing tourneys, challenges and classes take place as part of many SCA events. Sometimes fencing is the main feature of an event, such as the “Collegium of Defence”. 
 
-### Equipment
+# Equipment
 
 We use real steel swords, which are blunt, flexible and have rubber tips. They are larger and heavier than those used in modern sports fencing. For safety, all skin must be covered and more vulnerable areas of the body must be covered by material which passes a puncture test (full details are in the fencing manual). The head, face and neck also need additional protection – modern fencing masks, hoods and plastic gorgets are the usual way to start. So long as you have adequate protection, you can dress to suit your historical preferences.
 
 For attending a first practice, wear long sleeves, full length trousers and footwear that completely covers the foot. Groin protection for male or female-bodied people is available from sports stores. For everything else, you can ask your local group if loaner gear is available before buying your own. Many groups will have spare swords, masks, gorgets etc. but there may not always be a full range of sizes available.
 
-### Authorisations
+# Authorisations
 
 In order to take part in fencing at events, it is necessary to pass a safety test know as “authorisation”. This involves a theory test of being quizzed on the rules, and fencing with a marshal in order to demonstrate that you can handle a sword sensibly and with appropriate calibration (how hard you hit). Even if you have fenced to a high level elsewhere (sports, HEMA, other SCA kingdoms) you will need to authorise to fence in Drachenwald.
 
 Further authorisations allow fencers to use additional equipment, such as bucklers, cloaks and daggers.
 
-### Cut and Thrust
+Want to learn more? See the equipment standards, authorisation guidance and info for marshals (safety officers and tournament organisers) on the [Fencing Marshal page]({{ site.baseurl }}{% link offices/fencing-marshal/index.md %})
+{: .notice--primary}
+
+# Cut and Thrust
 
 In addition to rapier fencing, there is also “cut and thrust” fencing, which allows for percussive cuts and therefore requires additional protective gear. 
 
-### The Drachenwald Academy of Defence
+# The Drachenwald Academy of Defence
 
-All authorised fencers in the kingdom can join the Drachenwald Academy of Defence and take on challenges to move up in its ranks.
+All authorised fencers in the kingdom can join the [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defense/index.md %}) and take on challenges to move up in its ranks.

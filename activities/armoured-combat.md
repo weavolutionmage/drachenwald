@@ -8,17 +8,22 @@ Armoured combat requires armour, but instead of steel weapons the weapons are us
 
 Women can, and absolutely do, engage in armoured combat. Armoured combat is not suitable for children under  16. 
 
-### Weapons and Armour
+# Weapons and Armour
 
 The weapons used in our armored combat activities are largely made out of rattan poles - these  look and feel very much like large, solid bamboo poles. Replica weapons, for example axes, might be made instead from rubber and foam. Weapons must be passed by a marshal before every fight.
 
-As you can imagine, acquiring armour is not a trivial task and armouring is a skill in itself. Fighters may choose to buy or make their own armour using a variety of materials. The fighter community is enormously helpful and keen to get new fighters, so you'll get armouring help from all over. There is a  set of minimum standards for this armour, but as a general rule, armored combatants must have sufficient protection for their head and neck (gorget), their joints (wrists, elbows, shoulders, and knees), their hands, and their kidneys and groin. Some fighters go for a generic style of armour that does the job, but many take pride in constructing kit that matches their &quot;persona&quot; - the person of a certain time, place and culture that the fighter has chosen to research and present as, or the period of combat the individual prefers to study. You can see fighters in full plate metal fight fighters in armour made  chainmail and  hardened leather. Shields can be made from wood or metal and are decorated to represent the fighter with heraldic devices.
+As you can imagine, acquiring armour is not a trivial task and armouring is a skill in itself. Fighters may choose to buy or make their own armour using a variety of materials. The fighter community is enormously helpful and keen to get new fighters, so you'll get armouring help from all over. There is a  set of minimum standards for this armour, but as a general rule, armored combatants must have sufficient protection for their head and neck (gorget), their joints (wrists, elbows, shoulders, and knees), their hands, and their kidneys and groin.  
 
-### Authorisation
+Some fighters go for a generic style of armour that does the job, but many take pride in constructing kit that matches their &quot;persona&quot; - the person of a certain time, place and culture that the fighter has chosen to research and present as, or the period of combat the individual prefers to study. You can see fighters in full plate metal fight fighters in armour made  chainmail and  hardened leather. Shields can be made from wood or metal and are decorated to represent the fighter with heraldic devices.
+
+# Authorisation
 
 Authorisation is the test you must pass with a marshal before engaging in combat. It is not an assessment of your skill but a test to make sure you know the rules as laid down by the society, that you know how to protect yourself in combat situations and you are basically competent with your equipment. You will be assessed on your knowledge of the rules and required to give a demonstration.
 
-### A personal experience
+Want to learn more? See the equipment standards, authorisation guidance and info for marshals (safety officers and tournament organisers) on the [Armoured Combat Marshal page]({{ site.baseurl }}{% link offices/armoured-combat-marshal/index.md %})
+{: .notice--primary}
+
+# A personal experience
 
 _Lady Gytha Ui Bhanain_
 
@@ -26,7 +31,7 @@ _Lady Gytha Ui Bhanain_
 > 
 > The first objective will be to get authorised, to ensure you can play safely according to the rules. Once you are willing to put a certain amount of effort into training, you will see yourself improving and entering into tourneys. Keep a roll of duct tape, a pair of shoelaces, and a leather punch in your armour bag and you'll find yourself integrating very quickly into the pre-tourney rituals. Armouring up with the other fighters is a great way of settling nerves, and there's always an extra pair of hands for that fiddly buckle.
 
-### Practical Tips for Starting with Armoured Combat
+# Practical Tips for Starting with Armoured Combat
 
 - Find a practice you can get to regularly
 - As a beginner you don't need to buy all equipment before you start, you will be starting with unarmoured drills and &quot;slow work&quot; for a little while and you can chat with other fighters about your options. You can also enquire about the availability of loaner equipment at your local practice or at an event.
