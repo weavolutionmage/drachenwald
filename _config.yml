@@ -45,6 +45,8 @@ exclude:
   - Dockerfile
   - docker-compose.yml
 
+search: true
+
 # Analytics
 analytics:
   provider               : google-universal # false (default), "google", "google-universal", "custom"
