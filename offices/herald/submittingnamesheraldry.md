@@ -1,5 +1,5 @@
 ---
-title: Registering names and heraldry in Drachenwald
+title: Submitting names and heraldry in Drachenwald
 toc: true
 toc_label: Contents
 excerpt: Playing games with heralds, at modest rates
@@ -8,7 +8,7 @@ excerpt: Playing games with heralds, at modest rates
 Too long; didn't read: we register medieval names and armory for SCA use, modelled on the English College of Heralds. [Download the forms](#submission-forms).
 {: .notice--primary}
 
-# Registering names and heraldic insignia
+# Submitting names and heraldic insignia
 
 In the Society, you can freely choose a name, which your friends will call you. A different name can make the game richer, as you build up a persona, imagining yourself in a different age.
 
@@ -20,7 +20,7 @@ As the Society grew, and heralds did more research and learned more about histor
 
 These rules are available online, as are all the tools you need to register your name and arms. We now record all the names and heraldry online too.
 
-With several decades of legacy practice, however, sometimes folks new to the process need help navigating the forms. So this page, plus your local friendly herald, are here to help.
+With several decades of legacy practice, however, sometimes folks new to the process need help navigating the forms. So this page, plus your local friendly herald, are here to help. You start by 'submitting' a name and armory you want to register.
 
 __Modern privacy note__: By sending a filled submission form to the kingdom Submissions Herald, you give the SCA College of Heralds, based in the USA, permission to process and maintain all information on the form in relation to everything required for registering your submission. The records may be maintained indefinitely. For more information, please see [Your information and privacy](#your-information-and-privacy).
 {: .notice--warning}

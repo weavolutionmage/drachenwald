@@ -148,6 +148,12 @@ defaults:
         nav: "side-whatwedo"
   -
     scope:
+      path: "royals"
+    values:
+      sidebar:
+        nav: "side-royals"
+  -
+    scope:
       path: "offices"
     values:
       sidebar:
