@@ -3,11 +3,6 @@ layout: none
 ---
 {% if jekyll.environment == "production" %}
 Sitemap: http://www.drachenwald.sca.org/j/sitemap.xml
-
-User-agent: *
-Disallow: /drupal/
-Disallow: /wordpress/
-Disallow: /archive/
 {% else %}
 User-agent: *
 Disallow: /
