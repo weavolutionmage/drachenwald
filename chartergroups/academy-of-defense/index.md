@@ -95,8 +95,8 @@ Muirghein MacKiernan
 Nadiana Stjarnulf  
 Nemet Arpad  
 Nichole d'Audrieu  
-Patrick of Vielburgen 
-Rannulf Sweartfaxe
+Patrick of Vielburgen  
+Rannulf Sweartfaxe  
 Regina van Ameland  
 Rhieinwen  
 Richard the Rampant  
