@@ -3,7 +3,4 @@ layout: none
 ---
 {% if jekyll.environment == "production" %}
 Sitemap: http://www.drachenwald.sca.org/j/sitemap.xml
-{% else %}
-User-agent: *
-Disallow: /
 {% endif %}
