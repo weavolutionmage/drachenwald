@@ -95,7 +95,8 @@ Muirghein MacKiernan
 Nadiana Stjarnulf  
 Nemet Arpad  
 Nichole d'Audrieu  
-Patrick of Vielburgen  
+Patrick of Vielburgen 
+Rannulf Sweartfaxe
 Regina van Ameland  
 Rhieinwen  
 Richard the Rampant  
@@ -150,7 +151,6 @@ Nero Lupo
 Nicholas de Estleche dictus le Tardif  
 Padraig Gliadrach O'Ceallaigh  
 Pietari Uv  
-Rannulf Sweartfaxe  
 Raphael d'Angelo  
 Rebecca of Flintheath  
 Richart von Brandenburg  
