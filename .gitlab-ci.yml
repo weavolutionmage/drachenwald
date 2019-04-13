@@ -22,8 +22,7 @@ before_script:
 pages:
   environment: staging
   script:
-  - JEKYLL_ENV=staging bundle exec jekyll build -d public/j
-  - cp public/j/robots.txt public/robots.txt
+  - JEKYLL_ENV=staging bundle exec jekyll build -d public
   artifacts:
     expire_in: 1 hour
     paths:
@@ -63,8 +62,8 @@ deploy:
   ## https://gitlab.com/gitlab-examples/ssh-private-key/issues/1#note_48526556
   ##
   - echo "${SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add - > /dev/null
-  - JEKYLL_ENV=production bundle exec jekyll build -d public/j
-  - rsync -rvzc --delete -e 'ssh -p 2222' public/j $WEBHOST:public_html/
+  - JEKYLL_ENV=production bundle exec jekyll build -d public
+  - rsync -rvzc --delete -e 'ssh -p 2222' public/ $WEBHOST:public_html/
   artifacts:
     expire_in: 1 hour
     paths:
