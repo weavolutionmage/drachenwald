@@ -4,7 +4,7 @@ layout: none
 Redirect 301 /j/ {{ site.url }}/
 Redirect 301 /drupal/content/kingdom-event-calendar {{ site.url }}/events/calendar/
 Redirect 301 /content/kingdom-event-calendar {{ site.url }}/events/calendar/
-Redirect 301 /archive/node/69 {{ site.url }}/events/calendar/
+Redirect 301 /node/69 {{ site.url }}/events/calendar/
 
 Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
 Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
