@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RedirectMatch 301 ^/j/(.*)$ http://www.drachenwald.sca.org/$1
+RedirectMatch 301 ^/drupal/content/kingdom-event-calendar$ http://www.drachenwald.sca.org/events/calendar/
+RedirectMatch 301 ^/content/kingdom-event-calendar$ http://www.drachenwald.sca.org/events/calendar/
+
+RedirectMatch 301 ^/drupal/(.*)$ https://sca-drachenwald.gitlab.io/archive/$1
+RedirectMatch 301 ^/content/(.*)$ https://sca-drachenwald.gitlab.io/archive/content/$1
+RedirectMatch 301 ^/node/(.*)$ https://sca-drachenwald.gitlab.io/archive/node/$1
+RedirectMatch 301 ^/wordpress/(.*)$ https://sca-drachenwald.gitlab.io/archive/wordpress/$1
+
+ErrorDocument 404 /404.html
