@@ -4,7 +4,6 @@ excerpt: "At Spring Crown tourney weekend AS53 (2019), the kingdom web artificer
 date:   2019-04-05 00:00:00 +0100
 tags: webartificers, 
 category: news
-sitemap: false
 author: Aodh and Genevieve
 tldr: "New site, new blog, new emphasis on showing off the best of Drachenwald."
 ---
