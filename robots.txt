@@ -2,5 +2,5 @@
 layout: none
 ---
 {% if jekyll.environment == "production" %}
-Sitemap: http://www.drachenwald.sca.org/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
 {% endif %}
