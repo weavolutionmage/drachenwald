@@ -1,10 +1,14 @@
-Redirect 301 /j/ http://www.drachenwald.sca.org/
-Redirect 301 /drupal/content/kingdom-event-calendar http://www.drachenwald.sca.org/events/calendar/
-Redirect 301 /content/kingdom-event-calendar http://www.drachenwald.sca.org/events/calendar/
+---
+layout: none
+---
+Redirect 301 /j/ {{ site.url }}
+Redirect 301 /drupal/content/kingdom-event-calendar {{ site.url }}/events/calendar/
+Redirect 301 /content/kingdom-event-calendar {{ site.url }}/events/calendar/
+Redirect 301 /archive/node/69 
 
-Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
-Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
-Redirect 301 /node/ https://sca-drachenwald.gitlab.io/archive/node/
-Redirect 301 /wordpress/ https://sca-drachenwald.gitlab.io/archive/wordpress/
+Redirect 301 /drupal/ {{ site.url }}/archive/
+Redirect 301 /content/ {{ site.url }}/archive/content/
+Redirect 301 /node/ {{ site.url }}/archive/node/
+Redirect 301 /wordpress/ {{ site.url }}/archive/wordpress/
 
 ErrorDocument 404 /404.html
