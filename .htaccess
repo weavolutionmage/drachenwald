@@ -1,6 +1,6 @@
 RewriteEngine on
 
-RedirectMatch 301 ^/j/(.*)$ http://www.drachenwald.sca.org/
+RedirectMatch 301 ^/j/(.*)$ http://www.drachenwald.sca.org/$1
 RedirectMatch 301 ^/drupal/content/kingdom-event-calendar$ http://www.drachenwald.sca.org/j/events/calendar/
 RedirectMatch 301 ^/content/kingdom-event-calendar$ http://www.drachenwald.sca.org/j/events/calendar/
 
