@@ -2,7 +2,7 @@
 layout: none
 ---
 <IfModule headers_module>
-  header set X-Clacks-Overhead "GNU Terry Pratchett"
+  header set X-Clacks-Overhead "Terafan Greydragon"
 </IfModule> 
 
 Redirect 301 /j/ {{ site.url }}/
