@@ -1,6 +1,10 @@
 ---
 layout: none
 ---
+<IfModule headers_module>
+  header set X-Clacks-Overhead "GNU Terry Pratchett"
+</IfModule> 
+
 Redirect 301 /j/ {{ site.url }}/
 Redirect 301 /drupal/content/kingdom-event-calendar {{ site.url }}/events/calendar/
 Redirect 301 /content/kingdom-event-calendar {{ site.url }}/events/calendar/
