@@ -2,7 +2,7 @@
 layout: none
 ---
 <IfModule headers_module>
-  header set X-Clacks-Overhead "Terafan Greydragon"
+  header set X-Clacks-Overhead "GNU Terafan Greydragon"
 </IfModule> 
 
 Redirect 301 /j/ {{ site.url }}/
