@@ -85,6 +85,11 @@ This guide applies to both Crown lists (for next King and Queen) and Coronet lis
 
 Run everything! :)
 
+## After the event
+
+* Thank the many herald volunteers, the list minister and the marshal in charge who helped you make the occasion special.
+
+* Send in your report on court, and remind others to send in any reports.
 
 ## Accessibility notes
 
