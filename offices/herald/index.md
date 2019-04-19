@@ -23,6 +23,8 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Drachenwald Book of Ceremonies Apocrypha, Jan 2017, AS 51 (examples of ceremonies)]({{ site.baseurl }}{% link offices/herald/files/drachenwald_apocrypha.pdf %})
 * [The Zen of good court: building the special occasions of the Society]({{ site.baseurl }}{% link offices/herald/zenofgoodcourtguidance.md %})
 * [Field heralding crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
+* [Tournament herald-in-charge checklist]({{ site.baseurl }}{% link offices/herald/heraldinchargetourneychecklist.md %}), to help heralds-in-charge keep track of a full day of tasks 
+
 # Register your name and armory
 * [Submitting names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/submittingnamesheraldry.md %}), explaining the process of getting your own name and heraldry registered
 * [LoARs: Archive of Letters of Acceptance and Return](http://heraldry.sca.org/loar/), the final decisions on submissions from Laurel Sovereign of Arms and staff
