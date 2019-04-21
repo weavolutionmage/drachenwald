@@ -11,7 +11,7 @@ X-WR-CALNAME:Drachenwald Events Calendar
 X-WR-TIMEZONE:Europe/London
 X-WR-CALDESC:Events calendar for the SCA principality of Insulae Draconis
 {% if site.data.events.eventlist %}{% assign events = site.data.events.eventlist | sort:"start" %}{% for item in events %}{% unless item.outsideid == true %}BEGIN:VEVENT
-UID:{{ item.start | date:"%Y%m%dT%H%M%S"}}-{{ item.shire | cgi_escape }}@insulaedraconis.org
+UID:{{ item.start | date:"%Y%m%dT%H%M%S"}}-{{ item.group | default: "" | cgi_escape }}@insulaedraconis.org
 DTSTAMP:{{ 'now' | date:"%Y%m%dT%H%M%S" }}
 DTSTART:{{ item.start | date:"%Y%m%d" }}
 DTEND:{% if item.end == "" %}{{ item.start | date:"%Y%m%d" }}{% else %}{{ item.end | date:"%Y%m%d" }}{% endif %}
