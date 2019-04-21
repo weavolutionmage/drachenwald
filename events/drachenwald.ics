@@ -13,8 +13,8 @@ X-WR-CALDESC:Events calendar for the SCA Kingdom of Drachenwald
 {% if site.data.events.eventlist %}{% assign events = site.data.events.eventlist | sort:"start" %}{% for item in events %}BEGIN:VEVENT
 UID:{{ item.start | date:"%Y%m%dT%H%M%S"}}-{{ item.group | default: "" | cgi_escape }}@drachenwald.sca.org
 DTSTAMP:{{ 'now' | date:"%Y%m%dT%H%M%S" }}
-DTSTART:{{ item.start | date:"%Y%m%d" }}
-DTEND:{% if item.end == "" %}{{ item.start | date:"%Y%m%d" }}{% else %}{{ item.end | date:"%Y%m%d" }}{% endif %}
+DTSTART;VALUE=DATE:{{ item.start | date:"%Y%m%d" }}
+DTEND;VALUE=DATE:{% if item.end == "" %}{{ item.start | date:"%Y%m%d" }}{% else %}{{ item.end | date:"%Y%m%d" }}{% endif %}
 LOCATION:{{ item.group }} ({{ item.country }})
 SUMMARY:{{ item.name }}
 END:VEVENT
