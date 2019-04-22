@@ -12,7 +12,7 @@ title: Chronicler report templte
 </ul>
 <p>In case you don't report your newsletter's finances monthly, you have the option to do a full year financial report to the Chronicler when Domesday report is due. All groups, even the ones that report finances during the year, have to provide the Kingdom Chronicler with a yearly financial report!</p>
 <h3>Report Template</h3>
-<p>You may email the Chronicler with the information below, or you can download and fill in the <a title="Quarterly Report Form (Word)" href="/sites/default/files/Chronicler Quarterly Report Template.doc" target="_blank">blank quarterly report</a> form in Word.</p>
+<p>You may email the Chronicler with the information below, or you can download and fill in the <a title="Quarterly Report Form (Word)" href="{% link offices/chronicler/files/chronicler-quarterly-report-template.doc %}" target="_blank">blank quarterly report</a> form in Word.</p>
 <ul>
 <li>Name of publication:</li>
 <li>Group:</li>
