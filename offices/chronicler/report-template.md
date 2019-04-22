@@ -1,5 +1,5 @@
 ---
-title: Chronicler report templte
+title: Chronicler report template
 ---
 <p>All local and regional Chroniclers should provide a quarterly report.&nbsp; The report should contain all of the information listed below, plus any other information that is relevant.</p>
 <p>Chroniclers in affiliate organisations should still submit reports, but do not need to include financial information.</p>
