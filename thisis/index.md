@@ -11,6 +11,8 @@ excerpt:  The latest posts from a variety of people in Drachenwald who are skill
 {% endif %}
 
 {% for item in blogposts limit:10 %}
-<h2><a href="{{ item.link }}">{{ item.title }}</a></h2>
+<h3><a href="{{ item.link }}">{{ item.title }}</a></h3>
+<h5><em>{{ item.site }} on {{ item.published[0] }}-{{ item.published[1] }}-{{ item.published[2] }}</em></h5>
 <p>{{ item.summary }}</p>
+<hr>
 {% endfor %}

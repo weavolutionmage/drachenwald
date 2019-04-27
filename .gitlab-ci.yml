@@ -37,7 +37,6 @@ pages:
     - public
   only:
   - staging
-  - thisisdrachenwald
 
 deploy:
   environment: production
