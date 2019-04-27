@@ -1,10 +1,10 @@
-rssUrls = ['https://dragonscribes.blogspot.com/feeds/posts/default',
-           "https://huysuylenburgh.wordpress.com/feed/",
-           'https://thoragreylock.wordpress.com/feed/',
-           'https://liadethornegge.dreamwidth.org/data/rss',
-           'https://handcraftedhistory.blog/feed/',
-           'https://16thcstitches.wordpress.com/feed/',
-           'http://aros.nordmark.org/feed/']
+rssUrls = [{'name':'Dragonscribes','url':'https://dragonscribes.blogspot.com/feeds/posts/default'},
+           {'name':'Huys Uylenburgh','url':"https://huysuylenburgh.wordpress.com/feed/"},
+           {'name':'Thora Greylock','url':'https://thoragreylock.wordpress.com/feed/'},
+           {'name':'Lia de Thornegge','url':'https://liadethornegge.dreamwidth.org/data/rss'},
+           {'name':'Handcrafted History','url':'https://handcraftedhistory.blog/feed/'},
+           {'name':'16th Century Stitches','url':'https://16thcstitches.wordpress.com/feed/'},
+           {'name':'Aros','url':'http://aros.nordmark.org/feed/'}]
 results = []
 
 import feedparser
@@ -16,7 +16,7 @@ import requests
 for rssUrl in rssUrls:
     try:
         #NewsFeed = feedparser.parse(rssUrl)
-        r = requests.get(rssUrl, timeout=5)
+        r = requests.get(rssUrl['url'], timeout=5)
         NewsFeed = feedparser.parse(r.text)
 
         for entry in NewsFeed.entries:
@@ -26,9 +26,10 @@ for rssUrl in rssUrls:
 
             link = entry['link']
             published = entry['published_parsed']
-            print(title)
-            results.append({'summary':summaryLtd, 'link':link,'published':published,'title':title})
+            results.append({'summary':summaryLtd, 'link':link,'published':published,'title':title,'site':rssUrl['name']})
     except Exception as e:
         print("%s" % e)
+
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(sorted(results, key = lambda i: i['published'], reverse = True), outfile, ensure_ascii=False)
+    srtd = sorted(results, key=lambda i: i['published'], reverse=True)
+    json.dump(srtd[0:50], outfile, ensure_ascii=False)
