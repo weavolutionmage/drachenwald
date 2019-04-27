@@ -30,5 +30,5 @@ for rssUrl in rssUrls:
             results.append({'summary':summaryLtd, 'link':link,'published':published,'title':title})
     except Exception as e:
         print("%s" % e)
-with io.open('../_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
+with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(sorted(results, key = lambda i: i['published'], reverse = True), outfile, ensure_ascii=False)
