@@ -5,19 +5,25 @@ variables:
   LC_ALL: "C.UTF-8"
   LANG: "en_US.UTF-8"
   LANGUAGE: "en_US.UTF-8"
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
 
 cache:
   paths:
   - vendor/
+  - .cache/pip
+  - venv/
 
 before_script:
+  - 'apt-get -qq update && apt-get install -y locales python3-pip && locale-gen en_US.UTF-8 && localedef -i en_US -f UTF-8 en_US.UTF-8'
+  - pip3 install virtualenv
+  - virtualenv venv
+  - source venv/bin/activate
   - bundle install --path vendor
   - curl -o _data/events/eventlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Events
   - curl -o _data/events/bidlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Bidlist
   - curl -o _data/groups/grouplist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=groups
   - curl -o _data/groups/officerlist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=officers
   - curl -o _data/groups/peerlist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=peers
-  - 'apt-get update && apt-get install -y locales python3-pip && locale-gen en_US.UTF-8 && localedef -i en_US -f UTF-8 en_US.UTF-8'
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
   - 'python3 _thisisdrachenwald/fetch_rss.py'
 

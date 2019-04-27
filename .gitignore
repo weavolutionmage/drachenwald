@@ -8,3 +8,4 @@ images/resized/
 _data/events/*.csv
 _data/groups/*.csv
 _data/thisisdrachenwald.json
+venv
