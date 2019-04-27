@@ -1,10 +1,10 @@
 ---
-title: Made in Drachenwald
+title: This is Drachenwald
+excerpt:  The latest posts from a variety of people in Drachenwald who are skilled in different arts, practices, or areas of study.
 ---
 {% if site.data.thisisdrachenwald %}
   {% assign blogposts = site.data.thisisdrachenwald %}
-  This are the latest posts from a variety of people in Drachenwald who are
-  skilled in different arts, practices, or areas of study.
+
 {% else %}
   {% assign blogposts = "" %}
   The blog posts aren't available right now - please check back later.
