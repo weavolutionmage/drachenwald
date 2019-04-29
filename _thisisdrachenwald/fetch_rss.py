@@ -1,6 +1,6 @@
 rssUrls = [{'name':'Close Fighting','url':'https://closefighting.blogspot.com/feeds/posts/default'},
            {'name':'Huys Uylenburgh','url':"https://huysuylenburgh.wordpress.com/feed/"},
-            {'name':'Time traveling Órlaith','url':"https://pontagedue.wordpress.com/feed/"},
+            {'name':'Órlaith Chaomhánach','url':"https://pontagedue.wordpress.com/feed/"},
            {'name':'Handcrafted History','url':'https://handcraftedhistory.blog/feed/'},
            {'name':'16th Century Stitches','url':'https://16thcstitches.wordpress.com/feed/'},
            {'name':'Aros','url':'http://aros.nordmark.org/feed/'}]
