@@ -1,7 +1,6 @@
-rssUrls = [{'name':'Dragonscribes','url':'https://dragonscribes.blogspot.com/feeds/posts/default'},
+rssUrls = [{'name':'Close Fighting','url':'https://closefighting.blogspot.com/feeds/posts/default'},
            {'name':'Huys Uylenburgh','url':"https://huysuylenburgh.wordpress.com/feed/"},
-           {'name':'Thora Greylock','url':'https://thoragreylock.wordpress.com/feed/'},
-           {'name':'Lia de Thornegge','url':'https://liadethornegge.dreamwidth.org/data/rss'},
+            {'name':'Órlaith Chaomhánach','url':"https://pontagedue.wordpress.com/feed/"},
            {'name':'Handcrafted History','url':'https://handcraftedhistory.blog/feed/'},
            {'name':'16th Century Stitches','url':'https://16thcstitches.wordpress.com/feed/'},
            {'name':'Aros','url':'http://aros.nordmark.org/feed/'}]
@@ -33,3 +32,5 @@ for rssUrl in rssUrls:
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     srtd = sorted(results, key=lambda i: i['published'], reverse=True)
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
+
+
