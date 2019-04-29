@@ -14,6 +14,8 @@ In between grander events, many local groups organise get-togethers, maybe for a
 
 Three activities that are very popular in the SCA are armoured combat, archery and rapier fencing. There is more information about these on their individual pages.
 
-A huge range of pursuits based around medieval skills and knowledge are grouped together under the umbrella term “Arts & Sciences”. There is more information about how these are enjoyed in the SCA on the Arts & Sciences page. 
+A huge range of pursuits based around medieval skills and knowledge are grouped together under the umbrella term “Arts & Sciences”. There is more information about how these are enjoyed in the SCA on the Arts & Sciences page.
+
+And if you'd like to hear the words of our members themselves, we collect many of their blog posts at [This is Drachenwald]({% link thisis/index.md %}).
 
 [Upcoming events]({{ site.baseurl }}{% link events/calendar.html %}){: .btn .btn--inverse}

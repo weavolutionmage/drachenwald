@@ -3,7 +3,12 @@ title: In the Kingdom
 exerpt: Volunteers make Drachenwald greater than the sum of its parts.
 ---
 
+# This is Drachenwald
+
+To read the latest posts from a variety of people in Drachenwald who are skilled in different arts, practices, or areas of study: [This is Drachenwald]({% link thisis/index.md %}).
+
 # Offices
+
 The admin side of our Society has many volunteers, in numerous roles. Most offices require periodic reporting to regional or kingdom superiors. Kingdom officers in turn report to their Society equivalents.
 
 These pages provide the forms, handbooks and guidance for local and regional officers.
