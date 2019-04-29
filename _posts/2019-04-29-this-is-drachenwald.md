@@ -18,7 +18,7 @@ If you’d like your blog to be featured here, we’d be thrilled to hear from y
 
 - You must live in Drachenwald
 - A mix of languages is welcome; this is who we are, and who is doing the cool stuff in the kingdom
-- The feed must be SCA content only (we won’t carry blogs with mixed comments about work, politics and modern stuff)
+- The feed must be SCA relevant content only (we won’t carry blogs with mixed comments about work, politics and modern stuff)
 - We do reserve the right to say no
 - We need an RSS or ATOM feed; no exceptions, as this is how we keep it automatic (sadly, we’re not allowed to pull posts from Facebook and Instagram)
 
