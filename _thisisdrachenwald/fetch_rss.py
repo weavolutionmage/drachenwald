@@ -1,16 +1,18 @@
-rssUrls = [{'name':'Close Fighting','url':'https://closefighting.blogspot.com/feeds/posts/default'},
-           {'name':'Huys Uylenburgh','url':"https://huysuylenburgh.wordpress.com/feed/"},
-            {'name':'Órlaith Chaomhánach','url':"https://pontagedue.wordpress.com/feed/"},
-           {'name':'Handcrafted History','url':'https://handcraftedhistory.blog/feed/'},
-           {'name':'16th Century Stitches','url':'https://16thcstitches.wordpress.com/feed/'},
-           {'name':'Aros','url':'http://aros.nordmark.org/feed/'}]
-results = []
-
 import feedparser
 import json
 from bs4 import BeautifulSoup
 import io
 import requests
+
+
+rssUrls=[]
+
+with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
+    rssUrls = json.load(f)
+
+
+results = []
+
 
 for rssUrl in rssUrls:
     try:
@@ -29,8 +31,16 @@ for rssUrl in rssUrls:
     except Exception as e:
         print("%s" % e)
 
+
+srtd = sorted(results, key=lambda i: i['published'], reverse=True)
+
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    srtd = sorted(results, key=lambda i: i['published'], reverse=True)
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
 
 
+#for i in srtd[0:20]:
+#    print("%s: %s - %s" %(i['published'],i['site'],i['title']))
+
+import yaml
+with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
+    yaml.dump(rssUrls,outfile)
