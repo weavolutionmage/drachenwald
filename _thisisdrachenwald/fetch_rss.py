@@ -37,7 +37,10 @@ srtd = sorted(results, key=lambda i: i['published'], reverse=True)
 with io.open('../_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
 
+
 #for i in srtd[0:20]:
 #    print("%s: %s - %s" %(i['published'],i['site'],i['title']))
 
-
+import yaml
+with io.open('../_data/thisisdrachenwald_feedlist.json', 'w', encoding='utf-8') as outfile:
+    yaml.dump(rssUrls,outfile)
