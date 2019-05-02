@@ -42,5 +42,5 @@ with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
 #    print("%s: %s - %s" %(i['published'],i['site'],i['title']))
 
 import yaml
-with io.open('_data/thisisdrachenwald_feedlist.json', 'w', encoding='utf-8') as outfile:
+with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
     yaml.dump(rssUrls,outfile)
