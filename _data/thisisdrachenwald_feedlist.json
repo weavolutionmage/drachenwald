@@ -1,15 +1,12 @@
-- {link: 'https://closefighting.blogspot.com/', name: Close Fighting, url: 'https://closefighting.blogspot.com/feeds/posts/default'}
-- {link: 'https://huysuylenburgh.wordpress.com', name: Huys Uylenburgh, url: 'https://huysuylenburgh.wordpress.com/feed/'}
-- {link: 'https://pontagedue.wordpress.com', name: "\xD3rlaith Chaomh\xE1nach", url: 'https://pontagedue.wordpress.com/feed/'}
-- {link: 'https://handcraftedhistory.blog', name: Handcrafted History, url: 'https://handcraftedhistory.blog/feed/'}
-- {link: 'https://16thcstitches.wordpress.com', name: 16th Century Stitches, url: 'https://16thcstitches.wordpress.com/feed/'}
-- {link: 'http://aros.nordmark.org', name: Aros, url: 'http://aros.nordmark.org/feed/'}
-- {link: 'http://scriptura-et-pictura.blogspot.com', name: Scriptura et Pictura.,
-  url: 'http://scriptura-et-pictura.blogspot.com/posts/default'}
-- {link: 'http://freewaydiva.blogspot.com', name: Adventures of Tomyris, url: 'http://freewaydiva.blogspot.com/feeds/posts/default'}
-- {link: 'https://dmnes.wordpress.com/', name: Dictionary of Medieval Names from European
-    Sources, url: 'https://dmnes.wordpress.com/feed'}
-- {link: 'https://mittenmank.com/tag/mysca', name: Anna Syveken, url: 'https://mittenmank.com/tag/mysca/feed/'}
-- {link: 'https://magdelena-kitchen.blogspot.com', name: Magdalena's kitchen, url: 'https://magdelena-kitchen.blogspot.com/feeds/posts/default'}
-- {link: 'https://evashistoricalcostumes.blogspot.com', name: Eva's historical costuming
-    blog, url: 'https://evashistoricalcostumes.blogspot.com/feeds/posts/default'}
+[{"url": "https://closefighting.blogspot.com/feeds/posts/default", "name": "Close Fighting", "link":"https://closefighting.blogspot.com/"}, 
+{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com"}, 
+{"url": "https://pontagedue.wordpress.com/feed/", "name": "Órlaith Chaomhánach", "link":"https://pontagedue.wordpress.com"}, 
+{"url": "https://handcraftedhistory.blog/feed/", "name": "Handcrafted History", "link":"https://handcraftedhistory.blog"}, 
+{"url": "https://16thcstitches.wordpress.com/feed/", "name": "16th Century Stitches", "link":"https://16thcstitches.wordpress.com"}, 
+{"url": "http://aros.nordmark.org/feed/", "name": "Aros", "link":"http://aros.nordmark.org"}, 
+{"url": "http://scriptura-et-pictura.blogspot.com/posts/default", "name": "Scriptura et Pictura.", "link":"http://scriptura-et-pictura.blogspot.com"}, 
+{"url": "http://freewaydiva.blogspot.com/feeds/posts/default", "name": "Adventures of Tomyris", "link":"http://freewaydiva.blogspot.com"}, 
+{"url": "https://dmnes.wordpress.com/feed", "name": "Dictionary of Medieval Names from European Sources", "link":"https://dmnes.wordpress.com/"}, 
+{"url": "https://mittenmank.com/tag/mysca/feed/", "name": "Anna Syveken", "link":"https://mittenmank.com/tag/mysca"},
+{"url": "https://magdelena-kitchen.blogspot.com/feeds/posts/default", "name": "Magdalena's kitchen", "link":"https://magdelena-kitchen.blogspot.com"},
+{"url": "https://evashistoricalcostumes.blogspot.com/feeds/posts/default", "name":"Eva's historical costuming blog", "link":"https://evashistoricalcostumes.blogspot.com"}]
