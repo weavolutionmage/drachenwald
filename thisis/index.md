@@ -16,3 +16,11 @@ excerpt:  The latest posts from a variety of people in Drachenwald who are skill
 <p>{{ item.summary }}</p>
 <hr>
 {% endfor %}
+
+# Contributors
+
+Would you like to read some more? Visit the blogs of all our contributors:
+
+{% for item in site.data.thisisdrachenwald_feedlist %}
+* [{{ item.name }}]({{ item.link }})
+{% endfor %}
