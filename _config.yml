@@ -45,6 +45,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - venv/
+  - .cache/
 
 # Analytics
 analytics:

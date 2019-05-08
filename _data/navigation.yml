@@ -47,6 +47,8 @@ side-whatwedo:
       url: /activities/artsci/
     - title: Fencing
       url: /activities/fencing/
+    - title: This is Drachenwald
+      url: /thisis/
 
 - title: Calendar
   url: /events/calendar/
@@ -103,6 +105,8 @@ side-offices:
 - title: In the Kingdom
   url: /offices/
   children:
+    - title: This is Drachenwald
+      url: /thisis/
     - title: Seneschal
       url: /offices/seneschal/
     - title: Exchequer
