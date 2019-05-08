@@ -16,7 +16,7 @@ excerpt: Roster of members
 
 ## Alexandre Lerot d'Avignon 
 
-##Etienne Fevre de Dion
+## Etienne Fevre de Dion
 
 ## Anna von Urwald
 
