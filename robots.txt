@@ -3,4 +3,8 @@ layout: none
 ---
 {% if jekyll.environment == "production" %}
 Sitemap: {{ site.url }}/sitemap.xml
+{% else %}
+User-agent: *
+Disallow: /archive/sites/
+Disallow: /archive/misc/
 {% endif %}
