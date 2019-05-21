@@ -33,5 +33,5 @@ excerpt: Roster of members
 ## Catlin le Mareschale (Insulae Draconis)
 * Elevated on 2018/08/11
 
-## Pol O Briain (Insulae Draconis)
+## Pól ó Briain (Insulae Draconis)
 * Elevated on 2018/12/08
