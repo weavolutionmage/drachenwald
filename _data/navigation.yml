@@ -15,6 +15,9 @@ main:
 - title: Where We Are
   url: /groups/
 
+- title: "&#x1F50D;"
+  url: /search/
+
 
 side:
 
@@ -32,6 +35,9 @@ side:
 
 - title: Where We Are
   url: /groups/
+
+- title: Search
+  url: /search/
 
 
 side-whatwedo:
@@ -64,6 +70,8 @@ side-whatwedo:
 - title: Where We Are
   url: /groups/
 
+- title: Search
+  url: /search/
 
 side-royals:
 
@@ -92,6 +100,8 @@ side-royals:
 - title: Where We Are
   url: /groups/
 
+- title: Search
+  url: /search/
 
 side-offices:
 
@@ -146,3 +156,6 @@ side-offices:
 
 - title: Where We Are
   url: /groups/
+
+- title: Search
+  url: /search/
