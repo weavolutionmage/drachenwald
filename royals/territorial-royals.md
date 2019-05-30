@@ -53,10 +53,10 @@ Baroness Katarina Krognos af Ystad
 
 Their Highnesses, Prince & Princess of the [Principality of Insulae Draconis](http://www.insulaedraconis.org/)  
 
-Prince Joel Ben Stuart   
+Prince Duncan   
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,112,114,105,110,99,101,64,105,110,115,117,108,97,101,100,114,97,99,111,110,105,115,46,111,114,103,39,62,112,114,105,110,99,101,64,105,110,115,117,108,97,101,100,114,97,99,111,110,105,115,46,111,114,103,60,47,97,62));</script>
 
-Princess Valda ingen Cháemgein  
+Princess Constanza  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,112,114,105,110,99,101,115,115,64,105,110,115,117,108,97,101,100,114,97,99,111,110,105,115,46,111,114,103,39,62,112,114,105,110,99,101,115,115,64,105,110,115,117,108,97,101,100,114,97,99,111,110,105,115,46,111,114,103,60,47,97,62));</script>
  
 ### Knight's Crossing (most of DE)  
