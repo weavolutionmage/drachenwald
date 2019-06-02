@@ -511,7 +511,7 @@ Dabbles in: Everything textile, cloth and clothing construct, embellishment, phy
 
 Contact: At events or nisiocan@gmail.com
 
-Apprentices/Students/Household affiliations: Jahanara Vivana (apprentice), Christine Bess Duvant (apprentice), Kitte of the Lake (student).
+Apprentices/Students/Household affiliations: Jahanara Vivana (apprentice), Christine Bess Duvant (apprentice), Kytte of the Lake (apprentice).
 
 Elevated by whom and when: Their Royal Majesties Davin and Groa of AnTir AS XXXIV, January 8 at Twelfth Night, 2000
 
