@@ -16,7 +16,7 @@ The kingdom Chronicler publishes court reports in the newsletter, *Dragon's Tale
 
 ## Send a court report
 
-If you are serving as herald for any of the [royal family of Drachenwald] ]({{ site.baseurl }}{% link royals/index.md %}), after the event, write up the court by email.  Aim to send your report in the week after the event, while the court is still clear in your mind. 
+If you are serving as herald for any of the [royal family of Drachenwald]({{ site.baseurl }}{% link royals/index.html %}), after the event, write up the court by email.  Aim to send your report in the week after the event, while the court is still clear in your mind. 
 
 ### Who to contact
 
