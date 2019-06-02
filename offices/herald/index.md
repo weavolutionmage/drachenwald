@@ -16,6 +16,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Kingdom Awards and Orders]({{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %}), which explains the honours the Crown can give out
 * [Society awards and recommendations]({{ site.baseurl }}{% link offices/herald/society-awards-personal-view.md %}), a personal view about what awards do, and how to recommend people
 * [Drachenwald Order of Precedence, which includes a form for award recommendations](http://op.drachenwald.sca.org/op), the record of honours given
+* [Send a correction]({{ site.baseurl }}{% link offices/herald/submitacorrectiontoop.md %}) to the Posthorn Herald, if you spot mistakes or gaps in the order of precedence
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %}), for those who move here from other lands
 
 # Court and protocol
@@ -24,6 +25,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [The Zen of good court: building the special occasions of the Society]({{ site.baseurl }}{% link offices/herald/zenofgoodcourtguidance.md %})
 * [Field heralding crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
 * [Tournament herald-in-charge checklist]({{ site.baseurl }}{% link offices/herald/heraldinchargetourneychecklist.md %}), to help heralds-in-charge keep track of a full day of tasks 
+* [Submit a court report]({{ site.baseurl }}{% link offices/herald/sendacourtreport.md %}), recording the events of court, for kingdom and regional records, as part of kingdom history
 
 # Register your name and armory
 * [Submitting names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/submittingnamesheraldry.md %}), explaining the process of getting your own name and heraldry registered
