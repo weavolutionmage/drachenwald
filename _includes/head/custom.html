@@ -11,3 +11,7 @@
 {% unless jekyll.environment == "production" %}
 <meta name="robots" content="noindex, nofollow">
 {% endunless %}
+
+{% if jekyll.environment == "staging" and page.url == "/" %}
+<meta name="google-site-verification" content="lgmrb2ubPYMZj7hLd76JH0Qge_mcKxdA3xIw9WZsQo8" />
+{% endif %}

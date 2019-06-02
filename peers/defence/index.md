@@ -6,4 +6,11 @@ The Order of Defense is a Society-wide order, which recognises excellence in the
 
 It is a consulting or 'polling' order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
 
+The Order is distinct from the [Academy of Defense]({% link chartergroups/academy-of-defense/index.md %}), although there is naturally considerable overlap between the Prefects of the Academy and the members of the Order of Defense.  It is worth remembering that the Academy is Drachenwald institution, and advancement is administered internally, while the Order of Defense is recognized throughout the SCA, and members are elevated by the Crown.
+
+[The Roster of the Order of Defense]({% link peers/defence/defence-roster.md %})
+
+
+
+
 {% include peer-secretary.html order="defence" %}
