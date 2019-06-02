@@ -1,5 +1,7 @@
 ---
 title: Order of the Laurel
+toc: true
+toc_label: Members
 excerpt: Roster of members
 ---
 
