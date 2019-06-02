@@ -6,13 +6,13 @@ main:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
 - title: "&#x1F50D;"
@@ -27,13 +27,13 @@ side:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
 - title: Search
@@ -61,13 +61,13 @@ side-whatwedo:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
 - title: Search
@@ -81,7 +81,7 @@ side-royals:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
   children:
     - title: King & Queen
@@ -97,7 +97,7 @@ side-royals:
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
 - title: Search
@@ -111,7 +111,7 @@ side-offices:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
@@ -154,7 +154,7 @@ side-offices:
     - title: Order of Defense
       url: /peers/defence/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
 - title: Search
