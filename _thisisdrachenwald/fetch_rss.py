@@ -17,7 +17,6 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
 
 
 
-rssUrls=[]
 
 with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
     rssUrls = json.load(f)
@@ -59,7 +58,7 @@ for rssUrl in rssUrls:
                     mediaTxt = entry["content"][0]["value"]
             except Exception as e:
                 mediaTxt = summaryTxt
-                
+
             soup  = BeautifulSoup(mediaTxt, features="html.parser")
             summary = soup.get_text()
             images = []
@@ -109,10 +108,10 @@ for rssUrl in rssUrls:
 
             #    del response
 
-            key = "%s%s%s" % (published.tm_year, published.tm_yday, rssUrl['name'])
+            key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
 
             postDict =  {'summary': summaryLtd, 'link': link, 'published': published, 'title': title,
-                 'images': imageLst}
+                 'images': imageLst, "key":key}
 
             if mergePosts:
                 if (key in results.keys()):
@@ -124,7 +123,6 @@ for rssUrl in rssUrls:
             else:
                 results[key]={"lst":[(postDict)],"merge":False, 'site': rssUrl['name'], "siteLink": rssUrl["link"]}
 
-
     except Exception as e:
         print("error: %s" % e)
 
@@ -135,7 +133,7 @@ srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 
 
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(srtd[0:100], outfile, ensure_ascii=False)
+    json.dump(srtd[0:50], outfile, ensure_ascii=False)
 
 
 #pp.pprint(srtd[0:100])
