@@ -6,7 +6,7 @@ tags: webartificers
 category: news
 author: sela
 ---
-The web artificers are delighted to announce a new website feature, developed by Yda van Boulogne: a collection of blog posts and photos from around the Kingdom, called [This Is Drachenwald]({% link thisis/index.md %}).
+The web artificers are delighted to announce a new website feature, developed by Yda van Boulogne: a collection of blog posts and photos from around the Kingdom, called [This Is Drachenwald]({% link thisis/index.html %}).
 
 Many of our members write extensively on their blogs, or post beautiful photos, and while they may get some brief traction among friends on Facebook, you do have to know where to look.
 
@@ -34,7 +34,7 @@ Short form content: Tumblr will host short things and provides RSS. Tag it with 
 
 Anything else that generates an RSS, let us know and we’ll add it, or alternatively [modify the script on Gitlab](https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/blob/staging/_thisisdrachenwald/fetch_rss.py) and send a merge request.
 
-And if none of the above apply to you... we have plenty for you to read. Bookmark [This Is Drachenwald]({% link thisis/index.md %}), or keep it open in a tab. It should update a few times a week.
+And if none of the above apply to you... we have plenty for you to read. Bookmark [This Is Drachenwald]({% link thisis/index.html %}), or keep it open in a tab. It should update a few times a week.
 
 Yda van Boulogne & Sela de la Rosa  
 on behalf of the web artificers
