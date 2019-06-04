@@ -1,7 +1,7 @@
 ---
 toc: true
 toc_label: Contents
-title: Before the Internet, before Google...there were heralds
+title: Correcting the Order of Precedence
 excerpt: Send a correction to help keep kingdom records accurate
 ---
 
