@@ -2,3 +2,4 @@ feedparser
 bs4
 requests
 pyyaml
+Pillow
