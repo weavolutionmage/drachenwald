@@ -54,6 +54,10 @@ analytics:
     tracking_id          : "UA-11879750-1"
     anonymize_ip         : # true, false (default)
 
+# Site survey link
+survey:
+  url: "https://forms.gle/FM4cBv1pDpSquLMs9"
+
 # Site Footer
 footer:
   links:
