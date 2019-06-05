@@ -22,7 +22,7 @@ If you are serving as herald for any of the [royal family of Drachenwald]({{ sit
 
 * the royals who you were serving: the Crown, the Coronet, or your baron and baroness  
 * [Posthorn Herald](posthorn@drachenwald.sca.org)  
-* the [kingdom chronicler](chronicler@drachenwald.sca.org) and any local chronicler, for example for your principality or barony  
+* the [kingdom chronicler](chronicler@drachenwald.sca.org) or any local chronicler, for example for your principality or barony  
 * the [signet]({{ site.baseurl }}{% link offices/signet/index.md %}) - the person who delegated the scroll commissions, and arranged for the scrolls to reach court. If you were officiating for the prince and princess of Insulae Draconis, for example, you send a copy to the principality signet.
 * Optional: copy to the kingdom herald or your principality or baronial herald
 
@@ -47,12 +47,26 @@ For **outgoing** business, the core pieces of information for records are:
 
 Here, you **do** need to know names of recipients, and what award they got. However, you and your royals should have a draft of this in the running order from when you organised court. This running order ideally includes the names of the scribes - scribes put their names on the back of the scrolls, or on their text 'cheat sheet'.
 
+Include both SCA names, and modern names in your report.
+
+For a outgoing business court:
+
+AoA: Asterix the Gaul (modern name Aster X. deGalle). Scroll by Genevieve, presented.
+AoA: Obelix the Gaul (modern name John Redbeard). No scroll presented.
+PCS: Getafix the Bard (modern name Caca Phonicx). Scroll by Ari Bona, presented.
+
 If there was no scroll ready, the signet needs to know so they can either commission one to deliver ASAP, OR track down the one intended for delivery at that event. 
 
 We record who made the scrolls because they represent hours of volunteer artwork, and those artists who donate them deserve recognition for their time and their skills. 
 
 The activities of court may not be in a neat order of incoming and outgoing. You can choose to write your report of events as they happened, or separate the items into incoming and outgoing business. 
 
-Whatever you chose: you are sending this to several people including the royals you served, and your report will form part of the public record of Drachenwald in the newsletter and the order of precedence. 
+Whatever you choose: you are sending this to several people including the royals you served, and your report will form part of the public record of Drachenwald in the newsletter and the order of precedence. 
 
-So whatever you choose, make sure the report is clear and complete. 
+Make sure the report is as clear and complete as you can make it. 
+
+### Notes about personal information
+
+Sometimes you don't know every recipient's full name, either modern or SCA. Make a best effort, but do not hold up the report for the perfect delivery. Several of the people you send your report to can help fill out the details as needed.
+
+For real-world concerns about how heralds use this particular information in the Order of Precedence, [see the privacy policy](http://op.drachenwald.sca.org/privacy).
