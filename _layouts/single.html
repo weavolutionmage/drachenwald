@@ -72,9 +72,8 @@ layout: default
       {% include comments.html %}
     {% endif %}
 
-
-    {% if site.survey %}
-    How was the site to use? <a href="{{ site.survey.url }}">Please let us know in this quick survey.</a>
+    {% if site.survey.url %}
+    Are you happy with this website? <a href="{{ site.survey.url }}{% if site.survey.prefill %}&{{ site.survey.prefill }}={{ site.url }}{{ page.url }}{% endif %}">Please let us know with this quick survey.</a>
     {% endif %}
   </article>
 
