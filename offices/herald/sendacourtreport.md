@@ -47,15 +47,15 @@ For **outgoing** business, the core pieces of information for records are:
 
 Here, you **do** need to know names of recipients, and what award they got. However, you and your royals should have a draft of this in the running order from when you organised court. This running order ideally includes the names of the scribes - scribes put their names on the back of the scrolls, or on their text 'cheat sheet'.
 
-Include both SCA names, and modern names in your report.
+Include both SCA names, and modern names in your report.  
 
-For a outgoing business court:
+For a outgoing business court:  
 
-AoA: Asterix the Gaul (modern name Aster X. deGalle). Scroll by Genevieve, presented.
-AoA: Obelix the Gaul (modern name John Redbeard). No scroll presented.
-PCS: Getafix the Bard (modern name Caca Phonicx). Scroll by Ari Bona, presented.
+* AoA: Asterix the Gaul (modern name Aster X. deGalle). Scroll by Genevieve, presented.
+* AoA: Obelix the Gaul (modern name John Redbeard). No scroll presented.
+* PCS: Getafix the Bard (modern name Caca Phonicx). Scroll by Ari Bona, presented.
 
-If there was no scroll ready, the signet needs to know so they can either commission one to deliver ASAP, OR track down the one intended for delivery at that event. 
+If there was no scroll ready, the signet needs to know so they can either commission one to deliver ASAP, OR track down the one intended for delivery at that event.  
 
 We record who made the scrolls because they represent hours of volunteer artwork, and those artists who donate them deserve recognition for their time and their skills. 
 
