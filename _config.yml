@@ -56,7 +56,8 @@ analytics:
 
 # Site survey link
 survey:
-  url: "https://forms.gle/FM4cBv1pDpSquLMs9"
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSd8sUf_UWyHQJwrB3BsrI8bRMsMupSf_g09_Mskdfc7xHc8tw/viewform?usp=sf_link"
+  prefill: "entry.899185538"
 
 # Site Footer
 footer:
