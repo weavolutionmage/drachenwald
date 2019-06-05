@@ -71,6 +71,11 @@ layout: default
     {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+
+
+    {% if site.survey %}
+    How was the site to use? <a href="{{ site.survey.url }}">Please let us know in this quick survey.</a>
+    {% endif %}
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
