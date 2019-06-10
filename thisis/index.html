@@ -17,7 +17,7 @@ excerpt:  The latest posts from a variety of people in Drachenwald who are skill
     <h3><a href="{{ item.link }}">{{ itemAll.site }}</a></h3>
     <h5><em>{{ itemAll.site }} on {{ item.published[0] }}-{{ item.published[1] }}-{{ item.published[2] }}</em></h5>
     {% if imageLstSize != 0 %}
-      {% for item in itemAll.lst limit:29 %}
+      {% for item in itemAll.lst limit:9 %}
         {% assign imageLst = item.images %}
         {% assign imageLstSize = imageLst | size %}
          {% assign image = imageLst | first %}
