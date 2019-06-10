@@ -8,8 +8,8 @@ import os, sys
 from PIL import Image
 import hashlib
 import random
-import pprint
-pp = pprint.PrettyPrinter(indent=4)
+#import pprint
+#pp = pprint.PrettyPrinter(indent=4)
 
 rssUrls=[]
 
