@@ -13,5 +13,5 @@
 {"name":"An American Reenactor Abroad","url":"http://www.aspiringluddite.com/sca/SCA.xml",   "link": "http://www.aspiringluddite.com/sca","merge": false,"showMedia":  true},
 {"name":"Marlein - a 16th century wardrobe", "url":"https://marleina16thwardrobe.blogspot.com/feeds/posts/default","link":"https://marleina16thwardrobe.blogspot.com","merge": false,"showMedia":  true},
 {"name":"Stringcrafter","url":"https://stringcrafter.com/feed/", "link":"https://stringcrafter.com/","merge": false,"showMedia":  true},
-{"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/photos/tags/thisisdrachenwald", "merge": true,"showMedia": true}
+{"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": true,"showMedia": true}
   ]
