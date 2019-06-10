@@ -7,23 +7,19 @@ import shutil
 import os, sys
 from PIL import Image
 import hashlib
+import random
 #import pprint
 #pp = pprint.PrettyPrinter(indent=4)
 
 rssUrls=[]
 
-with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
-    rssUrls = json.load(f)
-
-
-
 
 with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
     rssUrls = json.load(f)
+
 
 
 #rssUrls=[{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True}, {"name":  "Lia's Flickr feed", "url": "https://api.flickr.com/services/feeds/photos_public.gne?id=90046361@N00&lang=en-us&format=rss_200&tag=Drachenwald", "link":  "https://www.flickr.com/photos/liabucket/", "merge": true, "showMedia":  true}]
-
 
 results = {}
 
@@ -74,9 +70,9 @@ for rssUrl in rssUrls:
 
             #retrieve image and convert to thumbnail
             if showMedia and (len(images) > 0):
+
                 imageUrl = images[0]
                 filehash = hashlib.md5(imageUrl.encode()).hexdigest()
-
                 fnName = "%s" % imageUrl[imageUrl.rfind('/')+1:len(imageUrl)]
                 fnName = filehash
                 fn = "%s/%s" % (dlDir, fnName)
@@ -85,7 +81,6 @@ for rssUrl in rssUrls:
                     response = requests.get(imageUrl, stream=True, headers=user_agent)
                     with open(fn, 'wb') as out_file:
                         shutil.copyfileobj(response.raw, out_file)
-
 
                 size = 250, 250
 
@@ -117,6 +112,7 @@ for rssUrl in rssUrls:
                 if (key in results.keys()):
                     lst = results[key]['lst']
                     lst.append(postDict)
+                    random.shuffle(lst)
                     results[key]["lst"]=lst
                 else:
                     results[key]={"lst":[postDict], "merge": True, 'site': rssUrl['name'], "siteLink": rssUrl["link"]}
@@ -144,3 +140,4 @@ with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
 import yaml
 with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
     yaml.dump(rssUrls,outfile)
+
