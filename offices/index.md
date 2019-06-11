@@ -37,6 +37,8 @@ These pages provide the forms, handbooks and guidance for local and regional off
 
 * [Signet]({{ site.baseurl }}{% link offices/signet/index.md %}) a specialist office, the signet coordinates with volunteer artists to record awards and honours given by royalty in the form of original artwork.
 
+* [Web Minister]({{ site.baseurl }}{% link offices/webminister/index.md %}) a very specialist office, the web minister manages the website, and many other forms of communication within the kingdom.
+
 # Charter groups
 Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
 
