@@ -1,7 +1,7 @@
 ---
 title:  "A new reign begins"
 excerpt: "With a new reign comes the call to send award recommendations: here's how."
-date:   2019-07-01 00:00:00 +0100
+date:   
 tags: webartificers, crown 
 category: news
 sitemap: false
@@ -27,5 +27,5 @@ Read the [Society awards and recommendations]({{ site.baseurl }}{% link offices/
 
 Having trouble finding something on the site? The Google search engine is available in the top navigation bar - look for the magnifying glass.
 
-<img src="{{ site.baseurl }}{% link images/other/search-engine-screencap.png %}" width="180" alt="Search engine magnifying glass">{: .align-left}
+<img src="{{ site.baseurl }}{% link images/other/search-engine-screencap.png %}" width="240" alt="Search engine magnifying glass">{: .align-left}
 
