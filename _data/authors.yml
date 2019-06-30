@@ -53,5 +53,19 @@ Sela:
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
 
+Genevieve:
+  name        : "Genevieve la flechiere"
+  bio         : "Herald. Scribe. Fencer. Archer. Wordsmith."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/j/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
 
 
