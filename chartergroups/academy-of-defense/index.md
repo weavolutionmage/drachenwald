@@ -31,7 +31,7 @@ Katarina Krognos af Ystad
 Konrad von Lewenstein  
 Thomas Bainbridge of Manchester  
 
-## Free Scholars: who have achieved the first rank of the Acdemy
+## Free Scholars: who have achieved the first rank of the Academy
 Acarin St Cyr  
 Áedán Páirce na Fia  
 Aidan McGuire  
@@ -96,6 +96,7 @@ Nadiana Stjarnulf
 Nemet Arpad  
 Nichole d'Audrieu  
 Patrick of Vielburgen  
+Rannulf Sweartfaxe  
 Regina van Ameland  
 Rhieinwen  
 Richard the Rampant  
@@ -150,7 +151,6 @@ Nero Lupo
 Nicholas de Estleche dictus le Tardif  
 Padraig Gliadrach O'Ceallaigh  
 Pietari Uv  
-Rannulf Sweartfaxe  
 Raphael d'Angelo  
 Rebecca of Flintheath  
 Richart von Brandenburg  

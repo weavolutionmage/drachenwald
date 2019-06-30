@@ -2,13 +2,9 @@
 layout: none
 ---
 {% if jekyll.environment == "production" %}
-Sitemap: http://www.drachenwald.sca.org/j/sitemap.xml
-
-User-agent: *
-Disallow: /drupal/
-Disallow: /wordpress/
-Disallow: /archive/
+Sitemap: {{ site.url }}/sitemap.xml
 {% else %}
 User-agent: *
-Disallow: /
+Disallow: /archive/sites/
+Disallow: /archive/misc/
 {% endif %}

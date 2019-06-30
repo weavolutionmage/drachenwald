@@ -2,10 +2,15 @@
 title: Order of Defence
 ---
 
-The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. 
+The Order of Defense is a Society-wide order, which recognises excellence in the arts of rapier and/or cut-and-thrust combat.  It is equal in dignity to orders of [Chivalry]({% link peers/chivalry/index.md %}), the [Laurel]({% link peers/laurel/index.md %}), and the [Pelican]({% link peers/pelican/index.md %}).
 
-The Order of Defense are a Society-wide order, which recognises excellence in the arts of rapier or cut-and-thrust combat. 
+It is a consulting or 'polling' order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
 
-It is a consultation order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
+The Order is distinct from the [Academy of Defense]({% link chartergroups/academy-of-defense/index.md %}), although there is naturally considerable overlap between the Prefects of the Academy and the members of the Order of Defense.  It is worth remembering that the Academy is Drachenwald institution, and advancement is administered internally, while the Order of Defense is recognized throughout the SCA, and members are elevated by the Crown.
+
+[The Roster of the Order of Defense]({% link peers/defence/defence-roster.md %})
+
+
+
 
 {% include peer-secretary.html order="defence" %}

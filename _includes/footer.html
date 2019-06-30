@@ -18,6 +18,7 @@
   {% if site.gitlab.repository_url %}
   <ul>
     <li><a href="{{site.gitlab.repository_url}}/blob/staging/{{ page.path }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Edit this page on GitLab</a></li>
+    <li><a href="{{site.gitlab.repository_url}}/issues/new?issue[assignee_id]=&issue[milestone_id]=&issue[description]=Path%3A%20{{ page.url }}%0D"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Open an issue on GitLab</a></li>
   </ul>
   {% endif %}
 </div>

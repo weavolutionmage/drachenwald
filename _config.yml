@@ -17,8 +17,8 @@ title: Drachenwald
 email: webminister@drachenwald.sca.org
 description: >- # this means to ignore newlines until "baseurl:"
   Kingdom of Drachenwald. Medieval recreation with the Society for Creative Anachronism in Europe.
-baseurl: "/j" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/j" # the subpath of your site, e.g. /blog
+url: "http://www.drachenwald.sca.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -44,6 +44,8 @@ exclude:
   - README.md
   - Dockerfile
   - docker-compose.yml
+  - venv/
+  - .cache/
 
 # Analytics
 analytics:
@@ -51,6 +53,11 @@ analytics:
   google:
     tracking_id          : "UA-11879750-1"
     anonymize_ip         : # true, false (default)
+
+# Site survey link
+survey:
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSd8sUf_UWyHQJwrB3BsrI8bRMsMupSf_g09_Mskdfc7xHc8tw/viewform?usp=sf_link"
+  prefill: "entry.899185538"
 
 # Site Footer
 footer:
@@ -61,6 +68,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/kingdomofdrachenwald"
+    - label: "Mailing list"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://lists.drachenwald.sca.org/mailman/listinfo/dw-l"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
