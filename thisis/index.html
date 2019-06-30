@@ -1,0 +1,60 @@
+---
+title: This is Drachenwald
+excerpt:  The latest posts from a variety of people in Drachenwald who are skilled in different arts, practices, or areas of study.
+---
+{% if site.data.thisisdrachenwald %}
+  {% assign blogposts = site.data.thisisdrachenwald %}
+
+{% else %}
+  {% assign blogposts = "" %}
+  The blog posts aren't available right now - please check back later.
+{% endif %}
+
+{% for itemAll in blogposts limit:20 %}
+  {% if itemAll.merge %}
+    {% assign item = itemAll.lst | first %}
+    <article style="clear: both;">
+    <h3><a href="{{ item.link }}">{{ itemAll.site }}</a></h3>
+    <h5><em>{{ itemAll.site }} on {{ item.published[0] }}-{{ item.published[1] }}-{{ item.published[2] }}</em></h5>
+    {% if imageLstSize != 0 %}
+      {% for item in itemAll.lst limit:9 %}
+        {% assign imageLst = item.images %}
+        {% assign imageLstSize = imageLst | size %}
+         {% assign image = imageLst | first %}
+<figure style="display:table;float: right;  margin: 10px;border: thin silver solid;margin: 10px ;padding: 10px ; " >
+<img src='/{{ image.thumb }}'  align="left" class="inlineMedia"></figure>
+     {% endfor %}   
+   {% endif %}
+</article>
+  {% else %}
+    {% assign item = itemAll.lst | first %}
+    {% assign imageLst = item.images %}
+    {% assign imageLstSize = imageLst | size %}
+
+    <article style="clear: both;">
+      <h3><a href="{{ item.link }}">{{ item.title }}</a></h3>
+      <h5><em>{{ itemAll.site }} on {{ item.published[0] }}-{{ item.published[1] }}-{{ item.published[2] }}</em></h5>
+      {% if imageLstSize != 0 %}
+        {% assign image = imageLst | first %}
+        <figure style="display:table;float: right;margin: 10px;" align="left">
+<img src='/{{ image.thumb }}'  align="left" class="inlineMedia"></figure>
+      {% endif %}
+      {{ item.summary }}
+	<em> <a href="{{ item.link }}">read more </a></em>
+      </article> 
+<hr style="clear: both;"> 
+{% endif %}
+{% endfor %}
+
+<h1> Contributors</h1>
+
+Would you like to read some more? Visit the blogs of all our contributors:
+<ul>
+{% for item in site.data.thisisdrachenwald_feedlist %}
+<li><a href = "{{ item.link }}">{{ item.name }}</a></li>
+{% endfor %}
+</ul>
+
+<p>
+<i>The original blog owners are responsible for the content in this feed. Contact the blog owner with any questions about their content.</i>
+</p>

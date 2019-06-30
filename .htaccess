@@ -1,0 +1,36 @@
+---
+layout: none
+---
+<IfModule headers_module>
+  header set X-Clacks-Overhead "GNU Terafan Greydragon"
+</IfModule>
+
+Options -Indexes
+
+# Fresh versions of previous pages
+
+Redirect 301 /j/ {{ site.url }}/
+Redirect 301 /drupal/content/kingdom-event-calendar {{ site.url }}/events/calendar/
+Redirect 301 /content/kingdom-event-calendar {{ site.url }}/events/calendar/
+Redirect 301 /node/69 {{ site.url }}/events/calendar/
+
+# Old pages with high ranking in Google; let's send them somewhere useful
+
+Redirect 301 /content/kingdom-officers-drachenwald {{ site.url }}/offices/
+Redirect 301 /content/chatelaines-page {{ site.url }}/offices/chatelaine/
+Redirect 301 /content/awards-orders {{ site.url }}/offices/herald/
+Redirect 301 /content/arts-and-sciences {{ site.url }}/activities/artsci/
+Redirect 301 /content/drachenwald-laurels {{ site.url }}/peers/laurel/
+Redirect 301 /content/germany {{ site.url }}/groups/
+Redirect 301 /content/academy-defence {{ site.url }}/chartergroups/academy-of-defense/
+Redirect 301 /content/university-chancellor {{ site.url }}/offices/unichancellor/
+Redirect 301 /content/signet-clerk {{ site.url }}/offices/signet/
+
+# Other URLs associated with the previous site, redirect to the archive
+
+Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
+Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
+Redirect 301 /node/ https://sca-drachenwald.gitlab.io/archive/node/
+Redirect 301 /wordpress/ https://sca-drachenwald.gitlab.io/archive/wordpress/
+
+ErrorDocument 404 /404.html

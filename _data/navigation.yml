@@ -6,14 +6,17 @@ main:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
+
+- title: "&#x1F50D;"
+  url: /search/
 
 
 side:
@@ -24,14 +27,17 @@ side:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
+
+- title: Search
+  url: /search/
 
 
 side-whatwedo:
@@ -49,19 +55,23 @@ side-whatwedo:
       url: /activities/food/
     - title: Fencing
       url: /activities/fencing/
+    - title: This is Drachenwald
+      url: /thisis/
 
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
+- title: Search
+  url: /search/
 
 side-royals:
 
@@ -71,7 +81,7 @@ side-royals:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
   children:
     - title: King & Queen
@@ -87,9 +97,11 @@ side-royals:
 - title: In the Kingdom
   url: /offices/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
 
+- title: Search
+  url: /search/
 
 side-offices:
 
@@ -99,12 +111,14 @@ side-offices:
 - title: Calendar
   url: /events/calendar/
 
-- title: Royals
+- title: Our Royalty
   url: /royals/
 
 - title: In the Kingdom
   url: /offices/
   children:
+    - title: This is Drachenwald
+      url: /thisis/
     - title: Seneschal
       url: /offices/seneschal/
     - title: Exchequer
@@ -140,5 +154,8 @@ side-offices:
     - title: Order of Defense
       url: /peers/defence/
 
-- title: Where We Are
+- title: Find A Group
   url: /groups/
+
+- title: Search
+  url: /search/

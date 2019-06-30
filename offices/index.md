@@ -3,7 +3,12 @@ title: In the Kingdom
 exerpt: Volunteers make Drachenwald greater than the sum of its parts.
 ---
 
+# This is Drachenwald
+
+To read the latest posts from a variety of people in Drachenwald who are skilled in different arts, practices, or areas of study: [This is Drachenwald]({% link thisis/index.html %}).
+
 # Offices
+
 The admin side of our Society has many volunteers, in numerous roles. Most offices require periodic reporting to regional or kingdom superiors. Kingdom officers in turn report to their Society equivalents.
 
 These pages provide the forms, handbooks and guidance for local and regional officers.
@@ -31,6 +36,8 @@ These pages provide the forms, handbooks and guidance for local and regional off
 * [Herald]({{ site.baseurl }}{% link offices/herald/index.md %}) manages the ceremonies of court, records honours and awards, and advises members on selecting medieval names and creating medieval heraldry.
 
 * [Signet]({{ site.baseurl }}{% link offices/signet/index.md %}) a specialist office, the signet coordinates with volunteer artists to record awards and honours given by royalty in the form of original artwork.
+
+* [Web Minister]({{ site.baseurl }}{% link offices/webminister/index.md %}) a very specialist office, the web minister manages the website, and many other forms of communication within the kingdom.
 
 # Charter groups
 Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
