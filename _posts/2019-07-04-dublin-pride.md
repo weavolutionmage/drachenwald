@@ -8,9 +8,6 @@ sitemap: false
 author: Genevieve
 tldr: "Members of Irish shires, with friends, took part in 2019 Dublin Pride: here's why."
 ---
-__Too long; didn't read:__ Members of Irish shires, with friends, took part in 2019 Dublin Pride: here's why.
-{: .notice--primary}
-
 At the end of June 2019, members from all the Irish shires, and a couple of guests, marched in the annual Dublin Pride parade. In total 17 people marched in medieval clothes, including two people in armour, and four people carrying shields decorated with rainbow colours, forming a 'rainbow shield wall'. 
 
 The response on the street from other Pride participants and spectators was wonderful. In a crowd characterised by cheeky, racy, and outrageous outfits, we stood out, wearing some of the least revealing clothing imaginable.
