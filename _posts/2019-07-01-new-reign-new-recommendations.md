@@ -8,9 +8,6 @@ sitemap: false
 author: Genevieve
 tldr: "Send recommendations to the Crown for worthy people of Drachenwald."
 ---
-__Too long; didn't read:__ A reminder of the awards and orders unique to Drachenwald, and how to [recommend people via online form](http://op.drachenwald.sca.org/recommend).
-{: .notice--primary}
-
 In late June in Polderslot, the people of Drachenwald saw their Graces William and Isabetta step down, and welcomed the reign of their Majesties, Vitus and Isabel.
 
 The page describing our [king and queen is now up to date]({{ site.baseurl }}{% link royals/index.html %}).
