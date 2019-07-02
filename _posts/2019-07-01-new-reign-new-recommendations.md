@@ -13,7 +13,7 @@ __Too long; didn't read:__ A reminder of the awards and orders unique to Drachen
 
 In late June in Polderslot, the people of Drachenwald saw their Graces William and Isabetta step down, and welcomed the reign of their Majesties, Vitus and Isabel.
 
-The page describing our [king and queen is now up to date]({{ site.baseurl }}{% link royals/index.md %}).
+The page describing our [king and queen is now up to date]({{ site.baseurl }}{% link royals/index.html %}).
 
 Their Majesties' courts feature award presentations: recognitions for those who have contributed measureably to the kingdom. 
 
