@@ -1,8 +1,8 @@
 ---
 title:  "Why we marched in Dublin Pride"
 excerpt: "Members of Irish shires, with friends, took part in 2019 Dublin Pride: here's why."
-date:   
-tags: webartificers, 
+date:  2019-07-02 20:00:00 +0000 
+tags: webartificers 
 category: news
 sitemap: false
 author: Genevieve
@@ -27,6 +27,6 @@ Two introductory links, about the place of queer people in our period of study:
 
 * [medievalists.net: Same-Sex Relations in the Middle Ages](http://www.medievalists.net/2011/07/same-sex-relations-in-the-middle-ages/): list of articles compiled in 2011 from the online magazine
 
-* [People with a History: An Online Guide to Lesbian, Gay, Bisexual, and Trans* History](https://sourcebooks.fordham.edu/pwh/index.asp): this longstanding site edited by Paul Halsall includes exerpts of books which are otherwise hard to find, and translations of historic texts into English.
+* [People with a History: An Online Guide to Lesbian, Gay, Bisexual, and Trans\* History](https://sourcebooks.fordham.edu/pwh/index.asp): this longstanding site edited by Paul Halsall includes exerpts of books which are otherwise hard to find, and translations of historic texts into English.
 
 Happy Pride!

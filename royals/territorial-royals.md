@@ -29,10 +29,10 @@ Furstinna Ælfwynn of York
 
 Their Excellencies, Baron & Baroness of the [Barony of Styringheim](https://www.styringheim.se/)  
 
-Baron Ajbjörn Gädda (Oscar Hedin)  
+Baron Edmund (Rasmus Wanneby)  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,98,97,114,111,110,64,115,116,121,114,105,110,103,104,101,105,109,46,115,101,39,62,98,97,114,111,110,64,115,116,121,114,105,110,103,104,101,105,109,46,115,101,60,47,97,62));</script>
 
-Barones Adorián Piroska (Edit Mag)  
+Barones Ejsarves Märta (Ellen Norrby)  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,98,97,114,111,110,101,115,115,97,64,115,116,121,114,105,110,103,104,101,105,109,46,115,101,39,62,98,97,114,111,110,101,115,115,97,64,115,116,121,114,105,110,103,104,101,105,109,46,115,101,60,47,97,62));</script>
 
 ### Gotvik (Göteborg, SE)  
