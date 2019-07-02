@@ -1,7 +1,7 @@
 ---
 title:  "A new reign begins"
 excerpt: "With a new reign comes the call to send award recommendations: here's how."
-date:   
+date:   2019-07-01 23:00:00 +0000
 tags: webartificers, crown 
 category: news
 sitemap: false
