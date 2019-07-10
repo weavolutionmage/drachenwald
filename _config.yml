@@ -45,6 +45,7 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - venv/
+  - .cache/
 
 # Analytics
 analytics:
@@ -52,6 +53,11 @@ analytics:
   google:
     tracking_id          : "UA-11879750-1"
     anonymize_ip         : # true, false (default)
+
+# Site survey link
+survey:
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSd8sUf_UWyHQJwrB3BsrI8bRMsMupSf_g09_Mskdfc7xHc8tw/viewform?usp=sf_link"
+  prefill: "entry.899185538"
 
 # Site Footer
 footer:
@@ -62,6 +68,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/kingdomofdrachenwald"
+    - label: "Mailing list"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://lists.drachenwald.sca.org/mailman/listinfo/dw-l"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:

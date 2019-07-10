@@ -4,7 +4,9 @@ exerpt: Starting in its days as a principality of the East Kingdom
 ---
 <p align="center">
 <a href="{{ site.baseurl }}{% link royals/index.html %}" class="btn btn--primary">King & Queen</a>
+{% comment %}
 <a href="{{ site.baseurl }}{% link royals/heirs.html %}" class="btn btn--primary">The Heirs</a>
+{% endcomment %}
 <a href="{{ site.baseurl }}{% link royals/territorial-royals.md %}" class="btn btn--primary">Landed Nobility</a>
 <a href="#" class="btn btn--inverse">Drachenwald Succession</a>
 </p>
@@ -174,3 +176,5 @@ L 2018-1 Lief and Morrigan, AS LII
 LI 2018-2 Vitus and Isabel, AS LIII  
 
 LII 2019-1 William and Isabetta, AS LIII  
+
+LIII 2019-2 Vitus and Isabel, AS LIV
