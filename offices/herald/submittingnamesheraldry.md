@@ -88,9 +88,13 @@ The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (
 * [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
 
 ## Digital submission notes
-All files (both submission forms and any documentation) must be 300 dpi and printable size, JPG or PDF.
-If pictures are used, please make sure that they are of equal quality.
-If you need to digitize from paper, quality scans are required (e.g. photos of your paper verisons are not acceptable).
+Download the forms and fill them out in Adobe Acrobat Reader or an equivalent pdf program. Documentation can be sent as scans or photos.
+
+For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form. Some of our heralds use the online version of [PDFescape](https://www.pdfescape.com/windows/). You can also send the pictures (one line drawing and one color) and the form separately.
+
+If you want to draw your picture, fill out the form first on your computer and then print it out. Print it out before starting to draw. Then draw the line drawing, copy the form and then color the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted. 
+
+All digital submission are to be sent to edelweiss@drachenwald.sca.org
 
 ## Paper submission notes
 When printing out the (fully or partially filled) PDF file: in your printer's Page Scaling options, choose None (vs. Fit to Paper, a common default for A4 paper). Make sure you print a 100% scale version of the PDF, to produce a form of the correct size.
