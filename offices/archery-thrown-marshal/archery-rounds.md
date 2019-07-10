@@ -58,8 +58,7 @@ The most common indoor competition in Drachenwald.
  
 The Annual competition is split into two season’s competitions.
 
-[2019 Summer competition results to date]({% link path/to/source/file.md %}offices/archery-thrown-marshal/files/2019-Summer-competition-results.xls)  
-
+[2019 Summer competition results to date]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/2019-Summer-competition-results.xls %})  
 ## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament.
