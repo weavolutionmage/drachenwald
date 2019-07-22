@@ -38,6 +38,7 @@ Aidan McGuire
 Alessandra Lucia della Robbia  
 Alessandra di Riario d’Aretino  
 Andreas Tillman von Severin  
+Angelica Andegavensis  
 Anna de Byxe  
 Anna Laresdottir  
 Aodhán Dhá Cheist   
@@ -64,12 +65,11 @@ Elsa Magdalena
 Faolon Muirchu  
 Faruk  
 Fianna Rua Nic Mhathúna  
-Gilbert Blackthorn  
+Gilbert Blakthorn  
 Guillaume Jean-Pierre de Mortaine  
 Guntrum von Wolkenstein  
 Guy de Dinan  
 Gyles Rochester  
-Herr Sigvard Oelfuss  
 Irg von der Ramsau  
 Jacquelina de Bellmont  
 James de Leon  
@@ -96,7 +96,6 @@ Nadiana Stjarnulf
 Nemet Arpad  
 Nichole d'Audrieu  
 Patrick of Vielburgen  
-Rannulf Sweartfaxe  
 Regina van Ameland  
 Rhieinwen  
 Richard the Rampant  
@@ -128,7 +127,7 @@ Armand d´Alsace
 Brian the Courteous  
 Brynjolfr of Gyllengran  
 Brynolf Haraldsson  
-Chiudka the Odd  
+Chiudka  
 Christopher FitzJohn  
 Dafydd Gwynfardd  
 Dafydd Myfygar  
@@ -151,13 +150,16 @@ Nero Lupo
 Nicholas de Estleche dictus le Tardif  
 Padraig Gliadrach O'Ceallaigh  
 Pietari Uv  
+Rannulf Sweartfaxe  
 Raphael d'Angelo  
 Rebecca of Flintheath  
 Richart von Brandenburg  
 Risteárd Ruadh MacLeóid  
 Sean  
 Selinne de Nérac  
+Herr Sigvard Oelfuss  
 Therion Sean Storie  
+Lord Torfinn Nack  
 Wolfram Burkhardt von Falkenstein  
 Wolfram Flammenherz  
 
