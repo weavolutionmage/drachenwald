@@ -2,7 +2,8 @@
 layout: none
 permalink: /events/drachenwald.json
 ---
-
 {% if site.data.events.eventlist %}{% assign events = site.data.events.eventlist | sort:"start" %}
-{{ events | jsonify }}
+{ "version": "1",
+  "eventlist": {{ events | jsonify }}
+}
 {% endif %}
