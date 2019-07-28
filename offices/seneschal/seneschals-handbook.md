@@ -103,42 +103,42 @@ Kingdom Law for Drachenwald can be found at The Kingdom Law page Every seneschal
 
 ## Blank Quarterly report details for Local Branches.
 
-*Quarter number and modern CE date:  
-*Branch name:   
-*SCA Name of Seneschal:  
-*Legal name of Seneschal:  
-*Address:  
-*Telephone:  
-*E-mail address:  
-*Membership Number:  
-*Membership expiry date:  
+* Quarter number and modern CE date:  
+* Branch name:   
+* SCA Name of Seneschal:  
+* Legal name of Seneschal:  
+* Address:  
+* Telephone:  
+* E-mail address:  
+* Membership Number:  
+* Membership expiry date:  
 
 If your Branch is an "incipient" branch please list the sponsoring Branch and the Seneschal of that Branch as well.
 
-*List of Branch officers:  
-*Membership details for each officer including:  
+* List of Branch officers:  
+* Membership details for each officer including:  
 
- *SCA Name of Officer:  
- *Legal name of Officer:  
- *Address:  
- *Telephone:  
- *E-mail address:  
- *Membership Number:  
- *Membership expiry date:  
+ * SCA Name of Officer:  
+ * Legal name of Officer:  
+ * Address:  
+ * Telephone:  
+ * E-mail address:  
+ * Membership Number:  
+ * Membership expiry date:  
 
-*Please point out any changes in the officer listings since last report:  
-*Details of branch activities since last report. (Details of events, practices, planning for future events):  
-*Goals set for the branch:  
-*Any problems your branch is experiencing/ Resolved problems:  
-*Suggestions to Kingdom or Principality level which need addressing, things which would help other local branches:  
-*Media contacts, copies of printed coverage of your branch are requested if available.  
+* Please point out any changes in the officer listings since last report:  
+* Details of branch activities since last report. (Details of events, practices, planning for future events):  
+* Goals set for the branch:  
+* Any problems your branch is experiencing/ Resolved problems:  
+* Suggestions to Kingdom or Principality level which need addressing, things which would help other local branches:  
+* Media contacts, copies of printed coverage of your branch are requested if available.  
 
 # Annual Domesday Report 
 There are some items that are needed for the January "Domesday" report only. In addition to the above reporting requirements the annual Doomsday report shall include the following:
 
-*An estimated breakdown of the number of members and non-member participants of the group  
-*A short financial summary of the group.  
-*Listing of current officers and confirmation of their status as SCA members in good standing.  
+* An estimated breakdown of the number of members and non-member participants of the group  
+* A short financial summary of the group.  
+* Listing of current officers and confirmation of their status as SCA members in good standing.  
 
 A blank report form for the Doomsday report will be sent to you a couple of weeks in advance of your deadline.
 # Contacts
