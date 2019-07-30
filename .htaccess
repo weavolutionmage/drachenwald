@@ -1,8 +1,15 @@
 ---
 layout: none
 ---
+SetEnvIf Request_URI "^/drupal" NOINDEX
+SetEnvIf Request_URI "^/content" NOINDEX
+SetEnvIf Request_URI "^/node" NOINDEX
+SetEnvIf Request_URI "^/wordpress" NOINDEX
+SetEnvIf Request_URI "^/node/69" !NOINDEX
+
 <IfModule headers_module>
   header set X-Clacks-Overhead "GNU Terafan Greydragon"
+  header always add X-Robots-Tag "noindex, nofollow" env=NOINDEX
 </IfModule>
 
 Options -Indexes
@@ -28,7 +35,12 @@ Redirect 301 /content/signet-clerk {{ site.url }}/offices/signet/
 
 # Other URLs associated with the previous site, redirect to the archive
 
-Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
+<Location /drupal/>
+  Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
+  Header always set X-Robots-Tag "noindex, nofollow"
+</Location>
+
+
 Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
 Redirect 301 /node/ https://sca-drachenwald.gitlab.io/archive/node/
 Redirect 301 /wordpress/ https://sca-drachenwald.gitlab.io/archive/wordpress/
