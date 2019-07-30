@@ -54,14 +54,10 @@ Redirect 301 /content/signet-clerk {{ site.url }}/offices/signet/
 
 # Other URLs associated with the previous site, redirect to the archive
 
-<Location /drupal/>
-  Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
-  Header always set X-Robots-Tag "noindex, nofollow"
-</Location>
-
-
+Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
 Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
 Redirect 301 /node/ https://sca-drachenwald.gitlab.io/archive/node/
 Redirect 301 /wordpress/ https://sca-drachenwald.gitlab.io/archive/wordpress/
+Redirect 301 /sites/ https://sca-drachenwald.gitlab.io/archive/sites/
 
 ErrorDocument 404 /404.html
