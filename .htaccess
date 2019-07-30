@@ -1,14 +1,30 @@
 ---
 layout: none
 ---
+# Set an environment variable that we don't want archive content indexed by search engines
+
 SetEnvIf Request_URI "^/drupal" NOINDEX
 SetEnvIf Request_URI "^/content" NOINDEX
 SetEnvIf Request_URI "^/node" NOINDEX
 SetEnvIf Request_URI "^/wordpress" NOINDEX
 SetEnvIf Request_URI "^/sites" NOINDEX
+
+# We make an exception for these URLs which have high ranking that we'd like to keep
+
 SetEnvIf Request_URI "^/node/69" !NOINDEX
-SetEnvIf Request_URI "^/drupal/content/kingdom-event-calendar" !NOINDEX
-SetEnvIf Request_URI "^/content/kingdom-event-calendar" !NOINDEX
+SetEnvIf Request_URI "^/drupal/content/kingdom-event-calendar$" !NOINDEX
+SetEnvIf Request_URI "^/content/kingdom-event-calendar$" !NOINDEX
+SetEnvIf Request_URI "^/content/kingdom-officers-drachenwald$" !NOINDEX
+SetEnvIf Request_URI "^/content/chatelaines-page$" !NOINDEX
+SetEnvIf Request_URI "^/content/awards-orders$" !NOINDEX
+SetEnvIf Request_URI "^/content/arts-and-sciences$" !NOINDEX
+SetEnvIf Request_URI "^/content/drachenwald-laurels$" !NOINDEX
+SetEnvIf Request_URI "^/content/germany$" !NOINDEX
+SetEnvIf Request_URI "^/content/academy-defence$" !NOINDEX
+SetEnvIf Request_URI "^/content/university-chancellor$" !NOINDEX
+SetEnvIf Request_URI "^/content/signet-clerk$" !NOINDEX
+
+# Send do-not-index header based on the environment variable set above
 
 <IfModule headers_module>
   header set X-Clacks-Overhead "GNU Terafan Greydragon"
