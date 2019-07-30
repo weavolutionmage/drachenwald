@@ -5,7 +5,10 @@ SetEnvIf Request_URI "^/drupal" NOINDEX
 SetEnvIf Request_URI "^/content" NOINDEX
 SetEnvIf Request_URI "^/node" NOINDEX
 SetEnvIf Request_URI "^/wordpress" NOINDEX
+SetEnvIf Request_URI "^/sites" NOINDEX
 SetEnvIf Request_URI "^/node/69" !NOINDEX
+SetEnvIf Request_URI "^/drupal/content/kingdom-event-calendar" !NOINDEX
+SetEnvIf Request_URI "^/content/kingdom-event-calendar" !NOINDEX
 
 <IfModule headers_module>
   header set X-Clacks-Overhead "GNU Terafan Greydragon"
