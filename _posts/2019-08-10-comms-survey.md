@@ -1,7 +1,7 @@
 ---
 title: "How we communicate in the SCA"
 tldr: "We ran a survey of how people in Drachenwald communicate in the SCA. A lot of them use Facebook, but they're not happy about it."
-date:   2019-08-03 12:00:00 +0100
+date:   2019-08-10 14:00:00 +0100
 tags: webartificers
 category: news
 author: sela
@@ -143,3 +143,5 @@ There is a high expectation of prompt info being posted to the web. Our decentra
 Having seen this, and also looked at Google Search Console information for Shire, Principality and Kingdom websites, something struck me: I think that the shire websites are best positioned for recruitment (since people tend to search, for example, "Fencing in Dublin") and the Principality/Kingdom sites are best positioned for internal communication. However, this does not have to mean impenetrable docs and officer pages; after all, it's evident from the above that some people still have trouble finding the information they need. They can still be attractive and outwardly welcoming, which in turn helps existing members find what they need.
 
 In the meantime, our online community is to some extent fragmenting into different open or closed Facebook groups. For example, if someone is interested in designing their arms, or learning to make scrolls, at the moment our answer might often be "go to this Facebook group and ask around." As a Kingdom, we might start to consider making people responsible not for managing or moderating, but for _gathering_ people, already members, who are already interested in an area and would like to learn more.
+
+Thank you to everyone who responded, and left such thoughtful comments. We're looking forward to working to address them as best we can.
