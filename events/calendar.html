@@ -45,7 +45,8 @@ title: Events Calendar
   {% endunless %}
 
   <tr>
-  <td data-label="Date">{{ item.start | date: "%d" }}
+  <span itemscope itemtype="http://schema.org/Event">
+  <td data-label="Date"><span itemprop="startDate" content='{{ item.start | date: "%Y-%m-%d"}}'>{{ item.start | date: "%d" }}
   {% unless item.end == "" or item.end == item.start %}
     {% assign endmonth = item.end | date: "%b" %}
     {% if currentmonth == endmonth %}
@@ -53,10 +54,10 @@ title: Events Calendar
     {% else %}
     - {{ item.end | date: "%d/%m" }}
     {% endif %}
-  {% endunless %}</td>
+  {% endunless %}</span></td>
   <td data-label="Group">{{ item.group }}{% unless item.country == "" %} ({{ item.country }}){% endunless %}</td>
   <td data-label="Event">
-  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</td>
+  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}<span itemprop="name">{{ item.name }}</span>{% unless item.web == "" %}</a>{% endunless %}</td>
   
   <td data-label="Royal Presence">
     {% if item.progress == "King" %}
@@ -69,9 +70,9 @@ title: Events Calendar
     &nbsp;
     {% endif %}
   </td>
-
+</span>
   </tr>
-
+  
 {% endfor %}
 
 </tbody>
