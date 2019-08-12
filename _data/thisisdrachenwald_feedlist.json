@@ -1,6 +1,7 @@
 [{"url": "https://closefighting.blogspot.com/feeds/posts/default", "name": "Close Fighting", "link":"https://closefighting.blogspot.com/","merge": false,"showMedia":  true},
 {"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": false,"showMedia":  true},
-{"url": "https://pontagedue.wordpress.com/feed/", "name": "Orlaith Chaomhanach", "link":"https://pontagedue.wordpress.com","merge": false,"showMedia":  true},
+{"url": "https://lazyreenactorgirl.wordpress.com/feed/", "name": "The lazy reenactor girl", "link":"https://lazyreenactorgirl.wordpress.com","merge": false,"showMedia":  true},
+  {"url": "https://pontagedue.wordpress.com/feed/", "name": "Orlaith Chaomhanach", "link":"https://pontagedue.wordpress.com","merge": false,"showMedia":  true},
 {"url": "https://handcraftedhistory.blog/feed/", "name": "Handcrafted History", "link":"https://handcraftedhistory.blog","merge": false,"showMedia":  true},
 {"url": "https://16thcstitches.wordpress.com/feed/", "name": "16th Century Stitches", "link":"https://16thcstitches.wordpress.com","merge": false,"showMedia":  true},
 {"url": "http://aros.nordmark.org/feed/", "name": "Aros", "link":"http://aros.nordmark.org","merge": false,"showMedia":  true},
@@ -14,5 +15,6 @@
 {"name":"Marlein - a 16th century wardrobe", "url":"https://marleina16thwardrobe.blogspot.com/feeds/posts/default","link":"https://marleina16thwardrobe.blogspot.com","merge": false,"showMedia":  true},
 {"name":"Stringcrafter","url":"https://stringcrafter.com/feed/", "link":"https://stringcrafter.com/","merge": false,"showMedia":  true},
 {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": true,"showMedia": true},
-{"name": "Gesta Nicholai", "url": "https://gesta-nicholai.blogspot.com/feeds/posts/default", "link": "https://gesta-nicholai.blogspot.com", "merge": false,"showMedia": true},
+{"name": "Rick Williams' flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?id=183373530@N04", "link": "https://www.flickr.com/photos/183373530@N04/", "merge": true,"showMedia": true},
+  {"name": "Gesta Nicholai", "url": "https://gesta-nicholai.blogspot.com/feeds/posts/default", "link": "https://gesta-nicholai.blogspot.com", "merge": false,"showMedia": true},
 {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true}]
