@@ -17,6 +17,8 @@ rssUrls=[]
 with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
     rssUrls = json.load(f)
 
+#rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True},
+#{"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True}]
 
 
 #rssUrls=[{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True}, {"name":  "Lia's Flickr feed", "url": "https://api.flickr.com/services/feeds/photos_public.gne?id=90046361@N00&lang=en-us&format=rss_200&tag=Drachenwald", "link":  "https://www.flickr.com/photos/liabucket/", "merge": true, "showMedia":  true}]
@@ -70,37 +72,41 @@ for rssUrl in rssUrls:
 
             #retrieve image and convert to thumbnail
             if showMedia and (len(images) > 0):
+                try:
+                    imageUrl = images[0]
+                    filehash = hashlib.md5(imageUrl.encode()).hexdigest()
+                    fnName = "%s" % imageUrl[imageUrl.rfind('/')+1:len(imageUrl)]
+                    fnName = filehash
+                    fn = "%s/%s" % (dlDir, fnName)
+                    if (not os.path.isfile(fn)):
+                        user_agent = {'User-agent': 'This is Drachenwald'}
+                        response = requests.get(imageUrl, stream=True, headers=user_agent)
+                        with open(fn, 'wb') as out_file:
+                            shutil.copyfileobj(response.raw, out_file)
 
-                imageUrl = images[0]
-                filehash = hashlib.md5(imageUrl.encode()).hexdigest()
-                fnName = "%s" % imageUrl[imageUrl.rfind('/')+1:len(imageUrl)]
-                fnName = filehash
-                fn = "%s/%s" % (dlDir, fnName)
-                if (not os.path.isfile(fn)):
-                    user_agent = {'User-agent': 'This is Drachenwald'}
-                    response = requests.get(imageUrl, stream=True, headers=user_agent)
-                    with open(fn, 'wb') as out_file:
-                        shutil.copyfileobj(response.raw, out_file)
+                    size = 250, 250
 
-                size = 250, 250
+                    #file, ext = os.path.splitext(fnName)
+                    file = fnName
+                    thumbFn = "%s/%s.thumbnail.jpg" % (thumbDir,file)
+                    width=0
+                    height=0
+                    try:
+                        if (not os.path.isfile(thumbFn)):
+                            im = Image.open(fn)
+                            im.thumbnail(size)
+                            im.save(thumbFn, "JPEG")
+                            width, height = im.size
+                        else:
+                            im = Image.open(fn)
+                            width, height = im.size
 
-                #file, ext = os.path.splitext(fnName)
-                file = fnName
-                thumbFn = "%s/%s.thumbnail.jpg" % (thumbDir,file)
-                width=0
-                height=0
-                if (not os.path.isfile(thumbFn)):
-                    im = Image.open(fn)
-                    im.thumbnail(size)
-                    im.save(thumbFn, "JPEG")
-                    width, height = im.size
-                else:
-                    im = Image.open(fn)
-                    width, height = im.size
-
-                imgDict = {"imgSrc": imageUrl, "thumb":thumbFn, "width":width, "height": height}
-                imageLst.append(imgDict)
-
+                        imgDict = {"imgSrc": imageUrl, "thumb":thumbFn, "width":width, "height": height}
+                        imageLst.append(imgDict)
+                    except Exception as e:
+                        print("error on %s\n%s\n Error saving image: %s" % (rssUrl['url'],title, e))
+                except Exception as e:
+                    print("error on %s\n%s\n Error handling image: %s" % (rssUrl['url'],title, e))
             #    del response
 
             key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
@@ -120,7 +126,7 @@ for rssUrl in rssUrls:
                 results[key]={"lst":[(postDict)],"merge":False, 'site': rssUrl['name'], "siteLink": rssUrl["link"]}
 
     except Exception as e:
-        print("error: %s" % e)
+        print("error on %s\n Error handling post: %s" % (rssUrl['url'], e))
 
 
 
@@ -140,4 +146,5 @@ with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
 import yaml
 with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
     yaml.dump(rssUrls,outfile)
+
 
