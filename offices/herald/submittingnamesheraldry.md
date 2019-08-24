@@ -32,11 +32,12 @@ All successfully registered items from all SCA kingdoms [are listed in the SCA A
 All residents and branches of Drachenwald send their heraldic submissions (names, armory) to Drachenwald College of Heralds. 
 You send the forms to the kingdom Submissions Heralds, and send the fees (covering postage and some costs) to the appropriate Exchequer (treasurer). You can do almost all this process electronically.
 
-* Starts with an idea of a name or device, and continue with a bit of research, to come up with the item you wish to submit for registration.
+* Start with an idea of a name or device, and continue with a bit of research, to come up with the item you wish to submit for registration.
 * Fill out a submission form, and attach the fruits of the research, in other words any documentation needed for supporting your item as compatible with period equivalents.
-* Send a small fee is required for each submitted item.
+* Send the submission form and documentation to the kingdom submissions herald either via mail or as files via e-mail.
+* A small fee is required for each submitted item.
 * Heralds review your submission and ensure it doesn't conflict with existing registrations, or bear other problems. We do this twice, once within the kingdom and once across the Society, to make sure we get it right.
-* Result: either acceptance (registering your item) or a return for further work. If you want to rework your a returned item, you can resubmit it for free.
+* Result: either acceptance (registering your item) or a return for further work. If you want to rework your returned item, you can resubmit it for free.
 * You can submit a name alone, or a name and device. You cannot submit a device alone, because then the device 'file' has no 'header' of a name (it used to be filed by hand, but same principle applies to databases).
 
 # Submissions: people, fees and forms
@@ -56,7 +57,7 @@ The External Submissions Herald sends Letters of Intent (ie 'Unless you say othe
 The fee is is £4 / 5€ / 50 SEK for each submission item.  
 For example, for a name and device the total fee is £8 / 10€ / 100 SEK  
 
-Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the  Swedish treasurer) at exchequer@nordmark.org for bank account details.
+Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the Swedish treasurer) at exchequer@nordmark.org for bank account details.
 
 Everyone else in Europe pays directly to kingdom exchequer, who looks after the College of Heralds account. Note: the payment details are slightly different within UK than rest of Europe. 
 
@@ -88,11 +89,13 @@ The current version of the submission forms is Laurel v. 3.0; Drachenwald v1.1 (
 * [Badge form (for branches and individuals)]({{ site.baseurl }}{% link offices/herald/files/badge.pdf %})
 
 ## Digital submission notes
-Download the forms and fill them out in Adobe Acrobat Reader or an equivalent pdf program. Documentation can be sent as scans or photos.
+* Please do not fill the pdf form in the browser! Instead, download the forms and fill them out in Adobe Acrobat Reader or an equivalent pdf program.
+* The form can be sent as a pdf or a jpg file. The latter must be at least 300 dpi and 2330-2700 x 3150-4350 pixels in size.
+* Documentation can be sent as scans or photos.
 
-For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form. Some of our heralds use the online version of [PDFescape](https://www.pdfescape.com/windows/). You can also send the pictures (one line drawing and one color) and the form separately.
+For devices and badges. If you have a picture file of at least 300 dpi of your heraldry, you can paste it into the form once the filled and saved pdf has been converted to a jpg file. Some of our heralds use the online version of [PDFtoJPG](https://pdf2jpg.net/) (choose JPG quality "Excellent - 300dpi") or [PDFescape](https://www.pdfescape.com/windows/). You can also send the pictures (one line drawing and one color) and the form separately.
 
-If you want to draw your picture, fill out the form first on your computer and then print it out. Print it out before starting to draw. Then draw the line drawing, copy the form and then color the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted. 
+If you want to draw your picture, fill out the form first on your computer and then print it out, before starting to draw. Then draw the line drawing, copy the form and then color the copy. Scan the forms at 300 dpi. Photos of forms will not be accepted.
 
 All digital submission are to be sent to edelweiss@drachenwald.sca.org
 
@@ -112,7 +115,7 @@ SCA College of Arms has letter templates for different kinds of permissions to c
  [SCA College of Arms - Frequently Asked Questions](http://heraldry.sca.org/FAQs.html)
 
 ## Petitions
-When a new group registers a branch name or branch arms, the name and armory submissions must include a petition to show that the group members are happy with this option.
+When a group registers a branch name or branch arms, the name and armory submissions must include a petition to show that the group members are happy with this option.
 
 [Template for Group Petitions](http://heraldry.sca.org/FAQs/forms-group-petitions.html)
 
