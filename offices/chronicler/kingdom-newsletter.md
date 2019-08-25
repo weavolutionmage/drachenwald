@@ -62,4 +62,4 @@ featurealt: Dragon's Tale Covers
 </div>
 <p style="text-align: left;">Classified ads are charged at £2 per 100 words</p>
 <h3><a name="online"></a>Dragon's Tale Online</h3>
-<p>The <em><strong>Dragon's Tale</strong></em>, as a Kingdom Newsletter, is primarily made available online via the main SCA website.&nbsp;<span style="line-height: 22.0499992370605px;"><a href="http://enewsletter.sca.org/drachenwald.html">http://enewsletter.sca.org/drachenwald.html</a></span></p>
+<p>The <em><strong>Dragon's Tale</strong></em>, as a Kingdom Newsletter, is primarily made available online via <a href="https://members.sca.org/apps/#Newsletters">the main SCA website</a>.</p>
