@@ -5,7 +5,11 @@ title: Events Calendar
 
 <caption><h3>Upcoming Events</h3></caption>
 
-<p><em>To add an event to the calendar, please use <a href="{{ site.baseurl }}{% link events/calendar-add.html %}">this form</a>.</em></p>
+<p>
+  <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
+  <a href="{% link events/drachenwald.ics %}" class="btn btn--primary">Add Kingdom events to my calendar application</a>
+</p>
+
 
 <thead>
 <tr valign="top">
@@ -121,8 +125,6 @@ title: Events Calendar
 
 </tbody>
 </table>
-
-
 
 <h3 style="display: none;"><strong>Future Dates</strong></h3>
 <table style="display: none;" border="0">

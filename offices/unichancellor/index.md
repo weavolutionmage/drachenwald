@@ -3,9 +3,7 @@ title: University Chancellor
 featureimg: images/foo/test.jpg
 featurealt: thing
 ---
-<h3>Chancellor of the University</h3>
-<p>Ragnhil de Kaxtone (Asa Hestner-Blomqvist)</p>
-<p><script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,117,110,105,118,101,114,115,105,116,121,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,39,62,117,110,105,118,101,114,115,105,116,121,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103,60,47,97,62));</script></p>
+
 <h3>Minimum University Site Requirements</h3>
 <p>University is an easy kingdom event to run, since classes (both arranging for instructors and the schedule of classes) are arranged by the University Chancellor. However, the site should have the following:</p>
 <ul>
