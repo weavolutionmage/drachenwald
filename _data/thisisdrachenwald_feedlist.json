@@ -20,4 +20,6 @@
   {"name": "Gesta Nicholai", "url": "https://gesta-nicholai.blogspot.com/feeds/posts/default", "link": "https://gesta-nicholai.blogspot.com", "merge": false,"showMedia": true},
 {"name": "Kareina's observations", "url": "https://kareina.dreamwidth.org/data/rss?tag=sca", "link": "https://kareina.dreamwidth.org/tag/sca", "merge": false,"showMedia": true},
 
+  {"url": "https://shireoftrivium.wixsite.com/home/blog-feed.xml", "name": "Shire of Trivium", "link":"https://shireoftrivium.wixsite.com/home","merge": false,"showMedia":  true},
+
   {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true}]
