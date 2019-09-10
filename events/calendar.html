@@ -5,7 +5,11 @@ title: Events Calendar
 
 <caption><h3>Upcoming Events</h3></caption>
 
-<p><em>To add an event to the calendar, please use <a href="{{ site.baseurl }}{% link events/calendar-add.html %}">this form</a>.</em></p>
+<p>
+  <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
+  <a href="{% link events/drachenwald.ics %}" class="btn btn--primary">Add Kingdom events to my calendar application</a>
+</p>
+
 
 <thead>
 <tr valign="top">
@@ -45,8 +49,7 @@ title: Events Calendar
   {% endunless %}
 
   <tr>
-  <span itemscope itemtype="http://schema.org/Event">
-  <td data-label="Date"><span itemprop="startDate" content='{{ item.start | date: "%Y-%m-%d"}}'>{{ item.start | date: "%d" }}
+  <td data-label="Date">{{ item.start | date: "%d" }}
   {% unless item.end == "" or item.end == item.start %}
     {% assign endmonth = item.end | date: "%b" %}
     {% if currentmonth == endmonth %}
@@ -54,10 +57,10 @@ title: Events Calendar
     {% else %}
     - {{ item.end | date: "%d/%m" }}
     {% endif %}
-  {% endunless %}</span></td>
+  {% endunless %}</td>
   <td data-label="Group">{{ item.group }}{% unless item.country == "" %} ({{ item.country }}){% endunless %}</td>
   <td data-label="Event">
-  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}<span itemprop="name">{{ item.name }}</span>{% unless item.web == "" %}</a>{% endunless %}</td>
+  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</td>
   
   <td data-label="Royal Presence">
     {% if item.progress == "King" %}
@@ -70,7 +73,6 @@ title: Events Calendar
     &nbsp;
     {% endif %}
   </td>
-</span>
   </tr>
   
 {% endfor %}
@@ -124,8 +126,6 @@ title: Events Calendar
 </tbody>
 </table>
 
-
-
 <h3 style="display: none;"><strong>Future Dates</strong></h3>
 <table style="display: none;" border="0">
 <tbody>
@@ -141,3 +141,32 @@ title: Events Calendar
 </tr>
 </tbody>
 </table>
+
+
+<script type="application/ld+json">
+[
+  {% for item in events %}
+
+  {
+    "@context": "http://schema.org/",
+    "@type": "Event",
+    "url": "{{ item.url }}",
+    "name": "{{ item.name }}",
+    "startDate": "{{ item.start | date: "%Y-%m-%d"}}",
+    {% if item.end == "" %}
+      "endDate": "{{ item.start | date: "%Y-%m-%d"}}",
+    {% else %}
+      "endDate": "{{ item.end | date: "%Y-%m-%d"}}",
+    {% endif %}
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "{{ item.country }}"
+      }
+    }
+  }{% unless forloop.last %},{% endunless %}
+
+  {% endfor %}
+  ]
+  </script>

@@ -18,4 +18,8 @@
 {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": true,"showMedia": true},
 {"name": "Rick Williams' flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?id=183373530@N04", "link": "https://www.flickr.com/photos/183373530@N04/", "merge": true,"showMedia": true},
   {"name": "Gesta Nicholai", "url": "https://gesta-nicholai.blogspot.com/feeds/posts/default", "link": "https://gesta-nicholai.blogspot.com", "merge": false,"showMedia": true},
-{"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true}]
+{"name": "Kareina's observations", "url": "https://kareina.dreamwidth.org/data/rss?tag=sca", "link": "https://kareina.dreamwidth.org/tag/sca", "merge": false,"showMedia": true},
+
+  {"url": "https://shireoftrivium.wixsite.com/home/blog-feed.xml", "name": "Shire of Trivium", "link":"https://shireoftrivium.wixsite.com/home","merge": false,"showMedia":  true},
+
+  {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true}]
