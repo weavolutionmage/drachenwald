@@ -19,10 +19,10 @@ Across Drachenwald, certain lands are secured by local nobility who hold regions
 
 Their Highnesses, Prince & Princess of The [Principality of Nordmark](http://www.nordmark.org/)
 
-Furste Harald Krake  
+Furste Stigot Eke  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,102,117,114,115,116,101,64,110,111,114,100,109,97,114,107,46,111,114,103,39,62,102,117,114,115,116,101,64,110,111,114,100,109,97,114,107,46,111,114,103,60,47,97,62));</script>
 
-Furstinna Ælfwynn of York  
+Furstinna Jovi Torstensdottir  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,102,117,114,115,116,105,110,110,97,64,110,111,114,100,109,97,114,107,46,111,114,103,39,62,102,117,114,115,116,105,110,110,97,64,110,111,114,100,109,97,114,107,46,111,114,103,60,47,97,62));</script>
 
 ### Styringheim (Island of Gotland, SE)

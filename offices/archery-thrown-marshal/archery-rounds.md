@@ -9,8 +9,7 @@ toc_label: Contents
 * [Royal round scoresheet as Excel file]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/royal-round-score-sheet.xls %})
 * [Inter-Kingdom Archery Competition, see IKAC website](http://scores-sca.org/home/index.php?R=10)
 * [Portsmouth round scoresheet as Excel file]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/portsmouth-round-score-sheet.xls %})
-* [Drachenwald round scoresheet as Excel file]({% link path/to/source/file.md %}offices/archery-thrown-marshal/files/Drachenwald_Round.xls)
-
+* [Drachenwald round scoresheet as Excel file]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xls %})
 # Royal Round
 
 The most common competition in the Society is the Royal Round.
@@ -59,8 +58,7 @@ The most common indoor competition in Drachenwald.
  
 The Annual competition is split into two season’s competitions.
 
-[2019 Summer competition results to date]({% link path/to/source/file.md %}offices/archery-thrown-marshal/files/2019-Summer-competition-results.xls)  
-
+[2019 Summer competition results to date]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/2019-Summer-competition-results.xls %})  
 ## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament.
@@ -77,7 +75,7 @@ The Annual competition is split into two season’s competitions.
 
 ## Previous winners of the Drachenwald Competition
 
-2018/19 - Hrafn Einarsson (Winter) 
+2018/19 - Hrafn Einarsson (Winter)  
 2018/18 - Vallittu af Hukka (Summer)  
 2017/18 - Rakonzay Gergely (Winter)  
 2017/17 - Vallittu af Hukka  (Summer)  
