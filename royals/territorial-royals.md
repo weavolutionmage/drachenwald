@@ -79,8 +79,8 @@ Baroness Catalina de Zaragoza (Petra Träm)
 
 Their Excellencies, Baron & Baroness of the [Barony of Aarnimetsä](http://www.aarnimetsa.org/)
  
-Paroni Dubhghall mac Ébhearáird (Henri Laine)  
+Baron Gilbert Blakthorn (Mika Mäkelä)  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,112,97,114,111,110,105,64,97,97,114,110,105,109,101,116,115,97,46,111,114,103,39,62,112,97,114,111,110,105,64,97,97,114,110,105,109,101,116,115,97,46,111,114,103,60,47,97,62));</script>
  
-Paronitar Mór inghean Bhriain (Maria Laine)  
+Baroness Maerith aff Weselax (Maarit Pakkala)  
 <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,112,97,114,111,110,105,116,97,114,64,97,97,114,110,105,109,101,116,115,97,46,111,114,103,39,62,112,97,114,111,110,105,116,97,114,64,97,97,114,110,105,109,101,116,115,97,46,111,114,103,60,47,97,62));</script>
