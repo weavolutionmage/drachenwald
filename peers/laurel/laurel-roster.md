@@ -142,7 +142,7 @@ Dabbles in: a great many things.
 
 Contact: At events or angelanelk@Hotmail.de, on Facebook you look for Angela Nelk
 
-Apprentices/ Students/ Household affiliations: Apprentice - Lady Swanhilde von Baerenau
+Apprentices/ Students/ Household affiliations: Apprentice - Lady Swanhilde von Baerenau, the Honorable Lady Katherina Mornewegh
 
 Elevated by whom and when: Thorvaldr and Tomoe at Crown Tourney, A.S. L (50) in the Shire of Polderslot.
 
@@ -161,7 +161,7 @@ Contact: At events or at saara.nironen@suomi24.fi
 
 Online presence: http://lethemboyle.com http://evagrelsdotter.blogspot.fi
 
-Apprentices/Students/Household affiliations: Apprentice - Lady Magdalen Yrjänäntytär
+Apprentices/Students/Household affiliations: Apprentice -n.a.
 
 Elevated by whom and when: 7 of September 2013 by Sven and Siobhan
 
@@ -347,7 +347,7 @@ Contact: At events or at amadejska@gmail.com
 
 Online presence: www.textiletimetravels.org
 
-Apprentices/Students/Household affiliations: Apprentices: Mistress  Johanna af Hukka, Duchess Siobhán inghean uí Liatháin.
+Apprentices/Students/Household affiliations: Apprentices: Mistress Johanna af Hukka, 
 
 Protégés: Lady Åsa Fredriksdotter, Lady Ragnell Caxtone, Baron UlfR Knutsson
 
@@ -361,7 +361,7 @@ Region: Nordmark
 
 Primary artforms/Elevated for: Hand-sewing and embroidery
 
-Dabbles in: Have since become addicted to nålbinding. Am happiest with doing clothing styles ranging from really, really early (like stone age sewing techniques are also of interest) to the 12th Century, prefer northern Europe. Also do: dance, cooking, baking.
+Dabbles in: Nålbinding, Bardic Arts, Dance, Cooking, Baking, Viking Age through to 12th Century northern Europe/Scandinavia
 
 Contact: At events or kareina.sca@gmail.com
 
@@ -369,9 +369,9 @@ Online Presence: https://kareina.dreamwidth.org
 
 Apprentice/s: Ena Iliansdotter, Astrid uti Erismarc
 
-Elevated by whom and when: 2000,  Fabian and Bryn, King and Queen of the West
+Elevated by whom and when: Fabian and Bryn, King and Queen of the West, at Oerthan Winter Coronet, January AS XXXV (2000 CE)
 
-Classes I have held/are willing to hold: Hand sewing, laid and couched work embroidery, early period costume construction logic, dance, wax tablet making, cooking from period recipes
+Classes I have held/are willing to hold: Hand sewing, laid and couched work embroidery, early period costume construction logic, dance, wax tablet making, cooking from period recipes, soapstone use in the Viking Age.
 
 ## Dame Lyonet de Covenham
 Region: Insulae Draconis, near Guildford, England 
@@ -403,7 +403,7 @@ Contact: Email lia.thornegge@gmail.com or talk to me at events
 
 Online presence: https://liadethornegge.dreamwidth.org/ http://thornegge.wordpress.com/ https://www.facebook.com/LiaDeThornegge/
 
-Apprentices/Students/Household affiliations: Member of the households Brighthelm and Three Scissors and Duck. Apprentices: Lady Silwa af Swaneholm
+Apprentices/Students/Household affiliations: Member of the households Brighthelm and Three Scissors and Duck. Apprentices: 
 
 Elevated by whom and when: Paul and Aryanhwy at Kingdom University November 2012
 
@@ -495,7 +495,7 @@ Contact: At events or menglad@swipnet.se
 
 Online Presence: Renika's Anachronistic Adventure
 
-Apprentices/Students/Household affiliations: Apprentice - Lady Lali Ingemarsdotter
+Apprentices/Students/Household affiliations: Apprentice - Lali Ingemarsdotter, Marlein Eberlin, Balthasar Rebil Weiss and Görvel Skote
 
 Elevated by whom and when: Morales and Agnes at Baronial Investiture & Fiesta de Lucia in Styringheim, December 12 A.S. 51 (2016)
 
@@ -547,7 +547,7 @@ Dabbles in: Calligraphy
 
 Contact: At events or skafte@styringheim.se
 
-Apprentices/Students/Household affiliations: Apprentices -  Fru Erid Ingefridsdotter Hinspaka and Herr Fledar Skote, getfarmare från Lojsta
+Apprentices/Students/Household affiliations: Apprentices - Fru Erid Ingefridsdotter Hinspaka and Herr Fledar Skote, getfarmare från Lojsta, Fru Skarp-Eriks Saga
 
 Elevated by whom and when: 1999 by Matthew and Anna
 
