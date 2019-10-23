@@ -63,12 +63,12 @@ for rssUrl in rssUrls:
             images = []
             for img in soup.findAll('img'):
                 images.append(img.get('src'))
-            print(summary)
+            #print(summary)
             summaryLtd=summary
             if (len(summaryLtd) >= 250):
                 summaryLtd = summary[0:summary.rfind(' ', 0, 250)]
 
-            print(summaryLtd)
+            #print(summaryLtd)
             link = entry['link']
             published = entry['published_parsed']
 
