@@ -5,12 +5,10 @@ category: news
 tags: curia
 author: sela
 ---
-_The King and Queen of Drachenwald have called for a curia to take place in January at Twelfth Night Coronation. When a change to Kingdom Law is being considered, a curia is an opportunity for the people of Drachenwald to comment on the proposed changes. At this curia, two changes are proposed. One relates to the Office of Signet. The other, detailed here, calls for a change to the order of precedence. This post, by the authors of that proposal, sets out the changes and explains their rationale for making them._
+_The King and Queen of Drachenwald have [called for a Curia]({{ site.baseurl }}{% post_url 2019-11-12-call-to-curia %}) to take place in January at Twelfth Night Coronation. When a change to Kingdom Law is being considered, a Curia is an opportunity for the people of Drachenwald to comment on the proposed changes. At this curia, two changes are proposed. One relates to the Office of Signet. The other, detailed here, calls for a change to the order of precedence. This post, by the authors of that second proposal, sets out the changes and explains their rationale for making them._
 
 _If you wish to comment on the proposals, you may do so by email to [seneschal@drachenwald.sca.org](mailto:seneschal@drachenwald.sca.org) as well as at the event itself._  
 _-- Sela_
-
----
 
 # Kingdom law change proposal: Order of Precedence
 
@@ -98,6 +96,31 @@ The order of Precedence shall be as follows
 18. Everyone else.
 
 Within each category, people are ordered by the date of attaining that rank; those with the same date are ordered by their next highest award. Territorial nobility within each category is ordered by the age of the branch. Foreign royalty and territorial nobility is given rank right after the corresponding Drachenwald category, ordered by the age of the branch they rule. However, the highest ranking local landed noble is always considered senior to these foreign guests and shall act as their host.
+
+## Examples related to Kingdom law change proposal Order of Precedence
+
+(If this table doesn't look right, turn your device to landscape.)
+
+|OP|In Nordmark (outside baronies)|In Gotvik, Nordmark|In Insulae Draconis|In Knight's Crossing|In Aarnimetsä|In Polderslot|
+|--|------------------------------|-------------------|-------------------|--------------------|-------------|-------------|
+| 1|King & Queen|King & Queen|King & Queen|King & Queen|King & Queen|King & Queen|
+| 2|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|
+| 3|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Insulae Draconis|Baron & Baroness of Knight's Crossing|Baron & Baroness of Aarnimetsä|Prince & Princess of Nordmark|
+| 4|Prince & Princess of Insulae Draconis|Baron & Baroness of Gotvik|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Insulae Draconis|
+| 5|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Prince & Princess of Insulae Draconis|
+| 6|Counts and Countesses|Dukes and Duchesses|Counts and Countesses|Dukes and Duchesses|Dukes and Duchesses|Counts and Countesses|
+| 7|Viscounts and Viscountesses|Counts and Countesses|Viscounts and Viscountesses|Counts and Countesses|Counts and Countesses|Viscounts and Viscountesses|
+| 8|Bestowed Peers|Viscounts and Viscountesses|Bestowed Peers|Viscounts and Viscountesses|Viscounts and Viscountesses|Bestowed Peers|
+| 9|Baron & Baroness of Knight's Crossing|Bestowed Peers|Baron & Baroness of Knight's Crossing|Bestowed Peers|Bestowed Peers|Baron & Baroness of Knight's Crossing|
+|10|Baron & Baroness of Aarnimetsä|Baron & Baroness of Knight's Crossing|Baron & Baroness of Aarnimetsä|Baron & Baroness of Aarnimetsä|Baron & Baroness of Knight's Crossing|Baron & Baroness of Aarnimetsä|
+|11|Baron & Baroness of Gotvik|Baron & Baroness of Aarnimetsä|Baron & Baroness of Gotvik|Baron & Baroness of Gotvik|Baron & Baroness of Gotvik|Baron & Baroness of Gotvik|
+|12|Barons and Baronesses of Court|Barons and Baronesses of Court|Barons and Baronesses of Court|Barons and Baronesses of Court|Barons and Baronesses of Court|Barons and Baronesses of Court|
+|13|Awards that carry Grant of Arms|Awards that carry Grant of Arms|Awards that carry Grant of Arms|Awards that carry Grant of Arms|Awards that carry Grant of Arms|Awards that carry Grant of Arms|
+|14|Plain Grants of Arms|Plain Grants of Arms|Plain Grants of Arms|Plain Grants of Arms|Plain Grants of Arms|Plain Grants of Arms|
+|15|Awards that carry Award of Arms|Awards that carry Award of Arms|Awards that carry Award of Arms|Awards that carry Award of Arms|Awards that carry Award of Arms|Awards that carry Award of Arms|
+|16|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|
+|17|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|
+|18|Everyone else|Everyone else|Everyone else|Everyone else|Everyone else|Everyone else|
 
 ---
 
