@@ -1,7 +1,6 @@
 ---
 title:  "Call to Curia at Twelfth Night"
 date:   2019-11-12 20:30:00 +0000
-tags: tourney
 category: news
 tags: curia
 author: sela
