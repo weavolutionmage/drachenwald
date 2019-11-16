@@ -35,9 +35,9 @@ Contact: At events or nexus@panix.com
 
 Online presence: www.aspiringluddite.com
 
-Apprentices/Students/Household affiliations: Households - St. Mary's Abbey (Outlands), Sharc Pit (rather more widely dispersed). Pandiscipuli - Alessandra Bruscioli, called Bruce; Mael Eoin mac Echuid; Aodhan dha Cheist; Milada von Schnecken
+Apprentices/Students/Household affiliations: Households - St. Mary's Abbey (Outlands), Sharc Pit (rather more widely dispersed). Pandiscipuli - Alessandra Bruscioli, called Bruce; Mael Eoin mac Echuid; Aodhan dha Cheist; Milada von Schnecken ; Ranulf li Norreis
 
-Elevated by whom and when: Andreas IV and Gabriella II, 08/06/2009, Pennsic War
+Elevated by whom and when: Andreas IV and Gabriella II, 06/08/2009, Pennsic War
 
 Classes I have held/are willing to hold:cookery, sausage making, court heraldry, documentation.
 
