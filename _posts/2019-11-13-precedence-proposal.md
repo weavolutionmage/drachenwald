@@ -51,7 +51,7 @@ On a cultural level, the differences between the ancient traditions of Drachenwa
 
 We propose that a territorial prince(ss) or baron(ess), in their own lands, is by their fealty with the Crown empowered as the noble ruler of the said fief, in precedence second only to Crown and Royal Heirs. A territorial baron whose fief is part of a principality, in their own lands, is by their fealty likewise empowered as the noble ruler of their fief, in precedence second only to Crown and Coronet of the said Principality.
 
-How other Kingdoms deal with order of precedence/march
+## How other Kingdoms deal with order of precedence/march
 
 In the Known World principalities are very rare, and Drachenwald is almost unique in having similar dominions as both principalities and baronies. Nonetheless we have researched the ways other kingdoms determine their order of precedence and order of march.
 
@@ -107,7 +107,7 @@ Within each category, people are ordered by the date of attaining that rank; tho
 | 2|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|Crown Prince & Crown Princess|
 | 3|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Insulae Draconis|Baron & Baroness of Knight's Crossing|Baron & Baroness of Aarnimetsä|Prince & Princess of Nordmark|
 | 4|Prince & Princess of Insulae Draconis|Baron & Baroness of Gotvik|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Nordmark|Prince & Princess of Insulae Draconis|
-| 5|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Prince & Princess of Insulae Draconis|
+| 5|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Dukes and Duchesses|Prince & Princess of Insulae Draconis|Prince & Princess of Insulae Draconis|Dukes and Duchesses|
 | 6|Counts and Countesses|Dukes and Duchesses|Counts and Countesses|Dukes and Duchesses|Dukes and Duchesses|Counts and Countesses|
 | 7|Viscounts and Viscountesses|Counts and Countesses|Viscounts and Viscountesses|Counts and Countesses|Counts and Countesses|Viscounts and Viscountesses|
 | 8|Bestowed Peers|Viscounts and Viscountesses|Bestowed Peers|Viscounts and Viscountesses|Viscounts and Viscountesses|Bestowed Peers|
@@ -121,6 +121,7 @@ Within each category, people are ordered by the date of attaining that rank; tho
 |16|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|Plain Awards of Arms|
 |17|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|Non-armigerous awards|
 |18|Everyone else|Everyone else|Everyone else|Everyone else|Everyone else|Everyone else|
+
 
 ---
 
