@@ -38,7 +38,7 @@ In Drachenwald a traditional way of acknowledging and displaying different statu
  
 The braids can be made in a variety of ways, and thus have different appearance. They are usually worn around the shoulder or upper arm on the off-hand side. The significance of a braid can most often be read in its colour. The following colour combinations are reserved by tradition:
  
-**Gold-black-red** – Member of the Order of the Dragon´s Steel (this order was closed when the [Order of Defence]({ site.baseurl }}{% link peers/defence/index.md %}) was created, until then it was the highest award for fencing in Drachenwald)
+**Gold-black-red** – Member of the Order of the Dragon´s Steel (this order was closed when the [Order of Defence]({{ site.baseurl }}{% link peers/defence/index.md %}) was created, until then it was the highest award for fencing in Drachenwald)
  
 **Gold-black** - Prefect of the DW Academy of Defence 
 
