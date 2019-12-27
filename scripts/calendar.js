@@ -43,8 +43,8 @@ function displayCalendar( results ) {
         calhtml += " &ndash; " + caldata[i]['end'].replace(/-/g, '&#8209;');
       }
       calhtml += "</td>";
-      calhtml += "<td>" + caldata[i]['name'] + "</td>";
       calhtml += "<td>" + caldata[i]['group'] + "</td>";
+      calhtml += "<td>" + caldata[i]['name'] + "</td>";
       
       calhtml += "<td>"
       if ( caldata[i]['progress'] == 'King' ) {
