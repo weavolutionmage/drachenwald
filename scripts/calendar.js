@@ -42,13 +42,13 @@ function displayCalendar( results ) {
       calhtml += "<tr><td data-label='Date'><b>";
 
       if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
       } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-        calhtml += startdate.toLocaleString('default', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('default', { day: 'numeric', month: 'short', year: 'numeric' });
       } else if ( startdate.getYear() == enddate.getYear() ) {
-        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'short', year: 'numeric' });
       } else {
-        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'short', year: 'numeric' });
       }
 
       calhtml += "</b></td>";
