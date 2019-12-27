@@ -39,16 +39,16 @@ function displayCalendar( results ) {
 
     if ( nowdate < enddate ) {
 
-      calhtml += "<tr><td data-label='Date'><b>"
+      calhtml += "<tr><td data-label='Date'><b>";
 
-      if ( enddate != startdate ) {
-        if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-          calhtml += startdate.getDate() + "&ndash;" + enddate.getDate() + " " + enddate.toLocaleString('default', { month: 'long' }) + " " + enddate.getFullYear();
-        } else if ( startdate.getYear() == enddate.getYear() ) {
-          calhtml += startdate.getDate() + " " + startdate.toLocaleString('default', { month: 'long' }) + " &ndash; " + enddate.getDate() + " " + enddate.toLocaleString('default', { month: 'long' }) + " " + enddate.getFullYear();
-        } else {
-          calhtml += startdate.getDate() + " " + startdate.toLocaleString('default', { month: 'long' }) + " " + startdate.getFullYear() + " &ndash; " + enddate.getDate() + " " + enddate.toLocaleString('default', { month: 'long' }) + " " + enddate.getFullYear();
-        }
+      if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+      } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('default', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+      } else if ( startdate.getYear() == enddate.getYear() ) {
+        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
+      } else {
+        calhtml += startdate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('default', { day: 'numeric', month: 'long', year: 'numeric' });
       }
 
       calhtml += "</b></td>";
