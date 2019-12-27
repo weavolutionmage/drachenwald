@@ -44,7 +44,14 @@ function displayCalendar( results ) {
       }
       calhtml += "</td>";
       calhtml += "<td>" + caldata[i]['group'] + "</td>";
-      calhtml += "<td>" + caldata[i]['name'] + "</td>";
+      calhtml += "<td>";
+      if ( caldata[i]['web'] != "" ) {
+        calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['name'] + '</a>';
+      } else {
+        calhtml += caldata[i]['name'];
+      }
+      
+      calhtml += "</td>";
       
       calhtml += "<td>"
       if ( caldata[i]['progress'] == 'King' ) {
