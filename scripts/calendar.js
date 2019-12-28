@@ -37,8 +37,6 @@ const fetch_retry = async (url, n, sheet) => {
     var cols = 4;
   }
 
-
-
   for (let i = 0; i < n; i++) {
 
     if ( i > 0 ) {
@@ -81,12 +79,11 @@ const fetch_retry = async (url, n, sheet) => {
         return true;
       }
     } catch (err) {
-      $( htmldest ).html( '<td colspan="' + cols + '"><i>Failed to load; please check your contnet blocker settings.</i></td>' );
       error = err;
       console.log( error );
     }
 
-    await new Promise(r => setTimeout(r, 2000));
+    await new Promise(r => setTimeout(r, 5000));
 
   }
   $( htmldest ).html( '<td colspan="' + cols + '"><i>Failed to load; please check your content blocker settings.</i></td>' );
