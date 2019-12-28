@@ -3,14 +3,42 @@ layout: none
 ---
 async function loadCalendar( jQuery ) {
 
+  if ( isIE() ) {
+    $( "#calendar" ).html( '<td colspan="4"><i>Internet Explorer is not supported. Please try Microsoft Edge.</i></td>' );
+    $( "#bidlist" ).html( '<td colspan="5"><i>Internet Explorer is not supported. Please try Microsoft Edge.</i></td>' );
+    return;
+  }
+
   url = '{{ site.calendar.events.url }}';
 
-  await fetch_retry( url, 5 );
+  fetch_retry( url, 5, 'events' );
+
+  bidurl = '{{ site.calendar.bidlist.url }}';
+
+  fetch_retry( bidurl, 5, 'bids' );
 
 }
 
-const fetch_retry = async (url, n) => {
+function isIE() {
+  ua = navigator.userAgent;
+  var is_ie = ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
+  
+  return is_ie; 
+}
+
+const fetch_retry = async (url, n, sheet) => {
   let error;
+
+  if ( sheet == 'bids' ) {
+    var htmldest = "#bidlist";
+    var cols = 5;
+  } else {
+    var htmldest = "#calendar";
+    var cols = 4;
+  }
+
+
+
   for (let i = 0; i < n; i++) {
 
     if ( i > 0 ) {
@@ -28,7 +56,7 @@ const fetch_retry = async (url, n) => {
       };
     }
 
-    $( "#calendar" ).html( '<td colspan="4"><i>Loading calendar... ' + Number(i+1) + '/' + Number(n) + '</i></td>' );
+    $( htmldest ).html( '<td colspan="' + cols + '"><i>Loading... ' + Number(i+1) + '/' + Number(n) + '</i></td>' );
 
     try {
       
@@ -38,15 +66,22 @@ const fetch_retry = async (url, n) => {
 
         caltext = await response.text();
 
-        Papa.parse( caltext , {
-          complete: displayCalendar,
-          header: true,
-        });
+        if ( sheet == 'bids' ) {
+          Papa.parse( caltext , {
+            complete: displayBidlist,
+            header: true,
+          });
+        } else {
+          Papa.parse( caltext , {
+            complete: displayCalendar,
+            header: true,
+          });
+        };
 
         return true;
       }
     } catch (err) {
-      $( "#calendar" ).html( '<td colspan="4"><i>Calendar failed to load.</i></td>' );
+      $( htmldest ).html( '<td colspan="' + cols + '"><i>Failed to load; please check your contnet blocker settings.</i></td>' );
       error = err;
       console.log( error );
     }
@@ -54,14 +89,14 @@ const fetch_retry = async (url, n) => {
     await new Promise(r => setTimeout(r, 2000));
 
   }
-  $( "#calendar" ).html( '<td colspan="4"><i>Calendar failed to load.</i></td>' );
+  $( htmldest ).html( '<td colspan="' + cols + '"><i>Failed to load; please check your content blocker settings.</i></td>' );
   throw error;
 };
 
 
 function displayCalendar( results ) {
 
-  caldata = results.data;
+  var caldata = results.data;
 
   caldata.sort(function(a, b) {
     return Date.parse(a.start) - Date.parse(b.start);
@@ -122,6 +157,34 @@ function displayCalendar( results ) {
   }
 
   $( "#calendar" ).html( calhtml );
+
+}
+
+function displayBidlist( results ) {
+
+  var caldata = results.data;
+
+  var calhtml = "";
+
+  for ( var i = 0; i < caldata.length; i++ ) {
+
+    var style = "";
+
+    if ( caldata[i]['due'] == "Accepted" ) {
+      style = " style='color: #666666;'";
+    } else {
+      style = " style='font-weight: bold;'";
+    }
+
+    calhtml += "<tr><td data-label='Date'" + style + ">" + caldata[i]['date'] + "</td>";
+    calhtml += "<td data-label='Region'" + style + ">" + caldata[i]['region'] + "</td>";
+    calhtml += "<td data-label='Event'" + style + ">" + caldata[i]['event'] + "</td>";
+    calhtml += "<td data-label='Due'" + style + ">" + caldata[i]['due'] + "</td>";
+    calhtml += "<td data-label='Bids'" + style + ">" + caldata[i]['bids'] + "</td></tr>";
+
+  }
+
+  $( "#bidlist" ).html( calhtml );
 
 }
 
