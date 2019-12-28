@@ -44,8 +44,6 @@ title: Events Calendar
 
 <caption><h3>Bid List</h3></caption>
 
-<tbody>
-
 <thead>
 <tr>
 <th scope="col"><strong><h3>Date</h3></strong></th>
@@ -56,33 +54,12 @@ title: Events Calendar
 </tr>
 </thead>
 
-<tbody>
+<tbody id="bidlist">
 
-{% assign lastaccepted = 1 %}
+  <tr><td colspan="5"><i>Bid list is loading...</i></td></tr>
+  
+  </tbody>
 
-{% for bid in site.data.events.bidlist %}
-
-  {% unless bid.due == "Accepted" %}
-    {% if lastaccepted == 1 %}
-      {% assign lastaccepted = 0 %}
-<tr>
-<td colspan="5">&nbsp;</td>
-</tr>
-
-    {% endif %}
-  {% endunless %}
-
-<tr>
-<td data-label="Date">{{ bid.date }}</td>
-<td data-label="Region">{{ bid.region }}</td>
-<td data-label="Event">{{ bid.event }}</td>
-<td data-label="Bids Due">{{ bid.due }}</td>
-<td data-label="Bids">{{ bid.bids}}</td>
-</tr>
-
-{% endfor %}
-
-</tbody>
 </table>
 
 <h3 style="display: none;"><strong>Future Dates</strong></h3>
