@@ -1,18 +1,63 @@
 ---
 layout: none
 ---
-function loadCalendar( jQuery ) {
+async function loadCalendar( jQuery ) {
 
   url = '{{ site.calendar.events.url }}';
 
-  Papa.parse(url, {
-    download: true,
-    header: true,
-    complete: displayCalendar,
-    error: errorCalendar
-  });
+  await fetch_retry( url, 5 );
 
 }
+
+const fetch_retry = async (url, n) => {
+  let error;
+  for (let i = 0; i < n; i++) {
+
+    if ( i > 0 ) {
+      var myHeaders = new Headers();
+      myHeaders.append('pragma', 'no-cache');
+      myHeaders.append('cache-control', 'no-cache');
+  
+      options = {
+        method: 'GET',
+        headers: myHeaders,
+      };
+    } else {
+      options = {
+        method: 'GET',
+      };
+    }
+
+    $( "#calendar" ).html( '<td colspan="4"><i>Loading calendar... ' + Number(i+1) + '/' + Number(n) + '</i></td>' );
+
+    try {
+      
+      response = await fetch(url, options);
+
+      if (response.status == 200) {
+
+        caltext = await response.text();
+
+        Papa.parse( caltext , {
+          complete: displayCalendar,
+          header: true,
+        });
+
+        return true;
+      }
+    } catch (err) {
+      $( "#calendar" ).html( '<td colspan="4"><i>Calendar failed to load.</i></td>' );
+      error = err;
+      console.log( error );
+    }
+
+    await new Promise(r => setTimeout(r, 2000));
+
+  }
+  $( "#calendar" ).html( '<td colspan="4"><i>Calendar failed to load.</i></td>' );
+  throw error;
+};
+
 
 function displayCalendar( results ) {
 
@@ -22,7 +67,7 @@ function displayCalendar( results ) {
     return Date.parse(a.start) - Date.parse(b.start);
   });
 
-  var calhtml = ""
+  var calhtml = "";
 
   nowdate = new Date();
 
@@ -35,7 +80,6 @@ function displayCalendar( results ) {
     } else {
       enddate = startdate;
     }
-
 
     if ( nowdate < enddate ) {
 
@@ -82,7 +126,7 @@ function displayCalendar( results ) {
 }
 
 function errorCalendar( error ) {
-  $( "#calendar" ).html( '<td colspan="4"><i>Calendar failed to load.</i></td>' );
+  $( "#calendar" ).html( '<td colspan="4"><i>Calendar could not be displayed.</i></td>' );
   console.log( "Calendar failed to load: " + error )
 }
 
