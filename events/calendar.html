@@ -5,9 +5,10 @@ title: Events Calendar
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
 <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 <script src="{% link scripts/calendar.js %}"></script>
+<script src="{% link scripts/bidlist.js %}"></script>
 
 <script>
-  grouplist = [ 'dun in Mara', 'Aarnimetsä', 'eplaheimr' ]
+  // grouplist = [ 'dun in Mara', 'Aarnimetsä', 'eplaheimr' ]
   $( document ).ready( loadCalendar );
   $( document ).ready( loadBidlist );
 </script>
@@ -40,7 +41,7 @@ title: Events Calendar
 
 <tbody id="calendar">
 
-<tr><td colspan="4"><i>Calendar is loading...</i></td></tr>
+<tr><td colspan="4"><i>Calendar is loading...<br>(Internet Explorer is not supported)</i></td></tr>
 
 </tbody>
 </table>
@@ -62,7 +63,7 @@ title: Events Calendar
 
 <tbody id="bidlist">
 
-  <tr><td colspan="5"><i>Bid list is loading...</i></td></tr>
+  <tr><td colspan="5"><i>Bid list is loading...<br>(Internet Explorer is not supported)</i></td></tr>
   
   </tbody>
 
