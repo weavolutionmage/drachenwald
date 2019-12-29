@@ -1,17 +1,7 @@
 ---
 title: Events Calendar
+calendarlist: true
 ---
-
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
-<script src="{% link scripts/calendar.js %}"></script>
-<script src="{% link scripts/bidlist.js %}"></script>
-
-<script>
-  // grouplist = [ 'dun in Mara', 'Aarnimetsä', 'eplaheimr' ]
-  $( document ).ready( loadCalendar );
-  $( document ).ready( loadBidlist );
-</script>
 
 <p>
   <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
