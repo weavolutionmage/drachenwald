@@ -33,7 +33,13 @@ function displayBidlist( results ) {
     calhtml += "<tr><td data-label='Date'" + style + ">" + caldata[i]['date'] + "</td>";
     calhtml += "<td data-label='Region'" + style + ">" + caldata[i]['region'] + "</td>";
     calhtml += "<td data-label='Event'" + style + ">" + caldata[i]['event'] + "</td>";
-    calhtml += "<td data-label='Due'" + style + ">" + caldata[i]['due'] + "</td>";
+
+    if ( caldata[i]['due'] == "Accepted" ) {
+      calhtml += "<td data-label='Host'" + style + ">" + caldata[i]['group'] + "</td>";
+    } else {
+      calhtml += "<td data-label='Host'" + style + ">Bids due " + caldata[i]['due'] + "</td>";
+    }
+
     calhtml += "<td data-label='Bids'" + style + ">" + caldata[i]['bids'] + "</td></tr>";
 
   }
