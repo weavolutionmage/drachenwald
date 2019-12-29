@@ -59,6 +59,12 @@ survey:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSd8sUf_UWyHQJwrB3BsrI8bRMsMupSf_g09_Mskdfc7xHc8tw/viewform?usp=sf_link"
   prefill: "entry.899185538"
 
+calendar:
+  events:
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQpGIbZo_QxZgE7MagJVIlQpgq5y3eQ-s_D515twGKGx5hp2dvOB2hdCqySDgftaIOx7s8ruLkUJmk/pub?gid=0&single=true&output=csv"
+  bidlist:
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQpGIbZo_QxZgE7MagJVIlQpgq5y3eQ-s_D515twGKGx5hp2dvOB2hdCqySDgftaIOx7s8ruLkUJmk/pub?gid=971319238&single=true&output=csv"
+
 # Site Footer
 footer:
   links:
