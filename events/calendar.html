@@ -6,6 +6,12 @@ title: Events Calendar
 <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 <script src="{% link scripts/calendar.js %}"></script>
 
+<script>
+  grouplist = [ 'dun in Mara', 'Aarnimetsä', 'eplaheimr' ]
+  $( document ).ready( loadCalendar );
+  $( document ).ready( loadBidlist );
+</script>
+
 <p>
   <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
   <a href="{% link events/drachenwald.ics %}" class="btn btn--primary">Add Kingdom events to my calendar application</a>

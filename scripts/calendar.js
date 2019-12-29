@@ -4,7 +4,6 @@ layout: none
 async function loadCalendar( jQuery ) {
 
   if ( isIE() ) {
-    $( "#calendar" ).html( '<td colspan="4"><i>Internet Explorer is not supported. Please try Microsoft Edge.</i></td>' );
     $( "#bidlist" ).html( '<td colspan="5"><i>Internet Explorer is not supported. Please try Microsoft Edge.</i></td>' );
     return;
   }
@@ -13,6 +12,15 @@ async function loadCalendar( jQuery ) {
 
   fetch_retry( url, 5, 'events' );
 
+}
+
+async function loadBidlist( jQuery ) {
+
+  if ( isIE() ) {
+    $( "#bidlist" ).html( '<td colspan="5"><i>Internet Explorer is not supported. Please try Microsoft Edge.</i></td>' );
+    return;
+  }
+
   bidurl = '{{ site.calendar.bidlist.url }}';
 
   fetch_retry( bidurl, 5, 'bids' );
@@ -20,10 +28,15 @@ async function loadCalendar( jQuery ) {
 }
 
 function isIE() {
-  ua = navigator.userAgent;
-  var is_ie = ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1;
-  
-  return is_ie; 
+  var ua = window.navigator.userAgent;
+  var msie = ua.indexOf("MSIE ");
+
+  if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))
+  {
+      return true
+  }
+
+  return false;
 }
 
 const fetch_retry = async (url, n, sheet) => {
@@ -93,6 +106,17 @@ const fetch_retry = async (url, n, sheet) => {
 
 function displayCalendar( results ) {
 
+  if ( typeof grouplist == 'undefined' ) {
+    var grouplistlower = [];
+  } else {
+    var grouplistlower  = [];
+    for (var i = 0; i < grouplist.length; i++) {
+        grouplistlower.push(grouplist[i].toLowerCase());
+    }
+  }
+
+  console.log ( "after" , grouplist )
+
   var caldata = results.data;
 
   caldata.sort(function(a, b) {
@@ -115,41 +139,44 @@ function displayCalendar( results ) {
 
     if ( nowdate < enddate ) {
 
-      calhtml += "<tr><td data-label='Date'><b>";
+      if ( grouplistlower.length < 1 || $.inArray( caldata[i]['group'].toLowerCase() , grouplistlower ) > -1 ) {
 
-      if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-      } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-      } else if ( startdate.getYear() == enddate.getYear() ) {
-        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-      } else {
-        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-      }
+        calhtml += "<tr><td data-label='Date'><b>";
 
-      calhtml += "</b></td>";
-      calhtml += "<td data-label='Group'>" + caldata[i]['group'] + "</td>";
-      calhtml += "<td data-label='Event'>";
-      if ( caldata[i]['web'] != "" ) {
-        calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['name'] + '</a>';
-      } else {
-        calhtml += caldata[i]['name'];
-      }
-      
-      calhtml += "</td>";
-      
-      calhtml += "<td data-label='Royals'>"
-      if ( caldata[i]['progress'] == 'King' ) {
-        calhtml += "King";
-      } else if ( caldata[i]['progress'] == 'Queen' ) {
-        calhtml += "Queen";
-      } else if ( caldata[i]['progress'] == 'Both' ) {
-        calhtml += "King & Queen";
-      } else {
-        calhtml += "&nbsp;"
-      }
-      calhtml += "</td></tr>\n\r";
+        if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+        } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+        } else if ( startdate.getYear() == enddate.getYear() ) {
+          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+        } else {
+          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+        }
 
+        calhtml += "</b></td>";
+        calhtml += "<td data-label='Group'>" + caldata[i]['group'] + "</td>";
+        calhtml += "<td data-label='Event'>";
+        if ( caldata[i]['web'] != "" ) {
+          calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['name'] + '</a>';
+        } else {
+          calhtml += caldata[i]['name'];
+        }
+        
+        calhtml += "</td>";
+        
+        calhtml += "<td data-label='Royals'>"
+        if ( caldata[i]['progress'] == 'King' ) {
+          calhtml += "King";
+        } else if ( caldata[i]['progress'] == 'Queen' ) {
+          calhtml += "Queen";
+        } else if ( caldata[i]['progress'] == 'Both' ) {
+          calhtml += "King & Queen";
+        } else {
+          calhtml += "&nbsp;"
+        }
+        calhtml += "</td></tr>\n\r";
+
+      }
     }
   }
 
@@ -189,5 +216,3 @@ function errorCalendar( error ) {
   $( "#calendar" ).html( '<td colspan="4"><i>Calendar could not be displayed.</i></td>' );
   console.log( "Calendar failed to load: " + error )
 }
-
-$( document ).ready( loadCalendar );
