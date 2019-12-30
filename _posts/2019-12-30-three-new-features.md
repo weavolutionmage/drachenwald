@@ -60,8 +60,6 @@ Webministers in Insulae Draconis can instead use the Principality Calendar:
 
 Again, replace the elements of `grouplist` with the groups of your choice.
 
-The third thing we're excited to announce is a cut-down version of the Drachenwald website, known as **"Templateshire"**. If you are the webminister of a group website, and would like to move away from handling the hosting yourself, you are welcome to work with the web artificers to use the same technology that we are. We've been trying to make this easier, and this is a big step: you can now [download an empty template](https://gitlab.com/sca-drachenwald/templateshire/), ready to include your photos and text.
-
-The combination of all of these features are behind the relaunch of the [Lough Devnaree](https://loughdevnaree.org) website for our groups in Ireland. Lough Devnaree is not a formal group, but it's an important identity for many of our members in the groups there, and one thing that's been missing is a single calendar with all the in-country events in one place. This now appears on the front page of the rebuilt website (which shares its theme and tech with the Drachenwald site.)
+Finally, it is this feature which is behind the relaunch of the [Lough Devnaree](https://loughdevnaree.org) website for our groups in Ireland. Lough Devnaree is not a formal group, but it's an important identity for many of our members in the groups there, and one thing that's been missing is a single calendar with all the in-country events in one place. This now appears on the front page of the rebuilt website (which shares its theme and tech with the Drachenwald site.)
 
 Comments, as always, are welcome - especially from webministers, we're always keen to hear of ways we can support you.
