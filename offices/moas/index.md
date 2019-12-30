@@ -10,13 +10,14 @@ title: Minister for Arts and Sciences
 ### Arts and Science Competition
 
 * [Kingdom A&S Competition - Information about Drachenwald's A&S Competition]({{ site.baseurl }}{% link offices/moas/royal-artisan-competition.md %})
-* [Judging Criteria Sheets listed by Category]({{ site.baseurl }}{% link offices/moas/judging.md %})
+* [Judging Criteria]({{ site.baseurl }}{% link offices/moas/judging.md %})
+* [Entry form/Score sheet]({{ site.baseurl }}{% link offices/moas/files/scoresheet-entryform.pdf %}) (PDF)
 
 ### A&S Documentation
 
 * [Why we enter Arts and Sciences Competitions]({{ site.baseurl }}{% link offices/moas/why-enter-competitions.md %})
 * [Why and How to Present Documentation]({{ site.baseurl }}{% link offices/moas/documentation-howto.md %}) ([PDF version]({{ site.baseurl }}{% link offices/moas/files/documentation-howto.pdf %}))
-* [Minimum Documentation form]({{ site.baseurl }}{% link offices/moas/minimum-documentation-form.html %})
+* [Guided Documentation form]({{ site.baseurl }}{% link offices/moas/minimum-documentation-form.md %})
 
 ### A&S Competition and Display
 
