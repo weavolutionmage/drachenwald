@@ -4,7 +4,7 @@ excerpt: "Happy new year! The web artificers have been hard at work on new featu
 date:   2019-12-30 17:00:00 +0000
 tags: webartificers
 category: news
-author: Aodh and Genevieve
+author: sela
 tldr: "Code for webministers to include the Kingdom event calendar on their group's website."
 ---
 Greetings and happy new (mundane) year! The web artificers are happy to announce new features of the Drachenwald website.
