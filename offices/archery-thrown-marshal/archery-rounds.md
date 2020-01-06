@@ -77,6 +77,7 @@ The Annual competition is split into two season’s competitions.
 
 2018/19 - Hrafn Einarsson (Winter)
 
+wgpowngpow
 2018/18 - Vallittu af Hukka (Summer)  
 2017/18 - Rakonzay Gergely (Winter)  
 2017/17 - Vallittu af Hukka  (Summer)  
