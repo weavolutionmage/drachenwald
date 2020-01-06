@@ -58,7 +58,7 @@ The most common indoor competition in Drachenwald.
  
 The Annual competition is split into two season’s competitions.
 
-[[2019/20 winter competition results to date](https://docs.google.com/spreadsheets/d/1RjDVFXUb2nwRqbU8YpPwVK3uTjlduyKWahxRTauzWbw/edit?usp=sharing)]
+[[2019/20 winter competition results to date](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896)]
 ## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament.
