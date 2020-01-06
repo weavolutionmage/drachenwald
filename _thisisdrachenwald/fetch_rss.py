@@ -20,8 +20,7 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
 #rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True},
 #{"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True}]
 
-rssUrls=[{"url": "https://shireoftrivium.wixsite.com/home/blog-feed.xml", "name": "Shire of Trivium", "link":"https://shireoftrivium.wixsite.com/home","merge": False,"showMedia":  True}
-]
+
 
 results = {}
 
@@ -64,12 +63,12 @@ for rssUrl in rssUrls:
             images = []
             for img in soup.findAll('img'):
                 images.append(img.get('src'))
-            print(summary)
+            #print(summary)
             summaryLtd=summary
             if (len(summaryLtd) >= 250):
                 summaryLtd = summary[0:summary.rfind(' ', 0, 250)]
 
-            print(summaryLtd)
+            #print(summaryLtd)
             link = entry['link']
             published = entry['published_parsed']
 

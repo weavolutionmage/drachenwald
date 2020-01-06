@@ -1,15 +1,16 @@
 ---
 title: Events Calendar
+calendarlist: true
 ---
-<table>
-
-<caption><h3>Upcoming Events</h3></caption>
 
 <p>
   <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
   <a href="{% link events/drachenwald.ics %}" class="btn btn--primary">Add Kingdom events to my calendar application</a>
 </p>
 
+<table>
+
+<caption><h3>Upcoming Events</h3></caption>
 
 <thead>
 <tr valign="top">
@@ -28,54 +29,9 @@ title: Events Calendar
 </tr>
 </thead>
 
-<tbody>
+<tbody id="calendar">
 
-{% if site.data.events.eventlist %}
-  {% assign events = site.data.events.eventlist | sort:"start" %}
-{% else %}
-  {% assign events = "" %}
-{% endif %}
-
-{% for item in events %}
-
-  {% assign eventmonth = item.start | date: "%b" %}
-  {% unless eventmonth == currentmonth %}
-  <tr>
-  <td colspan="4">
-  <h3>{{ item.start | date: "%B %Y" }}</h3>
-  </td>
-  </tr>
-  {% assign currentmonth = eventmonth %}
-  {% endunless %}
-
-  <tr>
-  <td data-label="Date">{{ item.start | date: "%d" }}
-  {% unless item.end == "" or item.end == item.start %}
-    {% assign endmonth = item.end | date: "%b" %}
-    {% if currentmonth == endmonth %}
-    - {{ item.end | date: "%d" }}
-    {% else %}
-    - {{ item.end | date: "%d/%m" }}
-    {% endif %}
-  {% endunless %}</td>
-  <td data-label="Group">{{ item.group }}{% unless item.country == "" %} ({{ item.country }}){% endunless %}</td>
-  <td data-label="Event">
-  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</td>
-  
-  <td data-label="Royal Presence">
-    {% if item.progress == "King" %}
-    King
-    {% elsif item.progress == "Queen" %}
-    Queen
-    {% elsif item.progress == "Both" %}
-    King & Queen
-    {% else %}
-    &nbsp;
-    {% endif %}
-  </td>
-  </tr>
-  
-{% endfor %}
+<tr><td colspan="4"><i>Calendar is loading...<br>(Internet Explorer is not supported)</i></td></tr>
 
 </tbody>
 </table>
@@ -85,45 +41,22 @@ title: Events Calendar
 
 <caption><h3>Bid List</h3></caption>
 
-<tbody>
-
 <thead>
 <tr>
 <th scope="col"><strong><h3>Date</h3></strong></th>
 <th scope="col"><strong><h3>Region</h3></strong></th>
 <th scope="col"><strong><h3>Event</h3></strong></th>
-<th scope="col"><strong><h3>Bids Due</h3></strong></th>
+<th scope="col"><strong><h3>Host</h3></strong></th>
 <th scope="col"><strong><h3>Bids</h3></strong></th>
 </tr>
 </thead>
 
-<tbody>
+<tbody id="bidlist">
 
-{% assign lastaccepted = 1 %}
+  <tr><td colspan="5"><i>Bid list is loading...<br>(Internet Explorer is not supported)</i></td></tr>
+  
+  </tbody>
 
-{% for bid in site.data.events.bidlist %}
-
-  {% unless bid.due == "Accepted" %}
-    {% if lastaccepted == 1 %}
-      {% assign lastaccepted = 0 %}
-<tr>
-<td colspan="5">&nbsp;</td>
-</tr>
-
-    {% endif %}
-  {% endunless %}
-
-<tr>
-<td data-label="Date">{{ bid.date }}</td>
-<td data-label="Region">{{ bid.region }}</td>
-<td data-label="Event">{{ bid.event }}</td>
-<td data-label="Bids Due">{{ bid.due }}</td>
-<td data-label="Bids">{{ bid.bids}}</td>
-</tr>
-
-{% endfor %}
-
-</tbody>
 </table>
 
 <h3 style="display: none;"><strong>Future Dates</strong></h3>
