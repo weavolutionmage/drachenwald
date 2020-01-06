@@ -58,7 +58,7 @@ The most common indoor competition in Drachenwald.
  
 The Annual competition is split into two season’s competitions.
 
-[[2019 Summer competition results to date](https://docs.google.com/spreadsheets/d/1RjDVFXUb2nwRqbU8YpPwVK3uTjlduyKWahxRTauzWbw/edit?usp=sharing)]
+[[2019/20 winter competition results to date](https://docs.google.com/spreadsheets/d/1RjDVFXUb2nwRqbU8YpPwVK3uTjlduyKWahxRTauzWbw/edit?usp=sharing)]
 ## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament.
@@ -75,7 +75,8 @@ The Annual competition is split into two season’s competitions.
 
 ## Previous winners of the Drachenwald Competition
 
-2018/19 - Hrafn Einarsson (Winter)  
+2019/19 - Vallittu af Hukka (summer), Kathryn of Dun in Mara(youth), Delphine of Wychwood (Children)
+2018/19 - Hrafn Einarsson (Winter), Ossi Orava(Youth), Filip Fra Aalrum(Children)   
 2018/18 - Vallittu af Hukka (Summer)  
 2017/18 - Rakonzay Gergely (Winter)  
 2017/17 - Vallittu af Hukka  (Summer)  
