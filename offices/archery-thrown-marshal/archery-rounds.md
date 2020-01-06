@@ -75,8 +75,9 @@ The Annual competition is split into two season’s competitions.
 
 ## Previous winners of the Drachenwald Competition
 
+2019/19 . Vallittu af Hukka (summer)
+
 2018/19 - Hrafn Einarsson (Winter)
-testi
 2018/18 - Vallittu af Hukka (Summer) 
 2017/18 - Rakonzay Gergely (Winter)  
 2017/17 - Vallittu af Hukka  (Summer)  
