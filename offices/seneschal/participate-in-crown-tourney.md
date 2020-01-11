@@ -15,10 +15,10 @@ title: Participate in Crown Tourney
 <ul>
 <li>Be acceptable to the current Crown and Seneschal</li>
 <li>Meet the eligibility requirements as laid out in <a href="#law">Kingdom Law</a></li>
-<li>Submit a <a href="#template">letter of intent</a> to the <a href="/content/royalty-and-landed-nobility-drachenwald" title="link to crown">Crown</a> and <a href="/content/drachenwald-seneschal" title="Seneschal">Seneschal</a> no less than 30 days before the Tournament.</li>
+<li>Submit a <a href="#template">letter of intent</a> to the <a href="{{ site.baseurl }}{% link royals/index.html %}">Crown</a> and <a href="{{ site.baseurl }}{% link offices/seneschal/index.md %}">Seneschal</a> no less than 30 days before the Tournament.</li>
 </ul>
 <p>A <a href="#checklist">checklist for participants</a> is show below, along with an example <a href="#template">letter of intent</a>.</p>
-<p>If you have any questions, contact the <a href="/content/drachenwald-seneschal" title="Seneschal">Kingdom Seneschal</a> or current <a href="/content/royalty-and-landed-nobility-drachenwald" title="Crown">Crown</a>.</p>
+<p>If you have any questions, contact the <a href="{{ site.baseurl }}{% link offices/seneschal/index.md %}">Kingdom Seneschal</a> or current <a href="{{ site.baseurl }}{% link royals/index.html %}">Crown</a>.</p>
 <h2><a name="checklist" id="checklist">Checklist for participants</a></h2>
 <p>&nbsp;</p>
 <ul>
@@ -52,7 +52,7 @@ title: Participate in Crown Tourney
 <p>&nbsp;</p>
 <h2><a name="template" id="template">Template for Letters of Intent</a></h2>
 <p>&nbsp;</p>
-<p><a href="/sites/default/files/Sample Letter of Intent.doc">(Download Word Version)</a></p>
+
 <p>Unto Their Royal Majesties and our Kingdom Seneschal do <span style="color: #696969;">(fighter name)</span> and <span style="color: #696969;">(consort name)</span> send greetings,</p>
 <p>If it please Your Majesties, we, <span style="color: #696969;">(full fighter name)</span> and <span style="color: #696969;">(full consort name)</span> do, by this letter, make known our wish to be considered for entry in Your Crown Tournament to be held on <span style="color: #696969;">(date)</span>.</p>
 <p>We confirm that we both meet the requirements, as laid out in Corpora and Kingdom Law, for eligibility to enter the tournament. In particular:</p>
