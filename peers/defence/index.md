@@ -8,7 +8,7 @@ It is a consulting or 'polling' order, meaning that the king and queen choose wh
 
 The Order is distinct from the [Academy of Defense]({% link chartergroups/academy-of-defense/index.md %}), although there is naturally considerable overlap between the Prefects of the Academy and the members of the Order of Defense.  It is worth remembering that the Academy is Drachenwald institution, and advancement is administered internally, while the Order of Defense is recognized throughout the SCA, and members are elevated by the Crown.
 
-<img align="right" src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
+<img align="right" src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" alt="MoD badge" width="200">
 
 Members of the order may be identified by their white livery collars, which have hanging from
 them a medallion bearing the badge of the order.

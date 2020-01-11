@@ -10,7 +10,7 @@ __Too long; didn't read:__ A list of the awards and orders unique to Drachenwald
 
 It is the happy custom of the SCA for the Crown, in the persons of the king and queen, to recognise contributions to the kingdom with awards. They give honour to those who work at events, who strive for excellence in the arts of war, and who make beautiful things. All this work for the kingdom makes our game richer and more fulfilling. 
 
-Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/docs/pdf/govdocs.pdf). From Corpora, IV, G:
+Some awards are recognised across the Society, and are defined in the [SCA's founding documents](https://www.sca.org/resources/document-library/govdocs/). From Corpora, IV, G:
 
 > The Crown may present Awards of Arms, the titles of Court Baron and Court Baroness, and
 Grants of Arms in accordance with the laws and customs of the kingdom.
