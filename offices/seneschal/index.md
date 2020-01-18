@@ -4,7 +4,7 @@ title: Office of the Seneschal
 
 Welcome! In this page you should find everything you need to help in the smooth administration of groups within Drachenwald. Here you will find our Great Book of Laws, warrants, policies and the forms which must be completed for Shire Quarterly reports.
 
-##Drachenwald Law Council
+## Drachenwald Law Council
 
 This council will work with the Kingdom Seneschal office to assist in all phases of making Kingdom Law changes.  This includes:
 * Regularly review of current Kingdom law to insure it is in compliance with SCA Corpora and real world law.
