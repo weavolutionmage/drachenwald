@@ -4,6 +4,17 @@ title: Office of the Seneschal
 
 Welcome! In this page you should find everything you need to help in the smooth administration of groups within Drachenwald. Here you will find our Great Book of Laws, warrants, policies and the forms which must be completed for Shire Quarterly reports.
 
+## Drachenwald Law Council
+
+This council will work with the Kingdom Seneschal office to assist in all phases of making Kingdom Law changes.  This includes:
+* Regularly review of current Kingdom law to insure it is in compliance with SCA Corpora and real world law.
+* Research and provide rational of why changes are necessary and giving (writing) examples of how these changes would impact activities within the Kingdom of Drachenwald.  
+* Draft appropriate new law text to be added to the Kingdom law document for any proposed change.
+* Assist the Crown and Kingdom Seneschal in preparing the proposals for publication in the Dragon’s Tale with both law text changes and rational.
+* Assist the Crown and Kingdom Seneschal in publicizing the proposed changes after the Curia announcement.
+* Assist the Crown in preparation of materials and information to be presented at the Curia meeting.
+* After the Curia, assist the Kingdom Seneschal with publishing a summary of the Curia meeting, and publicizing the changes.
+
 
 <a name="Corpora"></a>
 ## Corporate Documents
