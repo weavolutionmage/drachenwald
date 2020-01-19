@@ -16,6 +16,8 @@ This council will work with the Kingdom Seneschal office to assist in all phases
 * After the Curia, assist the Kingdom Seneschal with publishing a summary of the Curia meeting, and publicizing the changes.
 
 
+Law Council membership is open to any Drachenwald SCA or Affiliate member.  If interested in participating, send a message with your contact information to <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.  Suggested changes or updates to Drachenwald Law may also be sent to <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+
 <a name="Corpora"></a>
 ## Corporate Documents
 
