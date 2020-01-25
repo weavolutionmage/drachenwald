@@ -206,4 +206,8 @@ table th {
   }
 }
 
+[v-cloak] {
+  display: none;
+}
+
 @import "minimal-mistakes"; // main partials

@@ -1,0 +1,19 @@
+---
+---
+
+<div id="drachenwald-calendar">
+
+  <h1>Upcoming Events</h1>
+
+  <events-calendar></events-calendar>
+</div>
+
+{% if jekyll.environment == "production" %}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+{% else %}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"></script>
+{% endif %}
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+<script src="{{ site.baseurl }}{% link scripts/cal@v2.0/events.js %}"></script>
