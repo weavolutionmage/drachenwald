@@ -5,96 +5,16 @@ const eventsUrl = '{{ site.cal2.events.url }}'
 
 {% raw %}
 
-function isIE() {
-  var ua = window.navigator.userAgent;
-  var msie = ua.indexOf("MSIE ");
-
-  if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))
-  {
-      return true
-  }
-
-  return false;
+function getEventStartDate( event ) {
+  return new Date( event['start-date'] );
 }
 
-
-
-function displayCalendar( results ) {
-
-  if ( typeof grouplist == 'undefined' ) {
-    var grouplistlower = [];
+function getEventEndDate( event ) {
+  if ( event['end-date'] != "" ) {
+    return new Date( event['end-date'] );
   } else {
-    var grouplistlower  = [];
-    for (var i = 0; i < grouplist.length; i++) {
-        grouplistlower.push(grouplist[i].toLowerCase());
-    }
+    return new Date( event['start-date'] );
   }
-
-  var caldata = results.data;
-
-  caldata.sort(function(a, b) {
-    return Date.parse(a.start) - Date.parse(b.start);
-  });
-
-  var calhtml = "";
-
-  nowdate = new Date();
-
-  for ( var i = 0; i < caldata.length; i++ ) {
-
-    startdate = new Date( caldata[i]['start'] );
-
-    if ( caldata[i]['end'] != "" ) {
-      enddate = new Date( caldata[i]['end']);
-    } else {
-      enddate = startdate;
-    }
-
-    if ( nowdate < enddate ) {
-
-      if ( grouplistlower.length < 1 || $.inArray( caldata[i]['group'].toLowerCase() , grouplistlower ) > -1 ) {
-
-        calhtml += "<tr><td data-label='Date'><b>";
-
-        if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-        } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
-          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-        } else if ( startdate.getYear() == enddate.getYear() ) {
-          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-        } else {
-          calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
-        }
-
-        calhtml += "</b></td>";
-        calhtml += "<td data-label='Group'>" + caldata[i]['group'] + "</td>";
-        calhtml += "<td data-label='Event'>";
-        if ( caldata[i]['web'] != "" ) {
-          calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['name'] + '</a>';
-        } else {
-          calhtml += caldata[i]['name'];
-        }
-        
-        calhtml += "</td>";
-        
-        calhtml += "<td data-label='Royals'>"
-        if ( caldata[i]['progress'] == 'King' ) {
-          calhtml += "King";
-        } else if ( caldata[i]['progress'] == 'Queen' ) {
-          calhtml += "Queen";
-        } else if ( caldata[i]['progress'] == 'Both' ) {
-          calhtml += "King & Queen";
-        } else {
-          calhtml += "&nbsp;"
-        }
-        calhtml += "</td></tr>\n\r";
-
-      }
-    }
-  }
-
-  $( "#calendar" ).html( calhtml );
-
 }
 
 Vue.component('events-calendar', {
@@ -108,13 +28,16 @@ Vue.component('events-calendar', {
       caldata: [],
     }
   },
+
   created: function () {
     this.loadCalendar();
   },
+
   methods: {
     loadCalendar: function () {
       this.fetchretry( this.url, this.retries );
     },
+
     fetchretry: function ( url ) {
 
       this.status = 'loading';
@@ -153,25 +76,136 @@ Vue.component('events-calendar', {
 
     storeCalendar: function ( results ) {
       this.status = 'loaded';
-      this.caldata  = results.data;
+
+      this.caldata = results.data.sort(function(a, b) {
+        return Date.parse(a['start-date']) - Date.parse(b['start-date']);
+      });
+
       console.log( "Parsing complete" );
+    },
+
+    getEventStyle: function ( event ) {
+
+      var eventStyle = {
+        padding: '2em'
+      }
+
+      if ( event.status == 'official' ) {
+        eventStyle['background-color'] = '#ffffff';
+      } else {
+        eventStyle['background-color'] = '#eeeeee';
+      }
+
+      return eventStyle;
+    },
+
+    eventDisplay: function ( event ) {
+      nowdate = new Date();
+
+      computeDate = getEventEndDate( event ).setDate( getEventEndDate( event ).getDate() + 1);
+
+      if ( nowdate > computeDate ) {
+        return false;
+      }
+
+      if ( event['status'] == 'blank' ) {
+        return false;
+      }
+
+      return true;
+    },
+
+    getDisplayDate: function ( event ) {
+
+      startdate = getEventStartDate( event );
+      enddate = getEventEndDate( event );
+
+      calhtml = '';
+
+      if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "&ndash;" + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else if ( startdate.getYear() == enddate.getYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " &ndash; " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      };
+
+      return calhtml;
     }
   },
-  template: `<span>
-  <div v-if='status=="loaded"'>
-    <div v-for='event in caldata' class='notice'>
-      <h1>{{ event['event-name'] }}</h1>
-      <p>
-      {{ event.region }}
-      </p>
-    </div>
-  </div>
-  <div v-else>
-    <p>Retry number {{ retry }}: {{ url }}</p>
-    <p>Status {{ status }}</p>
-  </div>
-  
-  </span>`
+
+  filters: {
+    displayDate: function ( event ) {
+      startdate = getEventStartDate( event );
+      enddate = getEventEndDate( event );
+
+      calhtml = '';
+
+      if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else if ( startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric' }) + "–" + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else if ( startdate.getYear() == enddate.getYear() ) {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short' }) + " – " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      } else {
+        calhtml += startdate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) + " – " + enddate.toLocaleString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+      };
+
+      return calhtml;
+    }
+  },
+
+  template: '<span>' +
+
+            '   <div v-if="status==\'loaded\'">' +
+            '     <div v-for="event in caldata" v-if="eventDisplay(event)" >' +
+            '       <div :style="getEventStyle(event)"> ' + 
+
+            '         <h1>{{ event["event-name"] }}<br><i>{{ event | displayDate }}</i></h1> ' +
+
+            '         <p v-if="event.summary != \'\'"> ' +
+            '           {{ event.summary }} ' +
+            '         </p>' +
+
+            '         <p> ' +
+            '           Hosted by <b>{{ event["host-branch"] }}</b> in <b>{{ event["country"] }}</b>. ' +
+            '         </p> ' +
+
+            '         <p> ' +
+            '           <span v-if="event.website != \'\'"> ' +
+            '             <a :href="event.website" class="btn btn--primary">Visit event website</a> ' +
+            '           </span> ' +
+
+            '           <span v-if="event.facebook != \'\'"> ' +
+            '             <a :href="event.facebook" class="btn btn--primary">Follow on Facebook</a> ' +
+            '           </span> ' +
+            '         </p> ' +
+
+            '         <p v-if="event.status == \'official\'"> ' +
+            '         <i>This is an official event for the purpose of Kingdom business.</i>' +
+            '         </p> ' +
+
+            '         <p v-if="event.status == \'unofficial\'">' +
+            '         <i>The Chronicler has not yet approved this as an official event.</i>' +
+            '         </p> ' +
+
+            '         <p v-if="event.status == \'pending\'">' +
+            '         <i>This event is pending review by the Chronicler.</i>' +
+            '         </p> ' +
+
+            '       </div> ' +
+            '       <br> ' + 
+            '     </div> ' +
+            '   </div> ' +
+
+            '   <div v-else> ' +
+            '     <p v-if="status == \'failed\'">Calendar failed to load</p> ' +
+            '     <p v-else>Loading calendar... attempt {{ retry }}/{{ retries }}</p> ' +
+            '   </div> ' +
+
+            ' </span> '
 });
 
 var vm = new Vue({
