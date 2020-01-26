@@ -38,6 +38,7 @@ pages:
     - public
   only:
   - staging
+  - sal-cal2
 
 deploy:
   environment: production
