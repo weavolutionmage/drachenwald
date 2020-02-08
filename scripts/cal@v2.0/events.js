@@ -138,7 +138,7 @@ Vue.component('events-calendar', {
     eventIcons: function ( event ) {
       console.log( 'Event ' + event['event-name'] + ' Progress ' + event['progress'] );
 
-      iconhtml = '<td>';
+      iconhtml = '';
 
       if ( event['progress'] == 'King' ) {
         iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
@@ -219,10 +219,10 @@ Vue.component('events-calendar', {
   
             '      <tbody id="calendar"></tbody> ' +
             '         <tr v-for="event in caldata" v-if="eventDisplay(event)" :style="getEventStyle(event)">' +
-            '           <td>{{ event | displayDate }}</td> ' + 
-            '           <td>{{ event["host-branch"] }}</td> ' + 
-            '           <td>{{ event["event-name"] }}</td> ' + 
-            '           <td><span v-html="eventIcons(event)"></span></td> ' + 
+            '           <td data-label="Date">{{ event | displayDate }}</td> ' + 
+            '           <td data-label="Group">{{ event["host-branch"] }}</td> ' + 
+            '           <td data-label="Event">{{ event["event-name"] }}</td> ' + 
+            '           <td data-label="Info"><span v-html="eventIcons(event)"></span></td> ' + 
             '         </tr> ' +
             '      </tbody>' +
 
