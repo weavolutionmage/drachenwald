@@ -4,9 +4,6 @@ sitemap: false
 ---
 
 <div id="drachenwald-calendar">
-
-  <h1>Upcoming Events</h1>
-
   <events-calendar></events-calendar>
 </div>
 
@@ -19,3 +16,15 @@ sitemap: false
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 <script src="{{ site.baseurl }}{% link scripts/cal@v2.0/events.js %}"></script>
+
+<h3>Key</h3>
+
+<p>
+  <i class="fas fa-chess-king"></i> King present<br>
+  <i class="fas fa-chess-queen"></i> Queen present<br>
+  <i class="fab fa-chrome"></i> Link to event website<br>
+  <i class="fab fa-facebook-square"></i> Link to Facebook event<br>
+  <i class="fas fa-check-circle"></i> Official event approved by Chronicler<br>
+  <i class="fas fa-pause-circle"></i> Pending review by Chronicler<br>
+  <i class="fas fa-question-circle"></i> Chronicler requires further information on this event<br>
+</p>

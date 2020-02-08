@@ -133,6 +133,42 @@ Vue.component('events-calendar', {
       };
 
       return calhtml;
+    },
+
+    eventIcons: function ( event ) {
+      console.log( 'Event ' + event['event-name'] + ' Progress ' + event['progress'] );
+
+      iconhtml = '<td>';
+
+      if ( event['progress'] == 'King' ) {
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
+      } else if ( event['progress'] == 'Queen' ) {
+        iconhtml += '<i class="fas fa-chess-queen"></i>&nbsp;';
+      } else if ( event['progress'] == 'Both' ) {
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>&nbsp;';
+      }
+
+      if ( event['website'] != "" ) {
+        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>&nbsp;';
+      }
+
+      if ( event['facebook'] != "" ) {
+        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>&nbsp;';
+      }
+
+      if ( event['status'] == 'official' ) {
+        iconhtml += '<i class="fas fa-check-circle"></i>';
+      } else if ( event['status'] == 'pending' ) {
+        iconhtml += '<i class="fas fa-pause-circle"></i>';
+      } else {
+        iconhtml += '<i class="fas fa-question-circle"></i>';
+      }
+
+
+      console.log( iconhtml );
+
+      return iconhtml;
+
     }
   },
 
@@ -160,44 +196,37 @@ Vue.component('events-calendar', {
   template: '<span>' +
 
             '   <div v-if="status==\'loaded\'">' +
-            '     <div v-for="event in caldata" v-if="eventDisplay(event)" >' +
-            '       <div :style="getEventStyle(event)"> ' + 
+            '     <table>' +
+ 
+            '       <caption><h3>Upcoming Events</h3></caption>' +
 
-            '         <h1>{{ event["event-name"] }}<br><i>{{ event | displayDate }}</i></h1> ' +
+            '       <thead>' +
+            '         <tr valign="top">' +
+            '         <th scope="col">' +
+            '         <h3>Date</h3>' +
+            '         </th>' +
+            '         <th scope="col">' +
+            '         <h3>Group</h3>' +
+            '         </th>' +
+            '         <th scope="col">' +
+            '         <h3>Event</h3>' +
+            '         </th>' +
+            '         <th scope="col">' +
+            '         <h3>Info</h3> ' +
+            '         </th>' +
+            '         </tr>' +
+            '      </thead>' +
+  
+            '      <tbody id="calendar"></tbody> ' +
+            '         <tr v-for="event in caldata" v-if="eventDisplay(event)" :style="getEventStyle(event)">' +
+            '           <td>{{ event | displayDate }}</td> ' + 
+            '           <td>{{ event["host-branch"] }}</td> ' + 
+            '           <td>{{ event["event-name"] }}</td> ' + 
+            '           <td><span v-html="eventIcons(event)"></span></td> ' + 
+            '         </tr> ' +
+            '      </tbody>' +
 
-            '         <p v-if="event.summary != \'\'"> ' +
-            '           {{ event.summary }} ' +
-            '         </p>' +
-
-            '         <p> ' +
-            '           Hosted by <b>{{ event["host-branch"] }}</b> in <b>{{ event["country"] }}</b>. ' +
-            '         </p> ' +
-
-            '         <p> ' +
-            '           <span v-if="event.website != \'\'"> ' +
-            '             <a :href="event.website" class="btn btn--primary">Visit event website</a> ' +
-            '           </span> ' +
-
-            '           <span v-if="event.facebook != \'\'"> ' +
-            '             <a :href="event.facebook" class="btn btn--primary">Follow on Facebook</a> ' +
-            '           </span> ' +
-            '         </p> ' +
-
-            '         <p v-if="event.status == \'official\'"> ' +
-            '         <i>This is an official event for the purpose of Kingdom business.</i>' +
-            '         </p> ' +
-
-            '         <p v-if="event.status == \'unofficial\'">' +
-            '         <i>The Chronicler has not yet approved this as an official event.</i>' +
-            '         </p> ' +
-
-            '         <p v-if="event.status == \'pending\'">' +
-            '         <i>This event is pending review by the Chronicler.</i>' +
-            '         </p> ' +
-
-            '       </div> ' +
-            '       <br> ' + 
-            '     </div> ' +
+            '     </table>' +
             '   </div> ' +
 
             '   <div v-else> ' +
