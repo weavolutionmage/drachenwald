@@ -5,6 +5,21 @@ const eventsUrl = '{{ site.cal2.events.url }}'
 
 {% raw %}
 
+function slugify(string) {
+  const a = 'àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;'
+  const b = 'aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------'
+  const p = new RegExp(a.split('').join('|'), 'g')
+
+  return string.toString().toLowerCase()
+    .replace(/\s+/g, '-') // Replace spaces with -
+    .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
+    .replace(/&/g, '-and-') // Replace & with 'and'
+    .replace(/[^\w\-]+/g, '') // Remove all non-word characters
+    .replace(/\-\-+/g, '-') // Replace multiple - with single -
+    .replace(/^-+/, '') // Trim - from start of text
+    .replace(/-+$/, '') // Trim - from end of text
+}
+
 function getEventStartDate( event ) {
   return new Date( event['start-date'] );
 }
@@ -17,7 +32,19 @@ function getEventEndDate( event ) {
   }
 }
 
-Vue.component('events-calendar', {
+const eventpage = {
+  methods: {
+    getEvent: function ( slug ) {
+      return caldata.find(o => o.slug === slug);
+    }
+  },
+  template: '<span>' +
+            '<p>eventpage for {{ $route.params.slug }}</p>' +
+//            '<p>{{ getEvent(slug)["event-name"] }}</p>' +
+            '</span>'
+};
+
+const eventscal = {
   data: function () {
     return {
       url: eventsUrl,
@@ -81,6 +108,12 @@ Vue.component('events-calendar', {
         return Date.parse(a['start-date']) - Date.parse(b['start-date']);
       });
 
+      for ( var i = 0 ; i < this.caldata.length ; i++ ) {
+        this.caldata[i]['slug'] = slugify( this.caldata[i]['host-branch'] + '-' + this.caldata[i]['event-name'] + '-' + this.caldata[i]['start-date'] );
+        console.log( this.caldata[i]['event-name']);
+        console.log( this.caldata[i]['slug'] );
+      }
+
       console.log( "Parsing complete" );
     },
 
@@ -136,7 +169,6 @@ Vue.component('events-calendar', {
     },
 
     eventIcons: function ( event ) {
-      console.log( 'Event ' + event['event-name'] + ' Progress ' + event['progress'] );
 
       iconhtml = '<table><tr>';
       iconhtml+="<td>"
@@ -174,7 +206,6 @@ Vue.component('events-calendar', {
       iconhtml+="</td>"
 
       iconhtml += "</tr></table>" 
-      console.log( iconhtml );
 
       return iconhtml;
 
@@ -211,29 +242,29 @@ Vue.component('events-calendar', {
 
             '       <thead>' +
             '         <tr valign="top">' +
-            '         <th scope="col">' +
-            '         <h3>Date</h3>' +
-            '         </th>' +
-            '         <th scope="col">' +
-            '         <h3>Group</h3>' +
-            '         </th>' +
-            '         <th scope="col">' +
-            '         <h3>Event</h3>' +
-            '         </th>' +
-            '         <th scope="col">' +
-            '         <h3>Info</h3> ' +
-            '         </th>' +
+            '           <th scope="col">' +
+            '             <h3>Date</h3>' +
+            '           </th>' +
+            '           <th scope="col">' +
+            '             <h3>Group</h3>' +
+            '           </th>' +
+            '           <th scope="col">' +
+            '             <h3>Event</h3>' +
+            '           </th>' +
+            '           <th scope="col">' +
+            '             <h3>Info</h3> ' +
+            '           </th>' +
             '         </tr>' +
-            '      </thead>' +
+            '       </thead>' +
   
-            '      <tbody id="calendar"></tbody> ' +
+            '       <tbody id="calendar"></tbody> ' +
             '         <tr v-for="event in caldata" v-if="eventDisplay(event)" :style="getEventStyle(event)">' +
             '           <td data-label="Date">{{ event | displayDate }}</td> ' + 
             '           <td data-label="Group">{{ event["host-branch"] }}</td> ' + 
-            '           <td data-label="Event">{{ event["event-name"] }}</td> ' + 
+            '           <td data-label="Event"><router-link :to="{ path: event.slug }">{{ event["event-name"] }}</router-link></td> ' + 
             '           <td data-label="Info"><span v-html="eventIcons(event)"></span></td> ' + 
             '         </tr> ' +
-            '      </tbody>' +
+            '       </tbody>' +
 
             '     </table>' +
             '   </div> ' +
@@ -244,10 +275,19 @@ Vue.component('events-calendar', {
             '   </div> ' +
 
             ' </span> '
-});
+};
+
+const routes = [
+  { path: '', component: eventscal },
+  { path: '/:slug', component: eventpage }
+]
+
+const router = new VueRouter({
+  routes: routes
+})
 
 var vm = new Vue({
-  el: '#drachenwald-calendar'
-});
+  router
+}).$mount('#drachenwald-calendar');
 
 {% endraw %}
