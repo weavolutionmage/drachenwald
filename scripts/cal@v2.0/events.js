@@ -142,25 +142,25 @@ Vue.component('events-calendar', {
       iconhtml+="<td>"
 
       if ( event['progress'] == 'King' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>';
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
       } else if ( event['progress'] == 'Queen' ) {
-        iconhtml += '<i class="fas fa-chess-queen"></i>';
+        iconhtml += '<i class="fas fa-chess-queen"></i>&nbsp;';
       } else if ( event['progress'] == 'Both' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>';
-      } else iconhtml += "&nbsp;"
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>&nbsp;';
+      }
       iconhtml+="</td>"
       
       iconhtml+="<td>"
 
       if ( event['website'] != "" ) {
-        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>';
-      } else iconhtml += "&nbsp;"
+        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>&nbsp;';
+      }
       iconhtml+="</td>"
       iconhtml+="<td>"
 
       if ( event['facebook'] != "" ) {
-        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>';
-      } else iconhtml += "&nbsp;"
+        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>&nbsp;';
+      }
       iconhtml+="</td>"
 
       iconhtml+="<td>"
@@ -170,7 +170,7 @@ Vue.component('events-calendar', {
         iconhtml += '<i class="fas fa-pause-circle"></i>';
       } else {
         iconhtml += '<i class="fas fa-question-circle"></i>';
-      } 
+      }
       iconhtml+="</td>"
 
       iconhtml += "</tr></table>" 
