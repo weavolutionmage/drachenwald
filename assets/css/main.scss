@@ -210,26 +210,4 @@ table th {
   display: none;
 }
 
-.internal_table   {
-  border: 0;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  table-layout: fixed;
-  empty-cells: show;
-
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: .35em;
-
-  padding: .625em;
-  text-align: center;
-  font-size: .85em;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-}
-
-
-
 @import "minimal-mistakes"; // main partials
