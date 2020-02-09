@@ -138,7 +138,8 @@ Vue.component('events-calendar', {
     eventIcons: function ( event ) {
       console.log( 'Event ' + event['event-name'] + ' Progress ' + event['progress'] );
 
-      iconhtml = '';
+      iconhtml = '<table><tr>';
+      iconhtml+="<td>"
 
       if ( event['progress'] == 'King' ) {
         iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
@@ -147,15 +148,22 @@ Vue.component('events-calendar', {
       } else if ( event['progress'] == 'Both' ) {
         iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>&nbsp;';
       }
+      iconhtml+="</td>"
+      
+      iconhtml+="<td>"
 
       if ( event['website'] != "" ) {
         iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>&nbsp;';
       }
+      iconhtml+="</td>"
+      iconhtml+="<td>"
 
       if ( event['facebook'] != "" ) {
         iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>&nbsp;';
       }
+      iconhtml+="</td>"
 
+      iconhtml+="<td>"
       if ( event['status'] == 'official' ) {
         iconhtml += '<i class="fas fa-check-circle"></i>';
       } else if ( event['status'] == 'pending' ) {
@@ -163,8 +171,9 @@ Vue.component('events-calendar', {
       } else {
         iconhtml += '<i class="fas fa-question-circle"></i>';
       }
+      iconhtml+="</td>"
 
-
+      iconhtml += "</tr></table>" 
       console.log( iconhtml );
 
       return iconhtml;
