@@ -138,8 +138,8 @@ Vue.component('events-calendar', {
     eventIcons: function ( event ) {
       console.log( 'Event ' + event['event-name'] + ' Progress ' + event['progress'] );
 
-      iconhtml = '<table><tr>';
-      iconhtml+="<td>"
+      iconhtml = '<table class="internal_table" ><tr class="internal_table">';
+      iconhtml+="<td class='internal_table'>"
 
       if ( event['progress'] == 'King' ) {
         iconhtml += '<i class="fas fa-chess-king"></i>';
@@ -150,20 +150,20 @@ Vue.component('events-calendar', {
       } else iconhtml += "&nbsp;"
       iconhtml+="</td>"
       
-      iconhtml+="<td>"
+      iconhtml+="<td class='internal_table'>"
 
       if ( event['website'] != "" ) {
         iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>';
       } else iconhtml += "&nbsp;"
       iconhtml+="</td>"
-      iconhtml+="<td>"
+      iconhtml+="<td class='internal_table'>"
 
       if ( event['facebook'] != "" ) {
         iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>';
       } else iconhtml += "&nbsp;"
       iconhtml+="</td>"
 
-      iconhtml+="<td>"
+      iconhtml+="<td class='internal_table'>"
       if ( event['status'] == 'official' ) {
         iconhtml += '<i class="fas fa-check-circle"></i>';
       } else if ( event['status'] == 'pending' ) {
