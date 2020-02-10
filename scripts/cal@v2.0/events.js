@@ -170,42 +170,34 @@ const eventscal = {
 
     eventIcons: function ( event ) {
 
-      iconhtml = '<table><tr>';
-      iconhtml+="<td>"
+      iconhtml = '';
 
       if ( event['progress'] == 'King' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>';
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
       } else if ( event['progress'] == 'Queen' ) {
-        iconhtml += '<i class="fas fa-chess-queen"></i>';
+        iconhtml += '<i class="fas fa-chess-queen"></i>&nbsp;';
       } else if ( event['progress'] == 'Both' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>';
-      } else iconhtml += "&nbsp;"
-      iconhtml+="</td>"
-      
-      iconhtml+="<td>"
+        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>&nbsp;';
+      }
 
       if ( event['website'] != "" ) {
-        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>';
-      } else iconhtml += "&nbsp;"
-      iconhtml+="</td>"
-      iconhtml+="<td>"
+        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>&nbsp;';
+      }
 
       if ( event['facebook'] != "" ) {
-        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>';
-      } else iconhtml += "&nbsp;"
-      iconhtml+="</td>"
+        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>&nbsp;';
+      }
 
-      iconhtml+="<td>"
       if ( event['status'] == 'official' ) {
         iconhtml += '<i class="fas fa-check-circle"></i>';
       } else if ( event['status'] == 'pending' ) {
         iconhtml += '<i class="fas fa-pause-circle"></i>';
       } else {
         iconhtml += '<i class="fas fa-question-circle"></i>';
-      } 
-      iconhtml+="</td>"
+      }
 
-      iconhtml += "</tr></table>" 
+
+      console.log( iconhtml );
 
       return iconhtml;
 
