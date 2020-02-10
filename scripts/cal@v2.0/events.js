@@ -196,9 +196,6 @@ const eventscal = {
         iconhtml += '<i class="fas fa-question-circle"></i>';
       }
 
-
-      console.log( iconhtml );
-
       return iconhtml;
 
     }
