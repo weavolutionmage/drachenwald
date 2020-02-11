@@ -251,7 +251,7 @@ const eventscal = {
             '           <td data-label="Date">{{ event | displayDate }}</td> ' + 
             '           <td data-label="Group">{{ event["host-branch"] }}</td> ' + 
             '           <td data-label="Event"><router-link :to="{ path: event.slug }">{{ event["event-name"] }}</router-link></td> ' + 
-            '           <td data-label="Info"><span v-html="eventIcons(event)"></span></td> ' + 
+            '           <td data-label="Info"><span class="eventicons" style="font-size: 1.3em;" v-html="eventIcons(event)"></span></td> ' + 
             '         </tr> ' +
             '       </tbody>' +
 
