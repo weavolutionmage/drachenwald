@@ -39,22 +39,41 @@ header:
 
 <h2>Upcoming Events</h2>
 
-{% if site.data.events.eventlist %}
-{% assign events = site.data.events.eventlist | sort:"start" %}
-{% else %}
-  {% assign events = "" %}
-{% endif %}
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+<script src="{% link scripts/calendar.js %}"></script>
 
-{% for item in events limit:3 %}
+<script>
+  maxentries = 5;
+  $( document ).ready( loadCalendar );
+</script>
 
-  <!-- Excerpt -->
-  <h3>{% unless item.web == "" %}<a href="{{ item.web }}">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</h3>
-  {{ item.start | date: "%a, %d %b %Y" }}
-  {% unless item.end == "" or item.end == item.start %} to {{ item.end | date: "%a, %d %b %Y" }}{% endunless %}<br>
-  {{ item.group }}<br>
-  ({{ item.country }})
+<table>
 
-{% endfor %}
+  <thead>
+  <tr valign="top">
+  <th scope="col">
+  <h3>Date</h3>
+  </th>
+  <th scope="col">
+  <h3>Group</h3>
+  </th>
+  <th scope="col">
+  <h3>Event</h3>
+  </th>
+  <th scope="col">
+  <h3>Royal Progress</h3>
+  </th>
+  </tr>
+  </thead>
+  
+  <tbody id="calendar">
+  
+  <tr><td colspan="4"><i>Calendar is loading...<br>(Internet Explorer is not supported)</i></td></tr>
+  
+  </tbody>
+</table>
+
       <p>&nbsp;</p>
-      <p><a href="{{ site.baseurl }}{% link events/calendar.html %}" class="btn btn--primary">Events calendar...</a></p>
+      <p><a href="{{ site.baseurl }}{% link events/calendar.html %}" class="btn btn--primary">More upcoming events...</a></p>
 </div>
