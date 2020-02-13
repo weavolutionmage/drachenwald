@@ -177,6 +177,14 @@ const eventscal = {
         iconhtml += '<i class="fas fa-chess-king" title="King present"></i>&nbsp;<i class="fas fa-chess-queen" title="Queen present"></i>&nbsp;';
       }
 
+      if ( event['activities'].indexOf( 'Heavy Fighting' ) != -1 || event['activities'].indexOf( 'Fencing' ) != -1 ) {
+        iconhtml += '<i class="fas fa-shield-alt" title="Armoured combat or Fencing"></i>&nbsp;';
+      }
+
+      if ( event['activities'].indexOf( 'Archery' ) != -1 ) {
+        iconhtml += '<i class="fas fa-bullseye" title="Archery"></i>&nbsp;';
+      }
+
       // if ( event['website'] != "" ) {
       //   iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome" title="Link to event website"></i></a>&nbsp;';
       // }
