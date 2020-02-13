@@ -173,27 +173,27 @@ const eventscal = {
       iconhtml = '';
 
       if ( event['progress'] == 'King' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;';
+        iconhtml += '<i class="fas fa-chess-king" title="King present"></i>&nbsp;';
       } else if ( event['progress'] == 'Queen' ) {
-        iconhtml += '<i class="fas fa-chess-queen"></i>&nbsp;';
+        iconhtml += '<i class="fas fa-chess-queen" title="Queen present"></i>&nbsp;';
       } else if ( event['progress'] == 'Both' ) {
-        iconhtml += '<i class="fas fa-chess-king"></i>&nbsp;<i class="fas fa-chess-queen"></i>&nbsp;';
+        iconhtml += '<i class="fas fa-chess-king" title="King present"></i>&nbsp;<i class="fas fa-chess-queen" title="Queen present"></i>&nbsp;';
       }
 
       if ( event['website'] != "" ) {
-        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome"></i></a>&nbsp;';
+        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome" title="Link to event website"></i></a>&nbsp;';
       }
 
       if ( event['facebook'] != "" ) {
-        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square"></i></a>&nbsp;';
+        iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square" title="Link to Facebook event"></i></a>&nbsp;';
       }
 
       if ( event['status'] == 'official' ) {
-        iconhtml += '<i class="fas fa-check-circle"></i>';
+        iconhtml += '<i class="fas fa-check-circle" title="Official event approved by Chronicler"></i>';
       } else if ( event['status'] == 'pending' ) {
-        iconhtml += '<i class="fas fa-pause-circle"></i>';
+        iconhtml += '<i class="fas fa-clock" title="Pending review by Chronicler"></i>';
       } else {
-        iconhtml += '<i class="fas fa-question-circle"></i>';
+        iconhtml += '<i class="fas fa-question-circle" title="Chronicler requires further information on this event"></i>';
       }
 
       return iconhtml;
