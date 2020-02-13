@@ -104,27 +104,38 @@ function displayCalendar( results ) {
   var caldata = results.data;
 
   caldata.sort(function(a, b) {
-    return Date.parse(a.start) - Date.parse(b.start);
+    return Date.parse(a['start-date']) - Date.parse(b['start-date']);
   });
+
+  if ( typeof maxentries == 'undefined' ) {
+    var rowlimit = caldata.length;
+  } else if ( maxentries > caldata.length ) {
+    var rowlimit = caldata.length;
+  } else {
+    var rowlimit = maxentries;
+  }
 
   var calhtml = "";
 
   nowdate = new Date();
+  displayed = 0;
 
-  for ( var i = 0; i < caldata.length; i++ ) {
+  for ( var i = 0; i < caldata.length && displayed < rowlimit; i++ ) {
 
-    startdate = new Date( caldata[i]['start'] );
+    startdate = new Date( caldata[i]['start-date'] );
 
-    if ( caldata[i]['end'] != "" ) {
-      enddate = new Date( caldata[i]['end']);
+    if ( caldata[i]['end-date'] != "" ) {
+      enddate = new Date( caldata[i]['end-date']);
     } else {
       enddate = startdate;
     }
 
     if ( nowdate < enddate ) {
 
-      if ( grouplistlower.length < 1 || $.inArray( caldata[i]['group'].toLowerCase() , grouplistlower ) > -1 ) {
+      if ( grouplistlower.length < 1 || $.inArray( caldata[i]['host-branch'].toLowerCase() , grouplistlower ) > -1 ) {
 
+        displayed++;
+        
         calhtml += "<tr><td data-label='Date'><b>";
 
         if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
@@ -138,12 +149,12 @@ function displayCalendar( results ) {
         }
 
         calhtml += "</b></td>";
-        calhtml += "<td data-label='Group'>" + caldata[i]['group'] + "</td>";
+        calhtml += "<td data-label='Group'>" + caldata[i]['host-branch'] + "</td>";
         calhtml += "<td data-label='Event'>";
         if ( caldata[i]['web'] != "" ) {
-          calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['name'] + '</a>';
+          calhtml += '<a href="' + caldata[i]['website'] + '">' + caldata[i]['event-name'] + '</a>';
         } else {
-          calhtml += caldata[i]['name'];
+          calhtml += caldata[i]['event-name'];
         }
         
         calhtml += "</td>";
