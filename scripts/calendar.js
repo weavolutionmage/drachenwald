@@ -151,7 +151,7 @@ function displayCalendar( results ) {
         calhtml += "</b></td>";
         calhtml += "<td data-label='Group'>" + caldata[i]['host-branch'] + "</td>";
         calhtml += "<td data-label='Event'>";
-        if ( caldata[i]['web'] != "" ) {
+        if ( caldata[i]['website'] != "" ) {
           calhtml += '<a href="' + caldata[i]['website'] + '">' + caldata[i]['event-name'] + '</a>';
         } else {
           calhtml += caldata[i]['event-name'];
