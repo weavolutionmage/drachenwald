@@ -15,9 +15,6 @@ cache:
 
 before_script:
   - 'apt-get -qq update && apt-get -o dir::cache::archives=".cache/apt-cache" install -y locales python3-pip && locale-gen en_US.UTF-8 && localedef -i en_US -f UTF-8 en_US.UTF-8'
-  - pip3 install virtualenv
-  - virtualenv venv
-  - source venv/bin/activate
   - bundle install --path vendor
   - curl -o _data/events/eventlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Events
   - curl -o _data/events/bidlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Bidlist

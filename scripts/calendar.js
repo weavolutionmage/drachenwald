@@ -107,11 +107,20 @@ function displayCalendar( results ) {
     return Date.parse(a['start-date']) - Date.parse(b['start-date']);
   });
 
+  if ( typeof maxentries == 'undefined' ) {
+    var rowlimit = caldata.length;
+  } else if ( maxentries > caldata.length ) {
+    var rowlimit = caldata.length;
+  } else {
+    var rowlimit = maxentries;
+  }
+
   var calhtml = "";
 
   nowdate = new Date();
+  displayed = 0;
 
-  for ( var i = 0; i < caldata.length; i++ ) {
+  for ( var i = 0; i < caldata.length && displayed < rowlimit; i++ ) {
 
     startdate = new Date( caldata[i]['start-date'] );
 
@@ -125,6 +134,8 @@ function displayCalendar( results ) {
 
       if ( grouplistlower.length < 1 || $.inArray( caldata[i]['host-branch'].toLowerCase() , grouplistlower ) > -1 ) {
 
+        displayed++;
+        
         calhtml += "<tr><td data-label='Date'><b>";
 
         if ( startdate.getDate() == enddate.getDate() && startdate.getMonth() == enddate.getMonth() && startdate.getFullYear() == enddate.getFullYear() ) {
@@ -141,7 +152,7 @@ function displayCalendar( results ) {
         calhtml += "<td data-label='Group'>" + caldata[i]['host-branch'] + "</td>";
         calhtml += "<td data-label='Event'>";
         if ( caldata[i]['web'] != "" ) {
-          calhtml += '<a href="' + caldata[i]['web'] + '">' + caldata[i]['event-name'] + '</a>';
+          calhtml += '<a href="' + caldata[i]['website'] + '">' + caldata[i]['event-name'] + '</a>';
         } else {
           calhtml += caldata[i]['event-name'];
         }
