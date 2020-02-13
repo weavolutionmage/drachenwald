@@ -251,7 +251,7 @@ const eventscal = {
             '         </tr>' +
             '       </thead>' +
   
-            '       <tbody id="calendar"></tbody> ' +
+            '       <tbody>' +
             '         <tr v-for="event in caldata" v-if="eventDisplay(event)" :style="getEventStyle(event)">' +
             '           <td data-label="Date">{{ event | displayDate }}</td> ' + 
             '           <td data-label="Group">{{ event["host-branch"] }}</td> ' + 
