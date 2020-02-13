@@ -110,11 +110,8 @@ const eventscal = {
 
       for ( var i = 0 ; i < this.caldata.length ; i++ ) {
         this.caldata[i]['slug'] = slugify( this.caldata[i]['host-branch'] + '-' + this.caldata[i]['event-name'] + '-' + this.caldata[i]['start-date'] );
-        console.log( this.caldata[i]['event-name']);
-        console.log( this.caldata[i]['slug'] );
       }
 
-      console.log( "Parsing complete" );
     },
 
     getEventStyle: function ( event ) {
@@ -180,9 +177,9 @@ const eventscal = {
         iconhtml += '<i class="fas fa-chess-king" title="King present"></i>&nbsp;<i class="fas fa-chess-queen" title="Queen present"></i>&nbsp;';
       }
 
-      if ( event['website'] != "" ) {
-        iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome" title="Link to event website"></i></a>&nbsp;';
-      }
+      // if ( event['website'] != "" ) {
+      //   iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome" title="Link to event website"></i></a>&nbsp;';
+      // }
 
       if ( event['facebook'] != "" ) {
         iconhtml += '<a href="' + event['facebook'] + '"><i class="fab fa-facebook-square" title="Link to Facebook event"></i></a>&nbsp;';
@@ -250,7 +247,10 @@ const eventscal = {
             '         <tr v-for="event in caldata" v-if="eventDisplay(event)" :style="getEventStyle(event)">' +
             '           <td data-label="Date">{{ event | displayDate }}</td> ' + 
             '           <td data-label="Group">{{ event["host-branch"] }}</td> ' + 
-            '           <td data-label="Event"><router-link :to="{ path: event.slug }">{{ event["event-name"] }}</router-link></td> ' + 
+            '           <td data-label="Event"> ' +
+            '             <span v-if="event.website != \'\'"><a :href="event.website">{{ event["event-name"] }}</a></span>' +
+            '             <span v-else>{{ event["event-name"] }}</span>' +
+            '           </td> ' + 
             '           <td data-label="Info"><span class="eventicons" style="font-size: 1.3em;" v-html="eventIcons(event)"></span></td> ' + 
             '         </tr> ' +
             '       </tbody>' +
