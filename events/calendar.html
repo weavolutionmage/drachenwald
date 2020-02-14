@@ -1,105 +1,67 @@
 ---
-title: Events Calendar
+title: Kingdom Calendar
+redirect_from:
+  - /events/
 calendarlist: true
 ---
 
-<p>
-  <a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Submit an event to the calendar</a>
-  <a href="{% link events/drachenwald.ics %}" class="btn btn--primary">Add Kingdom events to my calendar application</a>
+<p class="notice">
+  <i class="fas fa-chess-king"></i> King present | <i class="fas fa-chess-queen"></i> Queen present<br>
+  <i class="fas fa-shield-alt"></i> Armoured Combat or Fencing | <i class="fas fa-bullseye"></i> Archery<br>
+  <i class="fab fa-facebook-square"></i> Link to Facebook event<br>
+  <i class="fas fa-check-circle"></i> Official event approved by Chronicler<br>
+  <i class="fas fa-clock"></i> Pending review | <i class="fas fa-question-circle"></i> Chronicler requires further info<br>
 </p>
 
-<table>
+<div id="drachenwald-calendar">
+  <router-view></router-view>
+</div>
 
-<caption><h3>Upcoming Events</h3></caption>
+{% if jekyll.environment == "production" %}
+<script src="https://unpkg.com/vue@2.6.11/dist/vue.min.js"></script>
+{% else %}
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"></script>
+{% endif %}
 
-<thead>
-<tr valign="top">
-<th scope="col">
-<h3>Date</h3>
-</th>
-<th scope="col">
-<h3>Group</h3>
-</th>
-<th scope="col">
-<h3>Event</h3>
-</th>
-<th scope="col">
-<h3>Royal Progress</h3>
-</th>
-</tr>
-</thead>
-
-<tbody id="calendar">
-
-<tr><td colspan="4"><i>Calendar is loading...<br>(Internet Explorer is not supported)</i></td></tr>
-
-</tbody>
-</table>
-
+<script src="https://unpkg.com/vue-router@3.1.5/dist/vue-router.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+<script src="{{ site.baseurl }}{% link scripts/cal@v2.0/events.js %}"></script>
 
 <table>
 
-<caption><h3>Bid List</h3></caption>
-
-<thead>
-<tr>
-<th scope="col"><strong><h3>Date</h3></strong></th>
-<th scope="col"><strong><h3>Region</h3></strong></th>
-<th scope="col"><strong><h3>Event</h3></strong></th>
-<th scope="col"><strong><h3>Host</h3></strong></th>
-<th scope="col"><strong><h3>Bids</h3></strong></th>
-</tr>
-</thead>
-
-<tbody id="bidlist">
-
-  <tr><td colspan="5"><i>Bid list is loading...<br>(Internet Explorer is not supported)</i></td></tr>
+  <caption><h3>Bid List</h3></caption>
   
+  <thead>
+  <tr>
+  <th scope="col"><strong><h3>Date</h3></strong></th>
+  <th scope="col"><strong><h3>Region</h3></strong></th>
+  <th scope="col"><strong><h3>Event</h3></strong></th>
+  <th scope="col"><strong><h3>Host</h3></strong></th>
+  <th scope="col"><strong><h3>Bids</h3></strong></th>
+  </tr>
+  </thead>
+  
+  <tbody id="bidlist">
+  
+    <tr><td colspan="5"><i>Bid list is loading...<br>(Internet Explorer is not supported)</i></td></tr>
+    
+    </tbody>
+  
+  </table>
+  
+  <h3 style="display: none;"><strong>Future Dates</strong></h3>
+  <table style="display: none;" border="0">
+  <tbody>
+  <tr>
+  <td><strong>Date</strong></td>
+  <td><strong>Group</strong></td>
+  <td><strong>Event</strong></td>
+  </tr>
+  <tr>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  </tr>
   </tbody>
-
-</table>
-
-<h3 style="display: none;"><strong>Future Dates</strong></h3>
-<table style="display: none;" border="0">
-<tbody>
-<tr>
-<td><strong>Date</strong></td>
-<td><strong>Group</strong></td>
-<td><strong>Event</strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
-
-
-<script type="application/ld+json">
-[
-  {% for item in events %}
-
-  {
-    "@context": "http://schema.org/",
-    "@type": "Event",
-    "url": "{{ item.url }}",
-    "name": "{{ item.name }}",
-    "startDate": "{{ item.start | date: "%Y-%m-%d"}}",
-    {% if item.end == "" %}
-      "endDate": "{{ item.start | date: "%Y-%m-%d"}}",
-    {% else %}
-      "endDate": "{{ item.end | date: "%Y-%m-%d"}}",
-    {% endif %}
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "addressCountry": "{{ item.country }}"
-      }
-    }
-  }{% unless forloop.last %},{% endunless %}
-
-  {% endfor %}
-  ]
-  </script>
+  </table>
