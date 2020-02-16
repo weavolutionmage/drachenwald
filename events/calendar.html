@@ -4,7 +4,7 @@ redirect_from:
   - /events/
 calendarlist: true
 ---
-<a href='https://sca-drachenwald.gitlab.io/events/calendar-add/'>Add an event to the calender</a>
+
 
 <p class="notice">
   <i class="fas fa-chess-king"></i> King present | <i class="fas fa-chess-queen"></i> Queen present<br>
@@ -29,6 +29,8 @@ calendarlist: true
 <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
 <script src="{{ site.baseurl }}{% link scripts/cal@v2.0/events.js %}"></script>
 
+<div style="text-align: center"><a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Add an event to the calendar</a></div>
+
 <table>
 
   <caption><h3>Bid List</h3></caption>
@@ -50,6 +52,9 @@ calendarlist: true
     </tbody>
   
   </table>
+
+  <div style="text-align: center"><a href="{{ site.baseurl }}{% link events/calendar-add.html %}" class="btn btn--primary">Add an event to the calendar</a></div>
+
   
   <h3 style="display: none;"><strong>Future Dates</strong></h3>
   <table style="display: none;" border="0">
