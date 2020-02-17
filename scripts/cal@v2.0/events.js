@@ -185,6 +185,10 @@ const eventscal = {
         iconhtml += '<i class="fas fa-bullseye" title="Archery"></i>&nbsp;';
       }
 
+      if ( event['activities'].indexOf( 'Dancing' ) != -1 || event['activities'].indexOf( 'A&S' ) != -1 ) {
+        iconhtml += '<i class="fas fa-pen-fancy" title="Arts and Sciences"></i>&nbsp;';
+      }
+
       // if ( event['website'] != "" ) {
       //   iconhtml += '<a href="' + event['website'] + '"><i class="fab fa-chrome" title="Link to event website"></i></a>&nbsp;';
       // }
@@ -194,11 +198,11 @@ const eventscal = {
       }
 
       if ( event['status'] == 'official' ) {
-        iconhtml += '<i class="fas fa-check-circle" title="Official event approved by Chronicler"></i>';
+        iconhtml += '<i class="fas fa-check-circle" title="Official event approved by Chronicler"></i>&nbsp;';
       } else if ( event['status'] == 'pending' ) {
-        iconhtml += '<i class="fas fa-clock" title="Pending review by Chronicler"></i>';
+        iconhtml += '<i class="fas fa-clock" title="Pending review by Chronicler"></i>&nbsp;';
       } else {
-        iconhtml += '<i class="fas fa-question-circle" title="Chronicler requires further information on this event"></i>';
+        iconhtml += '<i class="fas fa-question-circle" title="Chronicler requires further information on this event"></i>&nbsp;';
       }
 
       return iconhtml;
