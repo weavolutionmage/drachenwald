@@ -34,7 +34,7 @@ Suggested changes or updates to Drachenwald Law may also be sent to <script type
 ## Kingdom Documents
 
 * [Warrant of Appointment to Office]({{ site.baseurl }}{% link offices/seneschal/files/warrant_blank_feb_2018.doc %}) (DOC)
-* [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/drachenwald-law-jan2019.pdf %}) (PDF)
+* [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/2020JanuaryDrachenwaldLaw.pdf %}) (PDF)
 * [Seneschal Policies]({{ site.baseurl }}{% link offices/seneschal/seneschal-policies.md %})
 * [Bidding for a crown event in Drachenwald]({{ site.baseurl }}{% link offices/seneschal/event-bid-checklist.md %})
 * [Seneschals Handbook]({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
