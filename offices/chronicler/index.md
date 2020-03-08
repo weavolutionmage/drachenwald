@@ -43,7 +43,7 @@ featurealt: thing
 
 <ul>
 <li><a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %}">Guidelines for Local Chroniclers</a></li>
-<li><a href="http://www.sca.org/officers/chronicler/blackfox-awards.html">William Blackfox Awards</a><br />The William Blackfox awards are given each year to recognise excellence in local newsletters and their contributors. Each year, the Kingdom Chronicler nominates local newsletters, articles and artwork produced within the Kingdom for the various awards, so make sure you always send a copy (as required by policy). For more details on the awards, follow the link above.</li>
+<li><a href="https://www.sca.org/chronicler/">William Blackfox Awards</a><br />The William Blackfox awards are given each year to recognise excellence in local newsletters and their contributors. Each year, the Kingdom Chronicler nominates local newsletters, articles and artwork produced within the Kingdom for the various awards, so make sure you always send a copy (as required by policy). For more details on the awards, follow the link above.</li>
 </ul>
 
 <h3>Release Forms</h3>
