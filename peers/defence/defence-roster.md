@@ -78,7 +78,7 @@ Elevated on 2016/01/09
 <tr><td>
 Alexandre Lerot d'Avignon
 <br>
-  (Insulae Draconis)
+  (Flintheath, Insulae Draconis)
 
 <div style="text-align:left">
 <ul>
@@ -137,7 +137,7 @@ Elevated on 2017/10/21
 <tr><td>
 Catlin le Mareschale
 <br>
- (Insulae Draconis)
+ (Harpelstane, Insulae Draconis)
 <div style="text-align:left">
 <ul>
 <li>
@@ -154,11 +154,42 @@ Elevated on 2018/08/11
 <tr><td>
 P&oacute;l &Oacute; Briain
 <br>
- (Klakavirki)
+ (Klakavirki, Insulae Draconis)
 <div style="text-align:left">
 <ul>
 <li>
 Elevated on 2018/12/08
+</li>
+</ul>
+</div>
+</td>
+<td>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
+</td>
+</tr>
+<tr><td>
+Gwenllian verch Andras
+<br>
+ (Mynydd Gwyn, Insulae Draconis)
+<div style="text-align:left">
+<ul>
+<li>
+Elevated on 2019/12/07
+</li>
+</ul>
+</div>
+</td>
+<td>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
+</td>
+<tr><td>
+Esbiorn Jensson
+<br>
+ (Harpelstane, Insulae Draconis)
+<div style="text-align:left">
+<ul>
+<li>
+Elevated on 2020/02/22
 </li>
 </ul>
 </div>
