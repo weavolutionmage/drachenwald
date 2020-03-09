@@ -65,4 +65,10 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^ https://drachenwald.sca.org%{REQUEST_URI} [L,NE,R=301]
 
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^events/ - [L]
+
+RewriteRule ^events/ events/index.html [L]
+
 ErrorDocument 404 /404.html
