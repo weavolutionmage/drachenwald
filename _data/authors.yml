@@ -64,8 +64,19 @@ Genevieve:
       icon: "fas fa-fw fa-link"
       url: "http://www.drachenwald.sca.org/j/"
 #    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
+#      icon: "fab fa-fw fa-twitter-square"i
 #      url: "https://twitter.com/"
 
-
-
+yda:
+  name        : "Yda van Boulogne"
+  bio         : "Kingdom Webminister"
+  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:website-issues@drachenwald.sca.org"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.drachenwald.sca.org/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
