@@ -1,15 +1,10 @@
 ---
-title:  "Update from SCA Inc"
+title:  "Update on COVID-19 situation"
 date:   2020-03-15 12:23:00 +0000
 category: news
 author: yda
 ---
-_Please find below the latest update from SCA Inc regarding the current Corona situation and how it pertains to SCA events._
-
-
-Greetings Drachenwald!
-
-Please know that We are acutely aware of the rapid updates of information regarding COVID-19 and the limitations being imposed by various countries.
+Greetings Drachenwald! Please know that We are acutely aware of the rapid updates of information regarding COVID-19 and the limitations being imposed by various countries.
 
 We are looking into it, We are taking it seriously and We will be posting more information and Our decision later tonight or tomorrow. 
 
