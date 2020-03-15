@@ -1,6 +1,7 @@
 ---
 title:  "Update from SCA Inc"
 date:   2020-03-10 09:00:00 +0000
+tags: covid19
 category: news
 author: yda
 ---
