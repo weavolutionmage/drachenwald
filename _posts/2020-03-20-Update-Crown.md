@@ -1,6 +1,6 @@
 ---
 title:  "Update on Spring Crown"
-date:   2020-03-20 19:28:00 +0000
+date:   2020-03-20 16:28:00 +0000
 tags: covid19
 category: news
 author: yda
