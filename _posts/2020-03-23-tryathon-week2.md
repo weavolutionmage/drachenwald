@@ -8,9 +8,13 @@ Thank you to all who took part in Round 1 of the Drachwald Try-athlon. Some of t
 
 **DrachenwaldTry2 is Period Food Colouring**
 
-Our next nominator would like us all to TRY medieval food colouring. She has been making violet sugar - look out for her upcoming article in Tournaments Illustrated on the subject. As not everyone will have a ready source of violets, this article includes lots of other documentable period options for colouring your sugar, your subtlety or your decorative egg.
+Our next nominator, Katharina Woinovich, would like us all to TRY medieval food colouring. She has been making violet sugar - look out for her upcoming article in Tournaments Illustrated on the subject. As not everyone will have a ready source of violets, this article includes lots of other documentable period options for colouring your sugar, your subtlety or your decorative egg.
 
 [historydollop.com/2019/04/18/a-brief-history-of-food-colors-and-how-to-dye-easter-eggs-with-natural-ingredients](https://historydollop.com/2019/04/18/a-brief-history-of-food-colors-and-how-to-dye-easter-eggs-with-natural-ingredients/) Keep scrolling down for the instructions under the article.
+
+If you can't have eggs, for dietary reasons or because there are no eggs in the shop, this post has lots of other ideas about foods to dye:
+
+[www.sewhistorically.com/homemade-natural-blue-food-coloring-with-red-cabbage](http://www.sewhistorically.com/homemade-natural-blue-food-coloring-with-red-cabbage/)
 
 Post your results by midnight on March 29, we look forward to seeing them on Facebook, Twitter or Instagram! There will also be a post in the Facebook group called "DW A&S".
 
