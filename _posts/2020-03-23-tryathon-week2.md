@@ -4,7 +4,7 @@ date:   2020-03-23 15:42:00 +0000
 category: news
 author: cecily
 ---
-Thank you to all who took part in Round 1 of the Drachwald Try-athlon. Some of the entries are shared below.
+Thank you to all who took part in Round 1 of the Drachenwald Try-athlon. Some of the entries are shared below.
 
 **DrachenwaldTry2 is Period Food Colouring**
 
