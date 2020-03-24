@@ -39,6 +39,20 @@ Aodh:
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
 
+Cecily:
+  name        : "Cecily"
+  bio         : ""
+  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:website-issues@drachenwald.sca.org"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "http://www.drachenwald.sca.org/offices/herald/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+
 sela:
   name        : "Sela de la Rosa"
   bio         : "Herald. Scribe. Improv."
