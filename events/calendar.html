@@ -4,4 +4,11 @@ redirect_from:
   - /events/
 ---
 <div id="calendar" legend="true" bidlinks="true"></div>
+
+{% if jekyll.environment == "production" %}
 <script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
+{% elsif jekyll.environment == "staging" %}
+<script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
+{% elsif jekyll.environment == "development" %}
+<script type="text/javascript" src="http://127.0.0.1:8080/calendar.js"></script>
+{% endif %}
