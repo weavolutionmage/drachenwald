@@ -40,7 +40,7 @@ Suggested changes or updates to Drachenwald Law may also be sent to <script type
 * [Seneschals Handbook]({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)
 * [Participate in Crown Tourney]({{ site.baseurl }}{% link offices/seneschal/participate-in-crown-tourney.md %})
-* [Online events policy]({{ site.baseurl}}{% link offices/seneschal/offices/seneschal/files/covid19-online.pdf %}) (PDF)
+* [Online events policy]({{ site.baseurl}}{% link offices/seneschal/files/covid19-online.pdf %}) (PDF)
 
 
 {% include officer-contacts.html %}
