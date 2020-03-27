@@ -1,6 +1,6 @@
 ---
-title:  "Update on Spring Crown"
-date:   2020-03-20 16:28:00 +0000
+title:  "Official online meetings and courts"
+date:   2020-03-27 20:28:00 +0000
 tags: covid19
 category: news
 author: yda
