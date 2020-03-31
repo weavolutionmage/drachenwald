@@ -3,12 +3,25 @@ title: Events in Drachenwald
 redirect_from:
   - /events/
 ---
-<div id="calendar" legend="true" links="local" bidlinks="true"></div>
-
 {% if jekyll.environment == "production" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
 <script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
 {% elsif jekyll.environment == "staging" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
 <script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
 {% elsif jekyll.environment == "development" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
 <script type="text/javascript" src="http://127.0.0.1:8080/calendar.js"></script>
 {% endif %}
