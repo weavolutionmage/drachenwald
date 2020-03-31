@@ -1,7 +1,8 @@
 ---
 title:  "Online Court28 march AS 54"
 date:   2020-03-31 18:42:00 +0000
-category: news,covid19,onlinecourts
+category:news 
+tags:covid19 online_courts
 author: yda
 ---
 
