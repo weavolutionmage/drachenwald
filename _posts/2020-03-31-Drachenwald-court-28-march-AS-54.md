@@ -5,7 +5,7 @@ category: news,covid19,onlinecourts
 author: yda
 ---
 
-Their majesties Aerikr and Jacquelina held a court online last Saturday. A recording can be found on Youtube.
+This is the firs E-court held by their majesties of Drachenwald during the great plague of AS 54 King Æiríkr inn Hárfagri and Queen Jacquelyna de Bellmont.
 
 https://youtu.be/SBQ8POF2DaQ
 {% include video id="SBQ8POF2DaQ" provider="youtube" %}
