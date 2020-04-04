@@ -21,5 +21,7 @@
 {"name": "Kareina's observations", "url": "https://kareina.dreamwidth.org/data/rss?tag=sca", "link": "https://kareina.dreamwidth.org/tag/sca", "merge": false,"showMedia": true, "type": "blog"},
 
   {"url": "https://shireoftrivium.wixsite.com/home/blog-feed.xml", "name": "Shire of Trivium", "link":"https://shireoftrivium.wixsite.com/home","merge": false,"showMedia":  true, "type": "blog"},
-  {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube", "link": "https://www.instagram.com/explore/tags/drachenwald/", "merge": false, "showMedia": true, "type": "youtube"},
+  {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube", "link": "https://www.youtube.com/channel/UC662iHKfpqVt9_HGYUt2-Xg", "merge": false, "showMedia": true, "type": "youtube"},
+    {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh9sNalGMvako2XS7bb5rfA", "name": "Avery's Youtube", "link": "https://www.youtube.com/channel/UCh9sNalGMvako2XS7bb5rfA", "merge": false, "showMedia": true, "type": "youtube"},
+
   {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true, "type": "blog"}]
