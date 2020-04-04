@@ -64,12 +64,7 @@ for rssUrl in rssUrls:
                 published = entry['published_parsed']
 
                 if (rssUrl["type"] == "youtube"):
-                    pprint.pprint(entry)
-                    movielink=entry["link"]
-                    summaryLtd="""<iframe id="ytplayer" type="text/html" width="640" height="360"  src=%s?autoplay=0&origin=http://drachenwald.com" frameborder="0"></iframe>""" % (movielink)
-                    summaryLtd="""<iframe width="560" height="315" src="%s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>""" % (movielink)
-                    movielink = "https://www.youtube.com/embed/3mB_eWFLHLY"
-                    movielink="https://www.youtube.com/embed/10EGJF4ES-s'"
+                    #pprint.pprint(entry)
                     movielink=entry["link"]
                     summaryLtd = """<div class ="responsive-video-container" >  <iframe src = "%s" frameborder = "0" allowfullscreen = "" > </iframe > </div>""" % (movielink.replace("watch?v=","embed/"))
                 else:
@@ -164,7 +159,7 @@ for rssUrl in rssUrls:
 #srtd = sorted(results, key=lambda i: i['published'], reverse=True)
 srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 
-pprint.pprint(srtd)
+#pprint.pprint(srtd)
 
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
