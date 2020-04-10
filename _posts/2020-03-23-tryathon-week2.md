@@ -4,6 +4,7 @@ date:   2020-03-23 15:42:00 +0000
 category: news 
 tags: tryathon
 author: cecily
+excerpt: "Learn new skills during the plague: Food colouring"
 ---
 Thank you to all who took part in Round 1 of the Drachenwald Try-athlon. Some of the entries are shared below.
 
