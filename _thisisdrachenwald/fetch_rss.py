@@ -164,6 +164,8 @@ srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
 
+with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
+    json.dump(srtd[0:50], outfile, ensure_ascii=False)
 
 #pp.pprint(srtd[0:100])
 

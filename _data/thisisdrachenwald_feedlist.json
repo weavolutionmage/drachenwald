@@ -24,5 +24,5 @@
   {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube Channel", "link": "https://www.youtube.com/channel/UC662iHKfpqVt9_HGYUt2-Xg", "merge": false, "showMedia": true, "type": "youtube"},
     {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh9sNalGMvako2XS7bb5rfA", "name": "Drachenwald Youtube Channel", "link": "https://www.youtube.com/channel/UCh9sNalGMvako2XS7bb5rfA", "merge": false, "showMedia": true, "type": "youtube"},
     {"url": "https://www.knightscrossing.org/feed/", "name": "Knights Crossing", "link": "https://www.knightscrossing.org/", "merge": false, "showMedia": true, "type": "blog"},
-
+    {"url": "https://drachenwald.sca.org/feed.xml", "name": "Drachenwald Blog", "link": "https://drachenwald.sca.org", "merge": false, "showMedia": true, "type": "blog"},
   {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true, "type": "blog"}]
