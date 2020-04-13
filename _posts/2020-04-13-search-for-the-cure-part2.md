@@ -1,6 +1,6 @@
 ---
 title:  "Search for the cure part 2"
-date:   2020-04-05 17:30:00 +0200
+date:   2020-04-13 17:30:00 +0200
 tags: search-for-the-cure
 category: news
 author: drachenwald
