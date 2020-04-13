@@ -39,6 +39,11 @@ Aodh:
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
 
+cecily:
+  name        : "Cecily"
+  bio         : ""
+  links:
+
 Cecily:
   name        : "Cecily"
   bio         : ""
@@ -94,3 +99,11 @@ yda:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
+
+Drachenwald:
+  name        : "Kingdom of Drachenwald"
+  bio         : "Messages from the kingdom of Drachenwald"
+
+crown:
+  name        : "King and Queen of Drachenwald"
+  bio         : ""
