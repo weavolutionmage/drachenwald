@@ -54,7 +54,7 @@ albion@drachenwald.sca.org
 The External Submissions Herald sends Letters of Intent (ie 'Unless you say otherwise we intend to register these names and armory') to the SCA College of Arms for the second, Society-wide review. This person will notify you about the outcome of the submission process.
 
 ## Submission fees
-The fee is is £4 / 5€ / 50 SEK for each submission item.  
+The fee is is £5 / 5€ / 50 SEK for each submission item.  
 For example, for a name and device the total fee is £8 / 10€ / 100 SEK  
 
 Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the Swedish treasurer) at exchequer@nordmark.org for bank account details.
