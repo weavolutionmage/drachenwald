@@ -27,5 +27,6 @@
     {"url": "https://www.knightscrossing.org/feed/", "name": "Knights Crossing", "link": "https://www.knightscrossing.org/", "merge": false, "showMedia": true, "type": "blog"},
     {"url": "https://drachenwald.sca.org/feed.xml", "name": "Drachenwald Blog", "link": "https://drachenwald.sca.org", "merge": false, "showMedia": true, "type": "blog"},
   {"url": "https://thoragreylock.wordpress.com/feed", "name": "A Viking in Ireland", "link":"https://thoragreylock.wordpress.com/","merge": false,"showMedia":  true, "type": "blog"},
-      {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ1t6evIxWLlZfnAbRv6VCQ", "name": "Anneleyn Cornelisse's Youtube Channel", "link": "https://www.youtube.com/channel/UCZ1t6evIxWLlZfnAbRv6VCQ", "merge": false, "showMedia": true, "type": "youtube"}
+      {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZ1t6evIxWLlZfnAbRv6VCQ", "name": "Anneleyn Cornelisse's Youtube Channel", "link": "https://www.youtube.com/channel/UCZ1t6evIxWLlZfnAbRv6VCQ", "merge": false, "showMedia": true, "type": "youtube"},
+      {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOgyueAjS1ZYYT_Texnv_7Q", "name": "Ranulf li Norreis's Youtube Channel", "link": "https://www.youtube.com/channel/UCOgyueAjS1ZYYT_Texnv_7Q", "merge": false, "showMedia": true, "type": "youtube"}
       ]
