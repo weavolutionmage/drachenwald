@@ -1,12 +1,16 @@
 ---
-title:  "Search for the cure part 3"
-date:   2020-04-21 17:30:00 +0200
+title:  "Search for the cure part 4"
+date:   2020-04-28 17:30:00 +0200
 tags: search-for-the-cure
 category: news
 author: drachenwald
 tags: search-for-the-cure
-excerpt: "In this episode the King's brother, Master Fardäng, offers his service to the Crown for the good of the Realm. But will his sacrifice be enough to find a cure for the plague? And where did that cute dog come from?"
+excerpt: 'In this episode we will find out how Master Fardäng is feeling since the last time when he was "volunteered". His Majesty has found a bottle of Reason while Her Majesty is still sceptical.'
 ---
-In this episode the King's brother, Master Fardäng, offers his service to the Crown for the good of the Realm. But will his sacrifice be enough to find a cure for the plague? And where did that cute dog come from?
+In this episode we will find out how Master Fardäng is feeling since the last time when he was "volunteered". His Majesty has found a bottle of Reason while Her Majesty is still sceptical
+{% include video id="Bfpegd6r0FU" provider="youtube" %}
 
-{% include video id="fZJM-fpyRLE" provider="youtube" %}
+
+
+
+
