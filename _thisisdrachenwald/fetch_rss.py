@@ -159,7 +159,7 @@ for rssUrl in rssUrls:
 #srtd = sorted(results, key=lambda i: i['published'], reverse=True)
 srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 
-pprint.pprint(srtd)
+#pprint.pprint(srtd)
 
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(srtd[0:50], outfile, ensure_ascii=False)
