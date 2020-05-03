@@ -33,6 +33,9 @@ SetEnvIf Request_URI "^/content/signet-clerk$" !NOINDEX
 
 Options -Indexes
 
+AddDefaultCharset utf-8
+AddCharset utf-8 .xml
+
 # Fresh versions of previous pages
 
 Redirect 301 /j/ {{ site.url }}/
