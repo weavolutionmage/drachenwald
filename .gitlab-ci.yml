@@ -16,7 +16,9 @@ cache:
 before_script:
   - 'apt-get -qq update && apt-get -o dir::cache::archives=".cache/apt-cache" install -y locales python3-pip && locale-gen en_US.UTF-8 && localedef -i en_US -f UTF-8 en_US.UTF-8'
   - bundle install --path vendor
+  - echo $EVENTS_URL
   - curl -o _data/events/eventlist.csv $EVENTS_URL
+  - cat _data/events/eventlist.csv
   - curl -o _data/events/bidlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Bidlist
   - curl -o _data/groups/grouplist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=groups
   - curl -o _data/groups/officerlist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=officers
