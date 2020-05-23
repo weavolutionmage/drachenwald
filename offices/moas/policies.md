@@ -99,7 +99,7 @@ May enter with items from all subcategories from above. You need to be between t
 ## 2.3. Competition Scheduling
 The competition shall take place on the Saturday of the Competition event, scheduled for its own special block of time in the main hall of the event site, at least an hour. Entrants will sit with their items to discuss them with spectators, like at an exhibition.
 
-### 2.4. Rules
+## 2.4. Rules
 * Written documentation is required for all entries, as well as a competition form, which is located on the Arts and Sciences Judging Criteria webpage for the kingdom. &nbsp;If English presents a problem for you, please see this list of people who might be willing to work with you to translate your documentation and/or research paper from your native language into English.
 * You must have completed the item you enter into the competition while residing in the Kingdom.
 * You may not enter the same item multiple times within the same year's competition.
