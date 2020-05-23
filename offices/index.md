@@ -1,5 +1,5 @@
 ---
-title: In the Kingdom
+title: Offices, Orders and Charter Groups
 exerpt: Volunteers make Drachenwald greater than the sum of its parts.
 ---
 
@@ -42,7 +42,7 @@ These pages provide the forms, handbooks and guidance for local and regional off
 # Charter groups
 Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
 
-* [Drachenwald Academy of Defense]({{ site.baseurl }}{% link chartergroups/academy-of-defense/index.md %}) 
+* [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defence/index.md %}) 
 
 # Bestowed peers
 The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. These are honours recognised across the Society.

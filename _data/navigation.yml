@@ -3,13 +3,16 @@ main:
 - title: What We Do
   url: /activities/
 
+- title: This Is Drachenwald
+  url: /thisis/
+
 - title: Calendar
   url: /events/calendar/
 
 - title: Our Royalty
   url: /royals/
 
-- title: In the Kingdom
+- title: Offices & Orders
   url: /offices/
 
 - title: Find A Group
@@ -24,17 +27,20 @@ side:
 - title: What We Do
   url: /activities/
 
+- title: This Is Drachenwald
+  url: /thisis/
+
 - title: Calendar
   url: /events/calendar/
+
+- title: Find A Group
+  url: /groups/
 
 - title: Our Royalty
   url: /royals/
 
-- title: In the Kingdom
+- title: Offices & Orders
   url: /offices/
-
-- title: Find A Group
-  url: /groups/
 
 - title: Search
   url: /search/
@@ -56,19 +62,22 @@ side-whatwedo:
     - title: Fencing
       url: /activities/fencing/
     - title: This is Drachenwald
-      url: /thisis/
+      url: /thisis
+  
+- title: This Is Drachenwald
+  url: /thisis/
 
 - title: Calendar
   url: /events/calendar/
 
+- title: Find A Group
+  url: /groups/
+
 - title: Our Royalty
   url: /royals/
 
-- title: In the Kingdom
+- title: Offices & Orders
   url: /offices/
-
-- title: Find A Group
-  url: /groups/
 
 - title: Search
   url: /search/
@@ -81,6 +90,15 @@ side-royals:
 - title: Calendar
   url: /events/calendar/
 
+- title: This Is Drachenwald
+  url: /thisis/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Find A Group
+  url: /groups/
+
 - title: Our Royalty
   url: /royals/
   children:
@@ -92,13 +110,9 @@ side-royals:
       url: /royals/territorial-royals/
     - title: Succession
       url: /royals/drachenwald-succession/
-  
 
-- title: In the Kingdom
+- title: Offices & Orders
   url: /offices/
-
-- title: Find A Group
-  url: /groups/
 
 - title: Search
   url: /search/
@@ -111,10 +125,19 @@ side-offices:
 - title: Calendar
   url: /events/calendar/
 
+- title: This Is Drachenwald
+  url: /thisis/
+
+- title: Calendar
+  url: /events/calendar/
+
+- title: Find A Group
+  url: /groups/
+
 - title: Our Royalty
   url: /royals/
 
-- title: In the Kingdom
+- title: Offices
   url: /offices/
   children:
     - title: This is Drachenwald
@@ -143,8 +166,10 @@ side-offices:
       url: /offices/herald/
     - title: Signet clerk
       url: /offices/signet/
-    - title: Academy of Defense
-      url: /chartergroups/academy-of-defense/
+
+- title: Orders & Charter Groups
+  url: /offices/
+  children:
     - title: Order of Chivalry
       url: /peers/chivalry/
     - title: Order of the Laurel
@@ -153,9 +178,8 @@ side-offices:
       url: /peers/pelican/
     - title: Order of Defense
       url: /peers/defence/
-
-- title: Find A Group
-  url: /groups/
+    - title: Academy of Defense
+      url: /chartergroups/academy-of-defence/
 
 - title: Search
   url: /search/
