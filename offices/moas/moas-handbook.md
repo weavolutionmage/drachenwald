@@ -3,7 +3,7 @@ title: So you've volunteered to be your local group's Minister of Arts and Scien
 subtitle: By Jahanarbanu Vivana
 ---
 ## First Steps
-1. Contact your [Regional MoAS]({{ site.baseurl }}{% link offices/moas/index.md %}#contacts). If in doubt who the regional MoAS is, or you live in an area without a Regional MoAS, contact the [Kingdom MoAS]({{ site.baseurl }}{% link offices/moas/index.md %}#contacts). Provide that officer with the following information:
+1. Contact your [Regional MoAS]({{ site.baseurl }}{% link offices/moas/index.md %}#contacts). If in doubt who your Regional MoAS is, or you live in an area without a Regional MoAS, contact the [Kingdom MoAS]({{ site.baseurl }}{% link offices/moas/index.md %}#contacts). Provide that officer with the following information:
    * your SCA name
    * your legal name
    * your membership number
