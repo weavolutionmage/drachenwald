@@ -1,5 +1,5 @@
 ---
-title: In the Kingdom
+title: Offices, Orders and Charter Groups
 exerpt: Volunteers make Drachenwald greater than the sum of its parts.
 ---
 
