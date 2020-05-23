@@ -2,7 +2,7 @@
 title: Drachenwald Academy of Defence 
 excerpt: After the manner of the ancient schools of London
 redirect_from:
-  - /academy-of-defense/
+  - /chartergroups/academy-of-defense/
 ---
 <img src="{{ site.baseurl }}{% link images/heraldry/academyofdefenseflag.gif %}" alt="Academy of Defense Badge">{: .align-left}  
 
