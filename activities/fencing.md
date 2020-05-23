@@ -33,7 +33,7 @@ In addition to rapier fencing, there is also “cut and thrust” fencing, which
 
 # The Drachenwald Academy of Defence
 
-All authorised fencers in the kingdom can join the [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defense/index.md %}) and take on challenges to move up in its ranks.
+All authorised fencers in the kingdom can join the [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defence/index.md %}) and take on challenges to move up in its ranks.
 
 # What do all the braids mean?
 In Drachenwald a traditional way of acknowledging and displaying different status in the fencing community is wearing braids.
