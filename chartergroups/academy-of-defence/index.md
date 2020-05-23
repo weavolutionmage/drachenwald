@@ -1,12 +1,14 @@
 ---
-title: Drachenwald Academy of Defense 
+title: Drachenwald Academy of Defence 
 excerpt: After the manner of the ancient schools of London
+redirect_from:
+  - /academy-of-defense/
 ---
 <img src="{{ site.baseurl }}{% link images/heraldry/academyofdefenseflag.gif %}" alt="Academy of Defense Badge">{: .align-left}  
 
 The Academy promotes the noble art of fence within the Kingdom of Drachenwald through recognition, education, and training of fencers of all levels of skill. Membership is open, upon application to the Praeceptor, to all those who love the challenge of arms.  
 
-Akin to a guild, it has ranks which candidates challenge into, by meeting three companions of the academy of appropriate skill level, in tests of skill at arms, and of endurance.  
+Akin to a guild, the Academy has ranks which candidates challenge into, by meeting three companions of the Academy of appropriate skill level, in tests of skill at arms, and of endurance.  
 
 * [Academy charter and bylaws]({{ site.baseurl }}{% link chartergroups/files/academy_defense_charter_2017_05_20.pdf %})  
 * [Meeting minutes from Collegium of Defense in Mynydd Gwyn, May 2017]({{ site.baseurl }}{% link chartergroups/files/academy_meeting_minutes_06_05_2017.pdf %})  
