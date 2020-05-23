@@ -28,12 +28,13 @@ See the point 3. for the polices of the University Chancellor for the Kingdom of
 
 #### 1.1.3. The Kingdom MoAS' deputies
 
-##### 1.1.3.1. Designated Successor and Kingdom MoAS deputy (DDD)
+**1.1.3.1. Designated Successor and Kingdom MoAS deputy (DDD)**
+
 The Designated Successor (DS) is the personal deputy of the Kingdom MoAS appointed by the Kingdom MoAS in DT and approved by the King and Queen. The Kingdom MoAS will train the DS to be his/her successor for the office. The duty of the DS is to closely follow the Kingdom MoAS's job to learn the job for his/her own coming term.
 
 The Kingdom MoAS drop-dead deputy (DDD) is the personal deputy of the Kingdom MoAS and the DDD will co-ordinate and help the Kingdom MoAS in projects and tasks appointed by the Kingdom MoAS. DDD is not necessarily the DS.
 
-##### 1.1.3.2. Regional deputies
+**1.1.3.2. Regional deputies**
 
 The Kingdom MoAS may appoint regional deputies to help in his/her job as needed. Regional deputies will maintain a list of MoASes of that region and report to Kingdom MoAS in cases mentioned in and as described in the points 1.2.1. and 1.2.3. Regional deputies will also co-ordinate and assist the Kingdom MoAS in projects and tasks appointed by the Kingdom MoAS. Regional deputies will assist the Kingdom MoAS in maintaining a list of persons who are willing to share their knowledge, answer to arts and sciences related questions and help other people in their interest area.
 
@@ -81,15 +82,16 @@ We will make every effort to find judges who are knowledgeable about the particu
 #### 2.2.2. Categories
 The competitions are drawn from six general A&amp;S categories (culinary arts, fine arts, sciences, textile arts, performance arts, and research). Each of these categories are divided into subcategories.
 
-##### Special Categories
+**Special Categories**
 
 The special categories have some special requirements and rules. You need to fulfill the requirements if you want to enter into one of the special categories. For requirements and rules, please see the information below. At the end of the year, one prize will be awarded for the best item from each of these special categories. These categories are separate from the Royal Artisan Competition, and any item entered in them will not be considered for that competition.
 
-##### Under 12 Category
+**Under 12 Category**
 
 May enter with items from all subcategories from above. You need to be younger than 12 years old at the day of the competition to enter this category. The item should be entered with a small amount of documentation that includes: SCA name, modern name, name of item, country of origin, period of origin and if the item is made with or without help. The important part is the item and not the documentation.
 
-##### 12 - 16 Category
+**12 - 16 Category**
+
 May enter with items from all subcategories from above. You need to be between the ages of 12 to 16 at the day of the competition to enter this category. The item should be entered with a documentation that includes at a minimum: SCA name, modern name, name of item, description of item, country of origin, period of origin, and sources. You should also acknowledge anyone who assisted you with making the item.
 
 ### 2.3. Competition Scheduling
