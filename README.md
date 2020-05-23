@@ -130,6 +130,8 @@ If you see an error about SSL, make sure you are using an URL that starts with H
 Make changes and submit them back
 =================================
 
+__NOTE: When you're editting the site, ignore the _site directory, this directory gets written by jekyll when the website is compiled.
+
 __NOTE: All your filenames must use lower case only.__ Mixed case filenames introduce errors in systems that are case sensitive. Avoid entirely by using only lower case.
 
 To get the latest changes from GitLab:
