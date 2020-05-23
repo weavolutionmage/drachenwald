@@ -2,6 +2,8 @@
 title: This is Drachenwald
 excerpt:  The latest posts from a variety of people in Drachenwald who are skilled in different arts, practices, or areas of study.
 ---
+
+
 {% if site.data.thisisdrachenwald %}
   {% assign blogposts = site.data.thisisdrachenwald %}
 
@@ -43,11 +45,22 @@ excerpt:  The latest posts from a variety of people in Drachenwald who are skill
 <img src='/{{ image.thumb }}'  align="left" class="inlineMedia"></figure>
       {% endif %}
       {{ item.summary }}
-	<em> <a href="{{ item.link }}">read more </a></em>
+	<em> <a href="{{ item.link }}">read/watch more </a></em>
       </article> 
 <hr style="clear: both;"> 
 {% endif %}
 {% endfor %}
+
+<div class="pagination">
+        <a href="{{ site.baseurl }}{% link thisis/index.html %}" title="Page 1"
+        class="active"
+        >1{{ trail.num }}</a>
+  <a href="{{ site.baseurl }}{% link thisis/page2.html %}" title="Page 2"
+  >2</a>
+      <a href="{{ site.baseurl }}{% link thisis/page2.html %}">&gt;&gt;</a>
+</div>
+
+<p>&nbsp;</p>
 
 <h1> Contributors</h1>
 
@@ -59,5 +72,5 @@ Would you like to read some more? Visit the blogs of all our contributors:
 </ul>
 
 <p>
-<i>The original blog owners are responsible for the content in this feed. Contact the blog owner with any questions about their content.</i>
+<i>The original blog owners are responsible for the content in this feed. Contact the blog owner with any questions about their content.</i> This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }} UTC
 </p>

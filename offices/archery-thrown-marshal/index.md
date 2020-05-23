@@ -19,7 +19,7 @@ The Drachenwald Company of Archers is a 'guild' for archers, providing ranks and
 # Handbooks and authorisation forms
 We take safety seriously. 'Authorisation' refers to a person who wants to become a marshal passing knowledge and practical tests to gain their marshalling warrant: a bit like taking a driving test before getting your license. 
 
-* [Society-wide target archery and thrown weapons rules (2 documents)](https://www.sca.org/officers/marshal/combat/t_archery/) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
+* [Society-wide target archery and thrown weapons rules (2 documents)](https://www.sca.org/resources/document-library/#target-archery) provide a baseline of equipment guidance and range safety for archery marshals within the Society.
 
 * [Drachenwald archery marshal's handbook]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald_target_archery_handbook_0.pdf %}), explaining safety rules, equipment guidelines and how to run tournaments within Drachenwald. 
 

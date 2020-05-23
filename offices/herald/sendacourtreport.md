@@ -21,10 +21,10 @@ If you are serving as herald for any of the [royal family of Drachenwald]({{ sit
 ### Who to contact
 
 * the royals who you were serving: the Crown, the Coronet, or your baron and baroness  
-* [Posthorn Herald](posthorn@drachenwald.sca.org)  
-* the [kingdom chronicler](chronicler@drachenwald.sca.org) or any local chronicler, for example for your principality or barony  
+* [Posthorn Herald](mailto:posthorn@drachenwald.sca.org)  
+* the [kingdom chronicler](mailto:chronicler@drachenwald.sca.org) or any local chronicler, for example for your principality or barony  
 * the [signet]({{ site.baseurl }}{% link offices/signet/index.md %}) - the person who delegated the scroll commissions, and arranged for the scrolls to reach court. If you were officiating for the prince and princess of Insulae Draconis, for example, you send a copy to the principality signet.
-* Optional: copy to the kingdom herald or your principality or baronial herald
+* [Schwarzdrachen](mailto:herald@drachenwald.sca.org) and any relevant principality or baronial herald
 
 ### What to write
 

@@ -58,7 +58,7 @@ The most common indoor competition in Drachenwald.
  
 The Annual competition is split into two season’s competitions.
 
-[2019 Summer competition results to date]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/2019-Summer-competition-results.xls %})  
+[[2019/20 winter competition results to date](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896)]
 ## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament.
@@ -75,8 +75,11 @@ The Annual competition is split into two season’s competitions.
 
 ## Previous winners of the Drachenwald Competition
 
-2018/19 - Hrafn Einarsson (Winter)  
-2018/18 - Vallittu af Hukka (Summer)  
+2019/19 . Vallittu af Hukka (summer)
+
+2018/19 - Hrafn Einarsson (Winter)
+
+2018/18 - Vallittu af Hukka (Summer)    
 2017/18 - Rakonzay Gergely (Winter)  
 2017/17 - Vallittu af Hukka  (Summer)  
 2016/17 - Rakonczay Gergely  (Winter)  

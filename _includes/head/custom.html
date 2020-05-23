@@ -15,3 +15,14 @@
 {% if jekyll.environment == "staging" and page.url == "/" %}
 <meta name="google-site-verification" content="lgmrb2ubPYMZj7hLd76JH0Qge_mcKxdA3xIw9WZsQo8" />
 {% endif %}
+
+{% if page.calendarlist %}
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+<script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+<script src="{% link scripts/calendar.js %}"></script>
+<script src="{% link scripts/bidlist.js %}"></script>
+
+<script>
+  $( document ).ready( loadBidlist );
+</script>
+{% endif %}

@@ -21,6 +21,8 @@ subtitle: What do chatelaines do?
 </ul>
 <p>The Barony of Thescorre's <a href="http://www.thescorre.org/literature/adept/index.htm">Adept Handbook: Teaching Through Living History</a> is a useful manual on doing demos. Less demo-oriented, but good for resources for doing classes or repsentations is the <a href="http://groups.yahoo.com/group/SCAteach/">SCAteach mailing list</a>. You can also join the <a href="http://groups.yahoo.com/group/DrachenwaldChatelaines/">Chatelaine's email list</a></p>
 <h2>Information about reporting</h2>
+=======
+<hr>
 <p>For information on reporting, please read the <a href="{{ site.baseurl }}{% link offices/chatelaine/reporting.md %}">reporting guidelines for chatelaines</a>.</p>
 
 {% include officer-contacts.html %}

@@ -18,7 +18,7 @@ email: webminister@drachenwald.sca.org
 description: >- # this means to ignore newlines until "baseurl:"
   Kingdom of Drachenwald. Medieval recreation with the Society for Creative Anachronism in Europe.
 # baseurl: "/j" # the subpath of your site, e.g. /blog
-url: "http://www.drachenwald.sca.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://drachenwald.sca.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -52,12 +52,22 @@ analytics:
   provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-11879750-1"
-    anonymize_ip         : # true, false (default)
+    anonymize_ip         : true # true, false (default)
 
 # Site survey link
 survey:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSd8sUf_UWyHQJwrB3BsrI8bRMsMupSf_g09_Mskdfc7xHc8tw/viewform?usp=sf_link"
   prefill: "entry.899185538"
+
+calendar:
+  events:
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQg-95J2jHTaOY42Z4MFBbMz7p0rrkiCsnLNzF7C7QshZ2k1BkLZXbZfRIPDgTgOtkMVURCznL2Gqu5/pub?gid=238500532&single=true&output=csv"
+  bidlist:
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRQpGIbZo_QxZgE7MagJVIlQpgq5y3eQ-s_D515twGKGx5hp2dvOB2hdCqySDgftaIOx7s8ruLkUJmk/pub?gid=971319238&single=true&output=csv"
+
+cal2:
+  events:
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQg-95J2jHTaOY42Z4MFBbMz7p0rrkiCsnLNzF7C7QshZ2k1BkLZXbZfRIPDgTgOtkMVURCznL2Gqu5/pub?gid=238500532&single=true&output=csv"
 
 # Site Footer
 footer:
@@ -70,7 +80,7 @@ footer:
       url: "https://facebook.com/kingdomofdrachenwald"
     - label: "Mailing list"
       icon: "fas fa-fw fa-envelope"
-      url: "https://lists.drachenwald.sca.org/mailman/listinfo/dw-l"
+      url: "http://lists.drachenwald.sca.org/mailman/listinfo/dw-l"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -98,7 +108,7 @@ footer:
 
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 10
   sort_field: 'date'
   sort_reverse: true
   trail:
@@ -122,6 +132,9 @@ autopages:
       - 'autopage_artsci_tags.html'
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/posts/tags/:tag'
+
+tag_archive:
+  path: '/posts/tags/'
 
 responsive_image:
   template: _includes/responsive-image.html
@@ -249,5 +262,3 @@ defaults:
       author_profile: true
       header:
         show_overlay_excerpt: false
-
-
