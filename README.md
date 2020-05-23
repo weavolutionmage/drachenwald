@@ -170,6 +170,8 @@ git merge staging
 Conventions
 ===========
 * link to other pages using this format:  {{ site.baseurl }}{% link images/heraldry/gotviktrans.gif %} 
+
+
 Git References
 ============
 * [GitLab's command-line cheatsheet, if you haven't used command lines before](https://gitlab.com/help/gitlab-basics/command-line-commands.md)
