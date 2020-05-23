@@ -123,7 +123,9 @@ bundle install
 bundle exec jekyll serve
 ````
 
-Now visit https://127.0.0.1:4000/j/ in your browser and you should see the front page of the website.
+Now visit http://127.0.0.1:4000/j/ in your browser and you should see the front page of the website. If you are seeing a HTTP 404 Not Found error, try http://127.0.0.1:4000/.
+
+If you see an error about SSL, make sure you are using an URL that starts with HTTP, not HTTPS.
 
 Make changes and submit them back
 =================================
