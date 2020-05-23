@@ -23,7 +23,7 @@ While the order does not typically act as a unit to accomplish common goals, mem
 Advancement to the order of the Pelican is offered by the Crown, after consultation with the Order, and polling of candidates. It is a Society-wide honour, along with the other bestowed orders of the Laurel, the Chivalry, and the Order of Defense.
 ## What Corpora says about peers
 One reference point for choosing new peers is available from the governing documents of the Society: Corpora, part VIII.A.1 about Patents of Arms, and A.4.c about the order of the Pelican. 
-This quote of 4.c is reproduced from the 2009 version. <a href="http://www.sca.org/docs/pdf/govdocs.pdf">http://www.sca.org/docs/pdf/govdocs.pdf</a>
+This quote of 4.c is reproduced from the 2009 version. <a href="https://www.sca.org/resources/document-library/govdocs/">https://www.sca.org/resources/document-library/govdocs/</a>
 > VIII. PERSONAL AWARDS AND TITLES
 > A. Patents of Arms
 > 1. General Requirements:

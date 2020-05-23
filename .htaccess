@@ -1,11 +1,40 @@
 ---
 layout: none
 ---
+# Set an environment variable that we don't want archive content indexed by search engines
+
+SetEnvIf Request_URI "^/drupal" NOINDEX
+SetEnvIf Request_URI "^/content" NOINDEX
+SetEnvIf Request_URI "^/node" NOINDEX
+SetEnvIf Request_URI "^/wordpress" NOINDEX
+SetEnvIf Request_URI "^/sites" NOINDEX
+
+# We make an exception for these URLs which have high ranking that we'd like to keep
+
+SetEnvIf Request_URI "^/node/69" !NOINDEX
+SetEnvIf Request_URI "^/drupal/content/kingdom-event-calendar$" !NOINDEX
+SetEnvIf Request_URI "^/content/kingdom-event-calendar$" !NOINDEX
+SetEnvIf Request_URI "^/content/kingdom-officers-drachenwald$" !NOINDEX
+SetEnvIf Request_URI "^/content/chatelaines-page$" !NOINDEX
+SetEnvIf Request_URI "^/content/awards-orders$" !NOINDEX
+SetEnvIf Request_URI "^/content/arts-and-sciences$" !NOINDEX
+SetEnvIf Request_URI "^/content/drachenwald-laurels$" !NOINDEX
+SetEnvIf Request_URI "^/content/germany$" !NOINDEX
+SetEnvIf Request_URI "^/content/academy-defence$" !NOINDEX
+SetEnvIf Request_URI "^/content/university-chancellor$" !NOINDEX
+SetEnvIf Request_URI "^/content/signet-clerk$" !NOINDEX
+
+# Send do-not-index header based on the environment variable set above
+
 <IfModule headers_module>
   header set X-Clacks-Overhead "GNU Terafan Greydragon"
+  header always add X-Robots-Tag "noindex, nofollow" env=NOINDEX
 </IfModule>
 
 Options -Indexes
+
+AddDefaultCharset utf-8
+AddCharset utf-8 .xml
 
 # Fresh versions of previous pages
 
@@ -32,5 +61,11 @@ Redirect 301 /drupal/ https://sca-drachenwald.gitlab.io/archive/
 Redirect 301 /content/ https://sca-drachenwald.gitlab.io/archive/content/
 Redirect 301 /node/ https://sca-drachenwald.gitlab.io/archive/node/
 Redirect 301 /wordpress/ https://sca-drachenwald.gitlab.io/archive/wordpress/
+Redirect 301 /sites/ https://sca-drachenwald.gitlab.io/archive/sites/
+
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\. [NC]
+RewriteRule ^ https://drachenwald.sca.org%{REQUEST_URI} [L,NE,R=301]
 
 ErrorDocument 404 /404.html

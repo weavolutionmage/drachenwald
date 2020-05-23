@@ -41,7 +41,6 @@ If you bring documentation, make it short enough that the main points can be gla
 ### 2014, AS 49
 * The first opportunity to participate was at Double Wars XXVII (May 2014). On Wednesday we had twelve people participating and putting up things as diverse as a meal cooked over an open fire, weaving, sewing, brewing, shoemaking and more.
  Photos by [Mistress Lia de Thornegge on Flickr](https://www.flickr.com/photos/liabucket/collections/72157645978982225/) 
-Photos by [Meisterinne Katheryn Hebenstreitz on Facebook](https://www.facebook.com/annika.madejska/media_set?set=a.10152198031394296.1073741840.645649295&type=3)
 
 * Cugel War in Aarnimetsä, July 2014. During the display on Tuesday the 15th, there were eleven artisans displaying crafts ranging from leatherwork, tablet weaving, enamelling, embroidery and more.
  * Photos by [Mistress Lia de Thornegge on Flickr](https://www.flickr.com/photos/liabucket/collections/72157645978982225/)

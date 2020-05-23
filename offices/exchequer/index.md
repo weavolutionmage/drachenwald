@@ -8,7 +8,7 @@ Welcome to the page for all Exchequer related activity in the Kingdom of Drachen
 
 - [SCA, Inc. Branch Financial Policy](http://sca.org/docs/finpolicies/SocietyFinancialPolicy.pdf) (PDF)
 - [Society Chancellor of the Exchequer Policy](http://www.sca.org/docs/finpolicies/SocietyExchequerPolicies.pdf) (PDF)
-- [The Local Exchequer's Handbook](http://www.sca.org/docs/pdf/exchequerhandbook.pdf) (PDF)
+- [The Local Exchequer's Handbook](https://www.sca.org/resources/document-library/exchequerhandbook/) (PDF)
 
 ## Kingdom Policies
 
