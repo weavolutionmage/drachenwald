@@ -27,9 +27,7 @@ For those receiving paper copies, these are typically posted around the 20th of 
 Paper copies going to APO addresses may take longer.
 
 ## Change of Address
-Your subscription to _Dragon's Tale_ uses your membership postal or email address. So to change your address, you need to update your membership information, either via [SCA Inc member services](https://www.sca.org/member-services/) or through your local affiliate.
- 
-**Do not send address changes to the Chronicler.**
+Your subscription to _Dragon's Tale_ uses your membership postal or email address. So to change your address, you need to update your membership information, either via [SCA Inc member services](https://www.sca.org/member-services/) or through your local affiliate.  **Do not send address changes to the Chronicler.**
 
 # Submissions to the Dragon's Tale
 

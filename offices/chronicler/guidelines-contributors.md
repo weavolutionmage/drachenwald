@@ -73,13 +73,14 @@ HUTTON, Ronald, <em>The stations of the sun – A History of the Ritual Year in 
 When referencing Internet sources, try to reference the original sources (rather than Wikipedia).&nbsp; If the URL is long or complicated, use TinyURL or similar sites to generate a more "print-friendly" version.&nbsp; If this is done, then remember to name the site as well, e.g.
 1) "<em>Magna Carta</em>" - Encyclopedia Britannica Online - <a href="http://tinyurl.com/yj7f6bj" title="http://tinyurl.com/yj7f6bj">http://tinyurl.com/yj7f6bj</a>
 
-#Graphics
+# Graphics
 
 Graphics can be anything from photographs, scanned illustrations etc to simple line-drawn clip-art.&nbsp; There are three main areas these are used:
 
-* Stand-alone pieces - photographs, artwork, comics &amp; cartoons and other graphics that are reproduced in their own right without an accompanying article or other text.&nbsp; This is most commonly&nbsp; used for the front cover. </li>
-* Illustrations - any artwork, diagrams or photographs that accompany and illustrate an article.</li>
-* Filler/decoration - clip-art, borders, scrolls, critters, heraldic images, badges, separators.&nbsp; Small pieces of artwork that can be used to decorate an article, provide end of page or ed of column fillers, separate one article from another, provide a banner heading etc.
+* Stand-alone pieces - photographs, artwork, comics &amp; cartoons and other graphics that are reproduced in their own right without an accompanying article or other text.&nbsp; This is most commonly&nbsp; used for the front cover. 
+* Illustrations - any artwork, diagrams or photographs that accompany and illustrate an article.
+* Filler/decoration - clip-art, borders, scrolls, critters, heraldic images, badges, separators. 
+* Small pieces of artwork that can be used to decorate an article, provide end of page or ed of column fillers, separate one article from another, provide a banner heading etc.
 
 ## Standalone graphics: cover art
 The main use for stand-alone art is for the front cover of the magazine.&nbsp; A new image is needed each month.  The cover art can be a photograph or a piece of original artwork. The space available is 135mm high by a maximum of 130mm wide. Images may be narrower in proportion as this fits well with the arrangement of white space on the cover. 
@@ -88,10 +89,10 @@ Photographs should be in vertical ("portrait") format rather than horizontal ("l
 
 * They have a rectangular border, or the shape of the drawing clearly indicate a rectangular bounding box. An L-shape is OK provided the lines are such that they suggest an opposite corner.
 * Have a partial bounding box, left, right and below, with the upper sides and top free space. Left &amp; right sides should both have a reasonable proportion of the height and not be too different in height (e.g. full height one side and only 5mm or none on the other).
-* Have only a bottom boundary, with sides and top left free space.* 
+* Have only a bottom boundary, with sides and top left free space. 
 * Have no obvious cutoff bounding box.
 
 ## Images and photographs: general
 Images are reproduced in half-tone black &amp; white.&nbsp; Images should therefore not have too much fine detail, or areas of low contrast, as these will not reproduce well.
 
-Photographs should obviously be of a relevant subject - medieval building, photographs taken at events and such like.&nbsp; Where the photograph features the faces of individuals such that they can be easily recognised, be sure that you have the permission of the people concerned, especially where children are concerned.
+Photographs should obviously be of a relevant subject - medieval building, photographs taken at events and such like. Where the photograph features the faces of individuals such that they can be easily recognised, be sure that you have the permission of the people concerned, especially where children are concerned.
