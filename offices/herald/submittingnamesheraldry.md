@@ -55,7 +55,7 @@ The External Submissions Herald sends Letters of Intent (ie 'Unless you say othe
 
 ## Submission fees
 The fee is is £5 / 5€ / 50 SEK for each submission item.  
-For example, for a name and device the total fee is £8 / 10€ / 100 SEK  
+For example, for a name and device the total fee is £10 / 10€ / 100 SEK.  
 
 Residents of Sweden pay their fees to a Swedish account. Contact the Nordmark Exchequer (aka the Swedish treasurer) at exchequer@nordmark.org for bank account details.
 
