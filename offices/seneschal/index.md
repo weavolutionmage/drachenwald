@@ -1,5 +1,7 @@
 ---
 title: Office of the Seneschal
+toc: true
+toc_label: "Table of Contents"
 ---
 
 Welcome! In this page you should find everything you need to help in the smooth administration of groups within Drachenwald. Here you will find our Great Book of Laws, warrants, policies and the forms which must be completed for Shire Quarterly reports.

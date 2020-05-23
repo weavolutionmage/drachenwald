@@ -25,6 +25,8 @@ Further authorisations allow fencers to use additional equipment, such as buckle
 Want to learn more? See the equipment standards, authorisation guidance and info for marshals (safety officers and tournament organisers) on the [Fencing Marshal page]({{ site.baseurl }}{% link offices/fencing-marshal/index.md %})
 {: .notice--primary}
 
+<img src="{{ site.baseurl }}{% link images/fencing/fencing-raglan.jpg %}" alt="Fencers and a marshal at the Raglan castle">{: .align-middle}
+
 # Cut and Thrust
 
 In addition to rapier fencing, there is also “cut and thrust” fencing, which allows for percussive cuts and therefore requires additional protective gear. 
