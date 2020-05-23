@@ -6,19 +6,55 @@ header:
   actions:
     - label: "Learn more..."
       url: "/activities/"
+feature_row:
+- image_path: /images/splash/splash-armour.jpg
+  title: "Armoured fighting"
+  url: "/activities/armoured-combat/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "Be a knight in shining armour"
+- image_path: /images/splash/splash-fencing.jpg
+  title: "Fencing"
+  url: "/activities/fencing/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "Fencing using genuine historical techniques"
+- image_path: /images/splash/splash-archery.jpg
+  title: "Archery"
+  url: "/activities/archery/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "Master your aim"
+- image_path: /images/splash/splash-aands.jpg
+  title: "Arts & Sciences"
+  url: "/activities/artsci/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "The wealth of historical crafts"
+- image_path: /images/splash/splash-food.jpg
+  title: "Food"
+  url: "/activities/food/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "Authentic and delicious"
+- image_path: /images/splash/splash-thisis.jpg
+  title: "This is Drachenwald"
+  url: "/thisis/"
+  btn_label: "Read More"
+  btn_class: "btn--primary"
+  excerpt: "Writing, photos and videos from around our Kingdom"
 ---
 <div style="margin-left:auto;margin-right:auto;max-width:800px">
 
 <p>The Kingdom of Drachenwald is a part of the Society for Creative Anachronism, Inc. (SCA), a not-for-profit educational organisation which studies the Middle Ages by recreating the pastimes and crafts of the period. International in scope, our activities include tournaments, festivals, classes, feasts, and all manner of arts and sciences you would find in the culture of pre-1600s western Europe. We actively welcome new members!</p>
 
-{% include covid-notice.html %}
 </div>
+
+{% include feature_row %}
 
 <div style="margin-left:auto;margin-right:auto;max-width:800px">
 
-<h2>Latest News</h2>
-
-<p><a href="{{ site.baseurl }}/posts/news/" class="btn btn--primary">See all the news...</a></p>
+<h1 style="text-align: center;">Latest News</h1>
 
 {% assign posts = site.posts | where_exp: "item", "item.categories contains 'news'" %}
 {% for post in posts limit:3 %}
@@ -28,17 +64,25 @@ header:
 <p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn--primary">Read more...</a></p>
 {% endfor %}
 
+<p><a href="{{ site.baseurl }}/posts/news/" class="btn btn--primary">See all the news...</a></p>
+
+</div>
+
+
+
+<div style="margin-left:auto;margin-right:auto;max-width:800px;text-align:center">
+  <hr>
+  <h1>Awards</h1>
+  <p>
+    <a href="{{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %}" class="btn btn--primary">Kingdom Awards</a>
+    <a href="http://op.drachenwald.sca.org/" class="btn btn--primary">Order of Precedence</a>
+    <a href="http://op.drachenwald.sca.org/recommend" class="btn btn--primary">Make a Recommendation</a>
+  </p>
 </div>
 
 <div style="margin-left:auto;margin-right:auto;max-width:800px">
-<p>
-<a href="{{ site.baseurl }}{% link offices/herald/drachenwaldawardsorders.md %}" class="btn btn--primary">Kingdom Awards</a>
-<a href="http://op.drachenwald.sca.org/" class="btn btn--primary">Order of Precedence</a>
-<a href="http://op.drachenwald.sca.org/recommend" class="btn btn--primary">Make a Recommendation</a>
 
-</p>
-
-<div id="calendar" links="canonical" count="5"></div>
+<div id="calendar" links="canonical" count="10" cancelledevents="none"></div>
 <script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
 
       <p>&nbsp;</p>
