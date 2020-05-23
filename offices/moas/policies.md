@@ -1,6 +1,8 @@
 ---
 title: Policies of Arts and Sciences for the Kingdom of Drachenwald
 subtitle: Updated November 10, AS XLVI
+toc: true
+toc_label: "Table of Contents"
 ---
 ## 1. Kingdom Arts and Sciences Offices
 ### 1.1. Kingdom Arts and Sciences Offices
