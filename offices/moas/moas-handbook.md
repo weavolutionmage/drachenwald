@@ -11,9 +11,12 @@ subtitle: By Jahanarbanu Vivana
 2. You should join the Drachenwald MoAS email list by writing to the [Kingdom MoAS]({{ site.baseurl }}{% link offices/moas/index.md %}#contacts).
 
 ## During your term of office
-Keep an archive of your work and reports, you should have received an archive from your successor and should in turn provide your successor with a complete record. Nordmark Law states that Nordmark archives should be turned over within one month of the official changeover.
+Keep an archive of your work and reports, you should have received an archive from your successor and should in turn provide your successor with a complete record.
+* Nordmark Law states that Nordmark archives should be turned over within one month of the official changeover.
 
-When your term of office draws to a close train your successor. It is recommended that you seek out a successor, get local support for this new MoAS and begin training them at least three months in advance of your warrant expiration. When in doubt about any duties described below, please contact your Regional MoAS. They are there to be used as a resource. Each Regional MoAS had volunteered for this position to help all artisans in their region. They will be willing to help you with any questions you may have, such as helping run competitions, displays, finding resources, etc.
+When your term of office draws to a close train your successor. It is recommended that you seek out a successor, get local support for this new MoAS and begin training them at least three months in advance of your warrant expiration.
+
+When in doubt about any duties described below, please contact your Regional MoAS. They are there to be used as a resource. Each Regional MoAS had volunteered for this position to help all artisans in their region. They will be willing to help you with any questions you may have, such as helping run competitions, displays, finding resources, etc.
 
 ## Reporting
 You will be expected to send a report to your Regional MoAS (or directly to kingdom MoAS) each quarter, no later than the date given by your Regional MoAS.
@@ -29,7 +32,7 @@ One of the most rewarding aspects of the A&S position is the knowledge it provid
 
 You in turn may receive a copy of the regional report from your Regional MoAS. Please feel free to share these reports with your group. These reports can also be helpful when recommending artisans outside your local group for recognition.
 
-### Assisting other Artisans
+## Assisting other Artisans
 Your job is also to provide assistance to other artisans in the local group. This assistance should include encouraging all artisans in your local group, even if you have no knowledge of the arts or sciences they practice. You will also act as a local contact for all arts and sciences. You don't have to know everything, just how to get artisans in contact with other artisans in their field. When someone comes to you with a question regarding learning a new art or science, you are encouraged to pair them with someone in your local group who already practices that art or science. If no local practitioner exists, then refer them to any relevant resources such as the [Kingdom Laurel listing]({{ site.baseurl }}{% link peers/laurel/laurel-roster.md %}).
 
 ## A&S Meetings
