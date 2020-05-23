@@ -4,10 +4,10 @@ title: Office of the Exchequer
 
 Welcome to the page for all Exchequer related activity in the Kingdom of Drachenwald. Here you will find the forms which must be completed for Shire Quarterly reports and for reporting on the finances and attendee numbers at events. There are also a number of useful articles describing how to complete these reports.
 
-## Corporate Policies
+## Corporate Policies 
 
-- [SCA, Inc. Branch Financial Policy](http://sca.org/docs/finpolicies/SocietyFinancialPolicy.pdf) (PDF)
-- [Society Chancellor of the Exchequer Policy](http://www.sca.org/docs/finpolicies/SocietyExchequerPolicies.pdf) (PDF)
+- [SCA, Inc. Financial Policy](https://www.sca.org/resources/document-library/societyfinancialpolicy/) (PDF)
+- [Society Chancellor of the Exchequer page of policies](https://www.sca.org/resources/document-library/#exchequer)
 - [The Local Exchequer's Handbook](https://www.sca.org/resources/document-library/exchequerhandbook/) (PDF)
 
 ## Kingdom Policies
