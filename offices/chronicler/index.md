@@ -10,25 +10,17 @@ featurealt: thing
 
 # What a Chronicler does
 
-The Chronicler is responsible for all official Kingdom publications, in particular, the Kingdom Newsletter: the <em>Dragon's Tale</em>.
+The Chronicler is responsible for all official Kingdom publications, in particular, the Kingdom Newsletter: the <em>Dragon's Tale</em>. [Learn more](
 
 ## Kingdom Newsletter
 
 SCA Inc and SCA affiliate members: read _Dragon's Tale_, and every other kingdom's newsletter, online!
-Go to <a href="https://members.sca.org/apps/#SignIn" target="_blank">https://members.sca.org/apps/#SignIn</a> and log in with the same login information that you use to renew your membership.
 
-Affiliate members: log in with the username "affiliate" and password "affiliate", all lowercase. Look for Drachenwald
+Visit [SCA membership portal](https://members.sca.org/apps/#SignIn) and log in with the same login information that you use to renew your membership.
+
+Affiliate members: From the membership portal, log in with the username "affiliate" and password "affiliate", all lowercase. Look for Drachenwald's newsletter.
+
 If you have any difficulties or questions, please email <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,39,62,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,60,47,97,62));</script>. Include your modern name, membership number, and a brief explanation of the problem you're experiencing.
-
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}">The Dragon's Tale</a>
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}#dt">Submitting Material to the Dragon's Tale</a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}#ads">Advertising in the Dragon's Tale</a></li>
-</ul>
-</li>
-</ul>
 
 ## Policies and Reports
 
@@ -48,15 +40,11 @@ Local branches are encouraged to have a newsletter, though it is only <em>requir
 
 ## Release Forms
 
-Release forms are needed for original articles and artwork, and from persons appearing on photographs. Please see the Release Forms page for further details
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/release-forms.md %}">Release Forms</a></li>
-</ul>
+[Release forms]({{ site.baseurl }}{% link offices/chronicler/release-forms.md %}) are needed for original articles and artwork, and from persons appearing on photographs.
 
 # Event Announcements
 
-In order for an event to be "official for business", i.e. for things like awards, proclamation of laws etc to take place, the event must be properly scheduled on the Kingdom Calendar and an event published in the Dragon's Tale.
+For an event to be "official" for business like awards, and proclamation of laws, you must publish the event on the Kingdom Calendar and send an announcement to the _Dragon's Tale_.
 
 <ul>
 <!-- <li><a href="/content/planning-and-scheduling-events">Planning and scheduling events</a> FIXME</li> -->
