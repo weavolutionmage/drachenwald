@@ -31,10 +31,12 @@ The Seneschal has a number of powers that are reserved to the Seneschal.
 * Only the Seneschal has the authority to designate any gathering or function of the branch an "official" function of that branch. This does not mean that the seneschal can dictate how such gatherings shall be run, but rather that the seneschal must sanction them as branch activities. 
 * Any event announcements going to the kingdom newsletter must have the approval of the branch Seneschal attached. This is because all official events are the responsibility of the branch holding them and only the branch Seneschal is authorised to commit the branch to such action. 
 * Whenever possible the Seneschal should be one of the required signatories of any branch bank accounts. 
+
 ## Deputies
 The Seneschal of a branch may, and in most cases should, recruit deputies to assist in the running of the office. Deputies may deal with overflow of work or be set to assist with specific tasks. It's recommended that each branch have what is known as an "Emergency" deputy. This is someone who is willing and able to take over the administration of the branch if, for whatever reason (illness, sudden move, etc.), the seneschal is unable to continue to carry out the function of the office. This post is temporary and need not be the same person who is planning to take over from the current Seneschal once that officer's warrant expires. Deputies must be Society Members of the SCA Inc. or any recognized affiliate organisation.
+
 ## What a seneschal cannot do
-While the Seneschal is responsible for overseeing the smooth operation of the shire, the Seneschal must bear in mind that he or she does not have the authority to remove branch Officers. If a problem develops the Seneschal should seek resolution to the established means for redressing a problem that are endorsed by the SCA. These procedures are found at <a href="http://sca.org/docs/welcome.html" title="http://sca.org/docs/welcome.html">http://sca.org/docs/welcome.html</a> under the Governing Documents. It should be noted that if an officer is delinquent in his or her duty over a period of time, then it is the duty of the Seneschal to bring the matter to the attention of the relevant kingdom officer, after first discussing the issues with the delinquent officer.
+While the Seneschal is responsible for overseeing the smooth operation of the shire, the Seneschal must bear in mind that he or she does not have the authority to remove branch Officers. If a problem develops the Seneschal should seek resolution to the established means for redressing a problem that are endorsed by the SCA. These procedures are found at <a href="https://www.sca.org/resources/document-library/">https://www.sca.org/resources/document-library/</a> under the Governing Documents. It should be noted that if an officer is delinquent in his or her duty over a period of time, then it is the duty of the Seneschal to bring the matter to the attention of the relevant kingdom officer, after first discussing the issues with the delinquent officer.
 
 # General Aspects of the Post of Seneschal
 
@@ -98,7 +100,7 @@ There are some pointers to bear in mind if a confrontation begins in your branch
 ## Democracy
 While the SCA is not a democratic institution, it is advisable for all officers to pay attention to what their branch wants. Unless the branch, its officers, and their policies have support from within the branch, it will be very difficult to make progress.
 # Governing Documents
-The way that the SCA operates is detailed in its governing documents. These can be found at <a href="http://www.sca.org/docs/welcome.html" title="http://www.sca.org/docs/welcome.html">http://www.sca.org/docs/welcome.html</a>
+The way that the SCA operates is detailed in its governing documents. These can be found at <a href="https://www.sca.org/resources/document-library/">https://www.sca.org/resources/document-library/</a>
 Kingdom Law for Drachenwald can be found at The Kingdom Law page Every seneschal should be familiar with these documents.
 
 ## Blank Quarterly report details for Local Branches.

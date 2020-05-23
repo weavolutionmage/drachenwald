@@ -32,3 +32,25 @@ In addition to rapier fencing, there is also “cut and thrust” fencing, which
 # The Drachenwald Academy of Defence
 
 All authorised fencers in the kingdom can join the [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defence/index.md %}) and take on challenges to move up in its ranks.
+
+# What do all the braids mean?
+In Drachenwald a traditional way of acknowledging and displaying different status in the fencing community is wearing braids.
+ 
+The braids can be made in a variety of ways, and thus have different appearance. They are usually worn around the shoulder or upper arm on the off-hand side. The significance of a braid can most often be read in its colour. The following colour combinations are reserved by tradition:
+ 
+**Gold-black-red** – Member of the Order of the Dragon´s Steel (this order was closed when the [Order of Defence]({{ site.baseurl }}{% link peers/defence/index.md %}) was created, until then it was the highest award for fencing in Drachenwald)
+ 
+**Gold-black** - Prefect of the DW Academy of Defence 
+
+**Black-red** - Provost of the DW Academy of Defence
+
+**Black** - Free Scholar of the DW Academy of Defence
+
+**Red-gold** - Companion (non-fencer) of the DW Academy of Defence
+ 
+Red braids can be used by students to a member of the ODS, Prefect of the Academy, or  Master of Defence.
+ 
+It is also possible for a Master and his/her student (often, but not necessarily always, called “scholar”) to pick whichever colours or insignia they feel appropriate to mark their contract.
+ 
+If you see someone wearing a braid (or some other token) you do not recognise, it **is* ok to ask. Most are happy to explain.
+

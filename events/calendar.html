@@ -1,142 +1,41 @@
 ---
-title: Events Calendar
+title: Events in Drachenwald
+redirect_from:
+  - /events/
 ---
-<table>
 
-<caption><h3>Upcoming Events</h3></caption>
-
-<p><em>To add an event to the calendar, please use <a href="{{ site.baseurl }}{% link events/calendar-add.html %}">this form</a>.</em></p>
-
-<thead>
-<tr valign="top">
-<th scope="col">
-<h3>Date</h3>
-</th>
-<th scope="col">
-<h3>Group</h3>
-</th>
-<th scope="col">
-<h3>Event</h3>
-</th>
-<th scope="col">
-<h3>Royal Progress</h3>
-</th>
-</tr>
-</thead>
-
-<tbody>
-
-{% if site.data.events.eventlist %}
-  {% assign events = site.data.events.eventlist | sort:"start" %}
-{% else %}
-  {% assign events = "" %}
+{% if jekyll.environment == "production" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
+<script type="text/javascript" src="https://scripts.drachenwald.sca.org/calendar/v3.0/calendar.js"></script>
+{% elsif jekyll.environment == "staging" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
+<script type="text/javascript" src="https://sca-drachenwald.gitlab.io/events-calendar/calendar.js"></script>
+{% elsif jekyll.environment == "development" %}
+<div  id="calendar"
+      legend="true"
+      links="local"
+      bidlinks="true"
+></div>
+<script type="text/javascript" src="http://127.0.0.1:8080/calendar.js"></script>
 {% endif %}
 
-{% for item in events %}
+<div id="internetexplorer"></div>
 
-  {% assign eventmonth = item.start | date: "%b" %}
-  {% unless eventmonth == currentmonth %}
-  <tr>
-  <td colspan="4">
-  <h3>{{ item.start | date: "%B %Y" }}</h3>
-  </td>
-  </tr>
-  {% assign currentmonth = eventmonth %}
-  {% endunless %}
+<script>
+  if ( ( !!window.MSInputMethodContext && !!document.documentMode) ) {
+    document.getElementById("internetexplorer").innerHTML = "<p>To give our users the functionality they need, we're unable to display the calendar in Internet Explorer. Please use another browser, or your phone. If you have feedback, please email <a href='mailto:webminister@drachenwald.sca.org'>webminister@drachenwald.sca.org</a>.</p>";
+  }
 
-  <tr>
-  <td data-label="Date">{{ item.start | date: "%d" }}
-  {% unless item.end == "" or item.end == item.start %}
-    {% assign endmonth = item.end | date: "%b" %}
-    {% if currentmonth == endmonth %}
-    - {{ item.end | date: "%d" }}
-    {% else %}
-    - {{ item.end | date: "%d/%m" }}
-    {% endif %}
-  {% endunless %}</td>
-  <td data-label="Group">{{ item.group }}{% unless item.country == "" %} ({{ item.country }}){% endunless %}</td>
-  <td data-label="Event">
-  {% unless item.web == "" %}<a href="{{ item.web }}" target="_blank">{% endunless %}{{ item.name }}{% unless item.web == "" %}</a>{% endunless %}</td>
-  
-  <td data-label="Royal Presence">
-    {% if item.progress == "King" %}
-    King
-    {% elsif item.progress == "Queen" %}
-    Queen
-    {% elsif item.progress == "Both" %}
-    King & Queen
-    {% else %}
-    &nbsp;
-    {% endif %}
-  </td>
+  if ( userAgent.indexOf('MSIE') > 0 ) {
+    document.getElementById("internetexplorer").innerHTML = "<p>To give our users the functionality they need, we're unable to display the calendar in Internet Explorer. Please use another browser, or your phone. If you have feedback, please email <a href='mailto:webminister@drachenwald.sca.org'>webminister@drachenwald.sca.org</a>.</p>";
+  }
 
-  </tr>
-
-{% endfor %}
-
-</tbody>
-</table>
-
-
-<table>
-
-<caption><h3>Bid List</h3></caption>
-
-<tbody>
-
-<thead>
-<tr>
-<th scope="col"><strong><h3>Date</h3></strong></th>
-<th scope="col"><strong><h3>Region</h3></strong></th>
-<th scope="col"><strong><h3>Event</h3></strong></th>
-<th scope="col"><strong><h3>Bids Due</h3></strong></th>
-<th scope="col"><strong><h3>Bids</h3></strong></th>
-</tr>
-</thead>
-
-<tbody>
-
-{% assign lastaccepted = 1 %}
-
-{% for bid in site.data.events.bidlist %}
-
-  {% unless bid.due == "Accepted" %}
-    {% if lastaccepted == 1 %}
-      {% assign lastaccepted = 0 %}
-<tr>
-<td colspan="5">&nbsp;</td>
-</tr>
-
-    {% endif %}
-  {% endunless %}
-
-<tr>
-<td data-label="Date">{{ bid.date }}</td>
-<td data-label="Region">{{ bid.region }}</td>
-<td data-label="Event">{{ bid.event }}</td>
-<td data-label="Bids Due">{{ bid.due }}</td>
-<td data-label="Bids">{{ bid.bids}}</td>
-</tr>
-
-{% endfor %}
-
-</tbody>
-</table>
-
-
-
-<h3 style="display: none;"><strong>Future Dates</strong></h3>
-<table style="display: none;" border="0">
-<tbody>
-<tr>
-<td><strong>Date</strong></td>
-<td><strong>Group</strong></td>
-<td><strong>Event</strong></td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
+</script>
