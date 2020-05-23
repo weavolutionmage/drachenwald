@@ -136,37 +136,48 @@ The UC will seek out, take part of, evaluate and learn from a maximum of availab
 The purpose of the Kingdom University is to provide a maximum of the realm's inhabitants with an opportunity to improve their knowledge and skill in subjects related to the Current Middle Ages. Considering the geographical size of the Kingdom, it is impor tant to vary the location of main session, and encourage local sessions (collegia) of the Kingdom University to be held in locations distant from that of the main session.
 
 ### 4.2. The main session
-#### 4.2.1.
+**4.2.1.**
+
 The university will hold at least one main session a year, on the date stipulated in the Kingdom Law. The crown may, after consulting with the UC, declare main university sessions on other dates. This session will be one of the six Kingdom level events. An event bid of the main session should be sent to the University Chancellor, the Kingdom MoAS and to Their Royal Majesties and their successors by the end of July to make it possible to announce about the event at last two months beforehand at DT.
 
-#### 4.2.2.
+**4.2.2.**
+
 The group to host the main session will be chosen by the Crown on recommendation by the UC and after consultation with the Kingdom Seneschal and MoAS.
 
-#### 4.2.3.
+**4.2.3.**
+
 The UC will be in charge of the academic side of the event, such as the choice of classes, teacher recruitment, scheduling, and class registration. The hosting group will be in charge of the practical and social aspects (event registration, site, f ood, entertainment etc.). The hosting group will handle the event announcement after consultation with the UC. The UC may publish additional information concerning the contents of the session.
 
-#### 4.2.4.
+**4.2.4.**
+
 The main session contents should be as varied as possible, to include classes related to different aspects of the Current Middle Ages, classes geared to varying levels of skill, classes with a theoretical and practical focus.
 
-#### 4.2.5.
+**4.2.5.**
+
 All participants should be provided with a means to document their participation, i.e. a diploma containing a list of the classes one has taken part in, that they can have relevant teachers sign for confirmation.
 
 ### 4.3. Local sessions
-#### 4.3.1.
+**4.3.1.**
+
 A local university session may be held on the same weekend as main session if the proposed site is geographically distant from the site of the main session (at least 10 hours' travel by public transport other that air) and the UC approves the proposed contents of the session. A group wanting to host a local university session must submit its plan to the UC at least two weeks before the dead line of the- first newsletter in which they intend to publish the event announcement. It is recommended that the hosting group of the local university session donates 25 % of the net profit of the event to the Kingdom treasury.
 
-#### 4.3.2.
+**4.3.2.**
+
 A local session may issue Kingdom University diplomas as specified in 4.2.6.
 
 ### 4.4. The Kingdom University teachers
-#### 4.4.1.
+**4.4.1.**
+
 The UC will make every effort to ensure high quality of teaching at the various University sessions.
 
-#### 4.4.2.
+**4.4.2.**
+
 The UC will maintain a file of potential teachers.
 
-#### 4.4.3.
+**4.4.3.**
+
 The UC is in charge of recruiting teachers for the main session. To recruit teachers, the UC may consult the Kingdom MoAS and other officers, the Peerage orders, the Kingdom guilds, local guilds, local officers etc. If a group planing a local session request it, the UC will assist them in finding suitable teachers.
 
-#### 4.4.4.
+**4.4.4.**
+
 The UC will make an effort to evaluate the teacher's performance, either informally, by asking the participants in their classes, or formally to fill an evaluation. The evaluation will consider the teacher's knowledge of their subject, their abilit y to adapt to students with varying levels of knowledge, their attitude towards different theories and interpretations of their subject matter, their ability to organise class time etc.
