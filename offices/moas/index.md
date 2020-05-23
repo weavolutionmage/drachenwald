@@ -4,7 +4,7 @@ title: Minister for Arts and Sciences
 
 ### A&S Policies
 
-* [So you've volunteered to be your local group's Minister of Arts and Sciences (MoAS)]({{ site.baseurl }}{% link offices/moas/moas-handbook.md %}) ([PDF version]({{ site.baseurl }}{% link offices/moas/files/DWMoASHandbook.pdf %}))
+* [So you've volunteered to be your local group's Minister of Arts and Sciences (MoAS)]({{ site.baseurl }}{% link offices/moas/moas-handbook.md %}) (old [PDF version]({{ site.baseurl }}{% link offices/moas/files/DWMoASHandbook.pdf %}))
 * [Arts and Sciences policies for the Kingdom of Drachenwald]({{ site.baseurl }}{% link offices/moas/policies.md %})
 
 ### Arts and Science Competition
