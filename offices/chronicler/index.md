@@ -10,7 +10,7 @@ featurealt: thing
 
 # What a Chronicler does
 
-The Chronicler is responsible for all official Kingdom publications, in particular, the Kingdom Newsletter: the <em>Dragon's Tale</em>. [Learn more](
+The Chronicler is responsible for all official Kingdom publications, in particular, the Kingdom Newsletter: the <em>Dragon's Tale</em>. [Learn more]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %})
 
 ## Kingdom Newsletter
 
@@ -44,7 +44,7 @@ Local branches are encouraged to have a newsletter, though it is only <em>requir
 
 # Event Announcements
 
-For an event to be "official" for business like awards, and proclamation of laws, you must publish the event on the Kingdom Calendar and send an announcement to the _Dragon's Tale_.
+For an event to be "official" for business like awards, and proclamation of laws, you must publish the event on the Kingdom Calendar and send an announcement to the [_Dragon's Tale_]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}.
 
 <ul>
 <!-- <li><a href="/content/planning-and-scheduling-events">Planning and scheduling events</a> FIXME</li> -->
