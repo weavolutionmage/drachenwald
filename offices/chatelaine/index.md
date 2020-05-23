@@ -2,9 +2,9 @@
 title: Office of the Chatelaine
 subtitle: What do chatelaines do?
 ---
-<h3>What do chatelaines do?</h3>
+<h2>What do chatelaines do?</h2>
 <p>Drachenwald chatelaines are responsible for welcoming and assisting new members and for providing information for people interested in finding out about the SCA. Please read the chatelaine job description for more details.</p>
-<h3>Resources for chatelaines</h3>
+<h2>Resources for chatelaines</h2>
 <p>The kingdom chatelaine has created a handbook that can be read on-line</p>
 <ul>
 <li><a href="{{ site.baseurl }}{% link offices/chatelaine/display.md %}">How to do a Display </a></li>
@@ -20,8 +20,7 @@ subtitle: What do chatelaines do?
 <li><a href="{{ site.baseurl }}{% link offices/chatelaine/app2-orientation.md %}">Appendix 2: Outline for Orientation Meeting </a></li>
 </ul>
 <p>The Barony of Thescorre's <a href="http://www.thescorre.org/literature/adept/index.htm">Adept Handbook: Teaching Through Living History</a> is a useful manual on doing demos. Less demo-oriented, but good for resources for doing classes or repsentations is the <a href="http://groups.yahoo.com/group/SCAteach/">SCAteach mailing list</a>. You can also join the <a href="http://groups.yahoo.com/group/DrachenwaldChatelaines/">Chatelaine's email list</a></p>
-<p>.</p>
-<h3>Information about reporting</h3>
+<h2>Information about reporting</h2>
 <p>For information on reporting, please read the <a href="{{ site.baseurl }}{% link offices/chatelaine/reporting.md %}">reporting guidelines for chatelaines</a>.</p>
 
 {% include officer-contacts.html %}
