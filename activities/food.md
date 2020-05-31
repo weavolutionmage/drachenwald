@@ -1,6 +1,10 @@
 ---
 title: Food
 excerpt: From noble tables to our own
+header:
+  overlay_image: "https://live.staticflickr.com/4560/26886328189_c3d5d9e6a2_k_d.jpg"
+  caption: "Photo by [Jonas Evertsson](https://www.flickr.com/photos/lord_edricus/), CC BY-NC-ND"
+  show_overlay_excerpt: true
 ---
 
 The Society enjoys the bounty of people who love good food, and enjoy research, and experiment with recipes. One of the joys of the Society is sitting to feast with friends, with fine food, drink and good company.
