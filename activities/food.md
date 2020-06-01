@@ -23,7 +23,7 @@ Here's an example of a menu prepared for an event in May 2019 in Ireland, [which
 
 Novelty food - food that is pretending to be something else - was a feature of medieval fine dining. In a very modest example, beef meatballs are 'dressed' to look like hedgehogs, as they were depicted in medieval books. According to medieval bestiaries, hedgehogs carried grapes on their back to feed their young, and so a heraldic hedgehog is typically drawn or painted with grapes sticking to its spines.  
 
-<img src="{{ site.baseurl }}{% link images/food/hedgepigs-with-grapes.jpg %}" width="250" alt="Hedgepigs with grapes">{: style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+<img src="{{ site.baseurl }}{% link images/food/hedgepigs-with-grapes.jpg %}" width="250" alt="Hedgepigs with grapes">{: style="float: right; margin-right: 1em; margin-bottom: 0.5em;"}
 
 The recipe appears in [Pleyn Delit: Medieval cookery for modern cooks](https://www.amazon.co.uk/Pleyn-Delit-Medieval-Cookery-Modern/dp/0802076327), a very accessible book about medieval cooking, which draws on multiple sources.   
 
