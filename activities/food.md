@@ -19,7 +19,7 @@ Medieval diets were not all meat. Our feasts often accommodate people who do not
 
 Here's an example of a menu prepared for an event in May 2019 in Ireland, [which is gluten-free](https://duninmara.org/posts/2019/05/08/coronet-feast/). 
 
-<img src="{{ site.baseurl }}{% link images/food/pottage-lentils.jpg %}" width="200" alt="Dish of lentils">{: style="float: right; margin-top: 1em; margin-left: 1em"}*A lentil dish, presented at a potluck in the shire of Thamesreach.*  
+<img src="{{ site.baseurl }}{% link images/food/pottage-lentils.jpg %}" width="200" alt="Dish of lentils">{: style="float: left; margin-top: 1em; margin-left: 1em"}*A lentil dish, presented at a potluck in the shire of Thamesreach.*  
 
 Novelty food - food that is pretending to be something else - was a feature of medieval fine dining. In a very modest example, beef meatballs are 'dressed' to look like hedgehogs, as they were depicted in medieval books. According to medieval bestiaries, hedgehogs carried grapes on their back to feed their young, and so a heraldic hedgehog is typically drawn or painted with grapes sticking to its spines.  
 
