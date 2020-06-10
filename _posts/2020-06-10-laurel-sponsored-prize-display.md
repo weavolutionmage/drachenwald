@@ -12,5 +12,5 @@ As we are unfortunately unable to gather this summer, the Order of the Laurel wo
 
 https://forms.gle/KC15A2GEeZaFnQabA
 
-- The Drachenwald Laurels
+The Drachenwald Laurels
 
