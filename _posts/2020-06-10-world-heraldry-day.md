@@ -2,7 +2,7 @@
 title:  "World Heraldry Day"
 date:   2020-06-10 15:42:00 +0000
 category: news
-author: cecily
+author: "Memorantia van de Linde"
 tags: 
 excerpt: "Today is World Heraldry Day"
 ---
@@ -14,5 +14,5 @@ We have little knowledge of the very birth of heraldry, and it seems to have spr
 
 In light of this it seems very appropriate also from our historical point of view that the International Heraldry Day, held annually on June 10th, celebrates heraldry "in all its forms regardless of jurisdiction, geographic area, customs, favored styles and favored period". Within this surely fits our own SCA heraldry: all the wonderful ways we enjoy and display our devices and badges
 
-[Find a herald who can help you with SCA specific heraldry questions]{{ site.baseurl }}{% link offices/herald/index.md Drachenwals %}
-[Find out more how heraldry is used in the SCA]{{ site.baseurl }}{% link offices/herald/heraldryinthesca.md %}
+[Find a herald who can help you with SCA specific heraldry questions] {{ site.baseurl }}{% link offices/herald/index.md %}
+[Find out more how heraldry is used in the SCA] {{ site.baseurl }}{% link offices/herald/heraldryinthesca.md %}
