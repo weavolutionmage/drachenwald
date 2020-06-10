@@ -14,9 +14,9 @@ We have little knowledge of the very birth of heraldry, and it seems to have spr
 England, France, Germany, and the Iberian peninsula all had heraldry in 12th century if not earlier. 
 Formal textual describing of heraldic insignia (blazon) is known from 13th century, and so is the so called full achievement; 
 displaying heraldry with helm, crest and other enhancements. Although heralrdy is often associated with noble rank, burgher arms were known in most areas. They can be seen for example in
- [Codex Manesse]{% link https://www.ub.uni-heidelberg.de/Englisch/allg/benutzung/bereiche/handschriften/codexmanesse.html %} that dates to early 14th century.
+ [Codex Manesse] link https://www.ub.uni-heidelberg.de/Englisch/allg/benutzung/bereiche/handschriften/codexmanesse.html  that dates to early 14th century.
 
-In light of this it seems very appropriate also from our historical point of view that the International Heraldry Day, held annually on June 10th, celebrates heraldry "in all its forms regardless of jurisdiction, geographic area, customs, favored styles and favored period". Within this surely fits our own SCA heraldry: all the wonderful ways we enjoy and display our devices and badges
+In light of this it seems very appropriate also from our historical point of view that the International Heraldry Day, held annually on June 10th, celebrates heraldry "in all its forms regardless of jurisdiction, geographic area, customs, favored styles and favored period". Within this surely fits our own SCA heraldry: all the wonderful ways we enjoy and display our devices and badges.
 
 
 [Find a herald who can help you with SCA specific heraldry questions]({{ site.baseurl }}{% link offices/herald/index.md %})  
