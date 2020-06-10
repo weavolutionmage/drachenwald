@@ -10,7 +10,7 @@ Ordinarily, the summer events give Laurels and artisans several opportunities to
 
 As we are unfortunately unable to gather this summer, the Order of the Laurel would like to explore online ways to gather with the artisans of our Kingdom.  Could you please therefore fill out the below survey if you would be interested in joining an online Laurels' Prize Display, in whatever form(s) it may take.  Thank you very much, and we look forward to gathering with the artisans of the Kingdom!
 
-https://forms.gle/KC15A2GEeZaFnQabA
+[https://forms.gle/KC15A2GEeZaFnQabA](https://forms.gle/KC15A2GEeZaFnQabA)
 
 The Drachenwald Laurels
 
