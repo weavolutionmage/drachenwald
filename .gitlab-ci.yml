@@ -18,8 +18,8 @@ before_script:
   - bundle install --path vendor
   - curl -o _data/events/eventlist.csv $EVENTS_URL
   - curl -o _data/events/bidlist.csv https://docs.google.com/spreadsheets/d/$EVENTSHEET/gviz/tq?tqx=out:csv\&sheet=Bidlist
-  - curl -o _data/groups/grouplist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=groups
-  - curl -o _data/groups/officerlist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=officers
+  - curl -o _data/groups/grouplist.csv https://docs.google.com/spreadsheets/d/e/2PACX-1vTsE4JECxfuAeRCcmx5sou1i0KBSLIybLjmVB7-OlI0ZeUFA-5mhTGFy45eqDvnfIEqB7erHvLCc7JK/pub?gid=1480192316&single=true&output=csv
+  - curl -o _data/groups/officerlist.csv https://docs.google.com/spreadsheets/d/e/2PACX-1vTsE4JECxfuAeRCcmx5sou1i0KBSLIybLjmVB7-OlI0ZeUFA-5mhTGFy45eqDvnfIEqB7erHvLCc7JK/pub?gid=0&single=true&output=csv
   - curl -o _data/groups/peerlist.csv https://docs.google.com/spreadsheets/d/$GROUPSHEET/gviz/tq?tqx=out:csv\&sheet=peers
   - curl -o _data/academyofdefense.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3yc9oe_Qj4-QW5BhLilEBSi8hWbw8bB0AWbeJdD53fDBtpXfcKsD1imp8H8C9Gf5NiwunTa0V0sTO/pub?gid=0&single=true&output=csv" 
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
