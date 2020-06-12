@@ -6,7 +6,7 @@ title: Where we are
 <p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 
 {% for parent in parents %}
-  {% unless parent == "" or parent == "Drachenwald" %}
+  {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
     {% assign item = site.data.groups.grouplist | where: "group", parent | first %}
 <b>{{ parent }}</b> ({{ item.region }})<br>
   {% endunless %}
@@ -14,7 +14,7 @@ title: Where we are
 
 
 {% for parent in parents %}
-  {% unless parent == "" or parent == "Drachenwald" %}
+  {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
     {% assign item = site.data.groups.grouplist | where: "group", parent | first %}
     {% unless item == null %}
   
