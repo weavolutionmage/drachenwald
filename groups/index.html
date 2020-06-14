@@ -55,17 +55,17 @@ title: Where we are
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
       {% endif %}
       
-        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
-        {% unless subgroup.website == "" %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endunless %}
+        {% if subgroup.region %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endif %}
+        {% if subgroup.website %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endif %}
  
         {% assign seneschal = site.data.groups.officerlist | where: "group", subgroup.group | where: "office", "seneschal" | first %}
 
         {% if seneschal %}
-          {% unless seneschal.email == "" %}
+          {% if seneschal.email %}
   <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
-            {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
+            {% if seneschal.mundanename %}({{ seneschal.mundanename }}){% endif %}
   <br>
-          {% endunless %}
+          {% endif %}
         {% endif %}
       
     </section>
