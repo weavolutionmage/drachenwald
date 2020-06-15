@@ -32,7 +32,7 @@ You can configure the behaviour of the calendar by adding parameters to the `<di
 
 The parameters you may add are:
 
-- `region` Shows only events from this region. May be `region="aarnimetsä"`, `region="central"`, `region="id"`, `region="nordmark"`, or `region="southern"`.
+- `region` Shows only events from this region. May be `region="aarnimetsä"`, `region="central"`, `region="insulae draconis"`, `region="nordmark"`, or `region="southern"`.
 - `group` A list of group names, comma separated and in lower case. Shows only events from this set of groups. For example, `group="dun in mara,eplaheimr,glen rathlin,kingeslake"`
 - `count` Show only this number of events.
 - `legend="true"` Show the legend and the option to show/hide cancelled events.
