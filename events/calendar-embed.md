@@ -46,7 +46,7 @@ The parameters you may add are:
 - `progress` By default, the Royal Progress is shown for the King and Queen. Set to `progress="id"` to show the Progress of the Prince and Princess of Insulae Draconis instead. If you are a Principality or Baronial webminister and would like your Progress to be listed, please get in touch with the Kingdom webminister.
 - `lang` Sets the default language to use for the calendar; and if information for an event is provided in that language, it will be used in preference to the information in English.
 
-  At this time, the settings may be `lang="en"` or `lang="sv"`. Finnish and German are also being translated.
+  At this time, the language setting may be `lang="de"`, `lang="en"`, `lang="fi"` or `lang="sv"`.
 
 The script doesn't import any specific styling; it'll use whatever defaults you have set up for your own website. You can use CSS to style the buttons and the table if you wish, by defining certain classes:
 
