@@ -1,6 +1,6 @@
 ---
 title: Using the Drachenwald calendar
-excerpt: For event stewards and webministers
+excerpt: For event stewards, chroniclers and webministers
 ---
 
 What happens when you submit an event
@@ -46,6 +46,14 @@ The parameters you may add are:
 - `progress` By default, the Royal Progress is shown for the King and Queen. Set to `progress="id"` to show the Progress of the Prince and Princess of Insulae Draconis instead. If you are a Principality or Baronial webminister and would like your Progress to be listed, please get in touch with the Kingdom webminister.
 - `lang` Sets the default language to use for the calendar; and if information for an event is provided in that language, it will be used in preference to the information in English.
 
-  At this time, the settings may be `lang="en"` or `lang="sv"`.
+  At this time, the settings may be `lang="en"` or `lang="sv"`. Finnish and German are also being translated.
+
+The script doesn't import any specific styling; it'll use whatever defaults you have set up for your own website. You can use CSS to style the buttons and the table if you wish, by defining certain classes:
+
+- `btn` is set on all buttons
+- `btn--primary` is set on buttons which can be selected
+- `bin--inverse` is set on the currently selected button
+- The backgrounds of events on the calendar itself are specifically set to white or grey using inline styling
+- Cells in the calendar table have a `data-label` which may be used in responsive designs
 
 Please drop a note to the Kingdom webminister so that the web team knows you are using the calendar, and can support you with any changes.
