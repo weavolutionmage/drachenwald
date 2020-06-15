@@ -57,3 +57,14 @@ The script doesn't import any specific styling; it'll use whatever defaults you 
 - Cells in the calendar table have a `data-label` which may be used in responsive designs
 
 Please drop a note to the Kingdom webminister so that the web team knows you are using the calendar, and can support you with any changes.
+
+Thanks
+======
+
+The web artificers are very grateful to these people who contributed translations to the calendar code:
+
+- Agnes Odygd
+- Agnes des Illes
+- Alays de Lunel
+- Kerttu Katariinantytär Roisko
+- Lia de Thornegge
