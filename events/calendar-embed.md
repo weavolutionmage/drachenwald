@@ -8,7 +8,7 @@ What happens when you submit an event
 
 When you submit an event using the Google Form, it will appear on the Kingdom Calendar within a few minutes, with a note that it has not yet been approved as an official event by the Chronicler. 
 
-Within a day, you'll also receive an email with a link to edit your submission. Whenever you make changes, they'll be reflected on the calendar immediately, and the Kingdom Chronicler (as well as your regions Chronicler, for some regions) will be notified.
+Within a day, you'll also receive an email with a link to edit your submission. Whenever you make changes, they'll be reflected on the calendar immediately, and the Kingdom Chronicler (as well as your region's Chronicler, for some regions) will be notified.
 
 You don't have to fill in all of the details right away. If you have asked that your event be listed as an official event in the Dragon's Tale, then the email will let you know about any blank fields which will need to be filled in before the Chronicler can approve the event. The Chronicler might also contact you personally if they need further information on something.
 
@@ -52,7 +52,7 @@ The script doesn't import any specific styling; it'll use whatever defaults you 
 
 - `btn` is set on all buttons
 - `btn--primary` is set on buttons which can be selected
-- `bin--inverse` is set on the currently selected button
+- `btn--inverse` is set on the currently selected button
 - The backgrounds of events on the calendar itself are specifically set to white or grey using inline styling
 - Cells in the calendar table have a `data-label` which may be used in responsive designs
 
