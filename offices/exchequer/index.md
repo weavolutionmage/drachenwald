@@ -30,7 +30,7 @@ Request for Warrant: Please send the following information to your regional Exch
 
 - [How to Complete Quarterly Reports]({{ site.baseurl }}{% link offices/exchequer/files/completing-the-exchequers-report.doc %}) (current form)
 - [Basic Record Keeping For Shire Finances]({{ site.baseurl }}{% link offices/exchequer/files/basic-record-keeping-shire-finances-v2.pdf %}) (PDF)
-- [Event Finances]({{ site.baseurl }}{% link offices/exchequer/files/event-finances.pdf %}) (PDF)
+- [Event Finances]({{ site.baseurl }}{% link offices/exchequer/events-a-financial-view.md %}) 
 - [So You Want to Be an Exchequer]({{ site.baseurl }}{% link offices/exchequer/files/so-you-want-to-be-an-exchequer-v2.pdf %}) (PDF)
 - [How to complete Quarterly Reports]({{ site.baseurl }}{% link offices/exchequer/files/ExchequerInstructionsDeutsch.pdf %}) (German) - old style report (PDF)
 

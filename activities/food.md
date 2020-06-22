@@ -1,6 +1,10 @@
 ---
 title: Food
 excerpt: From noble tables to our own
+header:
+  overlay_image: "https://live.staticflickr.com/4560/26886328189_55705c1143_h.jpg"
+  caption: "Photo by [Jonas Evertsson](https://www.flickr.com/photos/lord_edricus/), CC BY-NC-ND"
+  show_overlay_excerpt: true
 ---
 
 The Society enjoys the bounty of people who love good food, and enjoy research, and experiment with recipes. One of the joys of the Society is sitting to feast with friends, with fine food, drink and good company.
@@ -15,11 +19,11 @@ Medieval diets were not all meat. Our feasts often accommodate people who do not
 
 Here's an example of a menu prepared for an event in May 2019 in Ireland, [which is gluten-free](https://duninmara.org/posts/2019/05/08/coronet-feast/). 
 
-<img src="{{ site.baseurl }}{% link images/food/pottage-lentils.jpg %}" width="200" alt="Dish of lentils">{: style="float: right; margin-top: 1em; margin-left: 1em"}*A lentil dish, presented at a potluck in the shire of Thamesreach.*  
+<img src="{{ site.baseurl }}{% link images/food/pottage-lentils.jpg %}" width="200" alt="Dish of lentils">{: style="float: left; margin-top: 1em; margin-left: 1em"}*A lentil dish, presented at a potluck in the shire of Thamesreach.*  
 
 Novelty food - food that is pretending to be something else - was a feature of medieval fine dining. In a very modest example, beef meatballs are 'dressed' to look like hedgehogs, as they were depicted in medieval books. According to medieval bestiaries, hedgehogs carried grapes on their back to feed their young, and so a heraldic hedgehog is typically drawn or painted with grapes sticking to its spines.  
 
-<img src="{{ site.baseurl }}{% link images/food/hedgepigs-with-grapes.jpg %}" width="250" alt="Hedgepigs with grapes">{: style="float: left; margin-right: 1em; margin-bottom: 0.5em;"}
+<img src="{{ site.baseurl }}{% link images/food/hedgepigs-with-grapes.jpg %}" width="250" alt="Hedgepigs with grapes">{: style="float: right; margin-right: 1em; margin-bottom: 0.5em;"}
 
 The recipe appears in [Pleyn Delit: Medieval cookery for modern cooks](https://www.amazon.co.uk/Pleyn-Delit-Medieval-Cookery-Modern/dp/0802076327), a very accessible book about medieval cooking, which draws on multiple sources.   
 

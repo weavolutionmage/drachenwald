@@ -107,3 +107,11 @@ Drachenwald:
 crown:
   name        : "King and Queen of Drachenwald"
   bio         : ""
+
+Memorantia:
+  name        : "Memorantia van de Linde"
+  bio         : ""
+  
+laurels:
+    name    : "Order of the Laurel"
+    bio     : "Drachenwalds peers recognised for their contributions in Arts and Sciences"

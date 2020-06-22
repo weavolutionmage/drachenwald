@@ -87,9 +87,6 @@ side-royals:
 - title: What We Do
   url: /activities/
 
-- title: Calendar
-  url: /events/calendar/
-
 - title: This Is Drachenwald
   url: /thisis/
 
@@ -121,9 +118,6 @@ side-offices:
 
 - title: What We Do
   url: /activities/
-
-- title: Calendar
-  url: /events/calendar/
 
 - title: This Is Drachenwald
   url: /thisis/
