@@ -1,5 +1,5 @@
 ---
-title:  "Diversity and Inclusiveness"
+title:  "Same sex sexuality in the middle ages"
 date:   2020-06-26 18:00:00 +0200
 category: news
 author: yda
