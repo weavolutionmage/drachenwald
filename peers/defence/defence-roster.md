@@ -3,200 +3,76 @@ title: Order of Defence
 excerpt: Roster of members
 ---
 
-## Roster by Seniority in the Order
+## Roster, in order of Elevation
 
-<table>
-<tr><td>
-Arenvald von Hagenburg
-<br>
- (Nordmark)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated as one of three Premiers on 2015/06/27
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
+Across the Society, many kingdoms appointed 3 people as co-premiers of the Order of Defence, and so it was in Drachenwald.
 
+### Arenvald von Hagenburg, Nordmark 
 
-<tr><td>
-Cernac the Inspired
-<br>
- (Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated as one of three Premiers on 2015/06/27
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
+Elevated as one of three Premiers on 2015/06/27   
 
-<tr><td>
-&AElig;ir&iacute;kr inn H&aacute;rfagri
-<br>
-(Nordmark)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated as one of three Premiers on 2015/06/27
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
 
-<tr><td>
-Fard&auml;ng Skvaldre
-<br>
- (Nordmark)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated on 2016/01/09
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
+### Cernac the Inspired, Insulae Draconis
 
-<tr><td>
-Alexandre Lerot d'Avignon
-<br>
-  (Flintheath, Insulae Draconis)
+Elevated as one of three Premiers on 2015/06/27  
 
-<div style="text-align:left">
-<ul>
-<li>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+### &AElig;ir&iacute;kr inn H&aacute;rfagri, Nordmark
+
+Elevated as one of three Premiers on 2015/06/27 
+
+ <img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+### Fard&auml;ng Skvaldre, Nordmark 
+
+Elevated on 2016/01/09 
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+### Alexandre Lerot d'Avignon Flintheath, Insulae Draconis
+
 Elevated on 2016/05/28
-</li>
-<li>
+
 <a href="http://www.aspiringluddite.com/">An Aspiring Luddite</a>
-</li>
-<li>
+
 Contact: at events or via information on the above-listed site.
-</li>
-</ul>
 
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/YuleCropped.jpg %}" width="200">
-</td>
-</tr>
+<img src="{{ site.baseurl }}{% link peers/defence/images/YuleCropped.jpg %}" width="200">{: .full}
 
-<tr><td>
-Etienne Fevre de Dion
-<br>
- (Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
+### Etienne Fevre de Dion, Insulae Draconis
+
 Elevated on 2016/06/04
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
 
-<tr><td>
-Anna von Urwald
-<br>
- (Aarnimets&auml;)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated on 2017/10/21
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/Anna01.jpg %}" width="200">
-</td>
-</tr>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
 
-<tr><td>
-Catlin le Mareschale
-<br>
- (Harpelstane, Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
+### Anna von Urwald, Aarnimets&auml;
+
+Elevated on 2017/10/21 
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/Anna01.jpg %}" width="200">  
+
+### Catlin le Mareschale, Harpelstane, Insulae Draconis
+
 Elevated on 2018/08/11
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
 
-<tr><td>
-P&oacute;l &Oacute; Briain
-<br>
- (Klakavirki, Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+### P&oacute;l &Oacute; Briain, Klakavirki, Insulae Draconis
+
 Elevated on 2018/12/08
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
-<tr><td>
-Gwenllian verch Andras
-<br>
- (Mynydd Gwyn, Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated on 2019/12/07
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-<tr><td>
-Esbiorn Jensson
-<br>
- (Harpelstane, Insulae Draconis)
-<div style="text-align:left">
-<ul>
-<li>
-Elevated on 2020/02/22
-</li>
-</ul>
-</div>
-</td>
-<td>
-<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200">
-</td>
-</tr>
-</table>
 
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+### Gwenllian verch Andras, Mynydd Gwyn, Insulae Draconis
+
+Elevated on 2019/12/07
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Esbiorn Jensson, Harpelstane, Insulae Draconis
+
+Elevated on 2020/02/22
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
