@@ -50,7 +50,7 @@ Elevated on 2016/06/04
 ### Anna von Urwald, Aarnimets&auml;
 
 Elevated on 2017/10/21 
-git 
+
 <img src="{{ site.baseurl }}{% link peers/defence/images/Anna01.jpg %}" width="200">  
 
 ### Catlin le Mareschale, Harpelstane, Insulae Draconis
