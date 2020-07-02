@@ -4,14 +4,29 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a Law Council to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown.
+# Introduction
 
-Your contribution is important to this process.
+In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a Law Council to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
-The Law council is currently asking your view on the following law proposals. We would appreciate your comments on this subject; no later than [date of commenting deadline]. Please use the web form at the end of this page when sharing your thoughts with us.
+Your contribution is important during this process especially in 2, 5, and 6:
+1. The Law Council creates a draft law proposal.
+2. The draft law proposal is published on the kingdom website for receiving feedback.
+3. The Law Council reviews the feedback and creates a (final) law proposal that is approved by the Seneschal.
+4. The law proposal is recommended to Crown who decides whether it warrants discussing at a future Curia. (If not, it will need to be reworked or abandoned).
+5. In preparation for Curia, the proposed law text is published in Dragon's Tale and, possibly with additional information, on the kingdom website, for receiving feedback.
+6. The law proposal is discussed in Curia.
+7. Crown rules on the law proposal (accept/refuse)
+8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed at an event.
 
-With thanks in advance for your service, 
-The Law Council
+When feedback on a particular proposal is frequested, please use the provided web form. At any time you can reach the Law Council at law@drachenwald.sca.org.
+
+# Please give feedback on the current draft law proposals
+
+**The Law Council is currently asking your view on the following draft law proposals.**
+
+**We would appreciate your comments on this subject; no later than [date of commenting deadline]. Please use the web form at the end of this page when sharing your thoughts with us.**
+
+**With thanks in advance for your service, The Law Council**
 
 # I Proposal to change Drachenwald law 7.02.2.1
 
@@ -272,6 +287,8 @@ In the proposed law text below, added text is marked with **bold** and removed t
 11.09.3 Only persons/groups residing/based outside the Kingdom of Drachenwald may receive this award.
 
 # Send in your comments
+
+The Law Council welcomes all feedback on the proposals. When giving feedback on any specific section, please mention its number.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZjZtBfoHL9HRR_X6XxIearYnr7-tjkW2gc1y-R0o7t_P_tg/viewform?embedded=true" width="640" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
