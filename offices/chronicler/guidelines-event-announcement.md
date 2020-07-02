@@ -5,7 +5,7 @@ toc: true
 toc_label: Contents
 ---
 
-Event announcements are the formal method of notifying the populace of events that are scheduled on the Kingdom Calendar. It also make the event "<a href="/content/making-your-event-official">official</a>" for the purpose of Kingdom business . If the event is not on the Kingdom Calendar then an event announcement is not needed (except maybe in your local newsletter).
+Event announcements are the formal method of notifying the populace of events that are scheduled on the Kingdom Calendar. It also [makes the event "official"]({{ site.baseurl }}{% link offices/chronicler/make-event-official.md %}) for the purpose of Kingdom business . If the event is not on the Kingdom Calendar then an event announcement is not needed (except maybe in your local newsletter).
 
 # Schedule Your Event
 
