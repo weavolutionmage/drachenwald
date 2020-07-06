@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 
 # Introduction
 
-In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a Law Council to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
+In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
 Your contribution is important during this process especially in items 2, 5, and 6 below:
 1. The Law Council creates a draft law proposal.
@@ -24,7 +24,7 @@ When feedback on a particular proposal is requested, please use the provided web
 
 **The Law Council is currently asking your view on the following draft law proposals.**
 
-**We would appreciate your comments on this subject; no later than [date of commenting deadline]. Please use the web form at the end of this page when sharing your thoughts with us.**
+**We would appreciate your comments on this subject; no later than on 21 July 2020. Please use the web form at the end of this page when sharing your thoughts with us.**
 
 **With thanks in advance for your service, The Law Council**
 
@@ -270,7 +270,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.07.1 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary behavior or service.
 
-11.07.2 The symbol **of** ~~for~~ this award will be a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
+11.07.2 The symbol **of** ~~for~~ this award **is** ~~will be~~ a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
 
 11.08 The Order of the Dragon's Pride
 
