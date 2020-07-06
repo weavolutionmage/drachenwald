@@ -1,62 +1,25 @@
 ---
 title: Kingdom Chronicler
-featureimg: images/foo/test.jpg
-featurealt: thing
+excerpt: Recording the kingdom's events for posterity
+toc: true
+toc_label: Contents
 ---
-<p>Here you will find information about the office of the Kingdom Chronicler and the Kingdom newsletter - the Dragon's Tale; how to write for the newsletter; how to use the Kingdom Calendar and write announcements; and guidelines for local chroniclers.</p>
 
-<p>Update 2016-05-27<br />There are new ways of reading <em>Dragon's Tale online</em>.</p>
 
-<p>Go to <a href="https://members.sca.org/apps/#Newsletters" target="_blank">https://members.sca.org/apps/#Newsletters</a> and log in with the same login information that you use to renew your membership.</p>
+# What a Chronicler does
 
-<p>If you are member of an affiliation (for example Nordmark or Aarnimetsä) and don't have an SCA inc membership number you should log in with the username "affiliate" (all lowercase) and password "affiliate" (also all lowercase). There is even an option to "remember me on this computer", so you don't have to enter in your login information each time! The nuances of logging in are on the left side of the screen, including methods for getting help.
+The kingdom Chronicler is responsible for all official kingdom publications.
 
-<p>Once you are logged in: at the top of the screen are the membership options. Click the button for newsletter access on the far right. This will open the directory of Kingdoms. Note that on the directory of Kingdoms, there is a folder marked Archives. This is where the older issues of the electronic newsletters are maintained. These files currently go back to March 2012 when we first introduced electronic newsletters.</p>
+The kingdom chronicler:
 
-<p>If you have any difficulties or questions, please email <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,39,62,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,60,47,97,62));</script>. Include your modern name, membership number, and a brief explanation of the problem you're experiencing.</p>
+* manages the [kingdom calendar (where you publish event announcements)]({{ site.baseurl }}{% link events/calendar.html %})
+* publishes the [kingdom newsletter, the <em>Dragon's Tale</em>.]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %})
+* encourages [local branches to keep newsletters](#local-chroniclers)
+* [reports quarterly to the Society Chronicler](#policies-and-reports), as part of the requirements for Society for Creative Anachronism Inc
 
-<h3><a name="about"></a>About the Kingdom Chronicler</h3>
+# Event Announcements
 
-<p>The Chronicler is responsible for all official Kingdom publications, in particular, the Kingdom Newsletter - the <em>Dragon's Tale</em>.</p>
-
-<h3><a name="newsletter"></a>Kingdom Newsletter</h3>
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}">The Dragon's Tale</a>
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}#dt">Submitting Material to the Dragon's Tale</a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}#ads">Advertising in the Dragon's Tale</a></li>
-</ul>
-</li>
-</ul>
-
-<h3><a name="policies"></a>Policies and Reports</h3>
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/chronicler-policies.md %}">Kingdom Chronicler Policies</a> </li>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/report-template.md %}">Template for Quarterly Reports</a></li>
-</ul>
-
-<h3><a name="local"></a>Local Chroniclers</h3>
-
-<p>Local branches are encouraged to have a newsletter, though it is only <em>required</em>for Baronies and above.</p>
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %}">Guidelines for Local Chroniclers</a></li>
-<li><a href="https://www.sca.org/chronicler/">William Blackfox Awards</a><br />The William Blackfox awards are given each year to recognise excellence in local newsletters and their contributors. Each year, the Kingdom Chronicler nominates local newsletters, articles and artwork produced within the Kingdom for the various awards, so make sure you always send a copy (as required by policy). For more details on the awards, follow the link above.</li>
-</ul>
-
-<h3>Release Forms</h3>
-
-<p>Release forms are needed for original articles and artwork, and from persons appearing on photographs. Please see the Release Forms page for further details</p>
-
-<ul>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/release-forms.md %}">Release Forms</a></li>
-</ul>
-
-<h3><a name="calendar"></a>Event Announcements</h3>
-
-<p>In order for an event to be "official for business", i.e. for things like awards, proclamation of laws etc to take place, the event must be properly scheduled on the Kingdom Calendar and an event published in the Dragon's Tale.</p>
+For an event to be "official" for business like awards, and proclamation of laws, you must publish the event on the Kingdom Calendar and send an announcement to the [_Dragon's Tale_]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}).
 
 <ul>
 <!-- <li><a href="/content/planning-and-scheduling-events">Planning and scheduling events</a> FIXME</li> -->
@@ -64,5 +27,37 @@ featurealt: thing
 <li><a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-event-announcement.md %}">Event announcement guidelines</a></li>
 <li><a href="{{ site.baseurl }}{% link offices/chronicler/make-event-official.md %}">Make sure your event is official</a></li>
 </ul>
+
+# Kingdom Newsletter
+
+SCA Inc and SCA affiliate members: read _Dragon's Tale_, and every other kingdom's newsletter, online! 
+
+Visit [SCA membership portal](https://members.sca.org/apps/#SignIn) and log in with the same login information that you use to renew your membership.
+
+Affiliate members: From the membership portal, log in with the username "affiliate" and password "affiliate", all lowercase. Look for Drachenwald's newsletter.
+
+If you have any difficulties or questions, please email <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,39,62,109,101,109,98,101,114,115,104,105,112,64,115,99,97,46,111,114,103,60,47,97,62));</script>. Include your modern name, membership number, and a brief explanation of the problem you're experiencing.
+
+## Release Forms
+
+[Release forms]({{ site.baseurl }}{% link offices/chronicler/release-forms.md %}) are required for the chronicler to publish original articles and artwork, and from persons appearing on photographs.
+
+# Local Chroniclers
+
+Local branches are encouraged to have a newsletter, though it is only <em>required</em>for Baronies and above.
+
+
+* <a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %}">Guidelines for local chroniclers</a>
+* <a href="https://www.sca.org/chronicler/">William Blackfox Awards</a><br />The William Blackfox awards are given each year to recognise excellence in local newsletters and their contributors. Each year, the kingdom chronicler nominates local newsletters, articles and artwork produced within the kingdom for the various awards.
+
+# Policies and Reports
+
+* <a href="{{ site.baseurl }}{% link offices/chronicler/chronicler-policies.md %}">Kingdom chronicler policies</a> 
+* <a href="{{ site.baseurl }}{% link offices/chronicler/report-template.md %}">Template for quarterly reports</a>
+
+
+
+
+
 
 {% include officer-contacts.html %}

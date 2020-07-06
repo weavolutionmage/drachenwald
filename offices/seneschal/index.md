@@ -1,5 +1,7 @@
 ---
 title: Office of the Seneschal
+toc: true
+toc_label: "Table of Contents"
 ---
 
 Welcome! In this page you should find everything you need to help in the smooth administration of groups within Drachenwald. Here you will find our Great Book of Laws, warrants, policies and the forms which must be completed for Shire Quarterly reports.
@@ -41,6 +43,6 @@ Suggested changes or updates to Drachenwald Law may also be sent to <script type
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)
 * [Participate in Crown Tourney]({{ site.baseurl }}{% link offices/seneschal/participate-in-crown-tourney.md %})
 * [Online events policy]({{ site.baseurl}}{% link offices/seneschal/files/covid19-online.pdf %}) (PDF)
-
+* [Diversity, Equity and Inclusion council, and code of conduct]({{ site.baseurl}}{% link offices/seneschal/diversity-equity-inclusion-council.md %}) (page, and Googledoc link)
 
 {% include officer-contacts.html %}

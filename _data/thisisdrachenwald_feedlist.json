@@ -32,7 +32,7 @@
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0GeuIgYXkIQ9Mg3BQzC4_w", "name": "[The] Dawn Company's YouTube channel", "link": "https://www.youtube.com/channel/UC0GeuIgYXkIQ9Mg3BQzC4_w", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqGx_aUUEfBuwIodRPbKWfA", "name": "Wolfram von Falkenstein and Alessandra di Riario's Youtube Channel", "link": "https://www.youtube.com/channel/UCqGx_aUUEfBuwIodRPbKWfA", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0mw96X7VNgbfpb6jEtsxg", "name": "Agnes Edgren's Youtube Channel", "link": "https://www.youtube.com/channel/UCy0mw96X7VNgbfpb6jEtsxg", "merge": false, "showMedia": true, "type": "youtube"},
-{"url": "https://iddecameron.blogspot.com/feeds/posts/default", "name":"The Insulae Draconis Decameron", "link":"https://iddecameron.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
+{"url": "https://dracameron.blogspot.com/feeds/posts/default", "name":"The Drachenwald Decameron", "link":"https://dracameron.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "name": "Alexandre Davinge's Youtube Channel", "link": "https://www.youtube.com/playlist?list=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://knotsinanet.wordpress.com/feed/", "name":"Knots in a net – Solmuja verkossa", "link":"https://knotsinanet.wordpress.com","merge": false,"showMedia":  true, "type": "blog"}
 
