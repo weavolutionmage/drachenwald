@@ -17,9 +17,6 @@ main:
 
 - title: Find A Group
   url: /groups/
-  
-- title: Diversity
-  url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: "&#x1F50D;"
   url: /search/
@@ -45,7 +42,7 @@ side:
 - title: Offices & Orders
   url: /offices/
 
-- title: Diversity
+- title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search
@@ -85,7 +82,7 @@ side-whatwedo:
 - title: Offices & Orders
   url: /offices/
 
-- title: Diversity
+- title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search
@@ -120,7 +117,7 @@ side-royals:
 - title: Offices & Orders
   url: /offices/
 
-- title: Diversity
+- title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search
@@ -187,7 +184,7 @@ side-offices:
     - title: Academy of Defense
       url: /chartergroups/academy-of-defence/
 
-- title: Diversity
+- title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search

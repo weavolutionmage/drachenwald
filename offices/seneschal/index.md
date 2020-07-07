@@ -10,16 +10,17 @@ The Seneschal office helps Drachenwald groups manage their activities.  You'll f
 
 ## Law Council
 This council works with the Kingdom Seneschal's office and the Crown to assist with making Kingdom Law changes.  Council members may be contacted by using the law@drachenwald.sca.org email address.  
-More information about the Law Council and current Law Council work is found on the [Law Council page] (({{ site.baseurl }}{% link offices/seneschal/law-council.md %})).  
+More information about the Law Council and current Law Council work is found on the [Law Council page]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}).  
 
 ## Diversity, Equity, and Inclusion (DEI) Council
-This council helps maintain Drachenwald's Code of Conduct policy and acts as a resource within Drachenwald for education about DEI matters.  Council members may be contacted by using the dei@drachenwald.sca.org email address.  See the [DEI Council] ({{ site.baseurl}}{% link offices/seneschal/diversity-equity-inclusion-council.md %}) page for more information. 
+This council helps maintain Drachenwald's Code of Conduct policy and acts as a resource within Drachenwald for education about DEI matters.  Council members may be contacted by using the dei@drachenwald.sca.org email address.  See the [DEI Council]({{ site.baseurl}}{% link offices/seneschal/diversity-equity-inclusion-council.md %}) page for more information. 
 
 ## Resource Documents and Information
-SCA Inc Corpora Law <Link to SCA page>
+
+* [SCA Inc Corpora Law](https://www.sca.org/wp-content/uploads/2019/12/govdocs.pdf)
 * [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/2020JanuaryDrachenwaldLaw.pdf %}) (PDF)
-* [SCA Inc Seneschal Policies] (https://www.sca.org/resources/document-library/)
-* [Information on how to be a Seneschal in Drachenwald] ({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
+* [SCA Inc Seneschal Policies](https://www.sca.org/resources/document-library/)
+* [Information on how to be a Seneschal in Drachenwald]({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)
 * [Online events policy]({{ site.baseurl}}{% link offices/seneschal/files/covid19-online.pdf %}) (PDF)
 
