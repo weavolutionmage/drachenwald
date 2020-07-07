@@ -28,6 +28,10 @@ The Law Council is currently asking your view on the following draft law proposa
 
 With thanks in advance for your service, The Law Council
 
+## Law Proposal Q&A
+
+[You can meet the Law Council online on Monday 13 July](https://drachenwald.sca.org/events/calendar/#/drachenwald/2020-07-13/drachenwald-law-council-q-a). Please drop by with your questions on these draft law proposals.
+
 # 1 Proposal to change Drachenwald law 7.02.2.1
 
 ## Reasoning
