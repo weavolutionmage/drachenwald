@@ -1,5 +1,5 @@
 ---
-title: Kingdom code of conduct 
+title: Diversity, Equity and Inclusion Council
 excerpt: Diversity, Equity and Inclusion Council, on behalf of the kingdom seneschal's office
 
 ---
