@@ -57,13 +57,10 @@ The council members operate independent of their SCA personae, ranks, titles, or
 ## Current DEI council:
 
 André Corterier, Germany (Lord Walter von Are, Barony of Knights Crossing)
-
-André has been involved in the SCA for 20 years. He is happy to be part of a diverse society and conscious that keeping it welcoming to everybody takes care. As one of his roles in mundane life, he is a Diversity & Inclusion Ambassador. Walter is squire to Duke Lief Wolfsonne.
+: André has been involved in the SCA for 20 years. He is happy to be part of a diverse society and conscious that keeping it welcoming to everybody takes care. As one of his roles in mundane life, he is a Diversity & Inclusion Ambassador. Walter is squire to Duke Lief Wolfsonne.
 
 Linda Holmberg, Sweden (Lady Aeirin av Varoijve, Principality of Nordmark)
-
-Linda is passionate about helping our society grow and to assist in making it a safe space. The SCA and Drachenwald has always been a place where she has felt safe and accepted for who she is. It is her dream that everyone can feel that way. Linda studies social work and is a certified sex coach. Aeirin is squire to Sir Æiríkr inn Hárfagri.  
+: Linda is passionate about helping our society grow and to assist in making it a safe space. The SCA and Drachenwald has always been a place where she has felt safe and accepted for who she is. It is her dream that everyone can feel that way. Linda studies social work and is a certified sex coach. Aeirin is squire to Sir Æiríkr inn Hárfagri.  
 
 Mika Mäkelä, Finland (Baron Gilbert Blakthorn, Barony of Aarnimetsä)
-
-Mika’s family is multicultural and multilingual, with everyone involved with the Dream. He has found SCA to be a fairly safe place but he is aware it's not the same for everybody. Drachenwald is in itself multicultural which he looks forward to expanding and helping to make safe for anyone who wants to be part of it.
+: Mika’s family is multicultural and multilingual, with everyone involved with the Dream. He has found SCA to be a fairly safe place but he is aware it's not the same for everybody. Drachenwald is in itself multicultural which he looks forward to expanding and helping to make safe for anyone who wants to be part of it.
