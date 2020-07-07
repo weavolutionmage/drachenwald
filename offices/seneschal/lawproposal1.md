@@ -20,7 +20,7 @@ Your contribution is important during this process especially in items 2, 5, and
 
 When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
-# Please give feedback on the current draft law proposals
+# Please give feedback on the current draft law proposals by 21 July
 
 The Law Council is currently asking your view on the following draft law proposals.
 
@@ -28,9 +28,9 @@ The Law Council is currently asking your view on the following draft law proposa
 
 With thanks in advance for your service, The Law Council
 
-## Law Proposal Q&A
+## Law Proposal Q&A on 13 July
 
-[You can meet the Law Council online on Monday 13 July](https://drachenwald.sca.org/events/calendar/#/drachenwald/2020-07-13/drachenwald-law-council-q-a). Please drop by with your questions on these draft law proposals.
+**You can meet the Law Council online on Monday 13 July. [Please drop by](https://drachenwald.sca.org/events/calendar/#/drachenwald/2020-07-13/drachenwald-law-council-q-a) with your questions on these draft law proposals.**
 
 # 1 Proposal to change Drachenwald law 7.02.2.1
 
@@ -116,7 +116,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.02.1.2** Presented to those people who have distinguished themselves by long and extraordinary services to the Kingdom.
 
-**10.02.1.3** The **symbol** ~~badge~~ of **this order** ~~the Order~~ is (Fieldless) **a** ~~A~~ ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules.
+**10.02.1.3** The **symbol** ~~badge~~ of **this order** ~~the Order~~ is (Fieldless) **a ring** ~~A ring~~ formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules.
 
 **10.02.1.4** Members of this **order** ~~Order~~ shall rank equally with members of the Order of the Panache and the Order of the Silver Guard.
 
