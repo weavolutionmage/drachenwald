@@ -6,29 +6,29 @@ toc_label: "Table of Contents"
 
 # Introduction
 
-In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a Law Council to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
+In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
-Your contribution is important during this process especially in 2, 5, and 6:
+Your contribution is important during this process especially in items 2, 5, and 6 below:
 1. The Law Council creates a draft law proposal.
 2. The draft law proposal is published on the kingdom website for receiving feedback.
 3. The Law Council reviews the feedback and creates a (final) law proposal that is approved by the Seneschal.
 4. The law proposal is recommended to Crown who decides whether it warrants discussing at a future Curia. (If not, it will need to be reworked or abandoned).
 5. In preparation for Curia, the proposed law text is published in Dragon's Tale and, possibly with additional information, on the kingdom website, for receiving feedback.
 6. The law proposal is discussed in Curia.
-7. Crown rules on the law proposal (accept/refuse)
+7. Crown decides on the law proposal (accept/refuse).
 8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed at an event.
 
-When feedback on a particular proposal is frequested, please use the provided web form. At any time you can reach the Law Council at law@drachenwald.sca.org.
+When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at law@drachenwald.sca.org.
 
 # Please give feedback on the current draft law proposals
 
 **The Law Council is currently asking your view on the following draft law proposals.**
 
-**We would appreciate your comments on this subject; no later than [date of commenting deadline]. Please use the web form at the end of this page when sharing your thoughts with us.**
+**We would appreciate your comments on this subject; no later than on 21 July 2020. Please use the web form at the end of this page when sharing your thoughts with us.**
 
 **With thanks in advance for your service, The Law Council**
 
-# I Proposal to change Drachenwald law 7.02.2.1
+# 1 Proposal to change Drachenwald law 7.02.2.1
 
 ## Reasoning
 
@@ -50,7 +50,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 7.02.2.1 Each competitor in the Crown Tournament must be fighting for a prospective consort ~~of the opposite sex unless the Crown has elected to permit a competitor to fight for a prospective consort of the same sex~~. The competitor and prospective **consort** ~~Consort~~ are referred to as "Participants" in these laws.
 
-# II Proposal to change Drachenwald law 9-11
+# 2 Proposal to change Drachenwald law 9-11
 
 ## Reasoning
 
@@ -270,7 +270,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.07.1 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary behavior or service.
 
-11.07.2 The symbol **of** ~~for~~ this award will be a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
+11.07.2 The symbol **of** ~~for~~ this award **is** ~~will be~~ a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
 
 11.08 The Order of the Dragon's Pride
 
