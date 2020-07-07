@@ -53,7 +53,7 @@ Members should meet the following criteria:
 The council members operate independent of their SCA personae, ranks, titles, or other offices. However, if a council member’s partner, child, sibling, parent, SCA dependant, or SCA mentor/Peer has a formal complaint made against them, that council member should declare that relationship and not participate in any advice or investigation relating to that case.  
 
 ## Documnents
-* [Drachenwald Code of Conduct ]({{ site.baseurl }}{% link offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf %}) (PDF)
+* [Drachenwald Code of Conduct ](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view) (Google Docs)
 
 
 ## Current DEI council:
