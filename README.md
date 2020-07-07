@@ -252,4 +252,10 @@ In Git Bash: look at the branch name. Check and see where your work is and move 
 
 <https://jekyllrb.com/tutorials/convert-site-to-jekyll/>
 
+Jekyll theme for kingdom website
+
+<https://mmistakes.github.io/minimal-mistakes/> 
+
+Setting up images in this theme
+<https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/>
 
