@@ -1,14 +1,15 @@
 ---
 title: Diversity, Equity and Inclusion Council
 excerpt: Diversity, Equity and Inclusion Council, on behalf of the kingdom seneschal's office
-
+toc: true
+toc_label: "Table of Contents"
 ---
 
 This council will work with the Kingdom Seneschal office to encourage and promote diversity, equity and inclusion in the Kingdom, offer training and raise awareness, and advise as required in cases of complaint relating to a breach of the Code of Conduct. 
 
 The council can be contacted at dei@drachenwald.sca.org. All and any contacts must be made at that email address, and not using the council members’ personal email addresses or their personal social media accounts.
 
-Purpose:
+## Purpose
 The Drachenwald Diversity, Equity & Inclusion Council is in place to 
 * Increase awareness of matters relevant to the council by way of training individuals and groups
 * Promote initiatives that come under the Council’s remit
@@ -16,6 +17,7 @@ The Drachenwald Diversity, Equity & Inclusion Council is in place to
 * Support the Kingdom Seneschal and Their Majesties in solving disputes relating to the council’s remit by providing advice and policy information
 * Provide advice and information to individuals and group on matters relating to the council’s remit
 
+##Function
 The council’s main functions are:
 * Offer advice and training as a group regarding policies and procedures
 * Listen or otherwise gather information without prejudice
@@ -51,7 +53,7 @@ Members should meet the following criteria:
 The council members operate independent of their SCA personae, ranks, titles, or other offices. However, if a council member’s partner, child, sibling, parent, SCA dependant, or SCA mentor/Peer has a formal complaint made against them, that council member should declare that relationship and not participate in any advice or investigation relating to that case.  
 
 ## Documnents
-* [Drachenwald Code of Conduct ]({{ site.baseurl }}{% link offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf %}) (PDF)
+* [Drachenwald Code of Conduct ](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view) (Google Docs)
 
 
 ## Current DEI council:
