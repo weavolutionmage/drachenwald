@@ -10,6 +10,7 @@ This council will work with the Kingdom Seneschal office to encourage and promot
 The council can be contacted at dei@drachenwald.sca.org. All and any contacts must be made at that email address, and not using the council members’ personal email addresses or their personal social media accounts.
 
 ## Purpose
+
 The Drachenwald Diversity, Equity & Inclusion Council is in place to 
 * Increase awareness of matters relevant to the council by way of training individuals and groups
 * Promote initiatives that come under the Council’s remit
@@ -17,7 +18,8 @@ The Drachenwald Diversity, Equity & Inclusion Council is in place to
 * Support the Kingdom Seneschal and Their Majesties in solving disputes relating to the council’s remit by providing advice and policy information
 * Provide advice and information to individuals and group on matters relating to the council’s remit
 
-##Function
+## Function
+
 The council’s main functions are:
 * Offer advice and training as a group regarding policies and procedures
 * Listen or otherwise gather information without prejudice
@@ -39,6 +41,7 @@ The council will not:
 
 
 ## Membership
+
 There will be three members in the council. Each will sit for 2 years. However, in order to ensure informed handover, the first three council members will not sit for the entire period. Respectively, the first three council members will sit 1 year, 1.5 years and 2 years. In preference, the council members should not all come from the same region. 
 
 The first council members started their term at Midsummer 2020. 
@@ -52,11 +55,11 @@ Members should meet the following criteria:
 
 The council members operate independent of their SCA personae, ranks, titles, or other offices. However, if a council member’s partner, child, sibling, parent, SCA dependant, or SCA mentor/Peer has a formal complaint made against them, that council member should declare that relationship and not participate in any advice or investigation relating to that case.  
 
-## Documnents
-* [Drachenwald Code of Conduct ](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view) (Google Docs)
+## Documents
+* [Drachenwald Code of Conduct](https://docs.google.com/document/d/1bDwTQhcttGmnhjwplWDm9IiuBM4XHFofDnR1gUf6MU0/view) (Google Docs)
 
 
-## Current DEI council:
+## Current DEI council
 
 André Corterier, Germany (Lord Walter von Are, Barony of Knights Crossing)
 : André has been involved in the SCA for 20 years. He is happy to be part of a diverse society and conscious that keeping it welcoming to everybody takes care. As one of his roles in mundane life, he is a Diversity & Inclusion Ambassador. Walter is squire to Duke Lief Wolfsonne.
