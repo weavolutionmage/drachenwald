@@ -3,27 +3,6 @@ title: Drachenwald Code of Conduct
 toc: true
 toc_label: "Table of Contents"
 ---
-# Drachenwald Code of Conduct summary 
-
-
-In pursuing its mission, the Society for Creative Anachronism is committed to excellence in its   programs, communications and activities and to    
-
-act in accordance with the chivalric virtues of honor and service
-value and respect the worth and dignity of all individuals
-practice inclusiveness and respect pluralism and diversity
-promote a safe and respectful environment for all SCA events
-act with transparency, fairness, integrity and honesty
-be a responsible steward of SCA resources; and, 
-be committed to maintaining the trust of its members and participants. 
-
-It is the expectation of the SCA that its members and participants, in all events and activities of   the SCA, will conduct themselves in accordance with these tenets.  
-
-The SCA prohibits bullying and harassment of all individuals and groups. Bullying is systematic   and unwelcome behavior which involves the use of influence, threat, intimidation, or coercion to cause hurt or harm to another person or group of people. Further, the SCA prohibits all forms of sexual misconduct including, but not limited to, sexual assault, sexual harassment, stalking, and sexual violence. 
-
-If you feel that you have been subjected to harassment, bullying or any other breach of the Code of Conduct, or you have been witness to someone breaking the Code of Conduct in any way, and if you are unable to engage with that person for any reason, please contact the following person:
-
-[NAME AND POSITION OF DESIGNATED PERSON AT THE EVENT]
-
 
 # Kingdom of Drachenwald: Code of Conduct, Anti-bullying & Harassment Policy, and Complaints Process
 
@@ -228,7 +207,9 @@ In case of an affiliate group, the SCA Sanction policy still applies, but if the
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should contact the relevant Drachenwald or SCA Inc authority with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. Possibilities for appeal of sanctions are shown in the table above.  
 
 
+## Code of Conduct Summary:
 
+[Drachenwald Code of Conduct Summary (to be displayed at events)]({{ site.baseurl}}{% link offices/seneschal/files/drachenwald-code-of-conduct-summary.pdf %}) (PDF)
 
 ## References:
 
