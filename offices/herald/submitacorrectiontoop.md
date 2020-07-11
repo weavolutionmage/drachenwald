@@ -10,7 +10,7 @@ __Too long; didn't read:__  Heralds keep track of the awards that the royals giv
 
 The Crown decides who to recognise based on recommendations from the people of Drachenwald. You can email their Majesties, or [send a recommendation via a form online](http://op.drachenwald.sca.org/recommend).
 
-Drachenwald's [Posthorn Herald](mailto:posthorn@drachenwald.sca.org) is responsible for keeping the order of precedence up to date.
+Drachenwald's [Posthorn Herald](mailto:posthorn@drachenwald.sca.org) (posthorn@drachenwald.sca.org) is responsible for keeping the order of precedence up to date.
 
 ## Submit a correction
 
