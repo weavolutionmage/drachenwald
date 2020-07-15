@@ -255,6 +255,11 @@ defaults:
       officer: "signet"
   -
     scope:
+      path: "offices/webminister"
+    values:
+      officer: "webminister"
+  -
+    scope:
       path: ""
       type: "posts"
     values:
