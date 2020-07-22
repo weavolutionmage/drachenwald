@@ -20,19 +20,13 @@ Your contribution is important during this process especially in items 2, 5, and
 
 When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
-# Please give feedback on the current draft law proposals by 21 July
+# Giving feedback on the draft law proposals
 
-The Law Council is currently asking your view on the following draft law proposals.
+The period for commenting on the following draft law proposals was 7-21 July 2020. Thank you for all the feedback we received!
 
-**We would appreciate your comments on this subject; no later than on Tuesday 21 July 2020. Please use the web form at the end of this page when sharing your thoughts with us.**
+You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
-With thanks in advance for your service, The Law Council
-
-## Law Proposal Q&A on 13 July
-
-**You can meet the Law Council online on Monday 13 July. [Please drop by](https://drachenwald.sca.org/events/calendar/#/drachenwald/2020-07-13/drachenwald-law-council-q-a) with your questions on these draft law proposals.**
-
-# 1 Proposal to change Drachenwald law 7.02.2.1
+# 1 Proposal to change Drachenwald law 7.02.2.1 (July 7 draft)
 
 ## Reasoning
 
@@ -54,7 +48,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 7.02.2.1 Each competitor in the Crown Tournament must be fighting for a prospective consort ~~of the opposite sex unless the Crown has elected to permit a competitor to fight for a prospective consort of the same sex~~. The competitor and prospective **consort** ~~Consort~~ are referred to as "Participants" in these laws.
 
-# 2 Proposal to change Drachenwald law 9-11
+# 2 Proposal to change Drachenwald law 9-11 (July 7 draft)
 
 ## Reasoning
 
@@ -291,11 +285,3 @@ In the proposed law text below, added text is marked with **bold** and removed t
 11.09.2 The symbol of this award is (Fieldless) **on** ~~On~~ a dragon passant coward sable a wake knot argent.
 
 11.09.3 Only persons/groups residing/based outside the Kingdom of Drachenwald may receive this award.
-
-# Send in your comments
-
-The Law Council welcomes all feedback on the proposals. When giving feedback on any specific section, please mention its number.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZjZtBfoHL9HRR_X6XxIearYnr7-tjkW2gc1y-R0o7t_P_tg/viewform?embedded=true" width="640" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Your comments on the law proposals
