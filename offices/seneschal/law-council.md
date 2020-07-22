@@ -10,12 +10,7 @@ You can always reach the Law Council at <script type="text/javascript">document.
 
 # Proposals open for feedback
 
-* Please use the web form at the end of the proposal page when sharing your thoughts with us.
-* When giving feedback on a specific section of the law, please mention its number.
-
-The Law Council is currently asking your view on [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %}):
-1. Proposal to change Drachenwald law 7.02.2.1 (Crown Tournament participation)
-2. Proposal to change Drachenwald law 9-11 (Kingdom awards)
+None at this time.
 
 # Purpose of the Law Council
 
@@ -61,4 +56,6 @@ The current members of the Law Council are:
 
 # Past proposals
 
-None for now.
+The Law Council has previously requested feedback on the the following proposals:
+1. [Draft proposal to change Drachenwald law 7.02.2.1]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %}) (Crown Tournament participation), 7 July 2020
+2. [Draft proposal to change Drachenwald law 9-11]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %}) (Kingdom awards), 7 July 2020
