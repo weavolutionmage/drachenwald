@@ -6,7 +6,12 @@ toc_label: "Table of Contents"
 
 Welcome! 
 
-The Seneschal office helps Drachenwald groups manage their activities.  You'll find resources for this further down on the page.  The Kingdom Seneschal also has responsibilities that range from upholding SCA and Kingdom laws, creating policies based on laws and assisting the Crown with Kingdom event administration, including Crown Tourneys. Below you'll find links to some key information across all these areas and contact information for the Kingdom and Regional Seneschals who help carry out Kingdom Seneschal work.  
+The Seneschal office helps Drachenwald groups manage their activities.  You'll find resources for this further down on the page.  The Kingdom Seneschal also has responsibilities that range from upholding SCA and Kingdom laws, creating policies based on laws and assisting the Crown with Kingdom event administration, including Crown Tourneys. Below you'll find links to some key information across all these areas and contact information for the Kingdom and Regional Seneschals who help carry out Kingdom Seneschal work.
+
+<p class="notice--primary">
+<b>Running in-person events</b><br />
+If you are planning to run an in-person event at this time, please see <a href="{% link offices/seneschal/files/covid-event-guidelines.pdf %}">Drachenwald Event Guidelines in a post COVID–19 World</a>.
+</p>
 
 ## Law Council
 This council works with the Kingdom Seneschal's office and the Crown to assist with making Kingdom Law changes.  Council members may be contacted by using the law@drachenwald.sca.org email address.  
