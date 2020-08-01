@@ -2,7 +2,7 @@
 title:  "Drachenwald Events and COVID-19"
 date:   2020-08-01 14:30:00 +0200
 category: news
-tags: covid events
+tags: covid19 events
 author: drachenwald
 excerpt:  "SCA Board In-Person Event Resolution and Drachenwald in a Post Covid-19 World"
 ---
