@@ -10,7 +10,7 @@ You can always reach the Law Council at <script type="text/javascript">document.
 
 # Proposals open for feedback
 
-None at this time.
+The Law Council is currently asking your views on [the law 7.02.2.8.2 (Event requirements for participating in Crown Tournament)]({{ site.baseurl }}{% link offices/seneschal/lawproposal2.md %}). Please use the web form at the end of the page when sharing your thoughts with us.
 
 # Purpose of the Law Council
 
