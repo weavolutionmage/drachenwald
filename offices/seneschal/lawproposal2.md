@@ -6,18 +6,15 @@ toc_label: "Table of Contents"
 
 # Introduction
 
-The Drachenwald Law Council is currently reviewing this section of the law to consider if it needs any changes, and if so, exactly what changes they should be. Therefore we are asking you to take a moment to read this and share your thoughts via the provided form.
+Drachenwald Law Council is currently reviewing this section of the law to consider if it needs any changes, and if so, exactly what changes they should be. Therefore we are asking you to take a moment to read this and share your thoughts via the provided form.
 
-We would appreciate your comments on this subject; no later than 31 August. Please use the provided web form when sharing your thoughts with us.
-
-With thanks in advance for your service, 
-The Law Council
+We would appreciate your comments on this subject; no later than 31 August.
 
 ## Reasoning behind this section of the law
 
-The purpose is to ensure that every participant in Crown Tourney is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups in the kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
+The law seeks to ensure that every participant in Crown Tournament is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups of Kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
 
-Please note that this is a requirement that Crown may waive, allowing participation to Crown Tournament to participants who do not fulfil it.
+Please note that this is a requirement that Crown may waive, allowing participation to Crown Tournament to participants who have attended less events.
 
 ## Purpose of the review
 
