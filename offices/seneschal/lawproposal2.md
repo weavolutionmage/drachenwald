@@ -14,7 +14,7 @@ We would appreciate your comments on this subject; no later than 31 August.
 
 The law seeks to ensure that every participant in Crown Tournament is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups of Kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
 
-Please note that this is a requirement that Crown may waive, allowing participation to Crown Tournament to participants who have attended less events.
+Please note that this is a requirement that Crown may waive, allowing Crown Tournament participants who have attended less events.
 
 ## Purpose of the review
 
@@ -22,7 +22,7 @@ Some people have found the law text unclear regarding the number of events neede
 
 # Current law text
 
-7.02.2.8.2 Each participant must have attended at least six official events (before Crown Tournament), held in Drachenwald, listed on the Kingdom Calendar in the Dragon's Tale, in the preceding eighteen months. Additionally, each participant must have attended one official event (defined by the same requirements), more than 6 months before Crown Tournament but not more than 24 months before Crown Tournament. This event may be one of the six but does not need to be.
+> 7.02.2.8.2 Each participant must have attended at least six official events (before Crown Tournament), held in Drachenwald, listed on the Kingdom Calendar in the Dragon's Tale, in the preceding eighteen months. Additionally, each participant must have attended one official event (defined by the same requirements), more than 6 months before Crown Tournament but not more than 24 months before Crown Tournament. This event may be one of the six but does not need to be.
 
 ## Examples of possible changes
 
@@ -49,5 +49,7 @@ Some people have found the law text unclear regarding the number of events neede
 * Each participant to Crown Tournament must have attended at least 6 events within the preceding 24 months.
 * One of the events must have taken place within six months of the Crown Tournament.
 * One of the events must have taken place between 6 and 24 months before the Crown Tournament.
+
+# Send in your comments
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSekAxwrNAK5XD32u0KuE0nya-ImYA3VfBuZ6RH_cpmqLW8bYg/viewform?embedded=true" width="640" height="1436" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
