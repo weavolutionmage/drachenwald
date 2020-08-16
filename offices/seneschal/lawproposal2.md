@@ -1,18 +1,18 @@
 ---
-title: Call for comments: Drachenwald law 7.02.2.8.2 (event requirements for Crown Tournament participation)
+title: Call for comments
 toc: true
 toc_label: "Table of Contents"
 ---
 
-# Introduction
+# Call for comments on event requirements for Crown Tournament participation
 
-Drachenwald Law Council is currently reviewing this section of the law to consider if it needs any changes, and if so, exactly what changes they should be. Therefore we are asking you to take a moment to read this and share your thoughts via the provided form.
+## Introduction
 
-We would appreciate your comments on this subject; no later than 31 August.
+Drachenwald Law Council is currently reviewing this section of the law to consider if it needs any changes, and if so, exactly what changes they should be. Therefore we are asking you to take a moment to read this and share your thoughts via the provided form no later than **August 31**.
 
 ## Reasoning behind this section of the law
 
-The law seeks to ensure that every participant in Crown Tournament is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups of Kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
+The law seeks to ensure that every participant in Crown Tournament is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups of the Kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
 
 Please note that this is a requirement that Crown may waive, allowing Crown Tournament participants who have attended less events.
 
@@ -24,27 +24,27 @@ Some people have found the law text unclear regarding the number of events neede
 
 > 7.02.2.8.2 Each participant must have attended at least six official events (before Crown Tournament), held in Drachenwald, listed on the Kingdom Calendar in the Dragon's Tale, in the preceding eighteen months. Additionally, each participant must have attended one official event (defined by the same requirements), more than 6 months before Crown Tournament but not more than 24 months before Crown Tournament. This event may be one of the six but does not need to be.
 
-## Examples of possible changes
+# Examples of possible changes
 
-### Current law without changes
+## Current law without changes
 
 * Each participant to Crown Tournament must have attended at least 6 events within the preceding 18 months.
 * At least 1 event must have taken place 6-24 months before the Crown Tournament. This event may be one of the above mentioned six but does not need to be.
 
-### Example law change 1
+## Example law change 1
 
 * Each participant to Crown Tournament must have attended at least 4 events within the preceding 18 months.
 
-### Example law change 2
+## Example law change 2
 
 * Each participant to Crown Tournament must have attended at least 6 events within the preceding 18 months.
 
-### Example law change 3
+## Example law change 3
 
 * Each participant to Crown Tournament must have attended at least 6 events within the preceding 24 months.
 * One of the events must have taken place between 6 and 24 months before the Crown Tournament.
 
-### Example law change 4
+## Example law change 4
 
 * Each participant to Crown Tournament must have attended at least 6 events within the preceding 24 months.
 * One of the events must have taken place within six months of the Crown Tournament.
