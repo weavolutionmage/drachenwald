@@ -14,7 +14,7 @@ Drachenwald Law Council is currently reviewing this section of the law to consid
 
 The law seeks to ensure that every participant in Crown Tournament is up to date with what is going on in the Kingdom, and has had the chance to become familiar with different areas and groups of the Kingdom. Therefore, it sets a requirement for both a minimum number of events attended by all Crown Tournament entrants, as well as a time frame within which they must have attended those events.
 
-Please note that this is a requirement that Crown may waive, allowing Crown Tournament participants who have attended less events.
+Please note that this is a requirement that Crown may waive, allowing Crown Tournament participants who have attended less events. This type of waiver may need to be used for example in circumstances that somehow prevent in-person events, such as a pandemic.
 
 ## Purpose of the review
 
