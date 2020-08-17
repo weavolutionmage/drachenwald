@@ -10,7 +10,21 @@ You can always reach the Law Council at <script type="text/javascript">document.
 
 # Proposals open for feedback
 
-None at this time.
+* The Law Council is currently asking your views on [Drachenwald law 7.02.2.8.2 (Event requirements for Crown Tournament participation)]({{ site.baseurl }}{% link offices/seneschal/lawproposal2_v0.md %}).
+
+# Proposals in process
+
+* Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation)
+
+  * [Addressing feedback and proposal 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
+
+  * [Draft proposal 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
+
+* Drachenwald law 9-11 (Kingdom awards)
+
+  * [Addressing feedback and proposal 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
+
+  * [Draft proposal 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
 
 # Purpose of the Law Council
 
@@ -53,9 +67,3 @@ The current members of the Law Council are:
 * Memorantia van de Linde (Moira)
 * Pietari Uv
 * William of Richwood
-
-# Past proposals
-
-The Law Council has previously requested feedback on the the following proposals:
-1. [Draft proposal to change Drachenwald law 7.02.2.1]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %}) (Crown Tournament participation), 7 July 2020
-2. [Draft proposal to change Drachenwald law 9-11]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %}) (Kingdom awards), 7 July 2020
