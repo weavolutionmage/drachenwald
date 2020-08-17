@@ -14,15 +14,15 @@ The first proposal - removing gender requirements from participation in the Crow
 
 The second proposal - rather extensive update on the descriptions of the awards and orders of our Kingdom - generated more comments from the wider court. The feedback was in favour of the overall direction of the changes, and we received some suggestions for improvements as well as questions regarding unclarities.
 
-Many remarked on something which we had overlooked in the draft proposal, that while Crown Tournament gender requirements are proposed to be removed, the law still refers to "the Crown Prince and Princess" in 9.03.4. In the updated version this now reads as "Royal Heirs"; a descriptor also used in the Governing Documents of the SCA. Related to this, and particularly regarding changing "King and Queen" in several parts of the law into "Sovereign and Consort", we wish to stress that 'Sovereign' and 'Consort' are roles related to the SCA Crown, and the holders of these roles will also hold titles of King or Queen (or equivalent title) based on their own choices. There is absolutely no intent in the proposal to retire titles, only clarify the law text to not use titles when referring to roles.
+Many remarked on something which we had overlooked in the draft proposal, that while Crown Tournament gender requirements are proposed to be removed, the law still refers to "the Crown Prince and Princess" in 9.03.4. In the updated version this now reads as "Royal Heirs"; a descriptor also used in Corpora (see the [Governing Documents of the SCA](https://www.sca.org/resources/document-library/)). Related to this, and particularly regarding changing "King and Queen" in several parts of the law into "Sovereign and Consort", we wish to stress that 'Sovereign' and 'Consort' are roles related to the SCA Crown, and the holders of these roles will also hold titles of King or Queen (or equivalent title) based on their own choices. There is absolutely no intent in the proposal to retire titles, only clarify the law text to not use titles when referring to roles.
 
-In the same context some commenters were also asking about gender neutral titles. In our Society all titles are controlled at the Society level. Corpora reserves this power to the SCA Board of Directors that has delegated the practicalities to the SCA College of Arms. Thus creating new titles is not appropriate for Kingdom legislation. There are currently initiatives in the College of Arms to find gender neutral alternative titles; in English such have so far been found for the armiger titles (Award or Grant of Arms). Reflecting the options, in this proposal "Lord or Lady of the Rose" and "Lord or Lady of the Edelweiss" are now accompanied with "or an equivalent title" to allow for regional or gender neutral variants of 'Lord' or 'Lady'. The full listing of alternative titles in various languages is published at http://heraldry.sca.org/titles.html.
+In the same context some commenters were also asking about gender neutral titles. In our Society all titles are controlled at the Society level. Corpora reserves this power to the SCA Board of Directors that has delegated the practicalities to the SCA College of Arms. Thus creating new titles is not appropriate for kingdom legislation. There are initiatives in the College of Arms to find gender neutral alternative titles; in English such have so far been found for the armiger titles (Award or Grant of Arms). Reflecting the options, in this proposal "Lord or Lady of the Rose" and "Lord or Lady of the Edelweiss" are now accompanied with "or an equivalent title" to allow for regional or gender neutral variants of 'Lord' or 'Lady'. The full listing of alternative titles in various languages is published at <http://heraldry.sca.org/titles.html>.
 
 The question regarding gender neutral titles was also raised in relation to the Sigillum. In both the current law and the proposed law the variants of this award are named using the Latin translations of the titles King and Queen; so far no gender neutral options are available. To change the overall naming of this award is beyond the scope of this particular proposal.
 
-Another widely made comment addressed the curious way that the heraldic tincture ‘Or’ (yellow/gold) is capitalised in the blazon (armorial description). The law text uses blazon when describing most symbols for the orders and awards because those symbols are heraldic insignia registered as such with the SCA College of Arms, and the Kingdom law ought to strive for consistency with the official registrations. In SCA blazon this particular tincture 'Or' is capitalised to differentiate it from the conjunction 'or'. The proposal retains this while removing erroneous capitalising of other tinctures ("Sable").
+Another widely made comment addressed the curious way that the heraldic tincture ‘Or’ (yellow/gold) is capitalised in blazon (armorial description). The law text uses blazon when describing most symbols for the orders and awards because those symbols are heraldic insignia registered as such with the SCA College of Arms, and the Kingdom law ought to strive for consistency with the official registrations. In SCA blazon this particular tincture 'Or' is capitalised to differentiate it from the English conjunction 'or'. The proposal retains this while removing erroneous capitalising of other tinctures ("Sable").
 
-We also received most welcome guidance in some German and Latin grammar used in the law text. In the updated proposal Orden des Linguistringes is consistently capitalised correctly according to German practice, and instead of using an incorrect plural form of the word 'sigillum', the text sticks to singular; this makes more sense when discussing an order name.
+We also received most welcome guidance in some German and Latin grammar used in the law text. In the updated proposal Orden des Linguistringes is consistently capitalised correctly according to German practice, and instead of using an incorrect plural form of the Latin word 'sigillum', the text sticks to singular; this makes more sense when discussing an order name.
 
 Some commenters found it odd that closed orders occur in the middle of the fuller list of orders. In the law the orders are divided into armigerous and non-armigerous orders, chapters 10 and 11. The closed orders are armigerous orders and thus appear in the law text at the very end of chapter 10.
 
@@ -30,17 +30,19 @@ A symbol has not yet been chosen for the Order of the Dragon's Pride, and so the
 
 Compared to the July draft proposal, the following changes have been made:
 
-* (9.03.4) "Crown Prince and Crown Princess" was changed to "Royal Heirs" that is also used in the Corpora.
+* (9.03.4) "Crown Prince and Crown Princess" was changed to "Royal Heirs" that is also used in Corpora.
 
 * (10.02.1.2, 10.02.2.1, 10.03.4.1, 10.03.5.1) The word "people" was removed from some award texts as unnecessary.
 
 * (10.02.3.1) In a feedback "prowess at arms" in the description of the Order of the Silver Guard was interpreted to exclude archery. To prevent this, "martial prowess" replaces it in this proposal.
 
-* (10.02.4.2, 10.04.1.1) "Lord or Lady of the Rose" and "Lord or Lady of the Edelweiss" are now accompanied with "or an equivalent title" to allow for regional or gender neutral variants of 'Lord' or 'Lady'. SCA College of Arms is responsible for the List of Alternate Titles: {http://heraldry.sca.org/titles.html}
+* (10.02.4.2, 10.04.1.1) "Lord or Lady of the Rose" and "Lord or Lady of the Edelweiss" are now accompanied with "or an equivalent title" to allow for regional or gender neutral variants of 'Lord' or 'Lady'.
+
+* (11.04.3.1.1-4) English translations have been added for the Latin names of the Sigillum.
 
 * Some minor grammar corrections.
 
-Once again, our most heartfelt thanks to all who commented and helped us either with suggestions, advice or encouragement. Please find the updated proposals going to their Majesties’ consideration below.
+Once again, our most heartfelt thanks to all who commented and helped us either with suggestions, advice or encouragement. Please find the updated proposals below.
 
 As always, you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
