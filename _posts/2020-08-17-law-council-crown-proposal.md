@@ -1,42 +1,20 @@
 ---
-title:  "Law proposal"
+title:  "News from the Law Council"
 date:   2020-08-17 17:30:00 +0200
 category: news
 tags: "law council"
 author: drachenwald
-excerpt:  "The Drachenwald Law Council gets it's own space & Law proposals available for comments"
+excerpt:  "Law Council has addressed earlier feedback on proposals and calls for comments on another law"
 ---
 
-# What is the Drachenwald Law Council?
-As there's much work involved in reviewing and updating the kingdom law, 
-our Seneschal invited together a group of people interested in assisting in this task. 
-The Law Council researches and prepares law proposals, 
-seeks and reviews feedback on them from people of the kingdom, 
-and assists the Crown and Kingdom Seneschal in their duties
- that are related to changing the kingdom law.
-If you have questions to ask, or suggestions regarding the kingdom law, 
-please do share those with us and we can see if they can be advanced together. 
-If you would like to join us in this peculiar brand of SCA fun, 
-the council remains open to those wishing to work with us.
-[Law Council on the kingdom website](https://drachenwald.sca.org/offices/seneschal/law-council/)
+Greetings from [Drachenwald Law Council](https://drachenwald.sca.org/offices/seneschal/law-council/)!
 
-# Please give feedback on the current draft law proposals
-The Drachenwald Law Council has published the first draft law proposals for your commentary. 
-This is the first round of our new legislative process where everyone gets to comment
- on the proposals while they are still in the preparation phase. 
- The received feedback will be considered by the Law Council when preparing the proposal
-  to be recommended to Crown. If Crown decides to advance the proposal to a future Curia,
-   you will then have a second opportunity to comment on the proposals.
-To make sure the proposals and the process is clear, we wish to provide an opportunity 
-for making questions about them. You can meet the [Law Council online on Monday 13 July](https://drachenwald.sca.org/events/calendar/#/drachenwald/2020-07-13/drachenwald-law-council-q-a). Please drop by!
+# Call for comments on event requirements for Crown Tournament participation
 
-Please provide your feedback on the draft proposals no later than Tuesday 21 July 2020, 
-using the web form at the end of the [proposal page on the kingdom website](https://drachenwald.sca.org/offices/seneschal/lawproposal1/)
+Drachenwald Law Council is currently considering whether the section of the law that defines the amount and timing of events that Crown Tournament participants must have attended needs updating. [Please take a moment to read about this and fill in a small questionnaire](https://drachenwald.sca.org/offices/seneschal/lawproposal2_v0/) by August 31.
 
+# Updated proposals
 
+In July the Law Council requested feedback on two draft law proposals regarding gender requirements for Crown Tournament participation and Kingdom awards. Thanks to everyone who helped the Law Council and the Kingdom by studying the draft proposals and seeing how they could be improved! 
 
-
-
-
-
-
+The proposals have now been revisited based on the feedback received. Please see [a detailed response to the feedback as well as updated versions of the proposals](https://drachenwald.sca.org/offices/seneschal/lawproposal1_v2/).
