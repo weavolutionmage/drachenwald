@@ -1,6 +1,6 @@
 ---
 title:  "Law proposal"
-date:   2020-07-07 17:30:00 +0200
+date:   2020-08-17 17:30:00 +0200
 category: news
 tags: "law council"
 author: drachenwald
