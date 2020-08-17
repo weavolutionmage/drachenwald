@@ -10,7 +10,7 @@ You can always reach the Law Council at <script type="text/javascript">document.
 
 # Proposals open for feedback
 
-* The Law Council is currently asking your views on [Drachenwald law 7.02.2.8.2 (Event requirements for Crown Tournament participation)]({{ site.baseurl }}{% link offices/seneschal/lawproposal2.md %}).
+* The Law Council is currently asking your views on [Drachenwald law 7.02.2.8.2 (Event requirements for Crown Tournament participation)]({{ site.baseurl }}{% link offices/seneschal/lawproposal2_v0.md %}).
 
 # Proposals in process
 
