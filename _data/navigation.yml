@@ -42,6 +42,9 @@ side:
 - title: Offices & Orders
   url: /offices/
 
+- title: Diversity & Inclusion
+  url: /offices/seneschal/diversity-equity-inclusion-council/
+
 - title: Search
   url: /search/
 
@@ -79,6 +82,9 @@ side-whatwedo:
 - title: Offices & Orders
   url: /offices/
 
+- title: Diversity & Inclusion
+  url: /offices/seneschal/diversity-equity-inclusion-council/
+
 - title: Search
   url: /search/
 
@@ -110,6 +116,9 @@ side-royals:
 
 - title: Offices & Orders
   url: /offices/
+
+- title: Diversity & Inclusion
+  url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search
   url: /search/
@@ -174,6 +183,9 @@ side-offices:
       url: /peers/defence/
     - title: Academy of Defense
       url: /chartergroups/academy-of-defence/
+
+- title: Diversity & Inclusion
+  url: /offices/seneschal/diversity-equity-inclusion-council/
 
 - title: Search
   url: /search/
