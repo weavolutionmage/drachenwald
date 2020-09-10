@@ -12,7 +12,7 @@ Note that these proposed changes are being put before the Curia for discussion. 
 
 The date and time of the Curia will be announced on the Kingdom website, by social media and to the Drachenwald email list by mid-October. All Greater Officers of the Kingdom should make every effort to attend this on-line curia. If Greater officers are unable to do so, they may send a designated representative, or make their comments known to the Crown and Kingdom Seneschal in writing, prior to the day of the Curia. Members of the populace may also send comments in writing to the Crown (crown@drachenwald.sca.org) and Kingdom Seneschal (seneschal@drachenwald.sca.org) in advance of the meeting.
 
-# 1 Proposal to change Drachenwald law 7.02.2.1 (September 10)
+# 1 Proposal to change Drachenwald law 7.02.2.1
 
 ## Reasoning
 
@@ -66,7 +66,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 9.02 Both the Sovereign and **the** Consort must agree upon any awards given by the Crown, except as specified below.
 
-9.02.1 The Queen's Order of Courtesy is granted solely at the discretion of the **Consort.** ~~Queen.~~
+9.02.1 The ~~Queen's~~ Order of Courtesy is granted solely at the discretion of the **Consort.** ~~Queen.~~
 
 9.02.2 The ~~King's~~ Order of the Companions of Albion is granted solely at the discretion of the **Sovereign.** ~~King.~~
 
@@ -84,7 +84,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 10.00 CONCERNING ARMIGEROUS KINGDOM AWARDS
 
-10.01 The Crown may confer an Award of **Arms, a Grant of Arms, and a Court Barony** ~~Arms and/or a Court Barony and/or a Grant-of-Arms~~ at their discretion **upon** to those **of their subjects they deem** ~~members of the Kingdom Populace deemed~~ worthy.
+10.01 The Crown may confer an Award of **Arms, a Grant of Arms, and a Court Barony** ~~Arms and/or a Court Barony and/or a Grant-of-Arms~~ at their discretion **upon** ~~to~~ those **of their subjects they deem** ~~members of the Kingdom Populace deemed~~ worthy.
 
 10.02 The following awards confer an Award of Arms upon the recipient if they are not yet armigerous.
 
@@ -134,19 +134,19 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.03.3 The symbol of this order is (fieldless) a ring sable.**
 
-**10.03.4** Ordo Hirundinis (~~the ~~Order of the Swallow) ~~(Grant of Arms for service)~~
+**10.03.4** Ordo Hirundinis ( ~~the~~ Order of the Swallow) ~~(Grant of Arms for service)~~
 
 **10.03.4.1** Presented to those ~~people~~ who have distinguished themselves by superior service to the Kingdom.
 
 **10.03.4.2** The **symbol** ~~badge~~ of this company of the **order** ~~Order~~ is (fieldless) a martlet volant Or.
 
-**10.03.5** Ordo Cygni (~~the ~~Order of the Swan) ~~(Grant of Arms for Arts and Sciences)~~
+**10.03.5** Ordo Cygni ( ~~the~~ Order of the Swan) ~~(Grant of Arms for Arts and Sciences)~~
 
 **10.03.5.1** Presented to those ~~people~~ who have distinguished themselves by superior achievement in **the arts and sciences** ~~Arts and Sciences~~ in the Kingdom.
 
 **10.03.5.2** The **symbol** ~~badge~~ of this company of the **order** ~~Order~~ is (fieldless) a swan sable.
 
-**10.03.6** Ordo Alae (~~the ~~Order of the Wing) ~~(Grant of Arms for martial activities, such as armoured combat, fencing and archery)~~
+**10.03.6** Ordo Alae ( ~~the~~ Order of the Wing) ~~(Grant of Arms for martial activities, such as armoured combat, fencing and archery)~~
 
 **10.03.6.1** Presented to those ~~members of the Drachenwald martial community~~ who have displayed superior abilities in their respective field or fields of martial activity in the Kingdom.
 
@@ -156,7 +156,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.04.1** ~~The~~ Order of the Edelweiss (formerly Marguerite)
 
-~~10.11.1.2 This order Order is closed. ~~
+~~10.11.1.2 This order Order is closed.~~
 
 **10.04.1.1 Members** ~~Companions~~ of this **order** ~~Order~~ may be styled **as Lord or Lady of the Edelweiss, or an equivalent title,** ~~"Lord/Lady of the Edelweiss"~~ as appropriate.
 
@@ -166,7 +166,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.04.2** Order of **the** ~~The~~ Dragon's Steel 
 
-~~10.11.2.1 This order is closed. ~~
+~~10.11.2.1 This order is closed.~~
 
 **10.04.2.1** This order was **established as a polling order for** ~~presented to~~ those ~~members of the period fencing community,~~ who had displayed superior abilities in ~~period fencing.~~ **fencing, prior to the creation of the Order of Defense. The order conferred a Grant of Arms upon any recipient who did not already hold a Grant of Arms.**
 
@@ -198,7 +198,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.04 The Sigillum ~~Regis of Drachenwald, the Sigillum Reginae of Drachenwald, and the Sigillum Regis et Reginae of Drachenwald~~
 
-11.04.1 The Sigillum ~~Regis of Drachenwald, the Sigillum Reginae of Drachenwald, and the Sigillum Regis et Reginae of Drachenwald~~ is awarded for personal service to the **Crown** Crown(s) that far exceeds any expected measure.
+11.04.1 The Sigillum ~~Regis of Drachenwald, the Sigillum Reginae of Drachenwald, and the Sigillum Regis et Reginae of Drachenwald~~ is awarded for personal service to the **Crown** ~~Crown(s)~~ that far exceeds any expected measure.
 
 11.04.2 It is recommended that each Sovereign and **Consort** ~~consort~~ present this award no more than three times per reign. Joint awards count as one each.
 
