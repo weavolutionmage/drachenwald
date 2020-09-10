@@ -8,23 +8,15 @@ toc_label: "Table of Contents"
 
 You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
 
-# Proposals open for feedback
+# Proposals for Curia
 
-* The Law Council is currently asking your views on [Drachenwald law 7.02.2.8.2 (Event requirements for Crown Tournament participation)]({{ site.baseurl }}{% link offices/seneschal/lawproposal2_v0.md %}).
+* The upcoming Curia Regis will discuss the proposals to change [Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation) and Drachenwald law 9-11 (Kingdom awards)]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v3.md %}).
 
-# Proposals in process
+## Past versions of the proposals
 
-* Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation)
+* [Addressing feedback and updated draft proposals 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
 
-  * [Addressing feedback and proposal 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
-
-  * [Draft proposal 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
-
-* Drachenwald law 9-11 (Kingdom awards)
-
-  * [Addressing feedback and proposal 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
-
-  * [Draft proposal 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
+* [Draft proposals 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
 
 # Purpose of the Law Council
 
@@ -46,8 +38,8 @@ The Law Council works with the Kingdom Seneschal to assist in all phases of maki
 4. The law proposal is recommended to Crown who decides whether it warrants discussing at a future Curia. (If not, it will need to be reworked or abandoned).
 5. In preparation for Curia, the proposed law text is published in Dragon's Tale and, possibly with additional information, on the kingdom website, for receiving feedback. All received feedback will be forwarded to Crown.
 6. The law proposal is discussed in Curia.
-7. Crown decides on the law proposal (accept/refuse).
-8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed at an event.
+7. Crown decides on the law proposal (accept/accept with changes/refuse).
+8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed in court.
 
 # Members
 
@@ -57,12 +49,12 @@ Council members are expected to participate in monthly online meetings, and rese
 
 The current members of the Law Council are:
 * Alienor of Farryngdon
-* Angelica Andegavensis
 * Anna von Urwald
-* Dubhghall MacÉbhearáird
+* Aodh Ó Siadhail
+* Dubhghall mac Ébhearáird
+* Ellisa von Styra
 * Gilbert Blakthorn
 * Kareina Talventytär
-* Leonet de Covenham
 * Mærith aff Weselax
 * Memorantia van de Linde (Moira)
 * Pietari Uv
