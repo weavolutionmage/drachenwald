@@ -49,14 +49,12 @@ Council members are expected to participate in monthly online meetings, and rese
 
 The current members of the Law Council are:
 * Alienor of Farryngdon
-* Angelica Andegavensis
 * Anna von Urwald
 * Aodh Ó Siadhail
 * Dubhghall mac Ébhearáird
 * Ellisa von Styra
 * Gilbert Blakthorn
 * Kareina Talventytär
-* Leonet de Covenham
 * Mærith aff Weselax
 * Memorantia van de Linde (Moira)
 * Pietari Uv
