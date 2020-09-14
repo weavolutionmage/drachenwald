@@ -1,6 +1,6 @@
 ---
 title:  "Call to Drachenwald Curia"
-date:   2020-09-13 20:00:00 +0200
+date:   2020-09-14 19:00:00 +0200
 category: news
 tags: "curia"
 author: drachenwald
