@@ -71,7 +71,7 @@ deploy:
   - echo "${OVH_PRIVATE}" | tr -d '\r' | ssh-add - > /dev/null
   - JEKYLL_ENV=production bundle exec jekyll build -d public
   - rsync -rvzc --delete -e 'ssh -p 2222' public/ $WEBHOST:public_html/
-  - rsync -rvzc --delete -e 'ssh -p 2222' public/ $WEBHOST_OVH:www/
+  - rsync -rvzc --delete -e 'ssh -p 22' public/ $WEBHOST_OVH:www/
 
   artifacts:
     expire_in: 1 hour
