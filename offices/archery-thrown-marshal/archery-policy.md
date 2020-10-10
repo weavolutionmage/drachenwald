@@ -5,41 +5,6 @@ toc: true
 toc_label: Contents
 ---
 
-!-- Output copied to clipboard! -->
-
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.93 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sat Oct 10 2020 05:13:40 GMT-0700 (PDT)
-* Source doc: DW_Target_Archery_Handbook-2019
-
-WARNING:
-You have 7 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # 1. Introduction
 
 This Handbook is meant to be used in conjunction with the Society of Creative Anachronism (SCA) Target Archery Handbook, October 2003 Edition. All Equipment Standards, Range Safety and additional recommendations are to be taken from that document and the provisions of this handbook.  These rules are valid only in the Kingdom of Drachenwald. In addition to the SCA Archery Rules, all mundane legal requirements for archery must be followed in full. In order to avoid trouble, you should review and follow all local laws regarding archery and projectile weaponry. For example, in some countries you may need a licence to transport or own a crossbow or there can be rules regarding where you can set up a shooting range.
@@ -291,7 +256,7 @@ Information about groups:
 Please give a brief description of the type of archery tournaments that were organised or any practices, coaching, or archery A&S workshops given.
 
 
-# 7. BECOMING A MARSHAL
+# 7. Becoming a marshal
 
 If you would like to become a marshal, you should make sure you have a thorough understanding of the Target Archery & Thrown Weapons Rules. Then contact your local Captain of Archers (or if you don’t have one your closest Target Archery Marshal).  You will become a Marshal-in-Training (MIT). [Note: A MIT is not a legal representative of the SCA, Inc. and has no greater authority than any other archer and must operate under the supervision of a Target Archery Marshal.]
 
@@ -328,3 +293,10 @@ At the end of your period of training, a ‘Warranting Target Archery Marshal’
 ## 7.3 Issuing the Warrant
 
 When the ‘Warranting Target Archery Marshal’ warrants a Target Archery Marshal, a report must be submitted to the Captain General of Archers.  The form for this is available from the Kingdom website under the Target Archery section.  Please follow the instructions on the form.
+
+
+# 8.0 Change Control
+
+Last update: October 2020
+
+Updated by: Mícheál Breathnach
