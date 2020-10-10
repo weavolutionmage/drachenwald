@@ -5,105 +5,37 @@ toc: true
 toc_label: Contents
 ---
 
-<!-- Output copied to clipboard! -->
+# 1. Introduction
 
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 1.434 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Sat Oct 10 2020 04:28:00 GMT-0700 (PDT)
-* Source doc: DW_Target_Archery_Handbook-2019
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-**Kingdom of Drachenwald**
-
-**Target Archery Handbook**
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-**_Last update June 2019_**
-
-**_Print:				Print:				Print_**
-
-**_Sign:				Sign:				Sign:_**
-
-**_Office: King			Office: Queen			Office: Captain general of archers_**
-
-**_Date:				Date:				Date:			_**
-
-**Table of contents**
-
-
-[TOC]
-
-
-
-
-1. 
-**1. Introduction**
 This Handbook is meant to be used in conjunction with the Society of Creative Anachronism (SCA) Target Archery Handbook, October 2003 Edition. All Equipment Standards, Range Safety and additional recommendations are to be taken from that document and the provisions of this handbook.  These rules are valid only in the Kingdom of Drachenwald. In addition to the SCA Archery Rules, all mundane legal requirements for archery must be followed in full. In order to avoid trouble, you should review and follow all local laws regarding archery and projectile weaponry. For example, in some countries you may need a licence to transport or own a crossbow or there can be rules regarding where you can set up a shooting range.
 
 Always be aware that bows, crossbows, and thrown weapons are weapons not toys. The bow is one of the oldest weapons known to mankind and has been used both for hunting and as a weapon of war for thousands of years. Archery is a lot of fun, but it should be taken seriously.
 
 
+## 1.1 Target Archery
 
-    1. 
-**_1.1 Target Archery_**
 Target archery is concerned with the use of all forms of live missile weapons, as well as the arts and sciences related to it. This includes shooting at the mark, shooting for distance or clout shooting with bow and arrows.
 
 All target archery is organized through the office of the Captain General of Archers of the Kingdom of Drachenwald. Throughout this publication the word Archer shall be used as a general term for any gentle using a missile weapon, regardless of the actual type of the missile. Also, Archer and all Archery Officer functions shall be used regardless of gender.
 
 
+## 1.2 Combat Archery
 
-    2. 
-**_1.2 Combat Archery_**
 Combat archery is the use of missile weapons in SCA heavy combat. It is a combat activity and is organized by the Kingdom Deputy Earl Marshal for Combat Archery. The rules for combat archery are laid down in the Missile Combat Rules section of the Kingdom of Drachenwald combat regulations. It is possible for one person to serve as an officer for both target and combat archery systems for both target and combat archery systems as long as they are authorized and warranted appropriately in both systems. All Target Archery offices are under the jurisdiction of the Captain General of Archers. All Combat Archery offices are under the jurisdiction of the Kingdom Deputy for Combat Archery.
 
 
+## 1.3 Thrown Weapons
 
-    3. 
-**_1.3 Thrown Weapons_**
 Thrown weapons such as axes, knives and javelins are described in SCA Thrown Weapons Handbook, October 2016 Edition. 
 
 In Drachenwald, Warranting Target Archery Marshals are also responsible for the warranting of new Thrown Weapons Marshals. Therefore, all Warranting Target Archery Marshals must know and understand all elements and rules regarding archery and thrown weapons. Exception to this is Deputy of Thrown weapons who has warranting rights only to thrown weapons.  In Drachenwald, Marshals-in-Training can warrant exclusively as Thrown Weapons Marshals, without the requirement to also warrant as Target Archery Marshals. Marshals-in-Training may choose whether they also want to be examined as target archery marshals. Target archery marshals who have been authorized before July 2019 may personally inform to captain general of archers that they have enough knowledge of thrown weapons to keep their thrown weapons marshal authorization. This notification must be done before October 2019.  
 
 
-
-2. 
-**2. Archery Officers**
+# 2. Archery Officers
 
 
-    4. 
-**_2.1 Captain General of Archers_**
+## 2.1 Captain General of Archers
+
 The Captain General of Archers is responsible for all target archery activities in the Kingdom of Drachenwald. By kingdom law, it is a lesser office of state under the direction of the Earl Marshal.
 
 The Captain General of Archers;
@@ -120,9 +52,8 @@ The Captain General of Archers;
 *   Must have immediate access to the Dragon's Tale.
 
 
+## 2.2 Regional Target Archery Marshals
 
-    5. 
-**_2.2 Regional Target Archery Marshals_**
 A Regional Target Archery Marshals acts as a regional deputy to the Captain General of Archers.  The Captain General may appoint an experienced Archery Marshal as a Deputy for a certain area of the Kingdom to give the archers of that regional direct point of contact.
 
 Regional Target Archery Marshals:
@@ -139,15 +70,13 @@ Regional Target Archery Marshals:
 *   Must hold membership in the Society
 
 
+## 2.3 Warranting Target Archery Marshal
 
-    6. 
-**_2.3 Warranting Target Archery Marshal_**
 A Warranting Target Archery Marshal can authorize new Archery and Thrown weapons Marshals. The Captain General and regional marshals are warranting marshals; the Captain General may appoint additional authorizing marshals as local need dictates (for example in remote areas).
 
 
+## 2.4 Captain of Archers
 
-    7. 
-**_2.4 Captain of Archers_**
 Any branch of the Kingdom of Drachenwald may appoint a Captain of Archers. To register this office an email of application should be sent to the Captain General of Archers from the branch Seneschal.  The Captain of Archers should ideally be an Archery Marshal, but this is not required. The capacity is an administrative function, and does not require archery skills.
 
 A Captain of Archers;
@@ -161,9 +90,8 @@ A Captain of Archers;
 *   Must hold membership in the Society
 
 
+## 2.5 Archery Marshal
 
-    8. 
-**_2.5 Archery Marshal_**
 The Captain General of Archers or a Regional Target Archery Marshal may authorise archery marshals. Authorisations are valid for two years or as long as the Archery Marshal remains a member of the Society and resides in the Kingdom of Drachenwald.  Marshals will be issued an authorisation card stating the expiry date of their current warrant.  A new card will be automatically issued when their current warrant expires so long as they have met the reporting, membership requirements and have been active as an archery marshal within the previous two years. If you have not been active as a marshal for two years, you will need to retake the marshal’s test before being issued a new warrant.
 
 An Archery Marshal must:
@@ -192,9 +120,8 @@ When a potential new target archery marshal is being trained by an Archery Marsh
 For more detailed guidance on become a marshal, please see the ‘Becoming a Marshal’ section later in this document.
 
 
+## 2.6 Archery Marshal-in-Charge 
 
-    9. 
-**_2.6 Archery Marshal-in-Charge _**
 
 
 *   An Archery Marshal who has the responsibility for archery activities at a particular event.
@@ -202,9 +129,8 @@ For more detailed guidance on become a marshal, please see the ‘Becoming a Mar
 *   An archery marshal-in-charge may also serve at the ‘Marshal-in-Charge’ for an event, in which case they must also coordinate with the other marshals i.e. fencing and heavy marshals and submit any required reports.
 
 
+## 2.7 Marshals who have authorized in other Kingdoms
 
-    10. 
-**_2.7 Marshals who have authorized in other Kingdoms_**
 Due to the variety of mundane jurisdictions covered by Drachenwald, we do not issue temporary warrants to visiting marshals. All visiting marshals must take the Drachenwald TAM test in order to marshal in this kingdom.
 
 Once visiting marshals have familiarized themselves with Drachenwald Target Archery rules, they should approach their Regional TAM or the Kingdom TAM to arrange the test. 
@@ -212,9 +138,8 @@ Once visiting marshals have familiarized themselves with Drachenwald Target Arch
 Please see section 7 of this handbook for further details.
 
 
+# 3. Children on the line
 
-3. 
-**3. Children on the line**
 Children and minors (those under 18 years of age) may participate in archery or thrown weapons activities with the following restrictions:
 
 
@@ -229,22 +154,19 @@ The marshal-in-charge may require adult supervision of children aged 12-17 at th
 Children are expected to behave on the archery line with the same discipline as an adult archer.
 
 
+# 4. Drachenwald Company of Archers
 
-4. 
-**4. Drachenwald Company of Archers**
 The Drachenwald Company of Archers is a guild within the kingdom designed to promote archery through recognition of archers of all levels of skill. To find out more about the Drachenwald Company of Archers please check out the target archery section on the Kingdom website.
 
 
+# 5. Official competitions and practices
 
-5. 
-**5. Official competitions and practices**
 Archery events may include any form of safe competition you can imagine, in keeping with the overall spirit of recreating medieval archery. Many forms have been used in the Society over the years.  Many authentic and creative styles of competitions have developed into standard shoots within the Society. \
 Only scores from official SCA events or practices may be submitted for Kingdom or Inter-Kingdom competitions or for membership in the Drachenwald Company of Archers. In order for a practice to qualify as an official SCA practice, it must be approved by the local Seneschal, run by an SCA Target Archery Marshal and must be open to all members of the SCA without requiring membership of another organization or payment of any fees barring venue hire.
 
 
+## 5.1 The Drachenwald Round
 
-    11. 
-**_5.1 The Drachenwald Round_**
 The Drachenwald round has been devised in an attempt to provide a more authentic standard
 
 competition for the Kingdom. This competition is intended to reward both shooting skill and the use of authentic equipment. It consists of three parts:
@@ -261,9 +183,8 @@ competition for the Kingdom. This competition is intended to reward both shootin
             2. have built their period-style arrows (with self nocks and tied-on feathers)
 
 
+## 5.2 Royal Round
 
-    12. 
-**_5.2 Royal Round_**
 The most common competition in the Society is the Royal Round. The Royal Round uses a standard 5-ringed 60 cm FITA target. The archers shoot one round of 6 arrows at 20, 30, and 40 yards, as well as, a timed round with unlimited arrows for 30 seconds at 20 yards. Points are counted from 1 to 10. At the beginning of the timed round archers may have their first arrow nocked, drawn and aimed.  Should you loose an arrow early or late in the timed round you lose your highest scoring arrow for that round.
 
 Children distances: Children 10 years of age and under which shoot 20, 15, 10yds
@@ -273,9 +194,8 @@ Youth distances: Children 13 years of age and under which shoot 30, 20, 10yds
 In all of the Youth Divisions, the age of the child as of the start of the annual competition (Mid summer Coronation) is the age of record for that year’s competition.
 
 
+## 5.3 IKAC
 
-    13. 
-**_5.3 IKAC_**
 The IKAC (Inter-Kingdom Archery Competition) is a society-wide competition in which
 
 competitors from all the Kingdoms of the Known World compete against each other.  The IKAC consists of six Divisions: Open Hand bow, Open Crossbow, Period Hand bow, Period Crossbow, Children’s Division and Youth Division. The competition starts on 1 February and ends on December 1 and any archer can participate by shooting at either an official practice or an official event. The standard IKAC round is an extension of the Royal Round in which there are two rounds of 6 arrows and two timed rounds of 30 seconds (60 seconds for crossbows) at 20, 30, and 40 yards. The IKAC rules are subject to annual revision and changes and are therefore not printed here in full. The current IKAC rules are available from the coordinator at: [http://www.scores-sca.org/ikac/](http://www.scores-sca.org/ikac/)
@@ -285,9 +205,8 @@ Children distances: Children 10 years of age and under which shoot 20, 15, 10yds
 Youth distances: Children 13 years of age and under which shoot 30, 20, 10yds
 
 
+## 5.4 Portsmouth
 
-    14. 
-**_5.4 Portsmouth_**
 The most common indoor competition in Drachenwald.
 
 
@@ -298,9 +217,8 @@ The most common indoor competition in Drachenwald.
 *   All age groups shoot from the same distance. 
 
 
+# 6. Reports and lists
 
-6. 
-**6 Reports and lists**
 Reports are needed because they are the best way of the Kingdom and Society Officers to have knowledge of the development of the Target Archery in the region. Lists of currently active Archery Marshals are needed because target archery activities cannot take place without a target archery marshal present on the range. It is recommended that the list of available target archery marshals is easily accessible to event autocrats.
 
 
@@ -312,9 +230,8 @@ Reports are needed because they are the best way of the Kingdom and Society Offi
 Reporting forms are available on the kingdom website.
 
 
+## 6.1 Captain of Archers Report
 
-    15. 
-**_6.1 Captain of Archers Report_**
 Information about Archery in your group:
 
 
@@ -324,9 +241,8 @@ Information about Archery in your group:
 *   Events, practices and demos have taken place in your Group.
 
 
+## 6.2 Regional / Principality Archery Marshal Report
 
-    16. 
-**_6.2 Regional / Principality Archery Marshal Report_**
 Information about groups:
 
 
@@ -335,21 +251,18 @@ Information about groups:
 *   Authorisations that you have undertaken and who you have authorised.
 
 
+## 6.3 Target Archery Marshal/Marshals in Training Report
 
-    17. 
-**_6.3 Target Archery Marshal/Marshals in Training Report_**
 Please give a brief description of the type of archery tournaments that were organised or any practices, coaching, or archery A&S workshops given.
 
 
+# 7. Becoming a marshal
 
-7. 
-**7. BECOMING A MARSHAL**
 If you would like to become a marshal, you should make sure you have a thorough understanding of the Target Archery & Thrown Weapons Rules. Then contact your local Captain of Archers (or if you don’t have one your closest Target Archery Marshal).  You will become a Marshal-in-Training (MIT). [Note: A MIT is not a legal representative of the SCA, Inc. and has no greater authority than any other archer and must operate under the supervision of a Target Archery Marshal.]
 
 
+## 7.1 Training as a MIT
 
-    18. 
-**_7.1 Training as a MIT_**
 As an MIT you should be trained in:
 
 
@@ -372,13 +285,18 @@ Target Archery Marshals must own a complete set of archery equipment (a bow and 
 All Target Archery Marshals are officers of the SCA and shall maintain membership as required by the SCA Bylaws, and shall be warranted by their Kingdom as required by Corpora.
 
 
+## 7.2 Testing
 
-    19. 
-**_7.2 Testing_**
 At the end of your period of training, a ‘Warranting Target Archery Marshal’ will test you. This test may involve detailed questions on the rules, and practical demonstration of setting up and running a shoot.
 
 
+## 7.3 Issuing the Warrant
 
-    20. 
-**_7.3 Issuing the Warrant_**
 When the ‘Warranting Target Archery Marshal’ warrants a Target Archery Marshal, a report must be submitted to the Captain General of Archers.  The form for this is available from the Kingdom website under the Target Archery section.  Please follow the instructions on the form.
+
+
+# 8.0 Change Control
+
+Last update: October 2020
+
+Updated by: Mícheál Breathnach
