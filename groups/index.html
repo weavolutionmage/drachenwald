@@ -33,7 +33,7 @@ title: Where we are
 
         {% if seneschal %}
           {% unless seneschal.email == "" %}
-  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+  <strong>Seneschal:</strong>  {{ chatelaine.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
   <br>
           {% endunless %}
@@ -41,7 +41,7 @@ title: Where we are
 
         {% if chatelaine %}
           {% unless chatelaine.email == "" %}
-  <strong>Chatelaine:</strong> <a href="mailto:{{ chatelaine.email }}">{{ chatelaine.scaname }}</a>
+  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
             {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
   <br>
           {% endunless %}
@@ -79,7 +79,7 @@ title: Where we are
 
         {% if seneschal %}
           {% if seneschal.email %}
-  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+  <strong>Seneschal:</strong> {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
             {% if seneschal.mundanename %}({{ seneschal.mundanename }}){% endif %}
   <br>
           {% endif %}
@@ -87,7 +87,7 @@ title: Where we are
 
         {% if chatelaine %}
           {% if chatelaine.email %}
-  <strong>Chatelaine:</strong> <a href="mailto:{{ chatelaine.email }}">{{ chatelaine.scaname }}</a>
+  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
             {% if chatelaine.mundanename %}({{ chatelaine.mundanename }}){% endif %}
   <br>
           {% endif %}
