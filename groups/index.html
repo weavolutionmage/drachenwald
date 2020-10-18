@@ -29,10 +29,20 @@ title: Where we are
   <strong>Region:</strong> {{ item.region }}<br>
         {% unless item.website == "" %}<strong>Website:</strong> <a href="{{ item.website }}">{{ item.website }}</a><br>{% endunless %}
         {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
+        {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
+
         {% if seneschal %}
           {% unless seneschal.email == "" %}
-  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+  <strong>Seneschal:</strong>  {{ chatelaine.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
+  <br>
+          {% endunless %}
+        {% endif %}
+
+        {% if chatelaine %}
+          {% unless chatelaine.email == "" %}
+  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
+            {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
   <br>
           {% endunless %}
         {% endif %}
@@ -57,13 +67,28 @@ title: Where we are
       
         {% if subgroup.region %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endif %}
         {% if subgroup.website %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endif %}
- 
-        {% assign seneschal = site.data.groups.officerlist | where: "group", subgroup.group | where: "office", "seneschal" | first %}
+
+        {% if item.group == "Insulae Draconis" or item.group == "Nordmark" or item.group == "Aarnimetsä" or item.group == "Knights Crossing" %}
+          {% assign groupslug = item.group | append: '-' | append: subgroup.group %}
+        {% else %}
+          {% assign groupslug = subgroup.group %}
+        {% endif %}
+
+        {% assign seneschal = site.data.groups.officerlist | where: "group", groupslug | where: "office", "seneschal" | first %}
+        {% assign chatelaine = site.data.groups.officerlist | where: "group", groupslug | where: "office", "chatelaine" | first %}
 
         {% if seneschal %}
           {% if seneschal.email %}
-  <strong>Seneschal:</strong> <a href="mailto:{{ seneschal.email }}">{{ seneschal.scaname }}</a>
+  <strong>Seneschal:</strong> {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
             {% if seneschal.mundanename %}({{ seneschal.mundanename }}){% endif %}
+  <br>
+          {% endif %}
+        {% endif %}
+
+        {% if chatelaine %}
+          {% if chatelaine.email %}
+  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
+            {% if chatelaine.mundanename %}({{ chatelaine.mundanename }}){% endif %}
   <br>
           {% endif %}
         {% endif %}
