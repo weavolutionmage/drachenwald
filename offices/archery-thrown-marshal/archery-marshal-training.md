@@ -1,4 +1,6 @@
-# Teaching a target archery marshal in training
+---
+title: Archery and Thrown Weapons Marshal Training
+---
 
 This is a short guide to help you teach MITs (Marshals in Training) to become Target Archery Marshals.  The amount of training needed will differ from MIT to MIT depending on their previous experience.  I would suggest at least 3 to 5 training sessions for an experienced archer and as many as required for someone starting out.
 
