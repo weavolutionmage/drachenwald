@@ -27,7 +27,7 @@ We take safety seriously. 'Authorisation' refers to a person who wants to become
 
 * [Drachenwald archery marshal authorisation form]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drach_archery_marshal_authorisation_form_0.pdf %}), PDF format for offline use, for those who are teaching archery marshals
 
-* The [marshal training guide]({{ site.baseurl }}{% link ooffices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals, when supervising and teaching marshals in training.
+* The [marshal training guide]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-marshal-training.md %}) is an aid for marshals, when supervising and teaching marshals in training.
 
 
 # Reporting: forms for quarterly marshal's reports
