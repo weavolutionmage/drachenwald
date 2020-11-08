@@ -54,20 +54,20 @@ The Drachenwald round was devised to provide a more authentic standard competiti
 ### Clout Shoot
 This is a long range, timed round which simulates military field archery. Arrows are shot into the target that represents a besieged castle or an element of enemy soldiers arrayed for battle. 
 
-* The target is a circle ten yards in diameter, marked on the ground. It can be made of hay bales or other suitable materials.
-* Distance  from the shooting line to the closest part of the target circle is one hundred yards (100yd).
-* This is a one minute (sixty second) timed shoot with unlimited arrows.
+* The target is a circle ten yards in diameter, marked on the ground. It can be made of hay bales or other suitable materials
+* Distance  from the shooting line to the closest part of the target circle is one hundred yards (100yd)
+* This is a one minute (sixty second) timed shoot with unlimited arrows
 * Arrows that fall within the circle score two points
-* If an archer releases an arrow before the start, or after the end, of the sixty second period will lose a scoring arrow from their total
+* An archer releasing an arrow before the start, or after the end, of the sixty second period will lose a scoring arrow from their total
 
 In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the diameter of the circle must be proportionately reduced to a minimum of eight yards.
 
 ### Shooting at the mark
 This is a short-range round based on precision, having more in common with hunting than with military archery.  
 
-* The target is a piece of paper 21 x 21 cm (8¼ x 8¼inches). 
+* The target is a piece of paper 21 x 21 cm (8¼ x 8¼inches)
   * To make this target, fold a sheet of standard European A4 stationery in half (to A5 size), then cut off one edge to make it square. 
-* The paper may be oriented on the target any way you like.  
+* The paper may be oriented on the target any way you like
 * The shoot consists of three ends
   * One round of six arrows at forty yards with no time limit
   * One round of six arrows at thirty yards with no time limit
@@ -76,11 +76,11 @@ This is a short-range round based on precision, having more in common with hunti
    
 ### Authenticity
 Using, and making, authentic equipment may also yield an archer points. A maximum of 9 points is available without even hitting a target, as follows:
-   * Bow: 3 points to all archers who shoot an English longbow (D shaped without a sight window), a self bow, or any other bow which can be documented as more medieval than a modern recurve or fibreglass laminated longbow.  
-   * Arrows: 3 points are awarded for using arrows with self nocks.   
-   * Construction: 3 points are awarded to all archers who either  
+   * Bow: 3 points to all archers who shoot an English longbow (D shaped without a sight window), a self bow, or any other bow which can be documented as more medieval than a modern recurve or fibreglass laminated longbow
+   * Arrows: 3 points are awarded for using arrows with self nocks
+   * Construction: 3 points are awarded to all archers who either
      * Have built their own bow themselves OR
-     * Have built their own period-style arrows (with self nocks and tied-on feathers).
+     * Have built their own period-style arrows (with self nocks and tied-on feathers)
 
  
 ## Winter/Summer Competition
@@ -89,15 +89,15 @@ The Annual competition is split into two season’s competitions.
 
 ### Winter season
 
-* Runs from October Crown Tournament to April Crown Tournament.
-* Competition format is a Portsmouth Round.
-* Submit all scores to your regional Target Archery Marshal.
-* All Shoots must take place at events or official practices.
+* Runs from October Crown Tournament to April Crown Tournament
+* Competition format is a Portsmouth Round
+* Submit all scores to your regional Target Archery Marshal
+* All Shoots must take place at events or official practices
  
 ### Summer season
 
 * Runs from April Crown Tournament to October Crown Tournament
-* Competition format is a Royal Round.
+* Competition format is a Royal Round
 * Submit all scores to your regional Target Archery Marshal
 * All Shoots must take place at events or official practices.
 
