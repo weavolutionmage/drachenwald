@@ -27,6 +27,9 @@
   {% if p.mundanename %}
   ({{ p.mundanename }})
   {% endif %}
+  {% if p.pronouns %}
+  ({{ p.pronouns }})
+  {% endif %}
   <br>
   {% if p.email %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endif %}
   {% if p.phone %}Phone: {{ p.phone }}<br>{% endif %}
