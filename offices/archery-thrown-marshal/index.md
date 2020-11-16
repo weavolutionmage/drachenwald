@@ -36,7 +36,7 @@ Click to use Googleforms to submit a marshal's report for your region.
 
 * [Principality of Nordmark](https://goo.gl/forms/zfE5wygztHLnsl9g2) (SE)
 * [Principality of Insulae Draconis](https://goo.gl/forms/PB965pufulcSfZzJ3) (IE, IS, UK)  
-* [Barony of Aarnimetsä](https://forms.gle/32oHzWEqoBksCv6S8)(FI)
+* [Barony of Aarnimetsä](https://forms.gle/32oHzWEqoBksCv6S8) (FI)
 * [Central region](https://goo.gl/forms/OKvdVid4v3obVX6A3) (AT, CH, BE, DK, FR, NL, PL, RO, RU)
 * [Southern region](https://goo.gl/forms/qAazDUfGV5lCLlR03) (BG, IL, IT, ZA)
 
