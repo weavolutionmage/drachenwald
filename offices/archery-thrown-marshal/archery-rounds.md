@@ -5,10 +5,10 @@ toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Electronic score sheets, details of archery rounds, drachenwald annual archery competition details, and competition winners. 
+__Too long; didn't read:__ Electronic score sheets, details of archery rounds, Drachenwald annual archery competition details, and competition winners. 
 {: .notice--primary}
 
-## Resources
+# Resources
 
 The [archery round quick reference]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/archery-round-quick-reference.pdf %}) (PDF) provides a quick reminder of arrow counts, distances, and ranking scores for the common competition formats in Drachenwald.
 
@@ -20,7 +20,7 @@ These spreadsheets help in recording and submitting competition scores. Print th
 
 The [Inter-Kingdom Archery Competition](http://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
 
-## Royal Round
+# Royal Round
 
 A common outdoor competition.
 
@@ -38,7 +38,7 @@ A common outdoor competition.
   * Under ten (10) years of age
     * Twenty, fifteen, and ten yards
 
-## Portsmouth round 
+# Portsmouth round 
 
 A common indoor competition in Drachenwald.
 
@@ -47,11 +47,11 @@ A common indoor competition in Drachenwald.
 * Points are counted from one (outer white) to ten (inner gold).
 * All age groups shoot from the same distance.
 
-## Drachenwald round
+# Drachenwald round
 
 The Drachenwald round was devised to provide a more authentic standard competition for the Kingdom. This competition rewards both shooting skill and the use of authentic equipment. It consists of three parts.
 
-### Clout Shoot
+## Clout Shoot
 This is a long range, timed round which simulates military field archery. Arrows are shot into the target that represents a besieged castle or an element of enemy soldiers arrayed for battle. 
 
 * The target is a circle ten yards in diameter, marked on the ground. It can be made of hay bales or other suitable materials
@@ -62,7 +62,7 @@ This is a long range, timed round which simulates military field archery. Arrows
 
 In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the diameter of the circle must be proportionately reduced to a minimum of eight yards.
 
-### Shooting at the mark
+## Shooting at the mark
 This is a short-range round based on precision, having more in common with hunting than with military archery.  
 
 * The target is a piece of paper 21 x 21 cm (8¼ x 8¼inches)
@@ -74,7 +74,7 @@ This is a short-range round based on precision, having more in common with hunti
   * One round of six arrows at twenty yards with no time limit
 * Each arrow that hits the mark scores two points. This yields a maximum of thirty six points.
    
-### Authenticity
+## Authenticity
 Using, and making, authentic equipment may also yield points for an archer. A maximum of nine points may be gained without loosing an arrow
    * Three points are awarded to archers shooting a medieval bow design
      * An English longbow (D shaped without a sight window)
@@ -86,18 +86,18 @@ Using, and making, authentic equipment may also yield points for an archer. A ma
      * Have built their own period-style arrows (with self nocks and tied-on feathers)
 
  
-## Winter/Summer Competition
+# Winter/Summer Competition
 
 The Annual competition is split into two season’s competitions.
 
-### Winter season
+## Winter season
 
 * Runs from October Crown Tournament to April Crown Tournament
 * Competition format is a Portsmouth Round
 * Submit all scores to your regional Target Archery Marshal
 * All Shoots must take place at events or official practices
  
-### Summer season
+## Summer season
 
 * Runs from April Crown Tournament to October Crown Tournament
 * Competition format is a Royal Round
@@ -105,14 +105,14 @@ The Annual competition is split into two season’s competitions.
 * All Shoots must take place at events or official practices.
 
 
-### Current competition
+## Current competition
 
 Due to the long period of plague, with restrictions on gatherings, the summer competition for 2020 has not taken place.
 
 The competition rankings for the 2019/2020 winter competition [can be found here](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896) (Google sheet)
 
 
-### Previous winners of the Drachenwald Competition
+## Previous winners of the Drachenwald Competition
 
 <table>
 <tr><td><strong>Competition</strong></td><td><strong>Year</strong></td><td><strong>Winner</strong></td></tr>
