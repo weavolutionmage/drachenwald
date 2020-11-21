@@ -13,3 +13,5 @@ renderedImages
 .cache/
 _data/events/*.json
 _data/groups/*.json
+_thisisdrachenwald/feedlist.json
+_thisisdrachenwald/.idea/
