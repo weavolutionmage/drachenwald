@@ -65,8 +65,8 @@ title: Where we are
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
       {% endif %}
       
-        {% if subgroup.region %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endif %}
-        {% if subgroup.website %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endif %}
+        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
+        {% unless subgroup.website == "" %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endunless %}
 
         {% if item.group == "Insulae Draconis" or item.group == "Nordmark" or item.group == "Aarnimetsä" or item.group == "Knights Crossing" %}
           {% assign groupslug = item.group | append: '-' | append: subgroup.group %}
@@ -78,19 +78,23 @@ title: Where we are
         {% assign chatelaine = site.data.groups.officerlist | where: "group", groupslug | where: "office", "chatelaine" | first %}
 
         {% if seneschal %}
-          {% if seneschal.email %}
-  <strong>Seneschal:</strong> {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
-            {% if seneschal.mundanename %}({{ seneschal.mundanename }}){% endif %}
-  <br>
-          {% endif %}
+          {% unless seneschal.scaname == "" %}
+            {% unless seneschal.email == "" %}
+    <strong>Seneschal:</strong> {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
+              {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
+    <br>
+            {% endunless %}
+          {% endunless %}
         {% endif %}
 
         {% if chatelaine %}
-          {% if chatelaine.email %}
-  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
-            {% if chatelaine.mundanename %}({{ chatelaine.mundanename }}){% endif %}
-  <br>
-          {% endif %}
+          {% unless chatelaine.scname == "" %}
+            {% unless chatelaine.email == "" %}
+    <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
+              {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
+    <br>
+            {% endunless %}
+          {% endunless %}
         {% endif %}
       
     </section>
