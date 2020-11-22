@@ -21,6 +21,7 @@ before_script:
   #- curl -L -o _data/groups/officerlist.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTOPqFD8VmoA3RMLkdCdOQnBSxmOMxs8Da98bP2Mx0BYE2mdMtldGRXLgIETQ8Mch8vw5GrwMMYdFJy/pub?gid=800296879&single=true&output=csv"
   #- curl -L -o _data/groups/peerlist.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vTsE4JECxfuAeRCcmx5sou1i0KBSLIybLjmVB7-OlI0ZeUFA-5mhTGFy45eqDvnfIEqB7erHvLCc7JK/pub?gid=1782180233&single=true&output=csv"
   #- curl -L -o _data/academyofdefense.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3yc9oe_Qj4-QW5BhLilEBSi8hWbw8bB0AWbeJdD53fDBtpXfcKsD1imp8H8C9Gf5NiwunTa0V0sTO/pub?gid=0&single=true&output=csv" 
+  - curl -L -o _data/academyofdefense.csv  "https://scripts.drachenwald.sca.org/json/academyofdefense.csv"
   - curl -o _data/groups/grouplist.json "https://scripts.drachenwald.sca.org/json/regnum-groups.json"
   - curl -o _data/groups/officerlist.json "https://scripts.drachenwald.sca.org/json/regnum-officers.json"
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
