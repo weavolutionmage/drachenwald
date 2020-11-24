@@ -1,10 +1,10 @@
 ---
-title:  "Kingdom University is Coming: "
+title:  "Kingdom University is Coming: Cheese"
 date:   2020-11-24 12:00:00 +0000
 category: news
 author: yda
 tags: university
-excerpt: ""
+excerpt: "Cheese Magic"
 ---
 What's the magic behind turning milk and cream into cheese?
 
