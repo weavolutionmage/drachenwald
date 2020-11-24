@@ -1,5 +1,5 @@
 ---
-title:  "Kingdom University is Coming: "
+title:  "Kingdom University is Coming: Blade maintenance "
 date:   2020-11-24 15:42:00 +0000
 category: news
 author: yda
