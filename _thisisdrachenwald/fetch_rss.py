@@ -137,7 +137,9 @@ for rssUrl in rssUrls:
                             print("error on %s\n%s\n Error handling image: %s" % (rssUrl['url'],title, e))
                     #    del response
 
-                key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
+                #key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
+                key = "%s%s%s" % (published.tm_year * 1000 + published.tm_yday, published.tm_hour * 100 + published.tm_min,
+                rssUrl['name'])
 
                 postDict =  {'summary': summaryLtd, 'link': link, 'published': published, 'title': title,
                          'images': imageLst, "key":key}
