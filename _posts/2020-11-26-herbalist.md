@@ -1,6 +1,6 @@
 ---
 title:  "Kingdom University is Coming: Herbalist Meeting"
-date:   2020-11-25 15:42:00 +0000
+date:   2020-11-26 17:30:00 +0000
 category: news
 author: yda
 tags: university
