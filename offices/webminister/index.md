@@ -10,15 +10,15 @@ Mostly, Yda would like to hear from web ministers and would like to know if ther
 
 ## Updating information on the website
 * [Update officer information](https://forms.gle/Xm7bCu7nkq5uMU5Z6)
-* [Adding a chartered group]({{ site.baseurl}}{% link offices/webminister/content-policy %}) 
+* [Adding a chartered group to the website]({{ site.baseurl}}{% link offices/webminister/content-policy.md %}) 
 
 ## Contact Information
 <p>You can email the web minister at webminister@drachenwald.sca.org or if you notice an issue fill out an issue report at <a href="https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/-/issues/new"> our gitlab issue tracker</a></p>
 
-###Web minister
+### Web minister
 Yda van Boulogne
 
-###Web artificers
+### Web artificers
  
 * Sela de la Rosa 
 * Genevieve La Flechiere
