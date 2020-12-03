@@ -18,9 +18,9 @@ The Law council is currently asking your view on the following two draft proposa
 
 With thanks in advance for your service, The Law Council
 
-## Law Proposal Q&A on 8 December
+## Law Proposal Q&A on 15 December
 
-**You can meet the Law Council online on Tuesday 8 December 2020. [Please drop by](https://drachenwald.sca.org/events/calendar/#/) with your questions on these draft law proposals.**
+**You can meet the Law Council online on Tuesday 15 December 2020. [Please drop by](https://drachenwald.sca.org/events/calendar/#/) with your questions on these draft law proposals.**
 
 # 1. Proposal to change Drachenwald law 1 (December 3)
 
