@@ -8,17 +8,16 @@ toc_label: "Table of Contents"
 
 You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
 
-# Proposals for Curia
+# Proposals open for feedback
 
-* The upcoming Curia Regis will discuss the proposals to change [Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation) and Drachenwald law 9-11 (Kingdom awards)]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v3.md %}).
+* Please use the web form at the end of the proposal page when sharing your thoughts with us.
+* When giving feedback on a specific section of the law, please mention its number.
 
-## Past versions of the proposals
+The Law Council is currently asking your view on [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v0.md %}):
+1. Drachenwald law 1
+2. Drachenwald law 2-5
 
-* [Addressing feedback and updated draft proposals 17 August 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
-
-* [Draft proposals 7 July 2020]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
-
-# Purpose of the Law Council
+# The Purpose of the Law Council
 
 The Law Council works with the Kingdom Seneschal to assist in all phases of making changes to the kingdom law. This includes:
 * Regularly review of current kingdom law to insure it is in compliance with SCA Corpora and real world law.
@@ -49,6 +48,7 @@ Council members are expected to participate in monthly online meetings, and rese
 
 The current members of the Law Council are:
 * Alienor of Farryngdon
+* Anna Syveken
 * Anna von Urwald
 * Aodh Ó Siadhail
 * Dubhghall mac Ébhearáird
@@ -56,6 +56,17 @@ The current members of the Law Council are:
 * Gilbert Blakthorn
 * Kareina Talventytär
 * Mærith aff Weselax
-* Memorantia van de Linde (Moira)
+* Memorantia van de Linde
 * Pietari Uv
 * William of Richwood
+
+# Past Proposals
+
+## Changes to Drachenwald law 7.02.2.1 and sections 9-11
+
+The process of changing Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation) and Drachenwald law 9-11 (Kingdom awards):
+* 2020-11-28 Pending laws were proclaimed at a court held in the Kingdom University event.
+* 2020-11-12 Curia.
+* 2020-09-14 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v3.md %}).
+* 2020-08-17 [Addressing feedback and updated draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
+* 2020-07-07 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal1.md %})
