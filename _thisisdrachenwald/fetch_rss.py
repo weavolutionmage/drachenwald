@@ -30,6 +30,7 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
 
 results = {}
 
+
 thumbDir = "renderedImages"
 dlDir = "_dlImages"
 if (not os.path.isdir(thumbDir)):
@@ -162,12 +163,39 @@ for rssUrl in rssUrls:
 srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 
 #pprint.pprint(srtd)
-
+entries = srtd[0:50]
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(srtd[0:50], outfile, ensure_ascii=False)
+    json.dump(entries, outfile, ensure_ascii=False)
 
 with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(srtd[0:50], outfile, ensure_ascii=False)
+    json.dump(entries, outfile, ensure_ascii=False)
+
+from feedgen.feed import FeedGenerator
+fg = FeedGenerator()
+fg.id('https://drachenwald.sca.org/thisis/')
+fg.title('This is Drachenwald')
+fg.link( href='https://drachenwald.sca.org/thisis/',rel='self')
+fg.subtitle('Updates from the Drachenwald populace on social media')
+
+
+for entry in entries:
+    if(entry['merge']):
+        print("needs to be merged")
+    else:
+        item=entry['lst'][0]
+        fe = fg.add_entry()
+        fe.id(item['link'])
+        fe.title(item['title'][0])
+        fe.link(href=entry['siteLink'])
+
+
+
+rssfeed  = fg.rss_str(pretty=True)
+print(fg.rss_str())
+
+
+fg.rss_file('thisis/rss.xml')
+
 
 #pp.pprint(srtd[0:100])
 
