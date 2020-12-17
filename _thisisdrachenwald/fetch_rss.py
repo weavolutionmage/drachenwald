@@ -14,17 +14,17 @@ pp = pprint.PrettyPrinter(indent=4)
 rssUrls=[]
 
 
-#with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
-#    rssUrls = json.load(f)
+with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
+    rssUrls = json.load(f)
 
-rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True, "type":"blog"},
-           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},#
-
-           {"url": "https://www.instagram.com/explore/tags/drachenwald/", "name": "Huys Uylenburgh", "link":"https://www.instagram.com/explore/tags/drachenwald/","merge": False,"showMedia":  True, "type":"instagram"},
-           {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube",
-            "link": "https://www.instagram.com/explore/tags/drachenwald/", "merge": False, "showMedia": True,
-            "type": "youtube"}
-]
+#rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True, "type":"blog"},
+#           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},##
+#
+#           {"url": "https://www.instagram.com/explore/tags/drachenwald/", "name": "Huys Uylenburgh", "link":"https://www.instagram.com/explore/tags/drachenwald/","merge": False,"showMedia":  True, "type":"instagram"},
+#           {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube",
+#            "link": "https://www.instagram.com/explore/tags/drachenwald/", "merge": False, "showMedia": True,
+#            "type": "youtube"}
+#]
 
 
 

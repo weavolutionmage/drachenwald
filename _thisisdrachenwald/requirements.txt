@@ -4,3 +4,4 @@ requests
 pyyaml
 Pillow
 feedgen
+pytz

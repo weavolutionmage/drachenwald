@@ -4,6 +4,8 @@ import shutil
 import os, sys
 import random
 import pprint
+import datetime
+import pytz
 pp = pprint.PrettyPrinter(indent=4)
 
 entries = []
@@ -28,12 +30,20 @@ for entry in entries:
         item=entry['lst'][0]
         gid=item['link']
         title=item['title']
-        print(type(title))
-        print(title)
         fe = fg.add_entry()
         fe.id(gid)
         fe.title(title)
         fe.link(href=entry['siteLink'])
+        pb = item['published']
+        print(pb)
+        pub = datetime.datetime(pb[0],pb[1],pb[2],pb[3],pb[4],pb[5],pb[6],pytz.timezone("America/Los_Angeles"))
+        #timezone = pytz.timezone("America/Los_Angeles")
+        #d_aware = timezone.localize(d)
+        type(pub)
+        print(pub)
+        fe.published(pub)
+        fe.summary(item['summary'])
+        fe.guid(gid,permalink=True)
 
 
 
