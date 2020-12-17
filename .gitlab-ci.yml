@@ -26,6 +26,7 @@ before_script:
   - curl -o _data/groups/officerlist.json "https://scripts.drachenwald.sca.org/json/regnum-officers.json"
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
   - 'python3 _thisisdrachenwald/fetch_rss.py'
+  - 'python3 _thisisdrachenwald/create_rss.py'
 
 pages:
   environment: staging

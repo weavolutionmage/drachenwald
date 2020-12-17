@@ -14,17 +14,17 @@ pp = pprint.PrettyPrinter(indent=4)
 rssUrls=[]
 
 
-with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
-    rssUrls = json.load(f)
+#with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
+#    rssUrls = json.load(f)
 
-#rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True, "type":"blog"},
-#           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},#
-#
-#           {"url": "https://www.instagram.com/explore/tags/drachenwald/", "name": "Huys Uylenburgh", "link":"https://www.instagram.com/explore/tags/drachenwald/","merge": False,"showMedia":  True, "type":"instagram"},
-#           {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube",
-#            "link": "https://www.instagram.com/explore/tags/drachenwald/", "merge": False, "showMedia": True,
-#            "type": "youtube"}
-#]
+rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True, "type":"blog"},
+           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},#
+
+           {"url": "https://www.instagram.com/explore/tags/drachenwald/", "name": "Huys Uylenburgh", "link":"https://www.instagram.com/explore/tags/drachenwald/","merge": False,"showMedia":  True, "type":"instagram"},
+           {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube",
+            "link": "https://www.instagram.com/explore/tags/drachenwald/", "merge": False, "showMedia": True,
+            "type": "youtube"}
+]
 
 
 
@@ -63,6 +63,9 @@ for rssUrl in rssUrls:
                 imageLst=[],
                 link = entry['link']
                 published = entry['published_parsed']
+                if not(isinstance(title, str)):
+                    #some RSS feeds, notably youtube result in a tuple for the title rather than a straight string
+                    title=title[0]
 
                 if (rssUrl["type"] == "youtube"):
                     #pprint.pprint(entry)
@@ -170,32 +173,6 @@ with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
 with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
     json.dump(entries, outfile, ensure_ascii=False)
 
-from feedgen.feed import FeedGenerator
-fg = FeedGenerator()
-fg.id('https://drachenwald.sca.org/thisis/')
-fg.title('This is Drachenwald')
-fg.link( href='https://drachenwald.sca.org/thisis/',rel='self')
-fg.subtitle('Updates from the Drachenwald populace on social media')
-
-
-for entry in entries:
-    if(entry['merge']):
-        print("needs to be merged")
-    else:
-        item=entry['lst'][0]
-        fe = fg.add_entry()
-        fe.id(item['link'])
-        fe.title(item['title'][0])
-        fe.link(href=entry['siteLink'])
-
-
-
-rssfeed  = fg.rss_str(pretty=True)
-print(fg.rss_str())
-
-
-fg.rss_file('thisis/rss.xml')
-
 
 #pp.pprint(srtd[0:100])
 
@@ -205,5 +182,6 @@ fg.rss_file('thisis/rss.xml')
 import yaml
 with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
     yaml.dump(rssUrls,outfile)
+
 
 
