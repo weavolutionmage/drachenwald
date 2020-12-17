@@ -9,29 +9,32 @@
   
   <dd>
   {% if include.showbio %}
-    {% if p.bio %}
+    {% unless p.bio == "" %}
       <p>
       <strong>{{ p.scaname }}</strong>
       {{ p.bio }}
       </p>
-    {% endif %}
+    {% endunless %}
     
-    {% if p.realbio %}
+    {% unless p.realbio == "" %}
       <p>
       <strong>{{ p.mundanename }}</strong>
       {{ p.realbio }}
       </p>
-    {% endif %}
+    {% endunless %}
   {% endif %}
   
   <strong>{{ p.scaname }}</strong>
-  {% if p.mundanename %}
+  {% unless p.mundanename == "" %}
   ({{ p.mundanename }})
-  {% endif %}
+  {% endunless %}
+  {% unless p.pronouns == "" %}
+  ({{ p.pronouns }})
+  {% endunless %}
   <br>
-  {% if p.email %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endif %}
-  {% if p.phone %}Phone: {{ p.phone }}<br>{% endif %}
-  {% if p.address %}{{ p.address }}<br>{% endif %}
+  {% unless p.email == "" %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endunless %}
+  {% unless p.phone == "" %}Phone: {{ p.phone }}<br>{% endunless %}
+  {% unless p.address == "" %}{{ p.address }}<br>{% endunless %}
 
   {% unless include.sidebar == true %}
   </div>

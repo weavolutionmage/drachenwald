@@ -6,29 +6,27 @@ toc_label: "Table of Contents"
 
 # Introduction
 
-In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a Law Council to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
+In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
-Your contribution is important during this process especially in 2, 5, and 6:
+Your contribution is important during this process especially in items 2, 5, and 6 below:
 1. The Law Council creates a draft law proposal.
 2. The draft law proposal is published on the kingdom website for receiving feedback.
-3. The Law Council reviews the feedback and creates a (final) law proposal that is approved by the Seneschal.
+3. The Law Council reviews the feedback and creates a (final) law proposal that is approved by the Seneschal. A summary of the received feedback will be included with the proposal.
 4. The law proposal is recommended to Crown who decides whether it warrants discussing at a future Curia. (If not, it will need to be reworked or abandoned).
-5. In preparation for Curia, the proposed law text is published in Dragon's Tale and, possibly with additional information, on the kingdom website, for receiving feedback.
+5. In preparation for Curia, the proposed law text is published in Dragon's Tale and, possibly with additional information, on the kingdom website, for receiving feedback. All received feedback will be forwarded to Crown.
 6. The law proposal is discussed in Curia.
-7. Crown rules on the law proposal (accept/refuse)
+7. Crown decides on the law proposal (accept/refuse).
 8. If accepted, the law will take effect after it has been published in Dragon's Tale and proclaimed at an event.
 
-When feedback on a particular proposal is frequested, please use the provided web form. At any time you can reach the Law Council at law@drachenwald.sca.org.
+When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
-# Please give feedback on the current draft law proposals
+# Giving feedback on the draft law proposals
 
-**The Law Council is currently asking your view on the following draft law proposals.**
+The period for commenting on the following draft law proposals was 7-21 July 2020. Thank you for all the feedback we received!
 
-**We would appreciate your comments on this subject; no later than [date of commenting deadline]. Please use the web form at the end of this page when sharing your thoughts with us.**
+You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
-**With thanks in advance for your service, The Law Council**
-
-# I Proposal to change Drachenwald law 7.02.2.1
+# 1 Proposal to change Drachenwald law 7.02.2.1 (July 7 draft)
 
 ## Reasoning
 
@@ -50,7 +48,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 7.02.2.1 Each competitor in the Crown Tournament must be fighting for a prospective consort ~~of the opposite sex unless the Crown has elected to permit a competitor to fight for a prospective consort of the same sex~~. The competitor and prospective **consort** ~~Consort~~ are referred to as "Participants" in these laws.
 
-# II Proposal to change Drachenwald law 9-11
+# 2 Proposal to change Drachenwald law 9-11 (July 7 draft)
 
 ## Reasoning
 
@@ -112,7 +110,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.02.1.2** Presented to those people who have distinguished themselves by long and extraordinary services to the Kingdom.
 
-**10.02.1.3** The **symbol** ~~badge~~ of the **order** ~~Order~~ is (Fieldless) **a** ~~A~~ ring formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules.
+**10.02.1.3** The **symbol** ~~badge~~ of **this order** ~~the Order~~ is (Fieldless) **a ring** ~~A ring~~ formed of a wingless dragon in annulo widdershins Or, maintaining in chief with all four legs and mouth a gem gules.
 
 **10.02.1.4** Members of this **order** ~~Order~~ shall rank equally with members of the Order of the Panache and the Order of the Silver Guard.
 
@@ -120,7 +118,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.02.2.1** Presented to those people who have distinguished themselves by long and consistent excellence in **arts and sciences** ~~the Arts~~ and who have also constantly made their expertise available to the various **subjects** ~~members~~ of the Kingdom.
 
-**10.02.2.2** The symbol of the **order** ~~Order~~ is (Fieldless) issuant to chief from a torteau charged with a bezant pierced sable three feathers gules, Or and **sable** ~~Sable~~.
+**10.02.2.2** The symbol of **this order** ~~the Order~~ is (Fieldless) issuant to chief from a torteau charged with a bezant pierced sable three feathers gules, Or and **sable** ~~Sable~~.
 
 **10.02.2.3** Members of this **order** ~~Order~~ shall rank equally with members of the Orden des Lindquistringes and the Order of the Silver Guard.
 
@@ -128,9 +126,9 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.02.3.1** Presented to those **people** ~~members~~ who have distinguished themselves by chivalry and prowess at arms.
 
-**10.02.3.2** The **symbol** ~~badge~~ of this **order** ~~Order~~ is (Tinctureless) a silver wrist-guard engraved with a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect.
+**10.02.3.2** The **symbol** ~~badge~~ of this **order** ~~Order~~ is (Tinctureless) a silver wrist-guard **bearing** ~~engraved with~~ a dragon passant coward, wings addorsed, maintaining in dexter forepaw a sword erect.
 
-**10.02.3.3** Members of the **order** ~~Order~~ shall rank equally with members of the Orden des Lindquistringes and the Order of the Panache.
+**10.02.3.3** Members of **this order** ~~the Order~~ shall rank equally with members of the Orden des Lindquistringes and the Order of the Panache.
 
 **10.02.4** The Order of the Rose
 
@@ -138,7 +136,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.02.4.2** Companions of this **order** ~~Order~~ may be styled as Lord or Lady of the Rose as is appropriate.
 
-**10.02.4.3** The symbol of the **order** ~~Order~~ is (Tinctureless) a wreath of roses.
+**10.02.4.3** The symbol of **this order** ~~the Order~~ is (Tinctureless) a wreath of roses.
 
 **10.03 Ordo Annuli (Order of the Ring) - Ordo Annulorum (Order of the Rings)**
 
@@ -150,7 +148,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.03.2 This order confers a Grant of Arms upon any recipient who does not already hold a Grant of Arms.**
 
-**10.03.3  The symbol of the order is (Fieldless) a ring sable.**
+**10.03.3  The symbol of this order is (Fieldless) a ring sable.**
 
 **10.03.4** Ordo Hirundinis (the Order of the Swallow) ~~(Grant of Arms for service)~~
 
@@ -174,21 +172,23 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **10.04.1** The Order of the Edelweiss (formerly Marguerite) 
 
-**10.04.1.1** This **order** ~~Order~~ is closed. 
+~~10.11.1.2 This Order is closed.~~
 
-**10.04.1.2** Companions of this **order** ~~Order~~ may be styled **as Lord or Lady of the Edelweiss** ~~"Lord/Lady of the Edelweiss"~~ as appropriate. 
+**10.04.1.1** Companions of this **order** ~~Order~~ may be styled **as Lord or Lady of the Edelweiss** ~~"Lord/Lady of the Edelweiss"~~ as appropriate. 
 
-**10.04.1.3 This order was presented to former Consorts of the Principality of Drachenwald.**
+**10.04.1.2 This order was for the former Consorts of the Principality of Drachenwald.**
 
-**10.04.1.4** The symbol of the **order** ~~Order~~ is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an **annulet** ~~amulet~~ argent.
+**10.04.1.3** The symbol of **this order** ~~the Order~~ is (Fieldless) an edelweiss Or, seeded gules, within and conjoined to an **annulet** ~~amulet~~ argent.
 
-**10.04.2** Order of The Dragon's Steel 
+**10.04.2** Order of The Dragon's Steel
 
-**10.04.2.1** This order is closed. 
+~~10.11.2.1 This order is closed.~~
 
-**10.04.2.2** This order was presented to those members of the period fencing community, who had displayed superior abilities in period **fencing, prior to the creation of the Order of Defense.** ~~fencing.~~
+**10.04.2.1** This order was **established as a polling order for** ~~presented to~~ those members of the ~~period~~ fencing community, who had displayed superior abilities in ~~period fencing.~~ **fencing, prior to the creation of the Order of Defense.**
 
-**10.04.2.3** The **symbol** ~~badge~~ of the order is Or, three pine trees in fess eradicated gules, overall a dragon passant coward sable, and on a chief gules a rapier argent.
+**10.04.2.2** The **symbol** ~~badge~~ of **this** ~~the~~ order is Or, three pine trees in fess eradicated gules, overall a dragon passant coward sable, and on a chief gules a rapier argent.
+
+**10.04.2.3 The members of this order traditionally wear a red-gold-black braid around their off-hand upper arm/shoulder.**
 
 11.00 CONCERNING NON-ARMIGEROUS KINGDOM AWARDS
 
@@ -196,13 +196,13 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.01.1 Presented at the discretion of the Crown to those who have contributed to Drachenwald and will soon depart, or have already departed, the Kingdom.
 
-11.01.2 The **symbol** ~~badge~~ is Barry wavy argent and azure, two flaunches vert.
+11.01.2 The **symbol of the order** ~~badge~~ is Barry wavy argent and azure, two flaunches vert.
 
 11.02 The ~~King’s~~ Order of the Companions of **Albion** ~~Albion.~~
 
 11.02.1 **This order is conferred by the Sovereign upon those subjects of Drachenwald** ~~The Albion is presented by the King to those of His subjects that He may deem~~ worthy of recognition for exemplary chivalry, courtesy or service. It is recommended that the Sovereign presents this award no more than one time per reign.
 
-11.02.2 The Companions of this **order** ~~Order~~ shall have the right to display the regalia of the **order** ~~Order~~, which is (Fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules.
+11.02.2 The **symbol of this order** ~~Companions of this Order shall have the right to display the regalia of the Order, which~~ is (Fieldless) a dragon's claw inverted sable within and conjoined to an annulet per pale Or and gules.
 
 11.03 The ~~Queen’s~~ Order of Courtesy ~~of Drachenwald~~
 
@@ -210,7 +210,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.03.2 **The Consort may, whenever they deem necessary, call upon the members of the order for aid or advice in encouraging courteous behavior.** ~~The Queen may, if She sees fit, call upon the members of the Order to assist Her with their aid or advice in encouraging Courteous behavior, whenever She may deem this necessary.~~
 
-11.03.3 The symbol **of** ~~for~~ this award shall be an Edelweiss with a red center to be worn on a pin or silver chain.
+11.03.3 The symbol **of** ~~for~~ this award **is** ~~shall be~~ an Edelweiss with a red center to be worn on a pin or silver chain.
 
 11.04 The Sigillum ~~Regis of Drachenwald, the Sigillum Reginae of Drachenwald, and the Sigillum Regis et Reginae of Drachenwald~~
 
@@ -218,11 +218,11 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.04.2 It is recommended that each Sovereign and **Consort** ~~consort~~ present this award no more than three times per reign. Joint awards count as one each.
 
-11.04.3 The name ~~and badge~~ of these awards ~~are:~~ depends on who bestows it.
+11.04.3 The name ~~and badge~~ of **the award** ~~these awards are:~~ depends on who bestows it.
 
 ~~11.04. 3.1 For the King and Queen The Sigillum Regis et Reginae of Drachenwald: A white edelweiss surmounted by a black dragon's head bearing the sigils of the Crown bestowing it.~~
 
-**11.04.3.1 When the Sovereign and the Consort bestow the Sigillum jointly, the name of the award mentions first the title of the Sovereign and then the title of the Consort, in Latin.**
+**11.04.3.1 When the Sovereign and the Consort bestow the Sigillum jointly, the name of this award mentions first the title of the Sovereign and then the title of the Consort, in Latin.**
 
 **11.04.3.1.1 A Queen Sovereign and a King Consort jointly bestow Sigillum Reginae et Regis.**
 
@@ -232,7 +232,7 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **11.04.3.1.4 A King Sovereign and a King Consort jointly bestow Sigillum Regum.**
 
-**11.04.3.2 When either the Sovereign or the Consort bestows the Sigillum alone, the name of the award mentions their title in Latin.**
+**11.04.3.2 When either the Sovereign or the Consort bestows the Sigillum alone, the name of this award mentions their title in Latin.**
 
 **11.04.3.2.1 A King Sovereign or a King Consort bestows Sigillum Regis.**
 
@@ -244,11 +244,11 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 **11.04.4 The symbol of the award depends on who bestows it.**
 
-**11.04.4.1 When the Sovereign and the Consort bestow the Sigillum jointly, the symbol of the award is a white edelweiss surmounted by a black dragon's head bearing the initials of the Crown bestowing it.**
+**11.04.4.1 When the Sovereign and the Consort bestow the Sigillum jointly, the symbol of this award is a white edelweiss surmounted by a black dragon's head bearing the initials of the Crown bestowing it.**
 
-**11.04.4.2 When the Sovereign bestows the Sigillum, the symbol of the award is a black dragon's head charged with the initials of the Sovereign bestowing it.**
+**11.04.4.2 When the Sovereign bestows the Sigillum, the symbol of this award is a black dragon's head charged with the initials of the Sovereign bestowing it.**
 
-**11.04.4.3 When the Consort bestows the Sigillum, the symbol of the award is a white edelweiss charged with the initials of the Consort bestowing it.**
+**11.04.4.3 When the Consort bestows the Sigillum, the symbol of this award is a white edelweiss charged with the initials of the Consort bestowing it.**
 
 11.05 The Order of the Dragon's Tears
 
@@ -270,13 +270,13 @@ In the proposed law text below, added text is marked with **bold** and removed t
 
 11.07.1 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary behavior or service.
 
-11.07.2 The symbol **of** ~~for~~ this award will be a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
+11.07.2 The symbol **of** ~~for~~ this award **is** ~~will be~~ a crystal jewel other than black suspended from a red, black, and gold ribbon or cord.
 
 11.08 The Order of the Dragon's Pride
 
 11.08.1 This award will be given to children (under 12 years of age) who have distinguished themselves through exemplary work in the arts and sciences.
 
-11.08.2 The symbol **of** ~~for~~ this **award** ~~Award~~ shall be (reserved).
+11.08.2 The symbol **of** ~~for~~ this **award** ~~Award~~ **is** ~~shall be~~ (reserved).
 
 11.09 The Hospitallers of Albion
 
@@ -285,11 +285,3 @@ In the proposed law text below, added text is marked with **bold** and removed t
 11.09.2 The symbol of this award is (Fieldless) **on** ~~On~~ a dragon passant coward sable a wake knot argent.
 
 11.09.3 Only persons/groups residing/based outside the Kingdom of Drachenwald may receive this award.
-
-# Send in your comments
-
-The Law Council welcomes all feedback on the proposals. When giving feedback on any specific section, please mention its number.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZjZtBfoHL9HRR_X6XxIearYnr7-tjkW2gc1y-R0o7t_P_tg/viewform?embedded=true" width="640" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Your comments on the law proposals

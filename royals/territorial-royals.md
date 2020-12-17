@@ -51,7 +51,7 @@ Baroness AstridH Thorkilsdotter
 
 ## Insulae Draconis (United Kingdom, Ireland, Iceland)  
 
-<img src="{{ site.baseurl }}{% link images/heraldry/idarms.gif %}" width="40" alt="Arms of Insulae Draconis">{: .align-left}  
+<img src="{{ site.baseurl }}{% link images/heraldry/iddevice.svg %}" width="40" alt="Arms of Insulae Draconis">{: .align-left}  
 
 Their Highnesses, Prince & Princess of the [Principality of Insulae Draconis](http://www.insulaedraconis.org/)  
 

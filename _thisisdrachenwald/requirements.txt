@@ -1,4 +1,4 @@
-feedparser
+feedparser==6.0.0b3
 bs4
 requests
 pyyaml

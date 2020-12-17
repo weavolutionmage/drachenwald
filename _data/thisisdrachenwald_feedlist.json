@@ -6,7 +6,7 @@
 {"url": "https://16thcstitches.wordpress.com/feed/", "name": "16th Century Stitches", "link":"https://16thcstitches.wordpress.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "http://aros.nordmark.org/feed/", "name": "Aros", "link":"http://aros.nordmark.org","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "http://scriptura-et-pictura.blogspot.com/feeds/posts/default", "name": "Scriptura et Pictura", "link":"http://scriptura-et-pictura.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
-{"url": "http://freewaydiva.blogspot.com/feeds/posts/default", "name": "Adventures of Tomyris", "link":"http://freewaydiva.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
+{"url": "http://freewaydiva.blogspot.com/feeds/posts/default", "name": "An Everyday Italian", "link":"http://freewaydiva.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "http://renikasanachronisticadventures.blogspot.com/feeds/posts/default", "name": "Renikas anachronistic adventures", "link":"http://renikasanachronisticadventures.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
   {"url": "https://dmnes.wordpress.com/feed", "name": "Dictionary of Medieval Names from European Sources", "link":"https://dmnes.wordpress.com/","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "https://nautahistoriae.com/feed/", "name": "Anna Syveken", "link":"https://nautahistoriae.com/","merge": false,"showMedia":  true, "type": "blog"},
@@ -34,6 +34,7 @@
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCy0mw96X7VNgbfpb6jEtsxg", "name": "Agnes Edgren's Youtube Channel", "link": "https://www.youtube.com/channel/UCy0mw96X7VNgbfpb6jEtsxg", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://dracameron.blogspot.com/feeds/posts/default", "name":"The Drachenwald Decameron", "link":"https://dracameron.blogspot.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "name": "Alexandre Davinge's Youtube Channel", "link": "https://www.youtube.com/playlist?list=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "merge": false, "showMedia": true, "type": "youtube"},
+{"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc0Nf5KpXgF_houELRtM_Ew", "name": "Medieval Cookery with Arpad", "link": "https://www.youtube.com/channel/UCc0Nf5KpXgF_houELRtM_Ew", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://knotsinanet.wordpress.com/feed/", "name":"Knots in a net – Solmuja verkossa", "link":"https://knotsinanet.wordpress.com","merge": false,"showMedia":  true, "type": "blog"}
 
 
