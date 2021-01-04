@@ -1,13 +1,23 @@
 {% assign p = include.holder %}
 
 {% unless include.sidebar == true %}<div class="row"><div class="8u 12u(mobile) important(mobile)">{% endunless %}
+  <!-- Headers -->
   {% if p.responsibility == "" %}
   <dt>{{ group.group }} {{ group.status }} {{ include.longname }}</dt>
   {% else %}
   <dt>{{ group.group }} {{ p.responsibility }}</dt>
   {% endif %}
-  
+
+  <!-- include sca/mundane bio !-->
   <dd>
+    {% if p.portrait %}
+    {% unless p.portrait == "" %}
+    <span class="image">
+      <img style="float: left; margin: 0px 0px 15px 15px;" src="{{ site.baseurl }}/{{p.portrait}}" alt="{{p.scaname}}" width="200">
+    </span>
+    {% endunless %}
+  {% endif %}  
+  
   {% if include.showbio %}
     {% unless p.bio == "" %}
       <p>
@@ -36,19 +46,7 @@
   {% unless p.phone == "" %}Phone: {{ p.phone }}<br>{% endunless %}
   {% unless p.address == "" %}{{ p.address }}<br>{% endunless %}
 
-  {% unless include.sidebar == true %}
-  </div>
-  <div class="4u 12u(mobile)">
-  {% endunless %}
 
-  {% if p.portrait %}
-    {% unless p.portrait == "" %}
-    <br><br><br><br><br>
-    <span class="image">
-      <img src="{{ site.baseurl }}/{{p.portrait}}" alt="{{p.scaname}}" width="200">
-    </span>
-    {% endunless %}
-  {% endif %}
-  </dd>
   
-{% unless include.sidebar %}</div></div>{% endunless %}
+  </dd>
+{% unless include.sidebar %}</div> </div>{% endunless %}
