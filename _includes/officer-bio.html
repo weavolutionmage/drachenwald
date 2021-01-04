@@ -2,11 +2,12 @@
 
 {% unless include.sidebar == true %}<div class="row"><div class="8u 12u(mobile) important(mobile)">{% endunless %}
   {% if p.responsibility == "" %}
-  <h2>{{ group.group }} {{ group.status }} {{ include.longname }}</h2>
+  <dt>{{ group.group }} {{ group.status }} {{ include.longname }}</dt>
   {% else %}
-  <h2>{{ group.group }} {{ p.responsibility }}</h2>
+  <dt>{{ group.group }} {{ p.responsibility }}</dt>
   {% endif %}
-
+  
+  <dd>
   {% if include.showbio %}
     {% unless p.bio == "" %}
       <p>
@@ -48,5 +49,6 @@
     </span>
     {% endunless %}
   {% endif %}
-
+  </dd>
+  
 {% unless include.sidebar %}</div></div>{% endunless %}
