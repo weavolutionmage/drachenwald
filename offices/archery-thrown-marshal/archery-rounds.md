@@ -12,13 +12,18 @@ __Too long; didn't read:__ Electronic score sheets, details of archery rounds, D
 
 The [archery round quick reference]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/archery-round-quick-reference.pdf %}) (PDF) provides a quick reminder of arrow counts, distances, and ranking scores for the common competition formats in Drachenwald.
 
-These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competetions. The spreadsheets automatically calculate archers totals and ranking levels for each archer. Submit the filled spreasheet via email to the captain general of archers.
+These spreadsheets help in recording and submitting competition scores. Print the sheets for use during competetions. The spreadsheets automatically calculate archers totals and ranking levels for each archer. 
 * [Royal round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/royal-round-score-sheet.xls %})(.xls file)
 * [Portsmouth round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/portsmouth-round-score-sheet.xls %})(.xls file)
 * [Drachenwald round score sheet]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/Drachenwald_Round.xls %})(.xls file)
 
 
 The [Inter-Kingdom Archery Competition](http://scores-sca.org/home/index.php?R=10) (external link) website provides details og the standardised competition recognised across the known world.
+
+# Submitting scores
+To submit scores from official events or practices, fill the appropriate scoresheet from the list above with the scores from the round and then submit these to the captain general of archers using one of the methods below:
+* Use [the archery scores submission form](https://forms.gle/muW86cfJftRojgy29) to submit the scoresheets directly to the captain general. Note: to attach sheets to the form, you will need to have a google account.
+* Send an email to the captain general of archers, attaching the completed scoresheets
 
 # Royal Round
 
