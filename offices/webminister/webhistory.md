@@ -44,4 +44,20 @@ Web Minister: Rhys Terafan Greydragon
 * [Baron Handbook](https://web.archive.org/web/20060502114807/http://www.drachenwald.sca.org/Articles/baronhandbook.html)
 * The arrival of the [Drachenwald Forum](https://web.archive.org/web/20060427234144/http://forum.drachenwald.sca.org/)
 * [And yet another redesign](https://web.archive.org/web/20061205211405/http://www.drachenwald.sca.org/)
-* And a new webminister: Marcus von Stormam
+* And a new webminister: Marcus von Stormam (https://web.archive.org/web/20061205211405/http://www.drachenwald.sca.org/)
+* [Central, Eastern Baltic, Scandinavia and Southern regions for martial activities](https://web.archive.org/web/20061129232732/http://www.drachenwald.sca.org/Marshal/contacts.php)
+* Dedicated PHP starts to show up
+
+#2007
+* A listing of [Articles of interest to Drachenwald](https://web.archive.org/web/20070107004500/http://www.drachenwald.sca.org/Articles/) shows up
+
+# 2008
+* [Rearranging the regions. Eastern Baltic is gone and only Scandinvia/Nordmark, central and Insulae Draonis remain](https://web.archive.org/web/20070805083527/http://www.drachenwald.sca.org/contacts.php). Between kingdom contacts and the earl marshall page they're not consistent though.
+
+# 2009
+* A new webminister: Master Mans Knutsson Kotte
+* On june 26th, the new Drupal website is launched: https://web.archive.org/web/20090708000824/http://www.drachenwald.sca.org/index_new.php
+
+
+# 2010
+* [Eastern Baltic is back :D](https://web.archive.org/web/20100125094044/http://www.drachenwald.sca.org/content/earl-marshal)
