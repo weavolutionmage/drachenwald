@@ -23,7 +23,7 @@ This council helps maintain Drachenwald's Code of Conduct policy and acts as a r
 ## Resource Documents and Information
 
 * [SCA Inc Corpora Law](https://www.sca.org/wp-content/uploads/2019/12/govdocs.pdf)
-* [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/2020JanuaryDrachenwaldLaw.pdf %}) (PDF)
+* [Kingdom Law]({{ site.baseurl }}{% link offices/seneschal/files/2020NovemberDrachenwaldLaw.pdf %}) (PDF)
 * [SCA Inc Seneschal Policies](https://www.sca.org/resources/document-library/)
 * [Information on how to be a Seneschal in Drachenwald]({{ site.baseurl }}{% link offices/seneschal/seneschals-handbook.md %})
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)

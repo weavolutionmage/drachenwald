@@ -18,7 +18,7 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
     rssUrls = json.load(f)
 
 #rssUrls = [{"url": "https://huysuylenburgh.wordpress.com/feed/", "name": "Huys Uylenburgh", "link":"https://huysuylenburgh.wordpress.com","merge": False,"showMedia":  True, "type":"blog"},
-#           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},#
+#           {"name": "Yda v Boulogne's flickr feed", "url": "https://www.flickr.com/services/feeds/photos_public.gne?tags=thisisdrachenwald&id=70418651@N00", "link": "https://www.flickr.com/search/?sort=date-taken-desc&safe_search=1&tags=thisisdrachenwald&user_id=70418651%40N00&view_all=1", "merge": True,"showMedia": True, "type":"flickr"},##
 #
 #           {"url": "https://www.instagram.com/explore/tags/drachenwald/", "name": "Huys Uylenburgh", "link":"https://www.instagram.com/explore/tags/drachenwald/","merge": False,"showMedia":  True, "type":"instagram"},
 #           {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC662iHKfpqVt9_HGYUt2-Xg", "name": "Avery's Youtube",
@@ -29,6 +29,7 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
 
 
 results = {}
+
 
 thumbDir = "renderedImages"
 dlDir = "_dlImages"
@@ -62,6 +63,9 @@ for rssUrl in rssUrls:
                 imageLst=[],
                 link = entry['link']
                 published = entry['published_parsed']
+                if not(isinstance(title, str)):
+                    #some RSS feeds, notably youtube result in a tuple for the title rather than a straight string
+                    title=title[0]
 
                 if (rssUrl["type"] == "youtube"):
                     #pprint.pprint(entry)
@@ -137,7 +141,9 @@ for rssUrl in rssUrls:
                             print("error on %s\n%s\n Error handling image: %s" % (rssUrl['url'],title, e))
                     #    del response
 
-                key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
+                #key = "%s%s" % (published.tm_year*1000+ published.tm_yday, rssUrl['name'])
+                key = "%s%s%s" % (published.tm_year * 1000 + published.tm_yday, published.tm_hour * 100 + published.tm_min,
+                rssUrl['name'])
 
                 postDict =  {'summary': summaryLtd, 'link': link, 'published': published, 'title': title,
                          'images': imageLst, "key":key}
@@ -160,12 +166,13 @@ for rssUrl in rssUrls:
 srtd =  [results[key] for key in sorted(results.keys(), reverse=True)]
 
 #pprint.pprint(srtd)
-
+entries = srtd[0:50]
 with io.open('_data/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(srtd[0:50], outfile, ensure_ascii=False)
+    json.dump(entries, outfile, ensure_ascii=False)
 
 with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
-    json.dump(srtd[0:50], outfile, ensure_ascii=False)
+    json.dump(entries, outfile, ensure_ascii=False)
+
 
 #pp.pprint(srtd[0:100])
 
@@ -175,5 +182,6 @@ with io.open('thisis/thisisdrachenwald.json', 'w', encoding='utf-8') as outfile:
 import yaml
 with io.open('_data/thisisdrachenwald_feedlist.yaml', 'w', encoding='utf-8') as outfile:
     yaml.dump(rssUrls,outfile)
+
 
 
