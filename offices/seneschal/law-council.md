@@ -13,9 +13,11 @@ You can always reach the Law Council at <script type="text/javascript">document.
 * Please use the web form at the end of the proposal page when sharing your thoughts with us.
 * When giving feedback on a specific section of the law, please mention its number.
 
-The Law Council is currently asking your view on [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v0.md %}):
-1. Drachenwald law 1
-2. Drachenwald law 2-5
+The Law Council is currently asking your view on the proposal to change [Drachenwald law section 5]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %}).
+
+# Proposals for Curia
+
+* The upcoming Curia will discuss the proposals to change [Drachenwald law sections 1-5]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v1.md %}).
 
 # The Purpose of the Law Council
 
@@ -52,6 +54,7 @@ The current members of the Law Council are:
 * Anna von Urwald
 * Aodh Ó Siadhail
 * Dubhghall mac Ébhearáird
+* Duncan Kerr
 * Ellisa von Styra
 * Gilbert Blakthorn
 * Kareina Talventytär
