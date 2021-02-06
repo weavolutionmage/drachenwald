@@ -1,26 +1,22 @@
 ---
-title: Law Proposals December 3
+title: Law Proposals for Curia 18 March 2021
 toc: true
 toc_label: "Table of Contents"
 ---
 
-# Introduction
+# Proposed Kingdom Law Changes for a Curia
 
-In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
+Their Majesties Æiríkr and Jacquelyna give notice that they will hold **an online Curia Regis on Thursday March 18, 2021 at 7pm CET**.
 
-# Giving feedback on the draft law proposals
+The agenda for this Curia is to review proposed changes to sections 1-5 of Drachenwald Law, separated into two proposals. These proposed changes are being put before the Curia for discussion. The outcome of that discussion may be that any of the proposed changes may be rejected, or altered before being implemented into Kingdom Law.
 
-The period for commenting on the following draft law proposals ended on 18 December 2020. Thank you for all the feedback we received!
+All Great Officers of the Kingdom should make every effort to attend this on-line Curia. If Great Officers are unable to do so, they may send a designated representative, or make their comments known to the Crown and Kingdom Seneschal in writing, by March 17, 2021. Members of the populace may also send comments in writing to the Crown (crown@drachenwald.sca.org) and Kingdom Seneschal (seneschal@drachenwald.sca.org) in advance of the meeting.
 
-You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
-
-# 1. Proposal to change Drachenwald law 1 (December 3)
+# 1. Proposal to change Drachenwald law section 1
 
 ## Reasoning
 
-The first section in the current law is somewhat difficult to read and has problems conveying its intentions. This proposal restructures and partially rewrites it.
-
-Some previously implicit parts have been written more clearly, taking advantage of examples set in East Kingdom and Lochac laws. These additions are fitted to the reality of our Kingdom (multiple affiliates whose contracts create By-Law level obligations).
+The first section in the current law is somewhat difficult to read and has problems conveying its intentions. This proposal restructures and partially rewrites it. Some previously implicit parts have been written more clearly, taking advantage of examples set in East Kingdom and Lochac laws. These additions are fitted to the reality of our Kingdom (multiple affiliates whose contracts create By-Law level obligations).
 
 The current law text also contains some outdated parts that have been rewritten in this proposal to reflect current practices, or removed altogether.
 
@@ -28,17 +24,17 @@ Reasoning for particular changes:
 
 * (1.01-1.02) The precedence of the body of laws has always been defined in the governing documents of the SCA. This is now explicitly noted. The body of laws has been clarified and now includes affiliates.
 
-* The laws governing changing of laws and edicts have been divided into separate sections (1.03.3 for laws, 1.03.4 for edicts) for clarity. Although the text has been simplified, the process of changing laws has not been changed in this proposal.
+* (1.03) The laws governing changing of laws and edicts have been divided into separate sections (1.03.3 for laws, 1.03.4 for edicts) for clarity. Although the text has been simplified, the process of changing laws has not been changed in this proposal.
 
-* A change is proposed to the section on creating edicts: The Royal Heirs to the Crown would receive the option to publish edicts in the *Dragon's Tale* before their Coronation. This change would make possible edicts that would last for an entire reign. It would solve the problem caused by the off-set between the dates for publication of the *Dragon's Tale* and the dates of the Coronation events, which has resulted in delays between Coronation and the date when an edict could take effect.
+* (1.03.4.6) A change is proposed to the section on creating edicts: The Royal Heirs to the Crown would receive the option to publish edicts in the *Dragon's Tale* before their Coronation. This change would make possible edicts that would last for an entire reign. It would solve the problem caused by the off-set between the dates for publication of the *Dragon's Tale* and the dates of the Coronation events, which has resulted in delays between Coronation and the date when an edict could take effect.
 
-* The proposal also makes explicit the requirement of Crown proclaiming edicts at an event for them to take effect.
+* (1.03.4.6) The proposal makes explicit the requirement of Crown proclaiming edicts at an event for them to take effect.
 
-* (1.04) This proposal eliminates the required paper publication of Drachenwald law. In the past the law was regularly published as the Great Book of Laws containing Drachenwald law, officer policies, and a list of past monarchs of Drachenwald. Such a publication of law and policies has not been made for years, and with the world wide web being as accessible as it is today, we believe that publication on the Kingdom Website is sufficient for our purposes. This also removes the need to involve the Kingdom Chronicler in the publication of the law. (Note that this is a separate matter from when laws are changed; both the proposed laws as well as pending laws continue to be published in the *Dragon's Tale*.)
+* (1.04) The proposal eliminates the required paper publication of Drachenwald law. In the past the law was regularly published as the Great Book of Laws containing Drachenwald law, officer policies, and a list of past monarchs of Drachenwald. Such a publication of law and policies has not been made for years, and with the world wide web being as accessible as it is today, the proposal considers publication on the Kingdom Website sufficient. This also removes the need to involve the Kingdom Chronicler in the publication of the law. (Note that this is a separate matter from when laws are changed; both the proposed laws as well as pending laws continue to be published in the *Dragon's Tale*.)
 
 * As the "Great Book of Law" had a very particular meaning related to paper publishing of law and policies, it is not included in this proposal. The law council suggests that the Great Book of Law could be reborn as a section on the Kingdom Website, linking together the law and the policies, but recognises that this matter belongs to Kingdom Webminister.
 
-* The single definition of “written” has been expanded into a sub-section where other such definitions can be added when necessary.
+* (1.05) The single definition of “written” has been expanded into a sub-section where other such definitions can be added when necessary.
 
 ## Formatting
 
@@ -54,8 +50,7 @@ The rewriting and reorganizing of the section was so extensive that the typical 
 
 **1.02 The body of laws within the Kingdom of Drachenwald consists of:**
 
-
-1. **The By-Laws of the Society for Creative Anachronism and its affiliates, as appropriate**
+1. **The By-Laws and Corporate Policies of the Society for Creative Anachronism and its affiliated organizations, as appropriate**
 
 2. **The Corpora of the Society for Creative Anachronism**
 
@@ -71,8 +66,9 @@ The rewriting and reorganizing of the section was so extensive that the typical 
 
 * ~~The By-Laws of the Society for Creative Anachronism, Inc. or - if applicable - the appropriate affiliated organisation as stated in any affiliation contracts with the S.C.A. Inc.~~
 
-* ~~The Corpora of the Society for Creative Anachronism, Inc.
-Governing and Policy Decisions of the Board of Directors of the Society for Creative Anachronism, Inc.~~
+* ~~The Corpora of the Society for Creative Anachronism, Inc.~~
+
+* ~~Governing and Policy Decisions of the Board of Directors of the Society for Creative Anachronism, Inc.~~
 
 * ~~Kingdom of Drachenwald Law~~
 
@@ -92,23 +88,23 @@ Governing and Policy Decisions of the Board of Directors of the Society for Crea
 
 **1.03.3 Changing Drachenwald law**
 
-**1.03.3.1 Before changing any laws of Drachenwald, Crown must consult their council, Curia.**
+**1.03.3.1 Before changing any laws of Drachenwald, the Crown must consult their council, Curia.**
 
-**1.03.3.2 In order to consult Curia, the current and new proposed law text must be published in the *Dragon’s Tale* before the Curia takes place, along with a description of reasons and context for proposing the change.**
+**1.03.3.2 In order to consult Curia, the current and new proposed law text must be published in the _Dragon’s Tale_ before the Curia takes place, along with a description of reasons and context for proposing the change.**
 
-**1.03.3.3 After receiving advice from Curia, Crown may enact change to Drachenwald law.**
+**1.03.3.3 After receiving advice from Curia, the Crown may enact change to Drachenwald law.**
 
-**1.03.3.4 When Crown has chosen to enact a law the proposal becomes a pending law.**
+**1.03.3.4 When the Crown has chosen to enact a law the proposal becomes a pending law.**
 
-**1.03.3.5 Pending laws should be submitted to the Chronicler of the *Dragon's Tale* within thirty days and must be submitted within sixty days after the Curia for publication in the next possible issue.**
+**1.03.3.5 Pending laws should be submitted to the Chronicler of the _Dragon's Tale_ within thirty days and must be submitted within sixty days after the Curia for publication in the next possible issue.**
 
 **1.03.3.6 The Kingdom Chronicler may not publish pending laws without the documented approval of the Sovereign, the Consort, and the Kingdom Seneschal.**
 
-**1.03.3.7 Laws take effect after being proclaimed at an event as defined in the Corpora and having been published in the Dragon's Tale.**
+**1.03.3.7 Laws take effect after being proclaimed at an event as defined in the Corpora and having been published in the _Dragon's Tale_.**
 
 **1.03.4 Extending Drachenwald law by edicts**
 
-**1.03.4.1 Crown has a power to extend Drachenwald law with edicts.**
+**1.03.4.1 The Crown has a power to extend Drachenwald law with edicts.**
 
 **1.03.4.2 An edict may not repeal or suspend Drachenwald law.**
 
@@ -118,21 +114,21 @@ Governing and Policy Decisions of the Board of Directors of the Society for Crea
 
 **1.03.4.5 Edicts must be reviewed for conflict with other laws by the Kingdom Seneschal.**
 
-**1.03.4.6 Edicts take effect after being proclaimed at an event as defined in the Corpora and having been published in the *Dragon's Tale*. The publication can happen before Coronation.**
+**1.03.4.6 Edicts take effect after being proclaimed at an event as defined in the Corpora and having been published in the _Dragon's Tale_. The publication can happen before Coronation.**
 
 ~~1.02 Concerning Laws and Edicts:~~
 
 ~~1.02.1 No laws of Drachenwald may be enacted without approval of the Crown after consultation with Council (Curia Regis).~~
 
-~~1.02.2 Laws take effect after publication in the *Dragon's Tale* and proclamation at an official event listed in the *Dragon's Tale* calendar as per Corpora..~~
+~~1.02.2 Laws take effect after publication in the Dragon's Tale and proclamation at an official event listed in the Dragon's Tale calendar as per Corpora..~~
 
-~~1.02.3 Edicts take effect after publication in the *Dragon's Tale*.~~
+~~1.02.3 Edicts take effect after publication in the Dragon's Tale.~~
 
 ~~1.02.4 An edict may not repeal or suspend Kingdom law.~~
 
 ~~1.02.5 Edicts must be approved by both the Sovereign and Consort and reviewed for conflict with other laws by the Seneschal. Edicts last for the duration of the Crown's reign.~~
 
-~~1.03 Pending laws should be submitted to the Chronicler of the *Dragon's Tale* within thirty days and must be submitted within sixty days after each Curia Regis for publication in the next possible issue.~~
+~~1.03 Pending laws should be submitted to the Chronicler of the Dragon's Tale within thirty days and must be submitted within sixty days after each Curia Regis for publication in the next possible issue.~~
 
 ~~1.04 The Chronicler may not publish any laws without the documented approval of the Sovereign, Consort, and Kingdom Seneschal.~~
 
@@ -140,9 +136,9 @@ Governing and Policy Decisions of the Board of Directors of the Society for Crea
 
 **1.04.1 The Kingdom Seneschal is responsible for the publication of Drachenwald law.**
 
-**1.04.3 Drachenwald law is published on the Kingdom website.**
+**1.04.2 Drachenwald law is published on the Kingdom website.**
 
-**1.04.4 Drachenwald law shall include a revision date and a list of the signatories for the current law.**
+**1.04.3 Drachenwald law shall include a revision date and a list of the signatories for the current law.**
 
 ~~1.05 Laws of the Kingdom of Drachenwald are to be maintained by the Kingdom Seneschal and made available to the populace by the Chronicler on the Kingdom web site. This web copy shall include a revision date and a list of the signatories for the current Laws. Paper copies will be available at the requester's expense from the Kingdom Chronicler. In the event of a conflict, the latest paper publication of the Kingdom laws plus the properly enacted additions or amendments shall hold precedence over the web page.~~
 
@@ -152,13 +148,14 @@ Governing and Policy Decisions of the Board of Directors of the Society for Crea
 
 ~~1.05.3 The Society Seneschal, and Drachenwald's Ombudsman shall receive a free copy of the new law at each new printing.~~
 
-**1.04.8 The policies of the Great Kingdom Officers must be published on the Kingdom website. This includes but is not limited to:**
+**1.04.4 The policies of the Great Kingdom Officers must be published on the Kingdom website. This includes but is not limited to:**
 
-**Kingdom Financial Policies**
 
-**Rules of the Drachenwald List**
+1. **Kingdom Financial Policies**
 
-**Reporting requirements for each office**
+2. **Rules of the Drachenwald List**
+
+3. **Reporting requirements for each office**
 
 ~~1.05.4 All current policies of the Greater Kingdom Officers shall also be published on the Kingdom website and included in the bi-annual publication of the Great Book of Laws. These policies shall include, but not be limited to: Kingdom Financial Policies, Rules of the Drachenwald List, and reporting requirements for each office.~~
 
@@ -168,13 +165,13 @@ Governing and Policy Decisions of the Board of Directors of the Society for Crea
 
 ~~1.06 Any use of the words "written" or "in writing" throughout these laws is defined as communications sent either by postal mail or electronic mail.~~
 
-# 2. Proposal to change Drachenwald law 2-5 (December 3)
+# 2. Proposal to change Drachenwald law sections 2-5
 
 ## Reasoning
 
 The main motivation behind these changes is to remove gender specificity where it isn't needed or it is inconsistent with other parts of the law.
 
-A secondary set of changes is to make the text of the law consistent regarding terminology and capitalization.
+Another proposed set of changes seek to make the text of the law consistent regarding terminology and capitalization. One of these proposed changes is removing the capitalisation of the Royal pronouns from the law. It, along with other decrease in spelling terms with capital initials, seeks to make the law text easier to read especially to non-native English speakers, and simpler to maintain in a consistent manner. The struggles in the latter show in the current law text where in many instances the same word is capitalized or not in different parts of the law. The law council wishes to emphasize that making these changes in the law text in no way seeks to prevent using Royal capitalization elsewhere.
 
 Reasoning for particular changes:
 
@@ -184,7 +181,7 @@ Reasoning for particular changes:
 
 ## Formatting
 
-In the law text below, added text is **bold** and removed text is marked with ~~strikethrough~~. All other text is unchanged from the current law text.
+In the proposed law text below, added text is marked with **bold** and removed text is marked with ~~strikethrough~~. All other text is unchanged from the current law text.
 
 ## Proposed law text
 
@@ -212,7 +209,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 2.02.9 Maintaining files to be turned over to the **Royal Heirs** ~~Successors~~ at such time as **they** ~~They~~ ascend to the thrones.
 
-2.02.10 Relinquishing any office held, for the duration of the **reign.** ~~Reign.~~ 
+2.02.10 Relinquishing any office held, for the duration of the **reign.** ~~Reign.~~
 
 2.02.11 There shall exist certain regalia, which shall remain the property of the Kingdom, but shall be in the keeping of the Crown. The care and maintenance of this regalia shall be solely the responsibility of the Crown. The use of this regalia shall be solely the prerogative of the Crown. This regalia may include, but is not limited to: crowns, scepters, staves, weapons, shields, banners, cloaks, and robes.
 
@@ -240,7 +237,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 2.04.1 In the case that either the Sovereign or the Consort should fail, the other shall assume the full powers of the Crown, for the remainder of the reign. 
 
-2.04.2 In the case that both the Sovereign and the Consort should fail, the Seneschal shall become Regent. The Regent shall have all duties and privileges of the Crown granted under Corpora and these laws, except the right to make or bestow awards and orders, the right to make or change law, and the right **to a zone of respectful distance surrounding the Crown's presence.** ~~of sanctum.~~
+2.04.2 In the case that both the Sovereign and the Consort should fail, the Seneschal shall become Regent. The Regent shall have all duties and privileges of the Crown granted under Corpora and these laws, except the right to make or bestow awards and orders, the right to make or change law, and the right **to a zone of respectful distance surrounding the Crown's presence.** ~~of sanctum.~~ 
 
 2.04.3 **The Regent shall hold a Coronation or Crown Tournament (as appropriate) at the earliest possible date, and crown the victorious couple immediately.** ~~Should the Seneschal become Regent, he/she shall hold a Coronation or Crown Tournament (as appropriate) at the earliest possible date, and invest the victor and his (her) consort as King and Queen immediately.~~
 
@@ -262,13 +259,13 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 3.01.4 Using the three month succession period to recruit and train those replacements necessary to take over any office which the **Royal Heirs** ~~Successors~~ hold and must relinquish upon **their** ~~Their~~ Coronation. 
 
-3.01.5 There shall exist certain regalia, which shall remain the property of the Kingdom, but shall be in the keeping of the **Royal Heirs.** ~~Successors.~~ The care and maintenance of this regalia shall be solely the responsibility of the **Royal Heirs.** ~~Successors.~~ The use of this regalia shall be solely the prerogative of the **Royal Heirs.** ~~Successors.~~ This regalia may include, but is not limited to: coronets, scepters, staves, weapons, shields, banners, cloaks, and robes. 
+3.01.5 There shall exist certain regalia, which shall remain the property of the Kingdom, but shall be in the keeping of the **Royal Heirs.** ~~Successors.~~ The care and maintenance of this regalia shall be solely the responsibility of the **Royal Heirs.** ~~Successors.~~ The use of this regalia shall be solely the prerogative of the **Royal Heirs.** ~~Successors~~. This regalia may include, but is not limited to: coronets, scepters, staves, weapons, shields, banners, cloaks, and robes. 
 
-3.01.6 The **Royal Heirs** ~~Crown Prince and Crown Princess~~ shall ensure that each has access to the *Dragon's Tale* and maintain this subscription throughout their **reign.** ~~Reign.~~
+3.01.6 The **Royal Heirs** ~~Crown Prince and Crown Princess~~ shall ensure that each has access to the _Dragon's Tale_ and maintain this subscription throughout their **reign.** ~~Reign.~~
 
 3.02 Privileges of the **Royal Heirs** ~~Successors~~
 
-3.02.1 The right **to a zone of respectful distance surrounding their presence.** ~~of Sanctum.~~
+3.02.1 The right **to a zone of respectful distance surrounding their presence.** ~~of Sanctum.~~ 
 
 3.02.2 The right to receive such gifts as may be made to the **Royal Heirs,** ~~Successors,~~ and to preserve such gifts for the next **Royal Heirs;** ~~Successors;~~ the right to receive personal gifts made to the **Royal Heirs;** ~~Successors;~~ and the right to use all such possessions and treasures given to them during their tenure as **Royal Heirs.** ~~Successors.~~
 
@@ -280,13 +277,13 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 4.02.1 The **Royal Heirs** ~~Crown Prince and Crown Princess~~ of Drachenwald. 
 
-4.02.2 All Drachenwald territorial **Coronets.** ~~Princes and Princesses.~~
+4.02.2 All Drachenwald territorial **Coronets.** ~~Princes and Princesses.~~ 
 
 4.02.3 All Great Officers of Drachenwald. 
 
 4.02.4 All Lesser Officers of Drachenwald. 
 
-4.02.5 The **Seneschal** ~~seneschal~~ of each branch **within Drachenwald** or their designated **representative.** ~~legate or envoy.~~
+4.02.5 The **Seneschal** ~~seneschal~~ of each branch **within Drachenwald** or their designated **representative.** ~~legate or envoy.~~ 
 
 4.02.6 Holders of **Peerage residing in Drachenwald.** ~~Peerage.~~
 
@@ -302,7 +299,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 4.04.1 Call **a** Curia with either of the following: 
 
-4.04.1.1 A notice in **the *Dragon's Tale*** ~~Dragon's Tale~~ appearing no later than either: 
+4.04.1.1 A notice in **the _Dragon's Tale_** ~~Dragon's Tale~~ appearing no later than either: 
 
 4.04.1.1.1 The issue dated the same month as the Curia date, provided the Curia is on or after the fifteenth of the month, OR 
 
@@ -316,61 +313,48 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 4.04.2.2 Any matters that come to the attention of the Crown after the Curia has been called shall be placed, at the Crown's discretion, on the agenda under New Business after the previously announced agenda items. Changes in **Drachenwald law** ~~Law~~ will not be handled in this manner. 
 
-4.04.2.3 In the event that a Curia is held after the notice for a subsequent Curia has been sent - either to **the *Dragon's Tale*** ~~Dragon's Tale~~ or to those with seats on Curia - any items of business held over from the Curia will be automatically placed on the agenda under Old Business for the subsequent Curia.
+4.04.2.3 In the event that a Curia is held after the notice for a subsequent Curia has been sent - either to **the _Dragon's Tale_** ~~Dragon's Tale~~ or to those with seats on Curia - any items of business held over from the Curia will be automatically placed on the agenda under Old Business for the subsequent Curia.
 
 4.04.3 Solicit and listen to the opinions of those **attending** ~~on~~ Curia, giving adequate time for discussion. While it is not a requirement, the Crown is advised to act with the consensus of **those attending** ~~the people on~~ Curia.
 
 5.00 CONCERNING THE OFFICERS OF THE KINGDOM 
 
-5.01 The Great Officers of the Kingdom of Drachenwald are **as follows,** in the order of **precedence:** ~~Precedence, as follows:~~
+5.01 The Great Officers of the Kingdom of Drachenwald are **as follows,** in ~~the~~ order of **precedence:** ~~Precedence, as follows:~~
 
-Kingdom Seneschal
-
-Schwarzdrachen Herald
-
-Kingdom Earl Marshal
-
-Kingdom Minister of Arts and Sciences
-
-Kingdom Chancellor of the Exchequer
-
-Kingdom Chronicler
-
-Kingdom Signet Clerk
-
+Kingdom Seneschal \
+Schwarzdrachen Herald \
+Kingdom Earl Marshal \
+Kingdom Minister of Arts and Sciences \
+Kingdom Chancellor of the Exchequer \
+Kingdom Chronicler \
+Kingdom Signet Clerk \
 Kingdom Web Minister
 
 5.02 The Lesser Officers of the Kingdom of Drachenwald and the **Great Officers** ~~greater officers~~ responsible for them are **as follows,** in order of **precedence:** ~~Precedence, as follows:~~
 
-Kingdom Historian - Chronicler
-
-Kingdom Chatelaine - Seneschal
-
-Kingdom Captain-General of Archers - Earl Marshal
-
-Kingdom Marshal of Fence - Earl Marshal
-
-Kingdom University Chancellor - Minister of Arts and Sciences
-
-Kingdom Minister of Youth - Seneschal
-
+Kingdom Historian - Chronicler \
+Kingdom Chatelaine - Seneschal \
+Kingdom Captain-General of Archers - Earl Marshal \
+Kingdom Marshal of Fence - Earl Marshal \
+Kingdom University Chancellor - Minister of Arts and Sciences \
+Kingdom Minister of Youth - Seneschal \
 Kingdom Social Media Officer - Web Minister
 
-5.03 All **Great** ~~Greater~~ and Lesser Officers must hold **a** membership in the **SCA** ~~S.C.A~~ or any appropriate affiliate **organization.** ~~organisation.~~ They must have access to the *Dragon's Tale*.
+5.03 **All Great** ~~Greater~~ and Lesser Officers must hold **a** membership in the **SCA** ~~S.C.A~~ or any appropriate affiliate **organization.** ~~organisation.~~ They must have access to the _Dragon's Tale._
 
-5.03.1 All Kingdom Officers will take and train a **deputy** ~~Deputy~~ for their **office** ~~Office~~ who will be warranted as the **designated successor,** ~~Designated Successor,~~ referred to in Corpora **VI.** ~~VI.C.6.~~
+5.03.1 All Kingdom Officers will take and train a **deputy** ~~Deputy~~ for their **office** ~~Office~~ who will be warranted as the **designated successor,** ~~Designated Successor,~~ referred to in Corpora **VI.** ~~VI.C.6.~~ 
 
 5.03.2 With the exception of Seneschal, Herald, **Earl** Marshal, and Chancellor of the Exchequer, all other Kingdom officers may hold Shire, Baronial or Principality offices, at the discretion of the Crown. These officers must train a successor to their Shire, Baronial, or Principality office as soon as possible. 
 
 5.03.3 No person may hold more than one Kingdom level office concurrently. 
 
-5.03.4 All Great Officers will submit to the Crown and the Kingdom Seneschal a copy of any official reports forwarded to their **corresponding Society Officer.** ~~corporate superiors.~~ If a Great Officer does not submit reports to their **corresponding Society Officer** ~~corporate superior~~ at least once a quarter, then, as a minimum will submit a quarterly written report to the **Crown** ~~Crowns~~ two weeks prior to Coronation and Crown Tourney.
+5.03.4 All Great Officers will submit to the Crown and the Kingdom Seneschal a copy of any official reports forwarded to their **corresponding Society Officer.** ~~corporate superiors.~~ If a Great Officer does not submit **quarterly** reports to their **corresponding Society Officer** ~~corporate superior at least once a quarter~~ then, as a minimum will submit a quarterly written report to the **Crown** ~~Crowns~~ two weeks prior to Coronation and Crown Tourney. 
 
 5.03.5 All officers shall maintain files for their office, open to review by the Crown at any time, and to be turned over to their successor within thirty days of leaving office. 
 
 5.03.6 All officers have the authority to make policy for the **administration** ~~discharge~~ of their offices and their subordinate's duties within the limits of the office. All such policies shall be published along with **Drachenwald law.** ~~the Great Book of Laws in their paper and electronic forms.~~ These policies shall include, but **are** not limited to: Kingdom Financial Policies, Rules of the List of Drachenwald, and reporting requirements for each office.
 
-5.03.6.1 Policies of the Kingdom Officers shall take effect after they have been published in the *Dragon's Tale*. 
+5.03.6.1 Policies of the Kingdom Officers shall take effect after they have been published in the _Dragon's Tale_.
 
 5.03.6.2 Standard quarters will be used for reporting purposes within Drachenwald. These quarters are January through March, April through June, July through September, and October through December. Quarterly reports due to Kingdom Great Officers will have standard deadlines of 25 April (for the first quarter), 25 July (for the second quarter), 25 October (for the third quarter), and 25 January (for the last quarter/Domesday reports). Kingdom Officers who require only semi-annual reports will use the January and July deadline for their reporting requirements. 
 
