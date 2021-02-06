@@ -8,19 +8,11 @@ toc_label: "Table of Contents"
 
 In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
-When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+# Giving feedback on the draft law proposals
 
-# Please give feedback on the current draft law proposals by 18 December
+The period for commenting on the following draft law proposals ended on 18 December 2020. Thank you for all the feedback we received!
 
-The Law council is currently asking your view on the following two draft proposals covering Drachenwald law sections 1-5.
-
-**We would appreciate your comments on this subject; no later than on Friday 18 December 2020. Please use the web form at the end of this page when sharing your thoughts with us.**
-
-With thanks in advance for your service, The Law Council
-
-## Law Proposal Q&A on 15 December
-
-**You can meet the Law Council online on Tuesday 15 December 2020. [Please drop by](https://drachenwald.sca.org/events/calendar/#/) with your questions on these draft law proposals.**
+You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # 1. Proposal to change Drachenwald law 1 (December 3)
 
@@ -383,9 +375,3 @@ Kingdom Social Media Officer - Web Minister
 5.03.6.2 Standard quarters will be used for reporting purposes within Drachenwald. These quarters are January through March, April through June, July through September, and October through December. Quarterly reports due to Kingdom Great Officers will have standard deadlines of 25 April (for the first quarter), 25 July (for the second quarter), 25 October (for the third quarter), and 25 January (for the last quarter/Domesday reports). Kingdom Officers who require only semi-annual reports will use the January and July deadline for their reporting requirements. 
 
 5.03.7 Each **Kingdom** ~~kingdom~~ officer is responsible for the office-related activities of **their** ~~his/her~~ deputies and subordinate officers.
-
-# Send in your comments
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZjZtBfoHL9HRR_X6XxIearYnr7-tjkW2gc1y-R0o7t_P_tg/viewform?embedded=true" width="640" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Your comments on the law proposals
