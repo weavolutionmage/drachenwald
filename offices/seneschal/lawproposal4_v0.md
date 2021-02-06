@@ -27,7 +27,13 @@ With thanks in advance for your service, The Law Council
 
 # 1. Draft proposal to change the Glossary
 
-...
+Glossary exists to help the readers of Drachenwald law to navigate through the law text with a full understanding of the contents. It explains terms that are either specific to our Society or specialized words in English.
+
+Glossary is a section of the book of law, but not part of our law text. This means that it could be changed administratively without having to go through the Drachenwald legislative process. Regardless, the law council requests feedback on the changes we are currently recommending to it.
+
+The most important Glossary change we ask the good people of Drachenwald to consider is replacing the old term “official event” with two new terms “society event” and “published event”. They reflect changes made in the wider Society and Corpora.
+
+The council also seeks to add to the approachability of the law with certain added explanations, and by removing Court of Chivalry, which has not been conducted in Drachenwald in ages if ever.
 
 ## Formatting
 
