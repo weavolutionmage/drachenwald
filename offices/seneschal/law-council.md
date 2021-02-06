@@ -13,7 +13,10 @@ You can always reach the Law Council at <script type="text/javascript">document.
 * Please use the web form at the end of the proposal page when sharing your thoughts with us.
 * When giving feedback on a specific section of the law, please mention its number.
 
-The Law Council is currently asking your view on the proposal to change [Drachenwald law section 5]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %}).
+The Law Council is currently asking your view on [the following draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %}):
+* Glossary
+* Drachenwald law section 5 (Kingdom officers and their duties)
+* Drachenwald law section 7.02.2.8.2 (event requirements for Crown Tournament participation)
 
 # Proposals for Curia
 
