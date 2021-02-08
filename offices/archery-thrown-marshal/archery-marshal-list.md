@@ -21,7 +21,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
   <tr><td>Alfarinn Refr</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Engli Ingimarrsson</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td><strong>✓</strong></td></tr>
   <tr><td>Marc Sköldbane (Marc av Gotvik)</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
-  <tr><td>Pedher Mikaelsson</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
+  <tr><td>Pedher Mikaelsson</td><td><strong>✓</strong></td><td>-</td><td><strong>✓</strong></td></tr>
   <tr><td>Astridh Thorkilsdotter</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Æríkr inn hárfagri (Erik Hårfager)</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Orm av Gyllengran</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
@@ -30,8 +30,8 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
   <tr><td>Nicholas</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Hellvig Arvidsdotter</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Náttfari Gardarsson</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
-  <tr><td>Isabetta del Verde</td><td>-</td><td>-</td><td><strong>✓</strong></td></tr>
-  <tr><td>Styrbjörn Bärsärk</td><td>-</td><td>-</td><td><strong>✓</strong></td></tr>
+  <tr><td>Isabetta del Verde</td><td>-</td><td><strong>✓</strong></td><td>-</td></tr>
+  <tr><td>Styrbjörn Bärsärk</td><td>-</td><td><strong>✓</strong></td><td>-</td></tr>
   <tr><td>Aalïz de Cordes</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Thomas Gråskägg</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Petronilla fra Auissaas</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
@@ -79,22 +79,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 </table>
 
 
-## Southern
-
-
-<table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
-  <tr><td>Samuil Simeonov</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
-  <tr><td>Lussi Lassesdotther</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
-  <tr><td>Tamara Samuilova</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td><strong>✓</strong></td></tr>
-  <tr><td>Sorcha bean mhic Dhomhnaill</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
-  <tr><td>Svetoslav Sokolov</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
-  <tr><td>Frederick Thurstone</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
-</table>
-
-
 ## Aarnimetsä
-
 
 <table>
   <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
@@ -133,4 +118,17 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
   <tr><td>Cornelia vom Distelfeld</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
 </table>
 
+
+## Southern
+
+
+<table>
+  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><td>Samuil Simeonov</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
+  <tr><td>Lussi Lassesdotther</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
+  <tr><td>Tamara Samuilova</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td><strong>✓</strong></td></tr>
+  <tr><td>Sorcha bean mhic Dhomhnaill</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
+  <tr><td>Svetoslav Sokolov</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
+  <tr><td>Frederick Thurstone</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
+</table>
 
