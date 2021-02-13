@@ -49,6 +49,15 @@ Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedra
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis" %}
 {% include territorial-contacts.md listing=v %}
 
+### Eplaheimr (West & Mid Ireland)
+
+<img src="{{ site.baseurl }}{% link images/heraldry/styringheim_logo.gif %}" width="40" alt="Arms of Styringheim">{: .align-left}  
+
+Their Excellencies of the [Barony of Styringheim](https://www.styringheim.se/)  
+
+{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis-Eplaheimr" %}
+{% include territorial-contacts.md listing=v %}
+
 ### Knight's Crossing (most of Germany)  
 
 <img src="{{ site.baseurl }}{% link images/heraldry/knightscrossing_m.gif %}" width="40" alt="Arms of Knight's Crossing">{: .align-left}  
