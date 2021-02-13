@@ -15,7 +15,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 
 
 <table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
   <tr><td>Eldgrim den Talföre</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td><strong>✓</strong></td></tr>
   <tr><td>Nocke</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Alfarinn Refr</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
@@ -47,7 +47,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 
 
 <table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
   <tr><td>Guy de Dinan</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
   <tr><td>Aodhan Dha Cheist</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Caitriona of the Ravens</td><td><strong>✓</strong></td><td>-</td><td><strong>✓</strong></td></tr>
@@ -82,7 +82,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 ## Aarnimetsä
 
 <table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
   <tr><td>Kerttu Katariinantytär Roisko</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Klaus</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Harjuwalcean Jaakko</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
@@ -107,7 +107,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 
 
 <table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
   <tr><td>Herr Markus von Brixlegg</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Batznim Zachan</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>AElfwynn Leoflaede dohtor</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
@@ -123,7 +123,7 @@ __Too long; didn't read:__ Current list of marshals of archery and thrown weapon
 
 
 <table>
-  <tr><td><strong>Name</strong></td><td><strong>Archery</strong></td><td><strong>Thrown weapons</strong></td><td><strong>Warranting</strong></td></tr>
+  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
   <tr><td>Samuil Simeonov</td><td><strong>✓</strong></td><td>-</td><td>-</td></tr>
   <tr><td>Lussi Lassesdotther</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td>-</td></tr>
   <tr><td>Tamara Samuilova</td><td><strong>✓</strong></td><td><strong>✓</strong></td><td><strong>✓</strong></td></tr>
