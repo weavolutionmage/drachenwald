@@ -51,7 +51,7 @@ Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedra
 
 ### Eplaheimr (Central, west and south Ireland)
 
-<img src="{{ site.baseurl }}{% link images/heraldry/styringheim_logo.gif %}" width="40" alt="Arms of Styringheim">{: .align-left}  
+<!--<img src="{{ site.baseurl }}{% link images/heraldry/eplaheimr_logo.gif %}" width="40" alt="Arms of Eplaheimr">{: .align-left}  -->
 
 Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)  
 
