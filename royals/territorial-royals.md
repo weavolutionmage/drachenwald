@@ -58,7 +58,7 @@ Their Excellencies of the [Barony of Styringheim](https://www.styringheim.se/)
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis-Eplaheimr" %}
 {% include territorial-contacts.md listing=v %}
 
-### Knight's Crossing (Germany)  
+## Knight's Crossing (Germany)  
 
 <img src="{{ site.baseurl }}{% link images/heraldry/knightscrossing_m.gif %}" width="40" alt="Arms of Knight's Crossing">{: .align-left}  
 
