@@ -66,7 +66,7 @@ Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossi
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Knights Crossing" %}
 {% include territorial-contacts.md listing=v %}
 
-### Aarnimetsä (Finland)
+## Aarnimetsä (Finland)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/arnimetsa.gif %}" width="40" alt="Arms of Aarnimetsä">{: .align-left}  
 

@@ -8,7 +8,7 @@ The Order of the Laurel are a Society-wide order, which recognises excellence in
 
 It is a consultation order, meaning that the king and queen choose who to invite to the order, after consulting with the existing members. Typically this consultation includes a discussion period and a poll. 
 
-{% include peer-secretary.html order="laurel" %}
+{% include peer-secretary.html order="peers/laurel" %}
 
 * [Roster]({{ site.baseurl }}{% link peers/laurel/laurel-roster.md %})
 * [FAQ]({{ site.baseurl }}{% link peers/laurel/laurel-faq.md %})
