@@ -1,0 +1,20 @@
+
+{% assign q = site.data.groups.officerlist | where: "role", include.role | first %}
+
+
+<p>
+
+ <strong>{{ q.scaname }}</strong>   
+{% unless q.mundanename == "" %}
+  ({{ q.mundanename }})
+  {% endunless %}
+ {% unless q.pronouns == "" %}
+  ({{ q.pronouns }})
+  {% endunless %}
+  .
+{% unless q.email == "" %}
+Email: <a href="mailto:{{ p.email }}">{{ q.email }}</a><br>
+{% endunless %}</p>
+
+ 
+  
