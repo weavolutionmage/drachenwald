@@ -24,6 +24,8 @@ before_script:
   - curl -L -o _data/academyofdefense.csv  "https://scripts.drachenwald.sca.org/json/academyofdefense.csv"
   - curl -o _data/groups/grouplist.json "https://scripts.drachenwald.sca.org/json/regnum-groups.json"
   - curl -o _data/groups/officerlist.json "https://scripts.drachenwald.sca.org/json/regnum-officers.json"
+  - curl -o _data/archery-ranks.json "https://scripts.drachenwald.sca.org/json/archery-ranks.json"
+  - curl -o _data/archery-progression.json "https://scripts.drachenwald.sca.org/json/archery-progression.json"
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
   - 'python3 _thisisdrachenwald/fetch_rss.py'
   - 'python3 _thisisdrachenwald/create_rss.py'
