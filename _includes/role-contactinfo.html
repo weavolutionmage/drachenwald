@@ -4,16 +4,16 @@
 
 <p>
 
- <strong>{{ q.scaname }}</strong>   
-{% unless q.mundanename == "" %}
-  ({{ q.mundanename }})
-  {% endunless %}
- {% unless q.pronouns == "" %}
+ <strong>{{ q.scaname }}</strong> {% unless q.pronouns == "" %}
   ({{ q.pronouns }})
+  {% endunless %} 
+{% unless q.mundanename == "" %}
+  <br>({{ q.mundanename }})
   {% endunless %}
-  .
+
+  
 {% unless q.email == "" %}
-Email: <a href="mailto:{{ p.email }}">{{ q.email }}</a><br>
+<br><a href="mailto:{{ p.email }}">{{ q.email }}</a>)<br>
 {% endunless %}</p>
 
  
