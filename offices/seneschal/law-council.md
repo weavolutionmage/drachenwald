@@ -65,14 +65,14 @@ The current members of the Law Council are:
 
 The process of changing Drachenwald law Glossary and sections 5 and 7.02.2.8.2:
 * 2021-04-08 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %}).
-* 2021-02-07 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_0.md %})
+* 2021-02-07 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %})
 
 ## Changes to Drachenwald law sections 1-5
 
 The process of changing Drachenwald law sections 1-5:
 * 2021-03-18 Curia.
 * 2021-02-07 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v1.md %}).
-* 2020-12-03 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_0.md %})
+* 2020-12-03 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v0.md %})
 
 ## Changes to Drachenwald law 7.02.2.1 and sections 9-11
 
