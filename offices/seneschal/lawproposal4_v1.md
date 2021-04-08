@@ -92,7 +92,7 @@ In this document, the following terms, **listed in alphabetical order,** are use
 
 # 2. Proposal to change Drachenwald law section 5
 
-## Formatting
+## Reasoning
 
 The proposal removes three Kingdom offices: Kingdom Historian, Kingdom Minister of Youth, and remaining mentions of previously closed Kingdom Chirurgeon's office. The offices of Historian and Minister of Youth have been vacant for quite a while, and the Seneschal’s office regardless of effort has been unable to find volunteers to take these positions. The proposal is therefore changing the law to reflect our reality. The duties related to these offices are currently performed by others. The activities prescribed in the law to Historian are currently handled by the Kingdom Archivist, a deputy reporting directly to the Crown. The Law council recommends removal of the office of Historian from the law and that the Crown and Kingdom Chronicler create a policy regarding archiving and storage of the historical regalia. The current administration of youth affairs is done by the Seneschal’s office. If a separate officer is needed, a deputy can be created with duties described in policy rather than in the Kingdom law.
 
@@ -150,7 +150,7 @@ Kingdom Social Media Officer – Web Minister
 
 **5.03.4** ~~5.03.3~~ No person may hold more than one Kingdom level office concurrently.
 
-**5.03.5** ~~5.03.4~~ All Great Officers will submit to the Crown and the Kingdom Seneschal a copy of any official reports forwarded to their corresponding Society Officer. If a Great Officer does not submit reports to their corresponding Society Officer at least once a quarter, then, as a minimum will submit a ~~quarterly~~ written report to the Crown two weeks prior to Coronation and Crown **Tournament.** ~~Tourney ~~.
+**5.03.5** ~~5.03.4~~ All Great Officers will submit to the Crown and the Kingdom Seneschal a copy of any official reports forwarded to their corresponding Society Officer. If a Great Officer does not submit reports to their corresponding Society Officer at least once a quarter, then, as a minimum will submit a ~~quarterly~~ written report to the Crown two weeks prior to Coronation and Crown **Tournament.** ~~Tourney.~~
 
 **5.03.6** ~~5.03.5~~ All officers shall maintain files for their office, open to review by the Crown at any time, and to be turned over to their successor within thirty days of leaving office.
 
@@ -225,7 +225,7 @@ The change of **office** ~~Office~~ will be done by the incoming Crown at the ev
 
 5.06.1.7 Shall be responsible for overseeing and running the **offices** ~~Lesser Offices~~ established under the Seneschal.
 
-5.06.1.8 Shall coordinate with the Kingdom **Chancellor of the** Exchequer in the selection of a **Kingdom** ~~kingdom~~ officer as the 2nd signatory on all Kingdom ~~kingdom~~ bank accounts.
+5.06.1.8 Shall coordinate with the Kingdom **Chancellor of the** Exchequer in the selection of a **Kingdom** ~~kingdom~~ officer as the 2nd signatory on all **Kingdom** ~~kingdom~~ bank accounts.
 
 5.06.1.9 **Shall be** ~~The Seneschal is~~ responsible for maintaining the official Kingdom Calendar of Events, in accordance with policy established by the Seneschal.
 
@@ -295,7 +295,7 @@ The change of **office** ~~Office~~ will be done by the incoming Crown at the ev
 
 ~~5.06.7 Chirurgeon~~
 
-~~5.06.7.1 This office was closed as of August 10th 2015 ~~
+~~5.06.7.1 This office was closed as of August 10th 2015~~
 
 **5.06.7** ~~5.06.8~~ Signet Clerk
 
@@ -329,7 +329,7 @@ The change of **office** ~~Office~~ will be done by the incoming Crown at the ev
 
 **5.06.9** ~~5.06.11~~ Chatelaine
 
-**5.06.9.1** ~~5.06.11.1~~ Shall be a **Lesser Officer, ~~lesser officer of state,~~ under the direction of the Kingdom Seneschal.
+**5.06.9.1** ~~5.06.11.1~~ Shall be a **Lesser Officer,** ~~lesser officer of state,~~ under the direction of the Kingdom Seneschal.
 
 ~~5.06.11.2 Shall be Kingdom New Groups Coordinator, responsible for the development, and growth of new branches, and establishment of procedures to promote groups in accordance with Corpora and Kingdom Law and tradition.~~
 
@@ -403,7 +403,7 @@ The change of **office** ~~Office~~ will be done by the incoming Crown at the ev
 
 # 3. Proposal to change Drachenwald law section 7.02.2.8.2
 
-## Formatting
+## Reasoning
 
 The current law text has been found unclear regarding the number of events needed as well as the time frame for when the events happened. This proposal seeks to clarify it and ensure that the participants have both been recently reasonably active within Drachenwald and that they have been a part of this Kingdom for more than just six months.
 
