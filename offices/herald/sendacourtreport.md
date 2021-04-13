@@ -20,6 +20,9 @@ If you are serving as herald for any of the [royal family of Drachenwald]({{ sit
 
 ### Who to contact
 
+The best way to send a court report is by using the [court report form](https://forms.gle/eJ4upNNxXNfZNWVj6). This ensures the report doesn't get lost in email ands sends the report to the relevant officers (posthorn, relevant chroniclers, relevant signets, and relevant heralds).
+
+If for some reason you can't use the form, send your report to the following officers:
 * the royals who you were serving: the Crown, the Coronet, or your baron and baroness  
 * [Posthorn Herald](mailto:posthorn@drachenwald.sca.org)  
 * the [kingdom chronicler](mailto:chronicler@drachenwald.sca.org) or any local chronicler, for example for your principality or barony  
