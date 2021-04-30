@@ -7,7 +7,7 @@ toc_label: Contents
 
 # The Company of Archers
 
-{% if site.data.thisisdrachenwald %}
+{% if site.data.archery-ranks %}
   {% assign company-ranks = site.data.archery-ranks %}
   
 {% else %}
