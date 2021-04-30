@@ -7,7 +7,7 @@ toc_label: Contents
 
 # Archers progress in the company
 
-{% if site.data.thisisdrachenwald %}
+{% if site.data.archery-progression %}
   {% assign progression = site.data.archery-progression %}
   
 {% else %}
