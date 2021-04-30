@@ -52,8 +52,9 @@ Click to use Googleforms to submit a marshal's report for your region.
 The Drachenwald Company of Archers promotes archery within the Kingdom of Drachenwald, through recognition, education, and training. 
  
 * [Drachenwald Company of Archers Charter]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/drachenwald-company-archers_charter.pdf %})  
-* [Company aims and ranks]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %})  
-* [Company members and current standings]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-ranks-scores.xls %})  
+* [Company aims and ranks]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %})
+* [Members of the company of archers]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-ranks.md %})
+* [Progression in the company]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-progression.md %})
 
 # Social media
 * [Yahoogroup](https://groups.yahoo.com/neo/groups/DW_Archery/info)
