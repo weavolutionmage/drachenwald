@@ -8,9 +8,9 @@ toc_label: Contents
 __Too long; didn't read:__ Current list of marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
-# Archery and thrown weapons marshals 
+# Archery and thrown weapons marshals
 
-{% if site.data.thisisdrachenwald %}
+{% if site.data.archery-marshals %}
   {% assign archery-marshals = site.data.archery-marshals | sort: "Name" %}
 
 {% else %}
