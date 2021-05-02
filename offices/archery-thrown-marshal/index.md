@@ -20,11 +20,11 @@ The Captain General of Archers is the head of the Company and represents the Com
 
 # Membership
 
-The Company is open to all archers of the Kingdom of Drachenwald who meet any requirements set out in the rules. Their scores are tallied at official shoots and members attain ranks within the Company by proven effort and skill within archery. All members should be of good standing within the Society for Creative Anachronism; however, they are not required to hold paid membership.
+The Company is open to all archers of the Kingdom of Drachenwald who meet any requirements set out in the rules. Their scores are tallied at official shoots and [members attain ranks within the Company]({{ site.baseurl }}{% link offices/archery-thrown-marshal/archery-ranks.md %}) by proven effort and skill within archery. All members should be of good standing within the Society for Creative Anachronism; however, they are not required to hold paid membership.
 
 # Ranks
 
-Within the Drachenwald Company of Archers there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings.
+Within the Drachenwald Company of Archers there are the five ranks: Companion, Archer, Yeoman, Master Archer and Grand Master Archer. Once you have achieved a rank within the Company of Archers, it is permanent. Subsequent scores will not set you back in the rankings. 
 
 * Companion: To become a Companion, an archer must complete three shoots within a two-year period. These may be any of the official Kingdom rounds as set out in the Kingdom archery rules. Archers may submit one score per official SCA event or SCA practice, or two scores from any event that is longer than five days.
 * Archer, Yeoman & Master: To become an Archer, Yeoman, or Master, an archer must complete three shoots as per the Companion rules. Additionally, each of the three scores must be at or above specific scores - these are detailed in the Company of Archers [Rules and Ranks document]({{ site.baseurl }}{% link offices/archery-thrown-marshal/files/dca-overview-ranks.pdf %}) (and you can see the badges you learn for each rank too.)
