@@ -1,11 +1,11 @@
 ---
 title: Archery Marshal List 
-excerpt: Catalog of archery marshals in the regions of Drachenwald
+excerpt: Archery marshals across the regions of Drachenwald
 toc: true
 toc_label: Contents
 ---
 
-__Too long; didn't read:__ Current list of marshals of archery and thrown weapons in Drachenwald. 
+__Too long; didn't read:__ Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
 # Archery and thrown weapons marshals
