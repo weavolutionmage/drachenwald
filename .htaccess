@@ -66,6 +66,7 @@ Redirect 301 /sites/ https://sca-drachenwald.gitlab.io/archive/sites/
 # Special site for forms
 
 Redirect 301 /forms/ https://forms.drachenwald-sca.org/forms/
+Redirect 301 /forms https://forms.drachenwald-sca.org/forms/
 
 RewriteEngine On
 RewriteCond %{HTTPS} off [OR]
