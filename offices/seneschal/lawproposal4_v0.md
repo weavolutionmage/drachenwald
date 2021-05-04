@@ -8,22 +8,11 @@ toc_label: "Table of Contents"
 
 In order for the laws of our kingdom to help us function better, we need to revise them from time to time. The Seneschal of Drachenwald has appointed a [Law Council]({{ site.baseurl }}{% link offices/seneschal/law-council.md %}) to consider adjustments to our laws, to consult the members and participants in Drachenwald, and based on that work to recommend changes to the Seneschal and Crown who may then choose to discuss these changes at a future Curia.
 
-When feedback on a particular proposal is requested, please use the provided web form. At any time you can reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
+# Giving feedback on the draft law proposals
 
-# Please give feedback on the current draft law proposals by 21 February
+The period for commenting on the following draft law proposals ended on 21 February 2021. Thank you for all the feedback we received!
 
-The Law council is currently asking your view on the following draft proposals:
-* Glossary
-* Section 5
-* Section 7.02.2.8.2
-
-**We would appreciate your comments on them no later than on Sunday 21 February 2021. Please use the web form at the end of this page when sharing your thoughts with us.**
-
-With thanks in advance for your service, The Law Council
-
-## Law Proposal Q&A on 16 February
-
-**You can meet the Law Council online on Tuesday 16 February 2021. [Please drop by](https://drachenwald.sca.org/events/calendar/#/) with your questions on these draft proposals.**
+You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>.
 
 # 1. Draft proposal to change the Glossary
 
@@ -460,7 +449,3 @@ In the law text below, due to restructuring, all proposed text is **bold** and a
 **7.02.2.8.2.2 One of the events must be longer ago (between 6 and 24 months before the Crown Tournament).**
 
 ~~7.02.2.8.2 Each participant must have attended at least six official events (before Crown Tournament), held in Drachenwald, listed on the Kingdom Calendar in the Dragon's Tale, in the preceding eighteen months. Additionally, each participant must have attended one official event (defined by the same requirements), more than 6 months before Crown Tournament but not more than 24 months before Crown Tournament. This event may be one of the six but does not need to be.~~
-
-# Send in your comments
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZjZtBfoHL9HRR_X6XxIearYnr7-tjkW2gc1y-R0o7t_P_tg/viewform?embedded=true" width="640" height="875" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
