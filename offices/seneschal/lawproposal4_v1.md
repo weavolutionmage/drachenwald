@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 
 # Proposed Kingdom Law Changes for a Curia
 
-Their Majesties Æiríkr and Jacquelyna give notice that they will hold **an online Curia on Thursday March 27**.
+Their Majesties Æiríkr and Jacquelyna give notice that they will hold **an online Curia on Thursday May 27 2021**.
 
 The agenda for this Curia is to review three proposed changes to Drachenwald law and discuss a matter of retiring a pair of silver coronets that have been used for the Royal Heirs but are now too fragile to use. The proposals cover changes to the Glossary, section 5 (Kingdom officers), and section 7.02.2.8.2 (event attendance requirements for Crown Tournament) of Drachenwald law. These proposed changes are being put before the Curia for discussion; the outcome of that discussion may be that any of the proposed changes may be rejected or altered before being implemented into Kingdom law.
 
