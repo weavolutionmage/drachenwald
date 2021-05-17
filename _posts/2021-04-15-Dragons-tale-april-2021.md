@@ -1,7 +1,7 @@
 ---
 title:  "May Dragon's Tale has been published"
 date:   2021-04-28 10:05:00 +0000
-tags: "Dragon'sTale"
+tags: "DragonsTale"
 category: news
 author: webartificers
 excerpt: "There is a new Dragon's Tale for your enjoyment"
