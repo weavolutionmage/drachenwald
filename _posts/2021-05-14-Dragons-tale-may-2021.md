@@ -1,7 +1,7 @@
 ---
 title:  "June Dragon's Tale has been published"
 date:   2021-05-14 10:05:00 +0000
-tags: Dragon's Tale
+tags: DragonsTale
 category: news
 author: web artificers
 excerpt: 'The Dragon\'s tale has been published, come read your Dragon'\s Tale'
