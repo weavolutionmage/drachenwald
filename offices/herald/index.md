@@ -29,7 +29,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 # Court Reporting
 * [Court Report Webform](https://forms.gle/eJ4upNNxXNfZNWVj6), please submit court reports using this webform.
 * [Court Reporting overview]({{ site.baseurl }}{% link offices/herald/sendacourtreport.md %}), recording the events of court, for kingdom and regional records, as part of kingdom history
-
+* [Court Reports in the queue]({{ site.baseurl }}{% link offices/herald/courtreports.md %})
 # Register your name and armory
 * [Submitting names and heraldry in Drachenwald]({{ site.baseurl }}{% link offices/herald/submittingnamesheraldry.md %}), explaining the process of getting your own name and heraldry registered
 * [LoARs: Archive of Letters of Acceptance and Return](http://heraldry.sca.org/loar/), the final decisions on submissions from Laurel Sovereign of Arms and staff
