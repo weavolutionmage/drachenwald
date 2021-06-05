@@ -5,7 +5,7 @@ excerpt:  An overview of court reports submitted using the court report form.
 
 This is an overview of court reports submitted using the court report form. If you're missing an award in the OP, and don't see the court on the list here check with the herald if the report has been submitted.
 
-If the court is listed here but hasn't been published yet it in the Dragon's Tale or the OP it probably will be soon. Contact the relevant officers after a reasonable time has past. 
+If the court is listed here but hasn't been published yet it in the Dragon's Tale or the OP it probably will be soon. Contact the relevant officers after a reasonable time has passed. 
 
 {% if site.data.courtreports %}
   {% assign courtreports = site.data.courtreports %}
