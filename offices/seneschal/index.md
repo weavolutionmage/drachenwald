@@ -29,7 +29,7 @@ This council helps maintain Drachenwald's Code of Conduct policy and acts as a r
 * [Youth Policy Appendix]({{ site.baseurl }}{% link offices/seneschal/files/youthpolicyappendix.pdf %}) (PDF)
 * [Online events policy]({{ site.baseurl}}{% link offices/seneschal/files/covid19-online.pdf %}) (PDF)
 * [Code of Conduct]({{ site.baseurl}}{% link offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf %}) (PDF)
-* [Kingdom event bids - info and checklist ]({{  site.baseurl}}{% link offices/seneschal/event-bid-checklist.md %})
+* [Kingdom event bids - info and checklist ]({{ site.baseurl}}{% link offices/seneschal/event-bid-checklist.md %})
 
 
 {% include officer-contacts.html %}
