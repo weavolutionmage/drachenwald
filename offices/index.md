@@ -21,7 +21,7 @@ These pages provide the forms, handbooks and guidance for local and regional off
 
 * [Archery & Thrown Weapons Marshal]({{ site.baseurl }}{% link offices/archery-thrown-marshal/index.md %}) looks after archery and thrown weapons activities including equipment safety, good practice for instruction, and competition options.
 
-* [Equestrian marshal]({{ site.baseurl }}{% link offices/equestrian-marshal/index.md %}) oversees activities for horses and riders.
+* [Equestrian Marshal]({{ site.baseurl }}{% link offices/equestrian-marshal/index.md %}) oversees activities for horses and riders.
 
 * [Fencing Marshal]({{ site.baseurl }}{% link offices/fencing-marshal/index.md %}) looks after rapier and cut-and-thrust combat, including authorisations (tests to ensure people taking part understand the rules) for participants, keeping armour and weapons guides up to date, and promoting a safe and welcoming combat environment 
 

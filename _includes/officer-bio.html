@@ -1,49 +1,52 @@
 {% assign p = include.holder %}
 
 {% unless include.sidebar == true %}<div class="row"><div class="8u 12u(mobile) important(mobile)">{% endunless %}
+  <!-- Headers -->
   {% if p.responsibility == "" %}
-  <h2>{{ group.group }} {{ group.status }} {{ include.longname }}</h2>
+  <dt>{{ group.group }} {{ group.status }} {{ include.longname }}</dt>
   {% else %}
-  <h2>{{ group.group }} {{ p.responsibility }}</h2>
+  <dt>{{ group.group }} {{ p.responsibility }}</dt>
   {% endif %}
 
+  <!-- include sca/mundane bio !-->
+  <dd>
+    {% if p.portrait %}
+    {% unless p.portrait == "" %}
+    <span class="image">
+      <img style="float: left; margin: 0px 0px 15px 15px;" src="{{ site.baseurl }}/{{p.portrait}}" alt="{{p.scaname}}" width="100">
+    </span>
+    {% endunless %}
+  {% endif %}  
+  
   {% if include.showbio %}
-    {% if p.bio %}
+    {% unless p.bio == "" %}
       <p>
       <strong>{{ p.scaname }}</strong>
       {{ p.bio }}
       </p>
-    {% endif %}
+    {% endunless %}
     
-    {% if p.realbio %}
+    {% unless p.realbio == "" %}
       <p>
       <strong>{{ p.mundanename }}</strong>
       {{ p.realbio }}
       </p>
-    {% endif %}
+    {% endunless %}
   {% endif %}
   
   <strong>{{ p.scaname }}</strong>
-  {% if p.mundanename %}
+  {% unless p.mundanename == "" %}
   ({{ p.mundanename }})
-  {% endif %}
-  <br>
-  {% if p.email %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endif %}
-  {% if p.phone %}Phone: {{ p.phone }}<br>{% endif %}
-  {% if p.address %}{{ p.address }}<br>{% endif %}
-
-  {% unless include.sidebar == true %}
-  </div>
-  <div class="4u 12u(mobile)">
   {% endunless %}
+  {% unless p.pronouns == "" %}
+  ({{ p.pronouns }})
+  {% endunless %}
+  <br>
+  {% unless p.email == "" %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endunless %}
+  {% unless p.phone == "" %}Phone: {{ p.phone }}<br>{% endunless %}
+  {% unless p.address == "" %}{{ p.address }}<br>{% endunless %}
 
-  {% if p.portrait %}
-    {% unless p.portrait == "" %}
-    <br><br><br><br><br>
-    <span class="image">
-      <img src="{{ site.baseurl }}/{{p.portrait}}" alt="{{p.scaname}}" width="200">
-    </span>
-    {% endunless %}
-  {% endif %}
 
-{% unless include.sidebar %}</div></div>{% endunless %}
+  
+  </dd>
+{% unless include.sidebar %}</div> </div>{% endunless %}

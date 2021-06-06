@@ -21,6 +21,7 @@ gem "minimal-mistakes-jekyll", "4.13.0"
 
 gem 'rake'
 gem 'html-proofer'
+gem "kramdown-parser-gfm"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
