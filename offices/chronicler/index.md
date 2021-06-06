@@ -21,12 +21,9 @@ The kingdom chronicler:
 
 For an event to be "official" for business like awards, and proclamation of laws, you must publish the event on the Kingdom Calendar and send an announcement to the [_Dragon's Tale_]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %}).
 
-<ul>
-<!-- <li><a href="/content/planning-and-scheduling-events">Planning and scheduling events</a> FIXME</li> -->
-<li><a href="{{ site.baseurl }}{% link events/calendar-add.html %}" target="_blank">Request a date on the Kingdom Calendar</a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-event-announcement.md %}">Event announcement guidelines</a></li>
-<li><a href="{{ site.baseurl }}{% link offices/chronicler/make-event-official.md %}">Make sure your event is official</a></li>
-</ul>
+* [Request a date on the kingdom calendar]({{ site.baseurl }}{% link events/calendar-add.html %})
+* [Event announcement guidelines]({{ site.baseurl }}{% link offices/chronicler/guidelines-event-announcement.md %})
+* [Make sure your event is official]({ site.baseurl }}{% link offices/chronicler/make-event-official.md %})
 
 # Kingdom Newsletter
 
@@ -47,17 +44,15 @@ If you have any difficulties or questions, please email <script type="text/javas
 Local branches are encouraged to have a newsletter, though it is only <em>required</em>for Baronies and above.
 
 
-* <a href="{{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %}">Guidelines for local chroniclers</a>
-* <a href="https://www.sca.org/chronicler/">William Blackfox Awards</a><br />The William Blackfox awards are given each year to recognise excellence in local newsletters and their contributors. Each year, the kingdom chronicler nominates local newsletters, articles and artwork produced within the kingdom for the various awards.
+* [Guidelines for local chroniclers]({{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %})
+* [William Blackfox awards](https://www.sca.org/chronicler/)
+
+The Society Chronicler selects winners of the William Blackfox awards each year, to recognise excellence in local newsletters and their contributors. Each year, the kingdom chronicler nominates local newsletters, articles and artwork produced within the kingdom for the various awards.
 
 # Policies and Reports
 
-* <a href="{{ site.baseurl }}{% link offices/chronicler/chronicler-policies.md %}">Kingdom chronicler policies</a> 
-* <a href="{{ site.baseurl }}{% link offices/chronicler/report-template.md %}">Template for quarterly reports</a>
-
-
-
-
+* [Kingdom chronicler policies]({{ site.baseurl }}{% link offices/chronicler/chronicler-policies.md %})
+* [Template for quarterly reports]({{ site.baseurl }}{% link offices/chronicler/report-template.md %})
 
 
 {% include officer-contacts.html %}
