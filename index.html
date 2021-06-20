@@ -54,7 +54,7 @@ feature_row:
 <h3>{{ post.title }}</h3>
 
 <h6><i>{{ post.date | date_to_string }}</i></h6>
-<p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn--primary">Read more...</a></p>
+<p>{{ post.excerpt }} <a href="{{ site.baseurl }}{{ post.url }}" >Read more...</a></p>
 {% endfor %}
 
 <p style="text-align: right;"><a href="{{ site.baseurl }}/posts/news/" class="btn btn--primary">See all the news...</a></p>
