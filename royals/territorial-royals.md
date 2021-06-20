@@ -22,7 +22,7 @@ Their Highnesses of The [Principality of Nordmark](http://www.nordmark.org/)
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Nordmark" %}
 {% include territorial-contacts.md listing=v %}
 
-### Styringheim (Island of Gotland, SE)
+### Styringheim (Island of Gotland, Sweden)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/styringheim_logo.gif %}" width="40" alt="Arms of Styringheim">{: .align-left}  
 
@@ -49,7 +49,15 @@ Their Highnesses of the [Principality of Insulae Draconis](http://www.insulaedra
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis" %}
 {% include territorial-contacts.md listing=v %}
 
-### Knight's Crossing (most of Germany)  
+### Eplaheimr (Central, west and south Ireland)
+
+
+Their Excellencies of the [Barony of Eplaheimr](https://eplaheimr.org/)  
+
+{% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Insulae Draconis-Eplaheimr" %}
+{% include territorial-contacts.md listing=v %}
+
+## Knight's Crossing (Germany)  
 
 <img src="{{ site.baseurl }}{% link images/heraldry/knightscrossing_m.gif %}" width="40" alt="Arms of Knight's Crossing">{: .align-left}  
 
@@ -58,7 +66,7 @@ Their Excellencies of the [Barony of Knight's Crossing](http://www.knightscrossi
 {% assign v = site.data.groups.officerlist | where: "office", "royalty"  | where: "group", "Knights Crossing" %}
 {% include territorial-contacts.md listing=v %}
 
-### Aarnimetsä (Finland)
+## Aarnimetsä (Finland)
 
 <img src="{{ site.baseurl }}{% link images/heraldry/arnimetsa.gif %}" width="40" alt="Arms of Aarnimetsä">{: .align-left}  
 

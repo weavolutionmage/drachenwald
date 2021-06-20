@@ -1,6 +1,6 @@
 ---
-title:  "May Dragon's Tale has been published"
-date:   2021-05-14 10:05:00 +0000
+title:  "July Dragon's Tale has been published"
+date:   2021-06-14 10:05:00 +0000
 tags: "DragonsTale"
 category: news
 author: webartificers

@@ -42,7 +42,7 @@ Akin to a guild, the Academy has ranks which candidates challenge into, by meeti
  {% for itemAll in roster %}{% if itemAll.Rank == "Prefect" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
 
 ## Preceptor
-Master Esbiorn Jensson (D. Cordes) <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,39,62,100,97,118,105,100,46,99,111,114,100,101,115,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>  
+{% include role-contactinfo.html role="Academy of Defense - Preceptor" %}
 
 ## Scribe
 Mistress Gwenllian verch Andreas (K. Bernard) <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,39,62,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>

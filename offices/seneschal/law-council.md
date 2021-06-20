@@ -4,23 +4,16 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-# Contact the Law Council
+# Proposals for Curia
 
-You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
-
-# Proposals open for feedback
-
-* Please use the web form at the end of the proposal page when sharing your thoughts with us.
-* When giving feedback on a specific section of the law, please mention its number.
-
-The Law Council is currently asking your view on [the following draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %}):
+The upcoming Curia will discuss [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %}):
 * Glossary
 * Drachenwald law section 5 (Kingdom officers and their duties)
 * Drachenwald law section 7.02.2.8.2 (event requirements for Crown Tournament participation)
 
-# Proposals for Curia
+# Contact the Law Council
 
-* The upcoming Curia will discuss the proposals to change [Drachenwald law sections 1-5]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v1.md %}).
+You can always reach the Law Council at <script type="text/javascript">document.write(String.fromCharCode(108,97,119,64,100,114,97,99,104,101,110,119,97,108,100,46,115,99,97,46,111,114,103 ));</script>. Please send us suggestions for changes or updates to Drachenwald Law.
 
 # The Purpose of the Law Council
 
@@ -66,7 +59,20 @@ The current members of the Law Council are:
 * Pietari Uv
 * William of Richwood
 
-# Past Proposals
+# Past Proposals and Work in Progress
+
+## Changes to Drachenwald law Glossary and sections 5 and 7.02.2.8.2
+
+The process of changing Drachenwald law Glossary and sections 5 and 7.02.2.8.2:
+* 2021-04-08 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %}).
+* 2021-02-07 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %})
+
+## Changes to Drachenwald law sections 1-5
+
+The process of changing Drachenwald law sections 1-5:
+* 2021-03-18 Curia.
+* 2021-02-07 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v1.md %}).
+* 2020-12-03 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v0.md %})
 
 ## Changes to Drachenwald law 7.02.2.1 and sections 9-11
 
