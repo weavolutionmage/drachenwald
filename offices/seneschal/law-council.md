@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 
 # Proposals for Curia
 
-The upcoming Curia will discuss [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %}):
+The last Curia discussed [the following proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %}):
 * Glossary
 * Drachenwald law section 5 (Kingdom officers and their duties)
 * Drachenwald law section 7.02.2.8.2 (event requirements for Crown Tournament participation)
