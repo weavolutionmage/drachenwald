@@ -13,23 +13,23 @@ Criteria for participation in the upcoming Drachenwald Crown list in October 202
 
 The usual requirements according to kingdom law will apply, with the following adaptations to be included in letters of intent:
 
-- Adaption 1, regarding attendance:
-a. A list of the six most recent SCA occasions that you have physically attended in Drachenwald.
-b. Our definition of an SCA occasion is an in-person gathering with any kind of SCA activities, e.g. fighter practices, A&S meetings, official published events, local SCA business meetings, etc.
-c. There is no time constraint for the list of attended SCA occasions.
-d. This applies to both fighter and consort.
+- Adaption 1, regarding attendance:  
+a. A list of the six most recent SCA occasions that you have physically attended in Drachenwald.  
+b. Our definition of an SCA occasion is an in-person gathering with any kind of SCA activities, e.g. fighter practices, A&S meetings, official published events, local SCA business meetings, etc.  
+c. There is no time constraint for the list of attended SCA occasions.  
+d. This applies to both fighter and consort.  
 
-- Adaption 2, regarding safety:
-e. Each fighter must have been in armor and fought at least twice, on separate occasions. (See item "b" above, and items "f" & "g" below.)
-f. On these occasions, each fighter must have faced at least one opponent.
-g. These occasions must have happened after June 1st 2021.
-h. Include in your letter of intent: a list of when, where, and whom you fought.
+- Adaption 2, regarding safety:  
+e. Each fighter must have been in armor and fought at least twice, on separate occasions. (See item "b" above, and items "f" & "g" below.)  
+f. On these occasions, each fighter must have faced at least one opponent.  
+g. These occasions must have happened after June 1st 2021.  
+h. Include in your letter of intent: a list of when, where, and whom you fought.  
 
-- General info:
-i. The deadline for letters of intent is Friday September 24th 2021.
-j. Letters of intent should be sent to the Crown and the Kingdom Seneschal.
-k. Fighters who do not have a valid authorization (yet), can still send in a letter of intent.
-l. Fighters MUST have a valid authorization card at the time of the tournament.
+- General info:  
+i. The deadline for letters of intent is Friday September 24th 2021.  
+j. Letters of intent should be sent to the Crown and the Kingdom Seneschal.  
+k. Fighters who do not have a valid authorization (yet), can still send in a letter of intent.  
+l. Fighters MUST have a valid authorization card at the time of the tournament.  
 
 ---------------------------------------------------
 
@@ -41,10 +41,10 @@ All other requirements listed in kingdom law section 7.02.2 for participation in
 
 We will apply section 7.02.2.8.3 to all applicants. This section of kingdom law allows the Crown and the Seneschal to waive certain requirements of participation. Section 7.02.2.8.1 will still apply, i.e. that participants must have resided in Drachenwald for the six months preceding the Crown List entered. Due to the lack of physical events being held during the pandemic, We will require the following information instead:
 
-1) A list of the six most recent SCA occasions that you have physically attended in Drachenwald, including when, where, and event name or type of activity.
+1. A list of the six most recent SCA occasions that you have physically attended in Drachenwald, including when, where, and event name or type of activity.
 These gatherings could be an official SCA event, or it could be a small local one-day gathering, or it could be A&S meetings/fighter practices. There is no time constraint for this list, so all six events could have been before the pandemic or all six could have occurred in the last month. This applies to both participants listed in the letter of intent.
 
-2) To ensure the safety of all fighters in the list after such a long break from fighting, We ask that each fighter has been in armor and fought at least one opponent during two separate occasions since the 1st of June. Please include in your letters of intent when, where, and whom you fought.
+2. To ensure the safety of all fighters in the list after such a long break from fighting, We ask that each fighter has been in armor and fought at least one opponent during two separate occasions since the 1st of June. Please include in your letters of intent when, where, and whom you fought.
 
 
 Regarding lapsed authorizations:
