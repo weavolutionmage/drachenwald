@@ -25,15 +25,8 @@ Collectively the artists are called 'scribes'. Scribes keep their assignments co
 
 # Social media
 
-Yahoogroup  
-http://groups.yahoo.com/group/dragon_scribes/
-
 Facebook  
 https://www.facebook.com/groups/DragonScribes/
-
-(Unofficial) The Dragon Scribes Blog, the Virtual Scriptorium for scribes of Drachenwald to meet and share, gather ideas and get input. Picture heavy.
-
-http://dragonscribes.blogspot.de/
 
 
 {% include officer-contacts.html %}

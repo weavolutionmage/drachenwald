@@ -1,4 +1,4 @@
-image: ruby:2.3
+image: ruby:2.6
 
 variables:
   JEKYLL_ENV: production
@@ -27,6 +27,8 @@ before_script:
   - curl -o _data/archery-ranks.json "https://scripts.drachenwald.sca.org/json/archery-ranks.json"
   - curl -o _data/archery-progression.json "https://scripts.drachenwald.sca.org/json/archery-progression.json"
   - curl -o _data/archery-marshals.json "https://scripts.drachenwald.sca.org/json/archery-marshals.json"
+  - curl -o _data/courtreports.json "https://scripts.drachenwald.sca.org/json/courtreports.json"
+  - curl -o _data/laurelroster.json "https://scripts.drachenwald.sca.org/json/laurelroster.json"
   - 'pip3 install -r _thisisdrachenwald/requirements.txt'
   - 'python3 _thisisdrachenwald/fetch_rss.py'
   - 'python3 _thisisdrachenwald/create_rss.py'

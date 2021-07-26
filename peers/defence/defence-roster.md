@@ -76,3 +76,9 @@ Elevated on 2019/12/07
 Elevated on 2020/02/22
 
 <img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}
+
+#### Antonio di Rienzo Ruspoli, Depedene Under Wychwood, Insulae Draconis
+
+Elevated on 2021/05/15
+
+<img src="{{ site.baseurl }}{% link peers/defence/images/MoDBadge.jpg %}" width="200" alt="MastersofDefenseBadge">{: .full}

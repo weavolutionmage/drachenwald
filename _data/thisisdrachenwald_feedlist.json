@@ -36,8 +36,9 @@
 {"url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "name": "Alexandre Davinge's Youtube Channel", "link": "https://www.youtube.com/playlist?list=PLpUOf1-mprdInECs7PRne1XFrj5LkIF-i", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCc0Nf5KpXgF_houELRtM_Ew", "name": "Medieval Cookery with Arpad", "link": "https://www.youtube.com/channel/UCc0Nf5KpXgF_houELRtM_Ew", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://knotsinanet.wordpress.com/feed/", "name":"Knots in a net – Solmuja verkossa", "link":"https://knotsinanet.wordpress.com","merge": false,"showMedia":  true, "type": "blog"},
-{"url": "https://coronation.nordmark.org/blog/feed/", "name":"Summer Coronation 2021 News", "link":"https://coronation.nordmark.org/blog","merge": false,"showMedia":  true, "type": "blog"}
-
+{"url": "https://coronation.nordmark.org/blog/feed/", "name":"Summer Coronation 2021 News", "link":"https://coronation.nordmark.org/blog","merge": false,"showMedia":  true, "type": "blog"},
+{"url":"https://theirishages.home.blog","name":"The Irish Ages", "link":"https://theirishages.home.blog/feed/","merge": false,"showMedia":true,"type":"blog"},
+{"url":"https://drachenwaldartschallenge.wordpress.com/","name":"Drachenwald Arts Challenge", "link":"https://drachenwaldartschallenge.wordpress.com/feed/","merge": false,"showMedia":true,"type":"blog"}
 
       ]
       

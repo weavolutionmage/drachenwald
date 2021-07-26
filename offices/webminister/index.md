@@ -1,27 +1,31 @@
 ---
 title: Office of the Web Minister
-subtitle: Who keeps this running?
+excerpt: Who keeps this online circus running?
+
 ---
 
-The web minister, supported by several web artificers keeps the website running.
+## Kingdom web artificers
 
-## Reporting
-Mostly, Yda would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  You can contact her at <a href="mailto:webminister@drachenwald.sca.org">webminister@drachenwald.sca.org</a>, and she'll be pleased to hear from you.
+These folks volunteer to work on the kingdom website.
+
+* Sela de la Rosa
+* Genevieve la flechiere
+* Aodh O Siadhail 
+* Lydia von Are
+* Milada von Schnecken
+* Marcella di Cavellino
+
+## Reporting for principality and local webministers
+
+Mostly, Yda would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  
+
+## Kingdom site issues
+
+Send a report to the Gitlab issues tracker: <a href="https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/-/issues/new"> 
+
 
 ## Updating information on the website
 * [Update officer information](https://forms.gle/Xm7bCu7nkq5uMU5Z6)
 * [Adding a chartered group to the website]({{ site.baseurl}}{% link offices/webminister/content-policy.md %}) 
 
-## Contact Information
-<p>You can email the web minister at webminister@drachenwald.sca.org or if you notice an issue fill out an issue report at <a href="https://gitlab.com/sca-drachenwald/sca-drachenwald.gitlab.io/-/issues/new"> our gitlab issue tracker</a></p>
-
-### Web minister
-Yda van Boulogne
-
-### Web artificers
- 
-* Sela de la Rosa 
-* Genevieve La Flechiere
-* Aodh 
-* Lydia von Are 
-
+{% include officer-contacts.html %}
