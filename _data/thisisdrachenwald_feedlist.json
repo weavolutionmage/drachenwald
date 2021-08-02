@@ -38,7 +38,8 @@
 {"url": "https://knotsinanet.wordpress.com/feed/", "name":"Knots in a net – Solmuja verkossa", "link":"https://knotsinanet.wordpress.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url": "https://coronation.nordmark.org/blog/feed/", "name":"Summer Coronation 2021 News", "link":"https://coronation.nordmark.org/blog","merge": false,"showMedia":  true, "type": "blog"},
 {"url":"https://theirishages.home.blog/feed","name":"The Irish Ages", "link":"https://theirishages.home.blog/","merge": false,"showMedia":true,"type":"blog"},
-{"url":"https://drachenwaldartschallenge.wordpress.com/feed","name":"Drachenwald Arts Challenge", "link":"https://drachenwaldartschallenge.wordpress.com/","merge": false,"showMedia":true,"type":"blog"}
+{"url":"https://drachenwaldartschallenge.wordpress.com/feed","name":"Drachenwald Arts Challenge", "link":"https://drachenwaldartschallenge.wordpress.com/","merge": false,"showMedia":true,"type":"blog"},
+{"url":"https://thepurplelotus.org/rss.xml","name":"Drachenwald Arts Challenge", "link":"https://thepurplelotus.org/","merge": true,"showMedia":true,"type":"blog"}
 
       ]
       
