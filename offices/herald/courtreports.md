@@ -16,6 +16,6 @@ No court reports available right now, please come back later.
 {% endif %}
 
 {% for itemAll in courtreports %}
-* {{ itemAll.event_name }}: {{ itemAll.court }} court, {{ itemAll.court_name }}, {{ itemAll.court_date }} submitted by {{ itemAll.filed_by }} on {{ itemAll.court_date }}
+* {{ itemAll.event_name }}: {{ itemAll.court }} court, {{ itemAll.court_name }}, {{ itemAll.court_date }} submitted by {{ itemAll.filed_by }} on {{ itemAll.date_submitted }}
 {% endfor %}
 
