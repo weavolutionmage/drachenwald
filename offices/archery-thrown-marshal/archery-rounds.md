@@ -59,25 +59,30 @@ The Drachenwald round was devised to provide a more authentic standard competiti
 ## Clout Shoot
 This is a long range, timed round which simulates military field archery. Arrows are shot into the target that represents a besieged castle or an element of enemy soldiers arrayed for battle. 
 
-* The target is a circle ten yards in diameter, marked on the ground. It can be made of hay bales or other suitable materials
+* The target is a circle ten yards in **diameter** (Radius of five yards), marked on the ground. It can be made of hay bales or other suitable materials
 * Distance  from the shooting line to the closest part of the target circle is one hundred yards (100yd)
 * This is a one minute (sixty second) timed shoot with unlimited arrows
 * Arrows that fall within the circle score two points
 * An archer releasing an arrow before the start, or after the end, of the sixty second period will lose a scoring arrow from their total
 
-In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the diameter of the circle must be proportionately reduced to a minimum of eight yards.
+In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the **diameter** of the circle must be proportionately reduced to a minimum of eight yards.
 
 ## Shooting at the mark
-This is a short-range round based on precision, having more in common with hunting than with military archery.  
+This is a short-range round, based on precision, having more in common with hunting than with military archery.  
 
-* The target is a piece of paper 21 x 21 cm (8¼ x 8¼inches)
-  * To make this target, fold a sheet of standard European A4 stationery in half (to A5 size), then cut off one edge to make it square. 
+* The target is a piece of plain paper, 21cm x 21cm (8¼" x 8¼")
+  * An A4 sheet of paper is 21cm wide, so if you can cut it co it is square, that is a relatively easy way to create the target.
 * The paper may be oriented on the target any way you like
 * The shoot consists of three ends
   * One round of six arrows at forty yards with no time limit
   * One round of six arrows at thirty yards with no time limit
   * One round of six arrows at twenty yards with no time limit
 * Each arrow that hits the mark scores two points. This yields a maximum of thirty six points.
+* Competition distances for children. The age of the child is counted as of the *start* of any competition
+  * Under thirteen (13) years of age
+    * Thirty, twenty, and ten yards
+  * Under ten (10) years of age
+    * Twenty, fifteen, and ten yards
    
 ## Authenticity
 Using, and making, authentic equipment may also yield points for an archer. A maximum of nine points may be gained without loosing an arrow
@@ -112,7 +117,7 @@ The Annual competition is split into two season’s competitions.
 
 ## Current competition
 
-Due to the long period of plague, with restrictions on gatherings, the summer competition for 2020 has not taken place.
+Due to the long period of plague, with restrictions on gatherings, the summer competition for 2020 has not taken place. For the same reason, the winter competition for 2020/2021 has not taken place.
 
 The competition rankings for the 2019/2020 winter competition [can be found here](https://docs.google.com/spreadsheets/d/11BDVwXBRAK033-XQSj9lmyqqZRVhZBEQGpEcOBIM87s/edit?fbclid=IwAR3mdCOeO1HLXgAAYqWBC8KdUhTZyrHapvum1nEHW3M9ImonxImEPIz24D8#gid=358402896) (Google sheet)
 

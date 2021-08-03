@@ -1,7 +1,9 @@
 ---
 title: Event Bid Checklist
 ---
-When putting in a bid for a kingdom event, information about the bid is necessary in order for the crown, kingdom seneschal and kingdom exchequer to decide if the bid is a good one or not. Here is a list of items that if included in the bid will help make the decision making process go smoothly.  
+Any official group may put in a bid for a Kingdom level event. These events are Crown Tournaments held in April and October, Coronations held in January and June and Kingdom University held in November. Bids for Kingdom University may come from any group while Crown Tournament and Coronation event locations rotate among the Northern, Central/Southern and Insulae Draconis regions.  Event bids are due 9 months before the Kingdom event but may be submitted up to 2 years in advance. Bids should be submitted to the Kingdom Seneschal at seneschal@drachenwald.sca.org
+
+When putting in a bid for a kingdom event, information about the bid is necessary in order for the crown, kingdom seneschal and kingdom exchequer to decide if the bid is a good one or not. Here is a list of items to include in the bid and will help make the decision making process go smoothly.  There is no specific format for the bid document.
 
 ### Questions about the event team
 

@@ -52,6 +52,7 @@ The current members of the Law Council are:
 * Pietari Uv
 * Reinoud van Heemschmaere
 * William of Richwood
+* Reinoud van Heemschmaere
 
 # Past Proposals and Work in Progress
 
