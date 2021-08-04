@@ -53,7 +53,7 @@ The current members of the Law Council are:
 * Reinoud van Heemschmaere
 * William of Richwood
 
-# Past Proposals and Work in Progress
+# Past Proposals
 
 ## Changes to Drachenwald law Glossary and sections 5 and 7.02.2.8.2
 
