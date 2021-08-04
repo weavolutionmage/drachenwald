@@ -52,15 +52,14 @@ The current members of the Law Council are:
 * Pietari Uv
 * Reinoud van Heemschmaere
 * William of Richwood
-* Reinoud van Heemschmaere
 
-# Past Proposals and Work in Progress
+# Past Proposals
 
 ## Changes to Drachenwald law Glossary and sections 5 and 7.02.2.8.2
 
 The process of changing Drachenwald law Glossary and sections 5 and 7.02.2.8.2:
-* 2021-08 Dragon's Tale published the changed laws approved by Crown of Drachenwald
-* 2021-06-30 Pending laws were proclaimed at a court held in the Drachenwald Online Court
+* 2021-08 Dragon's Tale published the approved law changes
+* 2021-06-30 Pending laws proclaimed (Drachenwald Online Court)
 * 2021-05-27 Curia
 * 2021-04-08 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v1.md %})
 * 2021-02-07 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal4_v0.md %})
@@ -68,8 +67,8 @@ The process of changing Drachenwald law Glossary and sections 5 and 7.02.2.8.2:
 ## Changes to Drachenwald law sections 1-5
 
 The process of changing Drachenwald law sections 1-5:
-* 2021-05 Dragon's Tale published the changed laws approved by Crown of Drachenwald
-* 2021-05-13 Pending laws were proclaimed at a court held in the Plague Wars event
+* 2021-05 Dragon's Tale published the approved law changes
+* 2021-05-13 Pending laws proclaimed (court in Plague Wars)
 * 2021-03-18 Curia
 * 2021-02-07 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v1.md %})
 * 2020-12-03 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal3_v0.md %})
@@ -77,7 +76,7 @@ The process of changing Drachenwald law sections 1-5:
 ## Changes to Drachenwald law 7.02.2.1 and sections 9-11
 
 The process of changing Drachenwald law 7.02.2.1 (gender requirements for Crown Tournament participation) and Drachenwald law 9-11 (Kingdom awards):
-* 2020-11-28 Pending laws were proclaimed at a court held in the Kingdom University event
+* 2020-11-28 Pending laws proclaimed (court in Kingdom University)
 * 2020-11-12 Curia
 * 2020-09-14 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v3.md %})
 * 2020-08-17 [Addressing feedback and updated draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal1_v2.md %})
