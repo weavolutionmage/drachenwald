@@ -64,6 +64,9 @@ This is a long range, timed round which simulates military field archery. Arrows
 * This is a one minute (sixty second) timed shoot with unlimited arrows
 * Arrows that fall within the circle score two points
 * An archer releasing an arrow before the start, or after the end, of the sixty second period will lose a scoring arrow from their total
+* Competition distances for children. The age of the child is counted as of the *start* of any competition
+  * Under thirteen (13) years of age will shoot from a line sixty yards from the closest part of the target
+  * Under ten (10) years of age will shoot from a line forty yards from the closest part of the target
 
 In the case where there is not sufficient space for a one hundred yard distance between shooting line and the boundary of the circle, the distance may be reduced down to a minumum of eighty yards. When reducing the distance, the **diameter** of the circle must be proportionately reduced to a minimum of eight yards.
 
@@ -71,7 +74,7 @@ In the case where there is not sufficient space for a one hundred yard distance 
 This is a short-range round, based on precision, having more in common with hunting than with military archery.  
 
 * The target is a piece of plain paper, 21cm x 21cm (8¼" x 8¼")
-  * An A4 sheet of paper is 21cm wide, so if you can cut it co it is square, that is a relatively easy way to create the target.
+  * An A4 sheet of paper is 21cm wide, so if you can cut it so it is square, that is a relatively easy way to create the target.
 * The paper may be oriented on the target any way you like
 * The shoot consists of three ends
   * One round of six arrows at forty yards with no time limit
