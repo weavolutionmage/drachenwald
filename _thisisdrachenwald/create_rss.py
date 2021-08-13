@@ -33,7 +33,7 @@ for entry in entries:
         fe = fg.add_entry()
         fe.id(gid)
         fe.title(title)
-        fe.link(href=entry['siteLink'])
+        fe.link(href=entry['link'])
         pb = item['published']
         print(pb)
         pub = datetime.datetime(pb[0],pb[1],pb[2],pb[3],pb[4],pb[5],pb[6],pytz.timezone("America/Los_Angeles"))
