@@ -10,7 +10,7 @@ The Seneschal office helps Drachenwald groups manage their activities.  You'll f
 
 <p class="notice--primary">
 <b>Running in-person events</b><br />
-If you are planning to run an in-person event at this time, please see <a href="{% link offices/seneschal/files/covid-event-guidelines.pdf %}">Drachenwald Event Guidelines in a post COVID–19 World (Updated march 2021)</a>.
+If you are planning to run an in-person event at this time, please see <a href="{% link offices/seneschal/files/covid-event-guidelines.pdf %}">Drachenwald Event Guidelines in a post COVID–19 World (Updated august 2021)</a>.
 </p>
 
 ## Law Council
