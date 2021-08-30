@@ -21,7 +21,7 @@ As with armoured combat, safety is the primary concern.  Historical accuracy in 
 
 
 
-* [Drachenwald historical fencing rulebook]({{ site.baseurl }}{% link offices/fencing-marshal/files/drachenwald_historical_fencing_rulebook_sept_2018.pdf %}), introducing the basics of protective equipment, weapons, rules, and conventions
+* [Drachenwald historical fencing rulebook]({{ site.baseurl }}{% link offices/fencing-marshal/files/fencing_rules.pdf %}), introducing the basics of protective equipment, weapons, rules, and conventions
 * [Drachenwald historical fencing marshal's handbook]({{ site.baseurl }}{% link offices/fencing-marshal/files/drachenwald_historical_fencing_marshals_handbook_sept_2018.pdf %}), introducing the steps to becoming a fencing marshal
 * [Marshal-in-training checklist]({{ site.baseurl }}{% link offices/fencing-marshal/files/fencing_mit_checklist_2018.pdf %}) to help those training to become marshals keep track of the skills they've learned and practiced
 * [Fencing authorisation form](https://goo.gl/forms/CszeO06cCFkiPWto1) using Google Forms, for those who  successfully learn new weapons forms for SCA use. Fencers and marshals must complete a form to record your authorisation.
