@@ -16,5 +16,8 @@ featurealt: thing
 <h3>Chancellor Policies :</h3>
 <p>See section 3 of <a href="{{ site.baseurl }}{% link offices/unichancellor/policies.md %}">Policies of Arts and Sciences for the Kingdom of Drachenwald</a></p>
 
-
+<h2>Past Kingdom Universities</h2>
+<ul>
+<li><a href="{{ site.baseurl }}{% link offices/unichancellor/ku2020.md %}">Kingdom University 2020</a></li>
+</ul>
 {% include officer-contacts.html %}
