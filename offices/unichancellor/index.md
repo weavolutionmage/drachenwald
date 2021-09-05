@@ -18,6 +18,6 @@ featurealt: thing
 
 <h2>Past Kingdom Universities</h2>
 <ul>
-<li><a href="{{ site.baseurl }}{% link offices/unichancellor/ku202.md %}">Kingdom University 2020</a></li>
+<li><a href="{{ site.baseurl }}{% link offices/unichancellor/ku2020.md %}">Kingdom University 2020</a></li>
 </ul>
 {% include officer-contacts.html %}
