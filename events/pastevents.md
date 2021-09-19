@@ -13,7 +13,7 @@ title: Past events published in the Dragons Tale
 
 <table>
 
-  <caption><h3>Bid List</h3></caption>
+  <caption><h3>Past events</h3></caption>
   
   <thead>
     <tr>
