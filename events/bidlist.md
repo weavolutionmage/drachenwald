@@ -25,7 +25,6 @@ title: Kingdom events open for bidding
     </tr>
   </thead>
 {% for item in bidlist %}
-{{ item }}
     <tr>
 	<td>{{ item.date  }}</td>
 	<td>{{ item.region }}</td>
