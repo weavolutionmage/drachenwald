@@ -40,7 +40,10 @@
 {"url":"https://theirishages.home.blog/feed","name":"The Irish Ages", "link":"https://theirishages.home.blog/","merge": false,"showMedia":true,"type":"blog"},
 {"url":"https://drachenwaldartschallenge.wordpress.com/feed","name":"Drachenwald Arts Challenge", "link":"https://drachenwaldartschallenge.wordpress.com/","merge": false,"showMedia":true,"type":"blog"},
 {"url":"https://thepurplelotus.org/rss.xml","name":"Jahanara's Weaving & Research", "link":"https://thepurplelotus.org/","merge": false,"showMedia":true,"type":"blog"},
-{"url":"https://drachenwaldpelicans.org/rss","name":"Drachenwald Pelicans", "link":"https://drachenwaldpelicans.org/","merge": false,"showMedia":true,"type":"blog"}
+{"url":"https://drachenwaldpelicans.org/rss","name":"Drachenwald Pelicans", "link":"https://drachenwaldpelicans.org/","merge": false,"showMedia":true,"type":"blog"},
+{"url":"https://nordmark.org/hem/nordmarks-bloggen/feed/","name":"Nordmark Blog", "link":"https://nordmark.org/hem/nordmarks-bloggen/","merge": false,"showMedia":true,"type":"blog"},
+{"url":"https://holmrike.nordmark.org/holmrikes-blogg/feed","name":"Holmrike Blog", "link":"https://holmrike.nordmark.org/holmrikes-blogg","merge": false,"showMedia":true,"type":"blog"},
+{"url":"https://ulvberget.nordmark.org/ulvbergets-blogg/feed/","name":"Ulvberget Blog", "link":"https://ulvberget.nordmark.org/ulvbergets-blogg","merge": false,"showMedia":true,"type":"blog"}
 
       ]
       
