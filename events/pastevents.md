@@ -4,7 +4,7 @@ title: Past events published in the Dragons Tale
 
 
 {% if site.data.fullcalendar.pastevents %}
-  {% assign pastevents = site.data.fullcalendar.pastevents %}
+  {% assign pastevents = site.data.fullcalendar.pastevents | sort: 'start_date' %}
 
 {% else %}
   {% assign pastevents  = "" %}
