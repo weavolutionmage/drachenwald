@@ -48,6 +48,8 @@ side:
 - title: Search
   url: /search/
 
+- title: Find an Officer
+  url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
 side-whatwedo:
 
@@ -88,6 +90,9 @@ side-whatwedo:
 - title: Search
   url: /search/
 
+- title: Find an Officer
+  url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
+
 side-royals:
 
 - title: What We Do
@@ -122,6 +127,9 @@ side-royals:
 
 - title: Search
   url: /search/
+
+- title: Find an Officer
+  url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
 side-offices:
 
@@ -191,3 +199,6 @@ side-offices:
 
 - title: Search
   url: /search/
+
+- title: Find an Officer
+  url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
