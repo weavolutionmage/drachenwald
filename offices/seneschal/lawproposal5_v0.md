@@ -39,7 +39,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 ### Proposed law text
 
-<details><summary>Click to expand Drachenwald Law section 6</summary>
+<!--<details><summary>Click to expand Drachenwald Law section 6</summary>-->
 
 6.00 BRANCHES
 
@@ -156,7 +156,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 6.07.3 Local officers who miss two reports in a twelve month period, as determined by their kingdom superior officers, have resigned. When a local officer is deemed to have resigned in this manner, the officer in question and the Seneschal of the relevant branch shall be notified of the resignation, and informed that the warrant for that officer has been withdrawn.
 
-</details>
+<!--</details>-->
 
 ## Draft proposal for Gender Neutrality in sections 11.02.1 and 13.08
 
@@ -168,7 +168,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 ### Proposed law text
 
-<details><summary>Click to expand Drachenwald Law sections 11.02.1 and 13.08</summary>
+<!--<details><summary>Click to expand Drachenwald Law sections 11.02.1 and 13.08</summary>-->
 
 11.02 Order of the Companions of Albion
 
@@ -195,7 +195,7 @@ The order of Precedence shall be as follows
 1. Non-armigerous awards
 1. Everyone else
 
-</details>
+<!--</details>-->
 
 ## Draft proposal to move the Kingdom Social Media Office to the Kingdom Seneschal
 
@@ -207,7 +207,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 ### Proposed law text
 
-<details><summary>Click to expand Drachenwald Law section 5.06.13</summary>
+<!---<details><summary>Click to expand Drachenwald Law section 5.06.13</summary> -->
 
 
 **5.06.13 Social Media Officer**
@@ -218,8 +218,10 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 **5.06.13.3**  Shall be responsible for enforcing Society and Kingdom Social Media Policies.
 
-</details>
+<!--</details> -->
 
 # Send in your comments
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf06xs69haFMPrkAz_BXyhoHcv6Vy0aGb6gfaN2pexxllCR9Q/viewform?embedded=true&usp=pp_url&entry.486687225=ONLY+USE+IN+CASE+OF+EMERGENCY&entry.1398533544=%0A%0A%0A%0A%0A&entry.1461532997=%0A%0A%0A%0A&entry.1599813049=%0A%0A%0A&entry.1187980275=%0A%0A%0A%0A&entry.86769978=%0A%0A%0A&entry.537680122=%0A%0A%0A%0A" width="640" height="8146" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
 
 [https://forms.gle/n2tivcMKar1p2qes7](https://forms.gle/n2tivcMKar1p2qes7)
