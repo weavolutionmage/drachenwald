@@ -81,7 +81,7 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 
 6.03.2.1 The Coronet will return the Principality to Drachenwald and take their rightful places among the Viscounty.
 
-6.03.2.2 The Crown of Drachenwald shall crown the Crown Prince and Princess of the incipient Kingdom as its first Sovereign and Consort.
+6.03.2.2 The Crown of Drachenwald shall crown the **Heirs** ~~Crown Prince and Princess~~ of the incipient Kingdom as its first Sovereign and Consort.
 
 6.03.2.3 ~~The respective Crowns~~ **The Crown of Drachenwald and the Crown of the new kingdom** shall formally sign the treaty into effect.
 
@@ -178,10 +178,10 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 The order of Precedence shall be as follows
 1. ~~King and Queen~~ **Sovereign and Consort** of Drachenwald
 1. ~~Crown Prince and Crown Princess~~ **Crown Heirs** of Drachenwald
-1. Direct Crown vassals (territorial **Coronets** ~~Prince/Princess~~, Viceroy/Vicereine, or ~~Baron/Baroness~~ **Baronial Rulers** outside a Principality) in their own lands
+1. Direct Crown vassals (territorial **Coronets** ~~Prince/Princess~~, **Viceregal Rulers** ~~Viceroy/Vicereine~~, or ~~Baron/Baroness~~ **Baronial Rulers** outside a Principality) in their own lands
 1. ~~Territorial Baron/Baroness~~ **Baronial Rulers** ~~of~~ within a Principality in their own Barony
 1. Territorial **Coronets** ~~Prince/Princess~~
-1. The Crown's appointed representatives of a Crown Principality (such as a Viceroy/Vicereine)
+1. The Crown's appointed representatives of a Crown Principality (such as a **Viceregal Rulers** ~~Viceroy/Vicereine~~)
 1. Duke/Duchess
 1. Count/Countess
 1. Viscount/Viscountess
@@ -223,5 +223,3 @@ In the law text below, added text is **bold** and removed text is marked with ~~
 # Send in your comments
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf06xs69haFMPrkAz_BXyhoHcv6Vy0aGb6gfaN2pexxllCR9Q/viewform?embedded=true&usp=pp_url&entry.486687225=ONLY+USE+IN+CASE+OF+EMERGENCY&entry.1398533544=%0A%0A%0A%0A%0A&entry.1461532997=%0A%0A%0A%0A&entry.1599813049=%0A%0A%0A&entry.1187980275=%0A%0A%0A%0A&entry.86769978=%0A%0A%0A&entry.537680122=%0A%0A%0A%0A" width="640" height="8146" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> 
-
-[https://forms.gle/n2tivcMKar1p2qes7](https://forms.gle/n2tivcMKar1p2qes7)
