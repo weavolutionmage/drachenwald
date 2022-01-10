@@ -4,7 +4,7 @@ date:   2021-12-15 20:00:00 +0200
 category: news
 tags: "law council"
 author: drachenwald
-excerpt:  "New law proposals are available for comments"
+excerpt:   "New law proposals are available for comments"
 ---
 
 Greetings from [Drachenwald Law Council](https://drachenwald.sca.org/offices/seneschal/law-council/)!
