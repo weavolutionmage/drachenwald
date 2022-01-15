@@ -60,12 +60,10 @@ title: Where we are
 
       {% assign mod = forloop.index | modulo:"3" %}
 
+      {% unless subgroup.status == "Dormant" %}
   <section>
-      {% if subgroup.status == "Dormant" %}
-  <h3>{{ subgroup.group }} (Dormant)</h3>
-      {% else %}
+
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
-      {% endif %}
       
         {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
         {% unless subgroup.website == "" %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a><br>{% endunless %}
@@ -81,11 +79,12 @@ title: Where we are
 
         {% if seneschal %}
           {% unless seneschal.scaname == "" %}
-            {% unless seneschal.email == "" %}
-    <strong>Seneschal:</strong> {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
+            
+    <strong>Seneschal:</strong> {{ seneschal.scaname }} 
+    {% unless seneschal.email == "" %}(<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>){% endunless %}
               {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
     <br>
-            {% endunless %}
+            
           {% endunless %}
         {% endif %}
 
@@ -100,7 +99,8 @@ title: Where we are
         {% endif %}
       
     </section>
-
+    {% endunless %}
+  
     {% endfor %}
 
 

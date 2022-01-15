@@ -51,6 +51,10 @@ side:
 - title: Find an Officer
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
+
+- title: Forms
+  url: http://www.drachenwald.sca.org/forms
+
 side-whatwedo:
 
 - title: What We Do
@@ -93,6 +97,9 @@ side-whatwedo:
 - title: Find an Officer
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
 
+- title: Forms
+  url: http://www.drachenwald.sca.org/forms
+
 side-royals:
 
 - title: What We Do
@@ -130,6 +137,9 @@ side-royals:
 
 - title: Find an Officer
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
+
+- title: Forms
+  url: http://www.drachenwald.sca.org/forms
 
 side-offices:
 
@@ -202,3 +212,6 @@ side-offices:
 
 - title: Find an Officer
   url: https://datastudio.google.com/u/0/reporting/34b2fab2-6092-4574-a11d-f4dfa9adc415/page/lVXNC
+
+- title: Forms
+  url: http://www.drachenwald.sca.org/forms

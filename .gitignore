@@ -13,5 +13,10 @@ renderedImages
 .cache/
 _data/events/*.json
 _data/groups/*.json
+_data/courtreports.json
+_data/fullcalendar.json
+_data/laurelroster.json
 _thisisdrachenwald/feedlist.json
 _thisisdrachenwald/.idea/
+_/_dlImages
+
