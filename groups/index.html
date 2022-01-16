@@ -35,7 +35,7 @@ title: Where we are
 
         {% if seneschal %}
           {% unless seneschal.email == "" %}
-  <strong>Seneschal:</strong>  {{ chatelaine.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
+  <strong>Seneschal:</strong>  {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
   <br>
           {% endunless %}
