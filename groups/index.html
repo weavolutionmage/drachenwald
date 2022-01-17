@@ -34,19 +34,17 @@ title: Where we are
         {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
 
         {% if seneschal %}
-          {% unless seneschal.email == "" %}
-  <strong>Seneschal:</strong>  {{ seneschal.scaname }} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>)
+  <strong>Seneschal:</strong>  {{ seneschal.scaname }}
+          {% unless seneschal.email == "" %} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>) {% endunless %}
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
   <br>
-          {% endunless %}
         {% endif %}
 
         {% if chatelaine %}
-          {% unless chatelaine.email == "" %}
-  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
+  <strong>Chatelaine:</strong> {{ chatelaine.scaname }} 
+          {% unless chatelaine.email == "" %} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>){% endunless %}
             {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
   <br>
-          {% endunless %}
         {% endif %}
 
     {% endunless %}
