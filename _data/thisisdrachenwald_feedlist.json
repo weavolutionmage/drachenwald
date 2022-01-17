@@ -45,7 +45,7 @@
 {"url":"https://nordmark.org/hem/nordmarks-bloggen/feed/","name":"Nordmark Blog", "link":"https://nordmark.org/hem/nordmarks-bloggen/","merge": false,"showMedia":true,"type":"blog"},
 {"url":"https://holmrike.nordmark.org/holmrikes-blogg/feed","name":"Holmrike Blog", "link":"https://holmrike.nordmark.org/holmrikes-blogg","merge": false,"showMedia":true,"type":"blog"},
 {"url": "https://ava-s-corner.com/feed/", "name":"Ava's Corner", "link":"https://ava-s-corner.com","merge": false,"showMedia":  true, "type": "blog"},
-{"url":"https://ulvberget.nordmark.org/ulvbergets-blogg/feed/","name":"Ulvberget Blog", "link":"https://ulvberget.nordmark.org/ulvbergets-blogg","merge": false,"showMedia":true,"type":"blog"}
-{"url": "https://thornegge.wordpress.com/feed/", "name":"Lia's Continued Crafts", "link":"https://thornegge.wordpress.com","merge": false,"showMedia":  true, "type": "blog"},
+{"url":"https://ulvberget.nordmark.org/ulvbergets-blogg/feed/","name":"Ulvberget Blog", "link":"https://ulvberget.nordmark.org/ulvbergets-blogg","merge": false,"showMedia":true,"type":"blog"},
+{"url": "https://thornegge.wordpress.com/feed/", "name":"Lia's Continued Crafts", "link":"https://thornegge.wordpress.com","merge": false,"showMedia":  true, "type": "blog"}
       ]
       
