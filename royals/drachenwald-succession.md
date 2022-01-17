@@ -101,3 +101,4 @@ A.S. is _Anno Societatis_, the Society year, which numbers from 1 May, 1966, the
 * LI 2018-2 Vitus and Isabel, AS LIII 
 * LII 2019-1 William and Isabetta, AS LIII
 * LIII 2019-2 Vitus and Isabel, AS LIV
+* LIV 2020-1 Eirkr and Jacquelina, AS LIV (The long reign, LIV, LV, LVI)
