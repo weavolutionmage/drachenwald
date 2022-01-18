@@ -46,6 +46,7 @@
 {"url":"https://holmrike.nordmark.org/holmrikes-blogg/feed","name":"Holmrike Blog", "link":"https://holmrike.nordmark.org/holmrikes-blogg","merge": false,"showMedia":true,"type":"blog"},
 {"url": "https://ava-s-corner.com/feed/", "name":"Ava's Corner", "link":"https://ava-s-corner.com","merge": false,"showMedia":  true, "type": "blog"},
 {"url":"https://ulvberget.nordmark.org/ulvbergets-blogg/feed/","name":"Ulvberget Blog", "link":"https://ulvberget.nordmark.org/ulvbergets-blogg","merge": false,"showMedia":true,"type":"blog"},
+{"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSOyxWYJ6YSqAgnDch-q18Q", "name": "Thomas' Skill At Arms", "link": "https://www.youtube.com/channel/UCSOyxWYJ6YSqAgnDch-q18Q", "merge": false, "showMedia": true, "type": "youtube"},
 {"url": "https://thornegge.wordpress.com/feed/", "name":"Lia's Continued Crafts", "link":"https://thornegge.wordpress.com","merge": false,"showMedia":  true, "type": "blog"}
       ]
       
