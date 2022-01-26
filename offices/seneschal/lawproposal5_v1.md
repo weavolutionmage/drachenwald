@@ -1,426 +1,223 @@
 ---
-title: Law Proposals for Curia 27 May 2021
+title: Law Proposals for Curia 24 March 2022
 toc: true
 toc_label: "Table of Contents"
 ---
 
 # Proposed Kingdom Law Changes for a Curia
 
-Their Majesties Æiríkr and Jacquelyna give notice that they will hold **an online Curia on Thursday May 27 2021**.
+Their Majesties Morales and Eila give notice that they intend to hold an online Curia Regis on Thursday March 24, 2022 at 7pm CET. 
 
-The agenda for this Curia is to review three proposed changes to Drachenwald law and discuss a matter of retiring a pair of silver coronets that have been used for the Royal Heirs but are now too fragile to use. The proposals cover changes to the Glossary, section 5 (Kingdom officers), and section 7.02.2.8.2 (event attendance requirements for Crown Tournament) of Drachenwald law. These proposed changes are being put before the Curia for discussion; the outcome of that discussion may be that any of the proposed changes may be rejected or altered before being implemented into Kingdom law.
+The agenda for this Curia is to review the following proposed law changes:
+*   Gender neutral changes in Section 6, Section 11 and 13. 
+*   Better defined officer requirements for all branch levels in section 6.04.1. 
+*   A proposal to move the Social Media office from the Kingdom Web minister to Kingdom Seneschal in section 5.06.13.1.  
 
-All Great Officers of the Kingdom should make every effort to attend this on-line Curia. If Great Officers are unable to do so, they may send a designated representative, or make their comments known to the Crown and Kingdom Seneschal in writing, prior to the day of the Curia. Members of the populace may also send comments in writing to the Crown (crown@drachenwald.sca.org) and Kingdom Seneschal (seneschal@drachenwald.sca.org) in advance of the meeting.
+Fuller descriptions of all proposed changes are below. Any new business may be brought up after the law change discussion. 
 
-# 1. Proposal to change the Glossary
+These proposed changes are being put before the Curia for discussion. The outcome of that discussion may be that any of the proposed changes may be rejected, or altered before being implemented into Kingdom Law. 
 
-## Reasoning
+This Curia will be announced on the Kingdom website, by social media and the Drachenwald email list. All Great Officers of the Kingdom should make every effort to attend this online Curia. If Great Officers are unable to do so, they may send a designated representative, or make their comments known to the Crown and Kingdom Seneschal in writing, by March 23, 2022. Members of the populace may also send comments in writing to the Crown (crown@drachenwald.sca.org) and Kingdom Seneschal (seneschal@drachenwald.sca.org) in advance of the meeting. 
 
-The Glossary exists to help the readers of Drachenwald law to navigate through the law text with a full understanding of the contents. It explains terms that are either specific to our Society or specialized words in English.
 
-Since the Glossary is not part of our law text, it can be changed administratively without having to go through the Drachenwald legislative process. Regardless, as the Glossary has now been extensively reviewed, it will be discussed in this Curia.
-
-Most noteworthy of these changes to the Glossary is that the old term "official event" is replaced with two new terms "society event" and "published event". They reflect changes made in the wider Society and Corpora.
-
-The proposal also seeks to add to the approachability of the law with added explanations, and by removing "Court of Chivalry", which has not been conducted in Drachenwald in ages if ever.
-
-## Formatting
-
-In the Glossary text below, added text is marked with **bold** and removed text is marked with ~~strikethrough~~.
-
-## Glossary
-
-In this document, the following terms, **listed in alphabetical order,** are used with the meanings given below:
-
-*   Armigerous award: An award that can convey Arms by Award, Grant, or Patent. 
-
-*   Board: The Board of Directors of the SCA, Inc. 
-
-*   By-Laws: The By-Laws of the SCA, Inc., or its equivalent in an affiliated organization. 
-
-*   Consort: The **person** ~~member of the opposite gender~~ for whom the combatant fights in a Royal **List.** ~~Lists.~~
-
-*   Coronet: The Sovereign and Consort of a principality, acting together. 
-
-*   Corpora: The policies governing historical re-creation within the Society, and those policies applicable to the entire Society. 
-
-*   ~~Court of Chivalry / Court of Inquiry: A panel, defined according to kingdom law, convened to investigate issues and possibly recommend action to the appropriate Society authority.~~
-
-*   Crown: The Sovereign and Consort of a Kingdom, acting together. 
-
-*   **Curia: A council of the Crown that must be consulted in order to make, delete, or amend Kingdom law. Those who hold a seat in this council are defined in this law.**
-
-*   **Fealty: A reciprocal promise to be loyal to somebody and show them your support, especially a territorial ruler aka liege.**
-
-*   Governing documents: The Organizational Handbook, which contains: The Introduction, Corpora, The Articles of Incorporation of the SCA, Inc., the By-Laws of the SCA, Inc., the Corporate Policies of the SCA, Inc., and any amendments and appendices.
-
-*   Officer: A Society member serving in an appointed office as defined in Corpora, or as an appointed deputy in such an office, or in another office as may be defined by Kingdom Law, at any level of the Society, or in the role of organizer of a Society event (commonly referred to as “Autocrat” or “Steward”), or as a Territorial Baron or Baroness, or as Crown or Coronet or heir to a Crown or Coronet. 
-
-*   Official event: ~~An event held in Drachenwald, listed on the Kingdom Calendar in Dragon´s Tale.~~ **An obsolete term for published event.**
-
-*   Peerage: ~~Collectively, the members of one of the Order of Chivalry, the Order of the Laurel, and the Order of the Pelican are referred to as the Peerage. A member of any of these Orders is a Peer.~~ **Collectively, the members of the populace who hold a patent of arms. Any person holding a patent is a peer.**
-
-*   Period: The era used by the Society as the base for its re-creation activities. The Society is based on the life and culture of the landed nobility of pre-17th **Century,** ~~Century Western Europe,~~ focusing on the Middle Ages and the Renaissance. 
-
-*   **Published event: A Society event that also fulfils the requirements of Section II.C of the Corpora. These are the events where all manner of court business may be conducted.**
-
-*   **Quorum: The smallest number of people who must be at a meeting before it can begin or decisions can be made.**
-
-*   **Redress: To correct something that is unfair or wrong.**
-
-*   **Royal Heirs: The victor in the Royal List and the victor’s consort for the period between the victory and the Coronation (kingdom) or Investiture (principality).**
-
-*   Royal Lists: Properly constituted armored combat tournament to determine the successors to current royalty. They are known as "Crown Lists" for kingdoms, and "Coronet Lists" for principalities. 
-
-*   Royal Peer: An individual who has reigned as **Sovereign or Consort** ~~King or Queen~~ of a **kingdom or a principality** ~~kingdom, or as Prince or Princess of a principality~~ is referred to as a Royal Peer.
-
-*   Royalty: The persons who hold the offices of Sovereign or Consort of a kingdom or principality. The heirs to those positions are also considered royal, but Corpora uses the terms “royalty” and “reigning royalty” interchangeably, and only to refer to Sovereigns and Consorts.
-
-*   SCA, Inc. or SCA: The Society for Creative Anachronism, Inc., a California ~~not-for-profit~~ **nonprofit (or not-for-profit)** corporation
-
-*   SCA, Inc. Waiver Card: A card **which** ~~that~~ indicates that a properly executed waiver is on file at the corporate office. This card may also contain membership information. 
-
-*   Society: The entirety of the Society for Creative Anachronism (a worldwide group of affiliated organizations). 
-
-*   **Society event: An event that fulfils the requirements of Section II.A of the Corpora.**
-
-*   Society member: Membership in the Society is defined in the By-Laws of the SCA, Inc., or in the approved organizational documents of any corporation affiliated with the SCA, Inc. 
-
-*   Sovereign and Consort: The victor in the Royal Lists and the victor’s consort, respectively, after their Coronation or Investiture.
-
-*   Subject: Any person who physically resides within the borders of a realm for more than half the year. Those who do not maintain a residence meeting this definition may be considered subjects of the realm where they participate most frequently, if they obtain written acknowledgment from the royalty of that realm. Those who participate in Society activities primarily in a realm other than the one where they reside may be considered subjects of that realm if they obtain written permission and acknowledgment from the royalty of both realms. Decisions of the Coronet in such matters depend upon the approval of the Crown.
-
-# 2. Proposal to change Drachenwald law section 5
+# 1. Proposal to change Drachenwald Law section 6
 
 ## Reasoning
 
-The proposal removes three Kingdom offices: Kingdom Historian, Kingdom Minister of Youth, and remaining mentions of previously closed Kingdom Chirurgeon's office. The offices of Historian and Minister of Youth have been vacant for quite a while, and the Seneschal’s office regardless of effort has been unable to find volunteers to take these positions. The proposal is therefore changing the law to reflect our reality. The duties related to these offices are currently performed by others. The activities prescribed in the law to Historian are currently handled by the Kingdom Archivist, a deputy reporting directly to the Crown. The Law council recommends removal of the office of Historian from the law and that the Crown and Kingdom Chronicler create a policy regarding archiving and storage of the historical regalia. The current administration of youth affairs is done by the Seneschal’s office. If a separate officer is needed, a deputy can be created with duties described in policy rather than in the Kingdom law.
+The main motivation behind these changes is to remove gender specificity where it isn’t needed or it is inconsistent with other parts of the law. A secondary set of changes is to make the text of the law consistent regarding terminology and capitalization.
 
-The proposal removes from section 5.04.2 an officer review process that has only been used sporadically. Reviews, if done properly, can be a magnificent tool in helping people improve the way they handle their offices, but the process described in the current law doesn't seem to suit that purpose. We could not come up with a review process that would actually serve the officers and Kingdom, and as in any volunteer organization reviewing that is done poorly can easily alienate the volunteers, we propose removing this process from the law.
+Reasoning for particular changes:
 
-Reasoning for smaller changes:
+(6.01-6.03) References to Prince/Princess in Principality territories have been replaced by the term Coronet. This term is used in the same context as Crown. 
 
-*   (5.02) The proposal removes the order of precedence that the current law establishes for the Lesser Officers in relation to each other. There is no need for these offices to be compared to each other in such a fashion.
+(6.04.1) Officer requirements are more fully defined at the Principality, Barony and local branch levels. These are the requirements found in Corpora. 
 
-*   (5.03) The proposal removes the statement of the requirement of officers having access to the Dragon’s Tale. The requirement is not removed, but mentioning it is needless as the Kingdom newsletter is now freely available to all.
-
-*   (5.03.2) Section 5.03.7 of the current law has been moved to 5.03.2 where it fits better. The contents were not changed.
-
-*   (5.06.1.10, 5.06.9.2) The proposal changes the stated responsibilities of Chatelaine and Seneschal so that the Seneschal instead of Chatelaine is responsible for the establishment and development of branches, to reflect current practice. Responsibility over developing recruitment remains with Chatelaine.
-
-*   (5.06.2.6) Heraldic funds have not existed separate from the Kingdom account for a long while.
-
-*   Throughout the proposal are writing, spelling and structural changes in order to make these laws more accessible and understandable to all denizens of Drachenwald, including making text capitalization and terminology consistent. For example "Great Officer", "Lesser Officer", "Kingdom officer", and "Society officer" are now capitalized like in Corpora. Additionally Domesday report has been renamed to annual summary report.
+A few wording changes have also been made in certain sections.  
 
 ## Formatting
 
-In the law text below, all added text is **bold** and all removed text is marked with ~~strikethrough~~.
+In the law text below, added text is marked with **bold** and removed text is marked with ~~strikethrough~~.
 
 ## Proposed law text
 
-5.00 CONCERNING THE OFFICERS OF THE KINGDOM
+<!--<details><summary>Click to expand Drachenwald Law section 6</summary>-->
 
-5.01 The Great Officers of the Kingdom of Drachenwald are as follows, in order of precedence:
+6.00 BRANCHES
 
-Kingdom Seneschal \
-**Kingdom Herald (Schwarzdrachen)** ~~Schwarzdrachen Herald~~ \
-Kingdom Earl Marshal \
-Kingdom Minister of Arts and Sciences \
-Kingdom Chancellor of the Exchequer \
-Kingdom Chronicler \
-Kingdom Signet Clerk \
-Kingdom Web Minister
+6.01 Duties and Rights of Territorial ~~Princes and Princesses~~ **Coronets**
 
-5.02 The Lesser Officers of the Kingdom of Drachenwald and the Great Officers responsible for them are as **follows:** ~~follows, in order of precedence~~: \
-~~Kingdom Historian - Chronicler~~ \
-Kingdom Chatelaine - Seneschal \
-Kingdom Captain-General of Archers - Earl Marshal \
-Kingdom Marshal of Fence - Earl Marshal \
-Kingdom University Chancellor - Minister of Arts and Sciences \
-~~Kingdom Minister of Youth – Seneschal~~ \
-Kingdom Social Media Officer – Web Minister
+6.01.1 **The** Territorial **Coronet** ~~Princes and Princesses~~ may award arms to their subjects by the gracious permission of the Crown.
 
-5.03 All Great and Lesser Officers must hold a membership in the SCA or any appropriate affiliate organization. **Great Officers are confirmed in writing by a signature from the corresponding Society Officer and the Crown on the standard Society warrant form.** ~~They must have access to the _Dragon's Tale_.~~
+6.01.2 **The** Territorial **Coronet** ~~Princes and Princesses~~ may acknowledge the attainment of Viscounty rank **by the previous Territorial Coronet.** ~~and those without a Patent of Arms by some other Peerage shall be polled for one. The Principality Seneschal shall conduct this poll 2 months prior to the Principality Tournament by a poll of all Patent Holding Royal Peers within the Principality. The results of the poll will be submitted to the Crown 30 days in advance of the Tournament. If, after the polling, the Crown decides that the Prince and/or Princess meets Corpora standards, the Crown may then bestow the Patent and have the writ prepared by the Signet in time for the Tournament. The writ may be presented by the new Prince and Princess in the Crowns’ name if the Crown is not available at the Tournament.~~
 
-5.03.1 All Kingdom **officers** ~~Officers~~ will take and train a deputy for their office who will be **approved** ~~warranted~~ as the designated **successor.** ~~successor, referred to in Corpora VI~~.
+**6.01.2.1 If one or both of the outgoing Territorial Coronet is without a Patent of Arms, they shall be polled for one. Two months before the Principality Tournament the Principality Seneschal shall poll all Patent Holding Royal Peers within the principality. The results of the poll will be submitted to the Crown 30 days before the Coronet Tournament.**
 
-**5.03.2** ~~5.03.7~~ Each Kingdom officer is responsible for the office-related activities of their deputies and subordinate officers.
+**6.01.2.2 If, after the polling, the Crown decides that one or both of the outgoing Territorial Coronet, as the case may, meet(s) Corpora standards, the Crown may then bestow the Patent and have the writ prepared by the Signet in time for the Coronet Tournament. The writ may be presented by the new Coronet in the Crown’s name if the Crown is not available at the Coronet Tournament.**
 
-**5.03.3** ~~5.03.2~~ With the exception of Seneschal, Herald, Earl Marshal, and Chancellor of the Exchequer, all other Kingdom officers may hold Shire, Baronial or Principality offices, at the discretion of the Crown. These officers must train a successor to their Shire, Baronial, or Principality office as soon as possible.
+6.01.3 In specific instances, the Crown may delegate, to a Territorial **Coronet** ~~Prince and Princess~~, the transmission of an award to an individual named and selected by the Crown. 
 
-**5.03.4** ~~5.03.3~~ No person may hold more than one Kingdom level office concurrently.
+6.01.4 **The** Territorial **Coronet** ~~Princes and Princesses~~ hold their Principality in Fealty to the Crown. This fealty must be presented at Coronation. If unable to attend, the Territorial **Coronet** ~~Prince and Princess~~ will provide fealty to the Crown~~s~~ prior to the day scheduled for Coronation.
 
-**5.03.5** ~~5.03.4~~ All Great Officers will submit to the Crown and the Kingdom Seneschal a copy of any official reports forwarded to their corresponding Society Officer. If a Great Officer does not submit reports to their corresponding Society Officer at least once a quarter, then, as a minimum will submit a ~~quarterly~~ written report to the Crown two weeks prior to Coronation and Crown **Tournament.** ~~Tourney.~~
+6.02 Concerning the Creation of a Principality
 
-**5.03.6** ~~5.03.5~~ All officers shall maintain files for their office, open to review by the Crown at any time, and to be turned over to their successor within thirty days of leaving office.
+6.02.1 At the time that principality status is granted:
 
-**5.03.7** ~~5.03.6~~ All officers have the authority to make policy for the administration of their offices and their **subordinates'** ~~subordinate's~~ duties within the limits of the office. All such policies shall be published along with Drachenwald law. These policies shall include, but are not limited to: Kingdom Financial Policies, Rules of the List of Drachenwald, and reporting requirements for each office.
+6.02.1.1 The first Coronet Tournament shall be scheduled and will be held under the supervision of the Crown of Drachenwald.
 
-**5.03.7.1** ~~5.03.6.1~~ Policies of the Kingdom **officers** ~~Officers~~ shall take effect after they have been published in the _Dragon's Tale._
+6.02.1.2 The Coronet will be open to all otherwise eligible entrants, as defined in Kingdom and proposed Principality law, who reside within the boundaries of the incipient Principality. The Drachenwald Crown and their successors at the time of the Coronet tournament are ineligible to participate in that list as either combatants or consorts.
 
-**5.03.7.2** ~~5.03.6.2~~ Standard quarters will be used for reporting purposes within Drachenwald. These quarters are January through March, April through June, July through September, and October through December. Quarterly reports due to Kingdom Great Officers will have standard deadlines of 25 April (for the first quarter), 25 July (for the second quarter), 25 October (for the third quarter), and 25 January (for the last **quarter** ~~quarter/~~ **and annual summary)** ~~Domesday reports)~~. Kingdom **officers** ~~Officers~~ who require only semi-annual reports will use the January and July deadline for their reporting requirements.
+6.02.1.3 The Crown of Drachenwald shall invest the first Coronet of the new Principality; thereafter all Investitures shall take place in accordance with the customs of the Principality.
 
-5.04 Terms of Office ~~and Review of Kingdom Officers.~~
+6.03 Concerning the Separation of a Principality
 
-5.04.1 A term is two years long.
+6.03.1 After Kingdom status is authorised by the Board of Directors:
 
-5.04.1.1 The terms of office for Kingdom **officers** ~~Officers~~ begin on the following dates: 
+6.03.1.1 The next scheduled Coronet Tournament will become the first Crown Tournament of the incipient Kingdom and will be held under the supervision of the Crown of Drachenwald.
 
-The Monday after Twelfth Night Coronation (on odd numbered years Gregorian)
-* ~~Historian~~
-* University Chancellor
-* Web Minister
+6.03.1.2 The Crown Tournament will be open to all otherwise eligible entrants with the single exception that it be restricted to residents within the boundaries of the incipient Kingdom.
 
-The Monday after Midsummer Coronation (on odd numbered years Gregorian)
-* Seneschal
-* Chronicler
-* Social Media Officer
-* Marshal of Fence
+6.03.1.3 The Crown of Drachenwald and the **Heirs** ~~Crown Prince and Princess~~ of the incipient Kingdom will negotiate a treaty which will list the new territorial boundaries, and anything else they deem necessary.
 
-The Monday after Twelfth Night Coronation (even numbered years Gregorian)
-* **Minister of** Arts and Sciences
-* **Earl Marshal** ~~Earl-Marshal~~
-* Signet Clerk
-* Chatelaine
+6.03.2 At the time of Separation:
 
-The Monday after Midsummer Coronation (even numbered years Gregorian)
-* Herald
-* **Chancellor of the** Exchequer
-* Captain-General of Archers
-* ~~Minister of Youth~~
+6.03.2.1 The Coronet will return the Principality to Drachenwald and take their rightful places among the Viscounty.
 
-The change of **office** ~~Office~~ will be done by the incoming Crown at the event listed above and take effect on the Monday after it.
+6.03.2.2 The Crown of Drachenwald shall crown the **Heirs** ~~Crown Prince and Princess~~ of the incipient Kingdom as its first Sovereign and Consort.
 
-5.04.2 ~~Each Kingdom Officer will be reviewed prior to the end of their term by the Crown and Heirs.~~ **It is recommended that a Kingdom officer not serve more than two consecutive terms in the same office.**
+6.03.2.3 ~~The respective Crowns~~ **The Crown of Drachenwald and the Crown of the new kingdom** shall formally sign the treaty into effect.
 
-5.04.2.1 The Crown may, at **their** ~~Their~~ discretion, ask **a Kingdom** ~~the~~ officer to serve **a second** ~~another~~ term. ~~It is recommended that a Kingdom Officer not serve more than two consecutive terms in the same office.~~ **The officer may accept or refuse the reappointment.**
+6.04 Branch Required Officers
 
-5.04.2.2 ~~The Officer may accept or refuse the reappointment.~~ **A Kingdom officer may request to serve a second term. The approving authority may accept or refuse the reappointment.**
+6.04.1 ~~All branches of Drachenwald of Baronial/Provincial level or greater are should have, at a minimum, the following officers:~~
 
-5.04.2.3 After consulting with **the approving authority,** ~~the Crown,~~ the **Kingdom officer** ~~Officer~~ will publish in the **_Dragon's Tale_** ~~Dragon's Tale~~ their intent to continue in the office or resign, four months before the end of their term.
+- ~~Seneschal~~
+- ~~Herald~~
+- ~~Exchequer~~
+- ~~Knight Marshal~~
+- ~~Minister of Arts and Sciences~~
+- ~~Chronicler~~
 
-5.04.2.4 Should any Kingdom **officer** ~~Officer~~ leave their office before the end of their term, their **designated successor** ~~Designated Successor~~ will assume the **office** ~~Office~~ until a new **officer** ~~Officer~~ is approved by the **approving** ~~warranting~~ authority. The new **officer** ~~Officer~~ will serve out the remainder of the term. ~~The review of the Officer will be done on the schedule listed above.~~
+**6.04.1 All branches of Drachenwald of Principality level should have, at a minimum, the following officers: Seneschal, Herald, Exchequer, Marshal, Minister of Arts and Sciences, and Chronicler.**
 
-5.05 Removal or suspension of Kingdom officers.
+**6.04.2 All branches of Drachenwald of Baronial/Provincial level should have at least 4 officers, including a Seneschal, an Exchequer, a Chronicler, and one of the following: a Herald, a Marshal, or a Minister of Arts and Sciences.** 
 
-5.05.1 The Crown may, for just and stated cause, suspend any Kingdom officer. Suspensions by the Crown are for not more than the duration of the current reign. The duties of a suspended officer will be assumed by the designated successor.
+**6.04.3 All branches of Drachenwald below Baronial/Provincial level should have at least 3 officers, including a Seneschal and an Exchequer, and one of the following: a Herald, a Marshal, a Minister of Arts and Sciences, or a Chronicler.**
 
-5.05.2 Kingdom officers may be removed from office, for just and stated cause, by the Crown with approval of the **Society** ~~Corporate~~ Officer. If any Kingdom **office** ~~Office~~ is empty, the designated successor will assume the office until a replacement can be **approved.** ~~warranted.~~ If there is no designated successor, the Crown in conjunction with the **Society Officer** ~~senior officer~~ will **approve** ~~warrant~~ a replacement, as soon as possible.
+6.05 Territorial Baronies
 
-5.06 Duties of the Kingdom Officers
+6.05.1 ~~Territorial Baronies may be established within the Kingdom of Drachenwald in accordance with the terms for establishment as outlined within the Corpora. In addition, the following requirements must be met:~~ **While the Corpora provide for the basic terms on how territorial baronies are established, Drachenwald has the following extra requirements:**
 
-5.06.1 ~~Kingdom~~ Seneschal
+6.05.1.1 The petitioning group must **be able to guarantee that** ~~meet~~ the minimum requirements specified in Corpora ~~and must be able to guarantee that this minimum~~ will be maintained between the time of filing and the time of approval by the Board of Directors.
 
-5.06.1.1 Shall be the chief administrative officer for the Kingdom of Drachenwald.
+6.05.1.2 The petitioning branch must have a sustained record of activities, including the hosting of Principality or Kingdom-wide events.
 
-5.06.1.2 Shall be responsible for registering the Kingdom with local governments when necessary and maintaining good relations with them.
+6.05.1.3 Request for the advancement to baronial status must be coordinated **by** ~~through~~ the Crown **and** ~~, as well as~~ the Kingdom Seneschal.
 
-5.06.1.3 Shall be responsible for all written Seneschalate reports due to the Society Seneschal and Board of Directors and shall be responsible for those reports being submitted in a timely manner.
+6.05.2 ~~The title of territorial Baron or Baroness shall be awarded by the Crown upon petition by the members of the Barony in question.~~ **The rulership of a Baronial fief shall be awarded by the Crown upon petition by the members of the Barony in question.**
 
-5.06.1.4 Shall submit a complete copy of the **annual summary** ~~Domesday~~ report to the Crown, to be maintained in **their** ~~Their~~ files, and shall keep **the Crown** ~~Them~~ apprised of the total status of the Kingdom.
+6.05.3 When a Barony is left without **at least one Baronial ruler** ~~either a Baron or Baroness~~ the following procedures are in effect:
 
-5.06.1.5 Shall be responsible for any additional reports required by the Crown, the Society Seneschal, or the Board of Directors.
+6.05.3.1 The outgoing **Baronial ruler(s)** ~~Baron or Baroness~~ shall appoint a Vicar as a temporary replacement. If this does not occur within ten days of the **Baronial ruler(s)** ~~Baron's or Baroness's~~ departure, the Crown ~~may~~ **will** appoint a Vicar. The Vicar shall hold no baronial office.
 
-5.06.1.6 Shall chair or have **an approved deputy** ~~a warranted deputy~~ chair all meetings of the Seneschalate.
+6.05.3.2 Within ninety days of the naming of the Vicar, the membership shall be polled to determine the future of the branch; to remain as a Barony, to change to non-baronial branch status, or dissolve the branch. This polling will be conducted by the Vicar and the Baronial Officers under the supervision of the Kingdom Seneschal. The results of this polling are due to the Crown within thirty days of the poll being taken.
 
-5.06.1.7 Shall be responsible for overseeing and running the **offices** ~~Lesser Offices~~ established under the Seneschal.
+6.05.3.2.1 If the Barony members wish to dissolve the branch or change to non-baronial status, the Baronial Seneschal will coordinate with the Kingdom Seneschal on the necessary communications with the Society Seneschal, or the Board of Directors through the Society Seneschal. The Vicar shall retire at the end of the transition period.
 
-5.06.1.8 Shall coordinate with the Kingdom **Chancellor of the** Exchequer in the selection of a **Kingdom** ~~kingdom~~ officer as the 2nd signatory on all **Kingdom** ~~kingdom~~ bank accounts.
+6.05.3.2.2 If the Barony members wish to remain a Barony, they must select **Baronial ruler(s).** ~~a new Baron and/or Baroness.~~ The recommendation process must occur within one year from when the Vicar was named. At this time the group may send a petition to the Crown naming its ~~candidate~~ **candidates (either an individual or a couple).** The Vicar retires once the **proposed Baronial rulership** ~~candidate~~ is approved by the Crown.
 
-5.06.1.9 **Shall be** ~~The Seneschal is~~ responsible for maintaining the official Kingdom Calendar of Events, in accordance with policy established by the Seneschal.
+6.05.3.2.2.1 If the Barony members are unable to select ~~a~~ **Baronial ruler(s)** ~~candidate~~ in the time allowed, the members will be polled to select a non-baronial branch status. The branch may not apply for Baronial status for at least two years. The Vicar retires on the day of the polling.
 
-**5.06.1.10 Shall be responsible for the establishing and development of branches in accordance with Corpora and Kingdom law and tradition.**
+6.05.4 ~~At any time the members of a Barony may petition the Crown for the appointment of a Baronial ruler Baron/Baroness~~ **If a Barony has only a single Baronial ruler, the members of the Barony may petition the Crown for the appointment of an additional Baronial ruler** to rule with its current Baronial ruler ~~Baroness/Baron~~.
 
-5.06.2 ~~Schwarzdrachen~~ Herald
+6.05.5 ~~If~~ **In the event that** the members of the Barony in question wish to remove **one or both Baronial rulers** ~~a territorial Baron and/or Baroness~~, they must first seek arbitration through the grievance procedure outlined in 12.02.2.
 
-5.06.2.1 Shall be responsible for all written **heraldic** ~~Heraldic~~ reports due to the Laurel Sovereign of Arms and shall be responsible for those reports being submitted in a timely manner.
+6.05.5.1 If it is the finding of the arbitrators that the best solution to the difficulties is the removal or suspension of either or both **Baronial rulers,** ~~Baron and Baroness,~~ the membership shall submit a petition to that effect, signed by at least two-thirds of the members, to the Crown. The arbitrators will submit a report of their findings as specified in Drachenwald Law.
 
-5.06.2.2 Shall be responsible for any additional reports required by the Crown and/or **Society** ~~Corporate~~ Officers.
+6.05.6 ~~Territorial Barons and Baronesses~~ **Baronial rulers** have the right to give non-armigerous awards and positions of honor.
 
-5.06.2.3 Shall set up and maintain a Kingdom Order of Precedence and shall be responsible for having the Order of Precedence updated ~~before each Coronation~~ and presented to the **Royal Heirs before their Coronation.** ~~Successors.~~
+6.05.7 ~~Territorial Barons and Baronesses~~ **Baronial rulers** hold their Baronies in Fealty to the Crown. This fealty must be presented at Coronation. If unable to attend, ~~the Territorial Baron and/or Baroness~~ **one or both of the Baronial rulers** will provide fealty to the Crowns prior to the day scheduled for Coronation.
 
-5.06.2.4 Shall be responsible for **field heraldry,** ~~Field Heraldry,~~ **court heraldry,** ~~Court Heraldry~~ and **heraldic submissions** ~~Heraldic Submissions~~ within the Kingdom.
+6.05.8 The length of a single term for **a Baronial ruler** ~~Territorial Barons and Baronesses~~ is a maximum of two years. After consulting with the members of the Barony, the Crown may, at their discretion, ask **one or both of the Baronial rulers** ~~the Territorial Baron and/or Baroness~~ to serve another term. It is recommended that **no Baronial ruler** ~~Territorial Barons and Baronesses~~ serve ~~no~~ more than two consecutive terms.
 
-5.06.2.5 Shall chair all meetings of the Kingdom College of Heralds and shall be responsible for the administration of the same.
+6.05.9 ~~The Baron and/or Baroness of a Territorial Barony of~~ **Any person holding a Baronial fief in** Drachenwald must step down from office when no longer residing in the Barony. 
 
-~~5.06.2.6 May maintain a bank account solely for Heraldic Funds~~
+6.05.10 ~~Barons and Baronesses of Territorial Baronies of~~ **Any person holding a Baronial fief in** Drachenwald may participate in the Crown List **and, if applicable, a Coronet List**. They are required to submit the name of an acceptable candidate for Vicar with other documentation required for participation in the Crown List ~~(see 7.02)~~. Should the ~~Baron or Baroness~~ **Baronial rulers** be victorious in the Crown **or Coronet** Tournament, the Vicar assumes responsibility for the Barony immediately. The Vicar must conduct a polling for the new **Baronial rulers** ~~Baron/Baroness~~ within 90 days.
 
-5.06.3 ~~The~~ Earl Marshal
+6.06 Other Branch Organization and Registration
 
-5.06.3.1 Shall oversee **tournament lists,** ~~Tournament Lists,~~ the martial **activities,** ~~sciences,~~ and safety on the field.
+6.06.1 All other branches within the Kingdom (Provinces, Shires, Cantons, etc.) shall be organized and registered in accordance with the Corpora of the Society for Creative Anachronism.
 
-5.06.3.2 Shall set and enforce the Rules of the Lists and Conventions of Combat of the Kingdom and shall be responsible for all fighting in and marshalling of the Crown Tournament Lists.
+6.07 Local Officers
 
-5.06.3.3 Shall set and enforce weapon and armor standards.
+6.07.1 Local officers are appointed by their kingdom superior officers. The appointments are subject to confirmation by the Crown. Local officers must not be substantively opposed by the people of the local branch, but the final decision regarding their tenure remains with the Crown and Kingdom officers.
 
-5.06.3.4 Shall supervise the **authorization** ~~authorisation~~ of fighters and shall be responsible for maintaining a record of combat waivers and **authorization** ~~authorisation~~ information.
+6.07.2 Local officers may be removed from office, by their kingdom superior officers. Removals are subject to confirmation by the Crown. The designated successor will assume the office until a replacement can be appointed. If there is no designated successor, the kingdom officer will, subject to the confirmation of the Crown, appoint a replacement, as soon as possible.
 
-5.06.3.5 Shall supervise the training of fighters.
+6.07.3 Local officers who miss two reports in a twelve month period, as determined by their kingdom superior officers, have resigned. When a local officer is deemed to have resigned in this manner, the officer in question and the Seneschal of the relevant branch shall be notified of the resignation, and informed that the warrant for that officer has been withdrawn.
 
-5.06.3.6 Shall appoint any assistants as deemed necessary.
+<!--</details>-->
 
-5.06.3.7 Shall maintain the list of **authorized** ~~authorised~~ fighters, which shall be available at Crown Tournaments.
-
-5.06.3.8 Shall receive and investigate all complaints concerning combat.
-
-5.06.3.9 Shall submit quarterly reports on the status of the martial **activities** ~~arts~~ in the Kingdom of Drachenwald to the Marshal of the Society, with a copy **provided** ~~furnished~~ to the Crown of Drachenwald.
-
-5.06.4 **Minister of Arts and Sciences** ~~Minister of the Arts/Sciences~~
-
-5.06.4.1 Shall foster development of historically accurate **arts and sciences** ~~Arts/Sciences~~ in the Kingdom.
-
-5.06.4.2 Shall be responsible for maintaining accuracy and propriety of any **arts and sciences competition** ~~Arts/Science Competition~~ as per the directives of the **Society Minister of Arts and Sciences.** ~~Corporate Officer of Arts/Sciences.~~
-
-5.06.4.3 Shall work closely together with and shall co-chair any meeting of the collective **guilds** ~~Guilds~~ of the Kingdom, as represented by the **guild heads.** ~~Guild Heads~~
-
-5.06.4.4 Shall be responsible for the conduct of the annual **Drachenwald Arts and Sciences Competition.** ~~Arts & Sciences Competition.~~
-
-5.06.5 Chancellor of the Exchequer
-
-5.06.5.1 Shall be responsible for maintaining the financial records of the Kingdom, and supervising the finances of the Kingdom.
-
-5.06.5.2 Shall submit reports as requested to the Seneschal and to the Crown concerning the financial status of the Kingdom.
-
-5.06.5.3 Shall submit a detailed financial statement to the Kingdom Seneschal and to the Kingdom newsletter, annually, after the **annual summary** ~~Domesday~~ report has been **agreed upon,** ~~agreed,~~ for publication in the Kingdom **newsletter.** ~~Newsletter.~~
-
-5.06.5.4 Shall be responsible for all written financial reports **that are** due to the Society Chancellor of the Exchequer and shall be responsible for those reports being submitted in a timely manner.
-
-5.06.5.5 Shall be the primary signatory on all **Kingdom** ~~kingdom~~ bank accounts and shall coordinate with the Kingdom Seneschal in the selection **of** ~~on~~ a **Kingdom** ~~kingdom~~ officer as the 2nd signatory on all **Kingdom** ~~kingdom~~ bank accounts.
-
-5.06.5.6 Shall submit a summary of the financial status of the Kingdom to the Crown at the beginning of each reign.
-
-5.06.6 Chronicler
-
-5.06.6.1 Shall supervise all official publishing activities of the Kingdom and shall be the editor of (or supervise the editor of) the Kingdom publication, which shall be called the "Dragon's Tale". The **_Dragon's Tale_** ~~Dragon's Tale~~ will **contain** ~~carry~~ all required announcements and notices of ~~official~~ events, Kingdom **laws,** ~~Laws,~~ and the like.
-
-~~5.06.7 Chirurgeon~~
-
-~~5.06.7.1 This office was closed as of August 10th 2015~~
-
-**5.06.7** ~~5.06.8~~ Signet Clerk
-
-**5.06.7.1** ~~5.06.8.1~~ Shall oversee the production of scrolls required by the Crown.
-
-**5.06.7.2** ~~5.06.7.2~~ Shall promote the development of calligraphers and illuminators in Drachenwald.
-
-**5.06.8** ~~5.06.9 Kingdom~~ Web Minister
-
-**5.06.8.1** ~~5.06.9.1~~ **Shall be** ~~The Kingdom Web Minister is~~ responsible for the content of the Kingdom of Drachenwald website on the World Wide Web.  Website hosting is an expense of the Kingdom.
-
-**5.06.8.2** ~~5.06.9.2~~ **Shall be responsible** ~~Responsible~~ for layout, design, regular updates, and maintenance of the **Kingdom** ~~Kingdom's~~ website in accordance with the policies of the **Society.** ~~Society and the Kingdom Chronicler~~.
-
-**5.06.8.3** ~~5.06.9.3~~ Shall oversee web publishing activities throughout the Kingdom.
-
-~~5.06.10 Kingdom Historian~~
-
-~~5.06.10.1 Shall be a lesser officer of state, under the direction of the Kingdom Chronicler.~~
-
-~~5.06.10.2 Shall collect material toward the end of preparing and maintaining an accurate history of the Kingdom.~~
-
-~~5.06.10.3 Shall record Kingdom Activities, briefly chronicling significant events, tournaments, large demonstration events, Courts, etc. with a brief description of the activity, including date, time, location, persons involved, etc. and provide the Chronicler with the information for the Chronicles in the Dragon's Tale.~~
-
-~~5.06.10.4 Shall keep files of all media coverage concerning the Kingdom. Maintains files, including all back copies of the Kingdom Newsletter.~~
-
-~~5.06.10.5 Shall maintain an inventory of the SCA publications owned by the Kingdom.~~
-
-~~5.06.10.6 Shall forward reports to superiors as required.~~
-
-~~5.06.10.7 Shall maintain a listing of all regalia held by the Crown and the Successors. Will conduct an inventory of regalia held by the Crown. This inventory will be accomplished during the last month of each reign.  The regalia inventory shall be published to the populace, via Dragon's Tale and the Kingdom web site, with the express purpose of improving the condition of various items and identifying needed items.~~
-
-**5.06.9** ~~5.06.11~~ Chatelaine
-
-**5.06.9.1** ~~5.06.11.1~~ Shall be a **Lesser Officer,** ~~lesser officer of state,~~ under the direction of the Kingdom Seneschal.
-
-~~5.06.11.2 Shall be Kingdom New Groups Coordinator, responsible for the development, and growth of new branches, and establishment of procedures to promote groups in accordance with Corpora and Kingdom Law and tradition.~~
-
-**5.06.9.2** ~~5.06.11.3~~ Shall be **the** chief recruiting officer for the Kingdom, providing information to assist local groups in conducting effective recruiting, and mentoring regional and local chatelaines to manage and maintain growth.
-
-**5.06.9.3** ~~5.06.11.4~~ Shall assist new members in learning the laws and customs of the Society and Drachenwald.
-
-**5.06.10** ~~5.06.12~~ The Captain-General of ~~Drachenwald~~ Archers
-
-**5.06.10.1** ~~5.06.12.1~~ Shall be a Lesser **Officer,** ~~Officer of State,~~ under the direction of the Earl Marshal.
-
-**5.06.10.2** ~~5.06.12.2~~ Shall oversee and encourage the study of period archery styles and equipment.
-
-**5.06.10.3** ~~5.06.12.3~~ Shall set and enforce safety standards.
-
-**5.06.10.4** ~~5.06.12.4~~ Shall make available regulations and information regarding target and combat archery.
-
-**5.06.10.5** ~~5.06.12.5~~ Shall oversee archery competitions.
-
-**5.06.10.6** ~~5.06.12.6~~ Shall **approve** ~~warrant~~ Lieutenant-Generals of Archers, Captains of Archers, and Archer Marshals-at-Large.
-
-**5.06.10.7** ~~5.06.12.7~~ Shall be responsible for such reports as may be required by the Crown or **the** Earl Marshal.
-
-**5.06.11** ~~5.06.13~~ Marshal of Fence
-
-**5.06.11.1** ~~5.06.13.1~~ Shall be a Lesser **Officer,** ~~Officer of state,~~ under the direction of the Earl Marshal.
-
-**5.06.11.2** ~~5.06.13.2~~ Shall oversee all forms of period fencing within the Kingdom ensuring safety on the field.
-
-**5.06.11.3** ~~5.06.13.3~~ Shall set and enforce the Rules for ~~Period~~ Fencing within the Kingdom of Drachenwald.
-
-**5.06.11.4** ~~5.06.13.4~~ Shall be responsible for setting and enforcing weapons and armor standards for fencing within the Kingdom.
-
-**5.06.11.5** ~~5.06.13.5~~ Shall supervise the **authorization** ~~authorisation~~ of combatants and shall be responsible for maintaining a record of combat waivers and **authorization** ~~authorisation~~ information.
-
-**5.06.11.6** ~~5.06.13.6~~ Shall supervise the training and **approval** ~~warranting~~ of ~~period~~ fencing marshals.
-
-**5.06.11.7** ~~5.06.13.7~~ Shall appoint any assistants as deemed necessary.
-
-**5.06.11.8** ~~5.06.13.8~~ Shall maintain the record of **authorized** ~~authorised~~ combatants.
-
-**5.06.11.9** ~~5.06.13.9~~ Shall receive and investigate all complaints concerning ~~period~~ fencing combat.
-
-**5.06.11.10** ~~5.06.13.10~~ Shall submit quarterly reports on the status of ~~period~~ fencing combat within the Kingdom of Drachenwald to the Society Rapier Marshal, with a copy furnished to the Seneschal, **the Earl Marshal,** ~~Earl Marshal~~ and the Crown of Drachenwald.
-
-**5.06.12** ~~5.06.14~~ Chancellor of the University of Drachenwald
-
-**5.06.12.1** ~~5.06.14.1~~ Shall be a Lesser **Officer,** ~~Officer of state,~~ under the direction of the Minister of Arts **and Sciences.** ~~& Sciences.~~
-
-**5.06.12.2** ~~5.06.14.2~~ Shall coordinate and supervise the University of Drachenwald.
-
-**5.06.12.3** ~~5.06.14.3~~ Shall disseminate to the populace information concerning the **University of Drachenwald.** ~~university.~~
-
-~~5.06.15 Kingdom Minister of the Youth~~
-
-~~5.06.15.1 Shall be a Lesser Officer of state, under the direction of the Kingdom Seneschal.~~
-
-~~5.06.15.2 Shall assist parents of children in integrating children's activities into local and Kingdom events.~~
-
-~~5.06.15.3 The Kingdom Minister of the Youth will not be responsible for, nor in any way encourage autocrats or the Society to provide, baby-sitting/daycare services.~~
-
-~~5.06.15.4 Shall supervise and coordinate the actions of local ministers of the youth throughout the Kingdom.~~
-
-**5.06.13** ~~5.06.16 Kingdom~~ Social Media Officer
-
-**5.06.13.1** ~~5.06.16.1~~ Shall be a Lesser **Officer,** ~~Officer of state,~~ under the direction of the ~~Kingdom~~ Web Minister.
-
-**5.06.13.2** ~~5.06.16.2~~ Shall be responsible for overseeing all **social media** ~~Social Media~~ presences within the Kingdom.
-
-**5.06.13.3** ~~5.06.16.3~~ Shall be responsible for enforcing Society and Kingdom Social Media Policies.
-
-# 3. Proposal to change Drachenwald law section 7.02.2.8.2
+# 2. Proposal for Gender Neutrality in Sections 11.02.1 and 13.08
 
 ## Reasoning
 
-The current law text has been found unclear regarding the number of events needed as well as the time frame for when the events happened. This proposal seeks to clarify it and ensure that the participants have both been recently reasonably active within Drachenwald and that they have been a part of this Kingdom for more than just six months.
-
-Please note that this is a requirement that the Crown may waive (according to Kingdom law 7.02.2.8.3), and allow participation in the Crown Tournament to participants who do not fulfil it.
-
-The current law refers to "official events". Corpora has abandoned this description and refers to "published events". In the Glossary section of the Drachenwald law a published event is defined as a "Society event that also fulfils the requirements of Section II.C of the Corpora. These are the events where all manner of court business may be conducted."
+The changes in these sections of the law are to make the text of the law consistent regarding gender neutrality, terminology and capitalization.
 
 ## Formatting
 
-In the law text below, due to restructuring, all proposed text is **bold** and all old law text is marked with ~~strikethrough~~.
+In the law text below, added text is **bold** and all removed text is marked with ~~strikethrough~~.
 
 ## Proposed law text
 
-**7.02.2.8.2 Each participant must have attended at least six published events held in Drachenwald within the 24 months preceding the Crown Tournament.**
+<!--<details><summary>Click to expand Drachenwald Law sections 11.02.1 and 13.08</summary>-->
 
-**7.02.2.8.2.1 One of the events must be recent (within 6 months before the Crown Tournament).**
+11.02 Order of the Companions of Albion
 
-**7.02.2.8.2.2 One of the events must be longer ago (between 6 and 24 months before the Crown Tournament).**
+**11.02.1** This order is conferred by the Sovereign upon those subjects of Drachenwald worthy of recognition for exemplary chivalry, courtesy or service. It is recommended that the **Sovereign** ~~King~~ present this award no more than one time per reign.
 
-~~7.02.2.8.2 Each participant must have attended at least six official events (before Crown Tournament), held in Drachenwald, listed on the Kingdom Calendar in the Dragon's Tale, in the preceding eighteen months. Additionally, each participant must have attended one official event (defined by the same requirements), more than 6 months before Crown Tournament but not more than 24 months before Crown Tournament. This event may be one of the six but does not need to be.~~
+**13.08. The order of Precedence of Drachenwald**
+The order of Precedence shall be as follows
+1. ~~King and Queen~~ **Sovereign and Consort** of Drachenwald
+1. ~~Crown Prince and Crown Princess~~ **Crown Heirs** of Drachenwald
+1. Direct Crown vassals (territorial **Coronets** ~~Prince/Princess~~, **Viceregal Rulers** ~~Viceroy/Vicereine~~, or ~~Baron/Baroness~~ **Baronial Rulers** outside a Principality) in their own lands
+1. ~~Territorial Baron/Baroness~~ **Baronial Rulers** ~~of~~ within a Principality in their own Barony
+1. Territorial **Coronets** ~~Prince/Princess~~
+1. The Crown's appointed representatives of a Crown Principality (such as a **Viceregal Rulers** ~~Viceroy/Vicereine~~)
+1. **Duchy** ~~Duke/Duchess~~
+1. **County** ~~Count/Countess~~
+1. **Viscounty** ~~Viscount/Viscountess~~
+1. Bestowed peers
+1. Territorial **Baronial Rulers** ~~Baron/Baroness~~
+1. Court **Barony** ~~Baron/Baroness~~
+1. Awards that carry a grant of arms
+1. Plain grants of arms
+1. Awards that carry an award of arms
+1. Plain awards of arms
+1. Non-armigerous awards
+1. Everyone else
+
+<!--</details>-->
+
+# 3. Proposal to move the Kingdom Social Media Office to the Kingdom Seneschal
+
+## Reasoning
+
+This proposal moves the Kingdom Social Media office responsibility from the Kingdom Web Minister to the Kingdom Seneschal.  The Social Media office at SCA corporate level reports to the Society Seneschal. This change makes the Kingdom Social Media reporting consistent with the same reporting structure.  It remains a Lesser office.  
+
+## Formatting
+
+In the law text below, added text is **bold** and all removed text is marked with ~~strikethrough~~.
+
+## Proposed law text
+
+<!---<details><summary>Click to expand Drachenwald Law section 5.06.13</summary> -->
+
+**5.06.13 Social Media Officer**
+
+**5.06.13.1** Shall be a Lesser Officer, under the direction of the **Seneschal.** ~~Web Minister.~~
+
+**5.06.13.2** Shall be responsible for overseeing all social media presences within the Kingdom.
+
+**5.06.13.3**  Shall be responsible for enforcing Society and Kingdom Social Media Policies.
+
+<!--</details> -->
