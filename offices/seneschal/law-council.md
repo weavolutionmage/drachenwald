@@ -50,7 +50,6 @@ The current members of the Law Council are:
 * Mærith aff Weselax
 * Memorantia van de Linde
 * Pietari Uv
-* Reinoud van Heemschmaere
 * William of Richwood
 
 # Current Proposals
@@ -58,6 +57,7 @@ The current members of the Law Council are:
 ## Changes to Drachenwald law sections 6, 11.02.1, 13.08 and 5.06.13
 
 The process of changing Drachenwald law sections 6, 11.02.1, 13.08 and 5.06.13:
+* 2022-01-26 [Proposals for Curia]({{ site.baseurl }}{% link offices/seneschal/lawproposal5_v1.md %})
 * 2021-12-14 [Draft proposals]({{ site.baseurl }}{% link offices/seneschal/lawproposal5_v0.md %})
 
 # Past Proposals
