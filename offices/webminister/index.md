@@ -6,14 +6,16 @@ excerpt: Who keeps this online circus running?
 
 ## Kingdom web artificers
 
-These folks volunteer to work on the kingdom website.
+These folks volunteer to work on the kingdom website and other IT affairs
 
 * Sela de la Rosa
 * Genevieve la flechiere
-* Aodh O Siadhail 
-* Lydia von Are
-* Milada von Schnecken
 * Marcella di Cavellino
+* Menja (Mallymkun Galpin)
+
+## Google Workspace
+* Dragon's tale articles
+* FAQ
 
 ## Reporting for principality and local webministers
 
