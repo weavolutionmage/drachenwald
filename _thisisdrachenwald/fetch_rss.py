@@ -42,6 +42,7 @@ if (not os.path.isdir(dlDir)):
 for rssUrl in rssUrls:
     try:
         #NewsFeed = feedparser.parse(rssUrl)
+        print(rssUrl['url'])
         r = requests.get(rssUrl['url'], timeout=5)
         NewsFeed = feedparser.parse(r.text)
         showMedia = False
