@@ -13,7 +13,7 @@ pp = pprint.PrettyPrinter(indent=4)
 
 rssUrls=[]
 
-
+print("opening list")
 with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
     rssUrls = json.load(f)
 
@@ -26,7 +26,7 @@ with open('_data/thisisdrachenwald_feedlist.json', 'r') as f:
 #            "type": "youtube"}
 #]
 
-
+print(f"received {len(rssUrls)} URLS")
 
 results = {}
 
@@ -38,7 +38,7 @@ if (not os.path.isdir(thumbDir)):
 if (not os.path.isdir(dlDir)):
     os.mkdir(dlDir)
 
-
+print("itterating")
 for rssUrl in rssUrls:
     try:
         #NewsFeed = feedparser.parse(rssUrl)
