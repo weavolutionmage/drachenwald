@@ -44,7 +44,6 @@ pages:
     - public
   only:
   - staging
-  - container-registry
 
 deploy:
   environment: production
