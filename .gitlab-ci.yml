@@ -1,4 +1,4 @@
-image: ruby:2.6
+image: registry.gitlab.com/sca-drachenwald/drachenwald-jekyll:latest
 
 variables:
   JEKYLL_ENV: production
@@ -44,7 +44,7 @@ pages:
     - public
   only:
   - staging
-  - sal-cal3
+  - container-registry
 
 deploy:
   environment: production
