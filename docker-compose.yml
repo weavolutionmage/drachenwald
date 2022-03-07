@@ -1,8 +1,9 @@
 version: '3'
 services:
   jekyll:
-    build: .
+    image: registry.gitlab.com/sca-drachenwald/drachenwald-jekyll:latest
     ports:
-    - "127.0.0.1:4000:4000"
+      - "127.0.0.1:4000:4000"
     volumes:
-    - .:/build
+      - .:/build
+    command: bundle exec jekyll serve --watch --host 0.0.0.0
