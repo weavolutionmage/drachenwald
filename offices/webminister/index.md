@@ -12,10 +12,11 @@ These folks volunteer to work on the kingdom website and other IT affairs
 * Genevieve la flechiere
 * Marcella di Cavellino
 * Menja (Mallymkun Galpin)
+* Maria Harsick
 
 ## Google Workspace
-* Dragon's tale articles
-* FAQ
+* [Dragon's tale articles](https://members.sca.org/apps/newsletters/Drachenwald/Drachenwald%20DRAGONS%20TALE%202204.pdf)
+* [FAQ](https://docs.google.com/document/d/1kQaMzJhJLQJAIPQKwkxPpGVFNGIl6WQId2WqTsaYc3g/edit)
 
 ## Reporting for principality and local webministers
 
