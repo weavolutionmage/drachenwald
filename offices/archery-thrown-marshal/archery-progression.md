@@ -5,8 +5,6 @@ toc: true
 toc_label: Contents
 ---
 
-# Archers progress in the company
-
 {% if site.data.archery-progression %}
   {% assign progression = site.data.archery-progression %}
   
@@ -15,6 +13,7 @@ toc_label: Contents
   The progression list isn't available right now - please check back later.
 {% endif %}
 
+# Archers progress in the company
 
 ## Progression to Master rank 
 <table>
@@ -39,3 +38,6 @@ toc_label: Contents
   <tr><th>Name</th><th>Number of qualifying scores</th></tr>
  {% for itemAll in progression %}{% if itemAll.Next_Rank == "Companion" %} <tr><td> {{ itemAll.Name }} </td><td> {{ itemAll.Qualifying_Scores }} </td></tr> {% endif %}{% endfor %}
 </table>
+
+Data last updated: {% for itemAll in progression %}{% if itemAll.Name == "LastUpdate" %} {{ itemAll.Date }} {% endif %}{% endfor %}
+ 
