@@ -31,5 +31,6 @@ This council helps maintain Drachenwald's Code of Conduct policy and acts as a r
 * [Code of Conduct]({{ site.baseurl}}{% link offices/seneschal/files/DrachenwaldCodeofConductv1.0June2020.pdf %}) (PDF)
 * [Kingdom event bids - info and checklist ]({{ site.baseurl}}{% link offices/seneschal/event-bid-checklist.md %})
 * [update regnum information](https://docs.google.com/forms/d/e/1FAIpQLSeqIMHbpB3a1d2XGyaAP1rDe3ZUV4X7Yx5PBvZ_3AH3Qr9odA/viewform) (form)
+* <a href="{% link offices/seneschal/files/covid-event-guidelines.pdf %}">Covid Policy (Updated march 2022)</a>.
 
 {% include officer-contacts.html %}
