@@ -5,7 +5,7 @@ toc: true
 toc_label: Contents
 ---
 
-# The Company of Archers
+
 
 {% if site.data.archery-ranks %}
   {% assign company-ranks = site.data.archery-ranks %}
@@ -15,6 +15,8 @@ toc_label: Contents
   The company ranking isn't available right now - please check back later.
 {% endif %}
 
+
+# The Company of Archers
 
 ## Grand Master: By invitation. Teachers and scholars of archery 
 <table>
@@ -47,6 +49,7 @@ toc_label: Contents
 </table>
 
 
+Data last updated: {% for itemAll in company-ranks %}{% if itemAll.Name == "LastUpdate" %} {{ itemAll.Date }} {% endif %}{% endfor %}
 
 
 

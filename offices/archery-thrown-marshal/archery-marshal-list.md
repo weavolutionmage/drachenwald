@@ -8,8 +8,6 @@ toc_label: Contents
 __Too long; didn't read:__ Current list of warranted marshals of archery and thrown weapons in Drachenwald. 
 {: .notice--primary}
 
-# Archery and thrown weapons marshals
-
 {% if site.data.archery-marshals %}
   {% assign archery-marshals = site.data.archery-marshals | sort: "Name" %}
 
@@ -17,6 +15,8 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
   {% assign company-ranks = "" %}
   The marshal list isn't available right now - please check back later.
 {% endif %}
+
+# Archery and thrown weapons marshals
 
 <table>
   <tr><td style="font-size:14pt">🏹</td><td> Archery marshal</td></tr>
@@ -54,11 +54,5 @@ __Too long; didn't read:__ Current list of warranted marshals of archery and thr
 </table>
 
 
-## Southern
-
-<table>
-  <tr><th>Name</th><th>Archery</th><th>Thrown weapons</th><th>Warranting</th></tr>
- {% for itemAll in archery-marshals %}{% if itemAll.Region == "Southern" %} <tr><td> {{ itemAll.Name }} </td><td style="font-size:14pt"> {{ itemAll.Target_Archery }} </td><td style="font-size:14pt"> {{ itemAll.Thrown_Weapons }} </td><td style="font-size:14pt"> {{ itemAll.Warranting }} </td></tr> {% endif %}{% endfor %} 
-</table>
-
+Data last updated: {% for itemAll in archery-marshals %}{% if itemAll.Name == "LastUpdate" %} {{ itemAll.Date }} {% endif %}{% endfor %}
 
