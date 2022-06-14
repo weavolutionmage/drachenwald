@@ -20,7 +20,7 @@ Heralds bring pageantry to the Society: we help make a modern experience turn in
 * [Drachenwald customs: some inter-kingdom anthropology]({{ site.baseurl }}{% link offices/herald/customsandinterkingdomanthropology.md %}), for those who move here from other lands
 
 # Court and protocol
-* [Drachenwald Book of Ceremonies, version 3, Jan 2017, AS 51]({{ site.baseurl }}{% link offices/herald/files/ceremonies-v3.pdf %})
+* [Drachenwald Book of Ceremonies, version 4, June 2022, AS 57]({{ site.baseurl }}{% link offices/herald/files/ceremonies.pdf %})
 * [Drachenwald Book of Ceremonies Apocrypha, Jan 2017, AS 51 (examples of ceremonies)]({{ site.baseurl }}{% link offices/herald/files/drachenwald_apocrypha.pdf %})
 * [The Zen of good court: building the special occasions of the Society]({{ site.baseurl }}{% link offices/herald/zenofgoodcourtguidance.md %})
 * [Field heralding crash course]({{ site.baseurl }}{% link offices/herald/fieldheraldrycrashcourse.md %})
