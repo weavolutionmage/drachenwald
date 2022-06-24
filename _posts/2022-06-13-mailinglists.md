@@ -1,7 +1,7 @@
 ---
 title:  "Mailing lists are broken"
 excerpt: Mailing lists are broken, fix might take a few weeks."
-date:   2020-04-08 17:00:00 +0000
+date:   2022-04-08 17:00:00 +0000
 tags: webartificers
 category: news
 author: yda
