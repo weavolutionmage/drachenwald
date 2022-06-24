@@ -1,7 +1,7 @@
 ---
 title:  "Mailing lists are migrating"
 excerpt: Mailing lists are migrating, subscribe to the new mailing list"
-date:   2020-06-24 17:00:00 +0000
+date:   2020-06-24 12:00:00 +0000
 tags: webartificers
 category: news
 author: yda
