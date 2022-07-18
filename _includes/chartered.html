@@ -1,0 +1,57 @@
+
+{% assign q = site.data.groups.groups-special | where: "website-section", include.group | first %}
+{% assign groupname = q.name %}
+
+{% assign people = site.data.groups.officerlist | where: "group",  groupname  %}
+
+# Charter
+
+{% unless q.charter == "" %}
+  [Charter]({{ q.charter }})
+{% endunless %}
+
+
+# Contact Information
+
+{% for p in people %}
+{{ p.role }}: {{ p.scaname }} {% unless p.pronouns == "" %}({{ p.pronouns }}){% endunless %}{% unless p.email == "" %}, <a href="mailto:{{ p.email }}">{{ p.email }}</a>{% endunless %}
+{% endfor %}
+
+{% unless q.facebook == "" %}
+* [Facebook group]({{ q.facebook }})
+{% endunless %}
+
+{% unless q.website == "" %}
+* [[Website]]({{ q.website }})
+{% endunless %}
+
+{% unless q.instagram == "" %}
+* [[Instagram]]({{ q.instagram }})
+{% endunless %}
+
+{% unless q.discord == "" %}
+* [[Discord]]({{ q.discord }})
+{% endunless %}
+
+{% unless q.mailing-list == "" %}
+* [Mailing list/Forum]({{ q.mailing-list }})
+{% endunless %}
+
+<!--
+<p>
+The order secretary is
+{{ q.title }} <strong>{{ q.scaname }}</strong>   
+{% unless q.mundanename == "" %}
+  ({{ q.mundanename }})
+  {% endunless %}
+ {% unless q.pronouns == "" %}
+  ({{ q.pronouns }})
+  {% endunless %}
+  .
+{% unless q.email == "" %}
+Email: <a href="mailto:{{ p.email }}">{{ q.email }}</a><br>
+{% endunless %}</p>
+
+ 
+  <br> -->
+  

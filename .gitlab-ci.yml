@@ -30,6 +30,8 @@ before_script:
   - curl -k -o _data/courtreports.json "https://scripts.drachenwald.sca.org/json/courtreports.json"
   - curl -k -o _data/laurelroster.json "https://scripts.drachenwald.sca.org/json/laurelroster.json"
   - curl -k -o _data/fullcalendar.json "https://scripts.drachenwald.sca.org/json/fullcalendar.json"
+  - curl -k -o _data/groups/groups-special.json "https://scripts.drachenwald.sca.org/json/groups-special.json"
+
   #- 'pip3 install -r _thisisdrachenwald/requirements.txt'
   - 'python3 _thisisdrachenwald/fetch_rss.py'
   - 'python3 _thisisdrachenwald/create_rss.py'
