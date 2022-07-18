@@ -14,9 +14,7 @@
 # Contact Information
 
 {% for p in people %}
-{{ p.role }}: {{ p.scaname }} 
-{% unless p.pronouns == "" %}({{ p.pronouns }}){% endunless %}
-{% unless p.email == "" %}, <a href="mailto:{{ p.email }}">{{ p.email }}</a>{% endunless %}
+{{ p.role }}: {{ p.scaname }} {% unless p.pronouns == "" %}({{ p.pronouns }}){% endunless %}{% unless p.email == "" %}, <a href="mailto:{{ p.email }}">{{ p.email }}</a>{% endunless %}
 {% endfor %}
 
 {% unless q.facebook == "" %}
@@ -36,7 +34,7 @@
 {% endunless %}
 
 {% unless q.mailing-list == "" %}
-* [[Mailing list/Forum]]({{ q.mailing-list }})
+* [Mailing list/Forum]({{ q.mailing-list }})
 {% endunless %}
 
 <!--
