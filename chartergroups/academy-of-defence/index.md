@@ -1,6 +1,8 @@
 ---
 title: Drachenwald Academy of Defence 
 excerpt: After the manner of the ancient schools of London
+toc: true
+toc_label: "Table of Contents"
 redirect_from:
   - /chartergroups/academy-of-defense/
 ---
@@ -10,10 +12,7 @@ The Academy promotes the noble art of fence within the Kingdom of Drachenwald th
 
 Akin to a guild, the Academy has ranks which candidates challenge into, by meeting three companions of the Academy of appropriate skill level, in tests of skill at arms, and of endurance.  
 
-* [Academy charter and bylaws]({{ site.baseurl }}{% link chartergroups/files/academy_defense_charter_2017_05_20.pdf %})  
 * [Meeting minutes from Collegium of Defense in Mynydd Gwyn, May 2017]({{ site.baseurl }}{% link chartergroups/files/academy_meeting_minutes_06_05_2017.pdf %})  
-* [Yahoogroup](http://groups.yahoo.com/group/DW_AC/)  
-* [Facebook group](https://www.facebook.com/groups/DWAcademyOfDefense/)  
 
 # The Academy 
 
@@ -41,9 +40,4 @@ Akin to a guild, the Academy has ranks which candidates challenge into, by meeti
 ## Prefects: who hold the highest rank of the Academy
  {% for itemAll in roster %}{% if itemAll.Rank == "Prefect" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
 
-## Preceptor
-{% include role-contactinfo.html role="Academy of Defense - Preceptor" %}
-
-## Scribe
-Mistress Gwenllian verch Andreas (K. Bernard) <script type="text/javascript">document.write(String.fromCharCode(60,97,32,104,114,101,102,61,39,109,97,105,108,116,111,58,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,39,62,107,97,116,104,108,121,110,98,101,114,110,97,114,100,64,103,109,97,105,108,46,99,111,109,60,47,97,62));</script>
-
+{% include chartered.html group="academy-of-defence" %}
