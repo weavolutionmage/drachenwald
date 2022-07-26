@@ -203,7 +203,13 @@ side-offices:
       url: /peers/defence/
     - title: Academy of Defense
       url: /chartergroups/academy-of-defence/
-
+    - title: Society of the Golden Egg
+      url: /chartergroups/golden-egg/
+    - title: Cooks Guild
+      url: /chartergroups/cooks-guild/            
+    - title: Practical Drachenwald
+      url: /chartergroups/practical-drachenwald/
+      
 - title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
 
