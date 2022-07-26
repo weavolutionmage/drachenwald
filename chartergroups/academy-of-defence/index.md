@@ -24,7 +24,7 @@ Akin to a guild, the Academy has ranks which candidates challenge into, by meeti
   The roster isn't available right now - please check back later.
 {% endif %}
 
-
+# Academy Roster
 ## Companions: who support the Academy and its members through their service
 {% for itemAll in roster %}{% if itemAll.Rank == "Companion" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
 
