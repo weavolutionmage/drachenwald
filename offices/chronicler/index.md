@@ -12,7 +12,7 @@ The kingdom Chronicler is responsible for all official kingdom publications.
 
 The kingdom chronicler:
 
-* oversees  [kingdom calendar (where you publish event announcements)]({{ site.baseurl }}{% link events/calendar.html %})
+* oversees  [kingdom calendar (where you publish event announcements)]({{ site.baseurl }}{% link events/calendar/index.md %})
 * oversees the published events
 * publishes the [kingdom newsletter, the <em>Dragon's Tale</em>.]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %})
 * encourages [local branches to keep newsletters](#local-chroniclers)
@@ -22,9 +22,9 @@ The kingdom chronicler:
 
 For an event to be "official" for business, like royal investitures,  awards,  and proclamation of laws, the event must be a kingdom published event.
 
-1) Submit your event through the form
-2) Make sure all required information has been submitted through the form before the deadline . Inforamtion submitted to the form is copied to the chronicler automatically
-3) Check if your event shows as 'official' on the online calendar or that it has been published in the Dragons Tale.
+1. Submit your event through the form
+2. Make sure all required information has been submitted through the form before the deadline . Inforamtion submitted to the form is copied to the chronicler automatically
+3. Check if your event shows as 'official' on the online calendar or that it has been published in the Dragons Tale.
 
 Any questions, contact the chronicler
 
