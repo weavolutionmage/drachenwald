@@ -11,6 +11,8 @@ title: Past events published in the Dragons Tale
 	The past events  aren't available right now, please come back later.
 {% endif %}
 
+{{ pastevents }}
+
 <table>
 
   <caption><h3>Past events</h3></caption>
@@ -27,11 +29,11 @@ title: Past events published in the Dragons Tale
 	<td>{{ item.start_date | date: "%-d %b %Y" }} </td>
 	<td>{{ item.host_branch }}</td>
 	<td>{{ item.event_name }}</td>
-    </tr>
+    <td>{{ item.status }}</td>
 {% endfor %}
 
 </table>
 
 <div style="text-align: center">
-  <a href="{{ site.baseurl }}{% link events/calendar.html %}" class="btn btn--primary">View the calendar</a>
+  <a href="{{ site.baseurl }}{% link events/calendar/index.md %}" class="btn btn--primary">View the calendar</a>
 </div>

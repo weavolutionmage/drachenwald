@@ -18,4 +18,4 @@ A huge range of pursuits based around medieval skills and knowledge are grouped 
 
 And if you'd like to hear the words of our members themselves, we collect many of their blog posts at [This is Drachenwald]({% link thisis/index.html %}).
 
-[Upcoming events]({{ site.baseurl }}{% link events/calendar.html %}){: .btn .btn--inverse}
+[Upcoming events]({{ site.baseurl }}{% link events/calendar/index.md %}){: .btn .btn--inverse}
