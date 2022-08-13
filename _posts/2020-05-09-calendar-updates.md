@@ -5,7 +5,7 @@ tags: webartificers
 category: news
 author: sela
 ---
-A few small updates to the [events calendar]({{ site.baseurl }}{% link events/calendar.html %}):
+A few small updates to the [events calendar]({{ site.baseurl }}{% link events/calendar/index.md %}):
 
 - there's a button to hide cancelled events
 - fixed the messy display when a country is not specified

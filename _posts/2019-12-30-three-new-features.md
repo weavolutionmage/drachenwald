@@ -9,7 +9,7 @@ tldr: "Code for webministers to include the Kingdom event calendar on their grou
 ---
 Greetings and happy new (mundane) year! The web artificers are happy to announce new features of the Drachenwald website.
 
-The first feature is a change to the [event calendar]({{ site.baseurl }}{% link events/calendar.html %}). You might have noticed a slight change to how it looks. This is because your browser is now pulling the live information directly, instead of having to wait for a rebuild of the website itself (which usually happens once a day.)
+The first feature is a change to the [event calendar]({{ site.baseurl }}{% link events/calendar/index.md %}). You might have noticed a slight change to how it looks. This is because your browser is now pulling the live information directly, instead of having to wait for a rebuild of the website itself (which usually happens once a day.)
 
 The second feature is that it is now possible for any webminister to display the Kingdom calendar, or only those events organised by nearby groups, on their website. If you are a webminister, add this code to a page, and the calendar will appear:
 

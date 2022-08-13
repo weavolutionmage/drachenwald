@@ -12,7 +12,7 @@ The kingdom Chronicler is responsible for all official kingdom publications.
 
 The kingdom chronicler:
 
-* manages the [kingdom calendar (where you publish event announcements)]({{ site.baseurl }}{% link events/calendar.html %})
+* manages the [kingdom calendar (where you publish event announcements)]({{ site.baseurl }}{% link events/calendar/index.md %})
 * publishes the [kingdom newsletter, the <em>Dragon's Tale</em>.]({{ site.baseurl }}{% link offices/chronicler/kingdom-newsletter.md %})
 * encourages [local branches to keep newsletters](#local-chroniclers)
 * [reports quarterly to the Society Chronicler](#policies-and-reports), as part of the requirements for Society for Creative Anachronism Inc

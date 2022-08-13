@@ -39,5 +39,5 @@ title: Kingdom events open for bidding
 </table>
 
 <div style="text-align: center">
-  <a href="{{ site.baseurl }}{% link events/calendar.html %}" class="btn btn--primary">View the calendar</a>
+  <a href="{{ site.baseurl }}{% link events/calendar/index.md %}" class="btn btn--primary">View the calendar</a>
 </div>
