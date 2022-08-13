@@ -1,0 +1,79 @@
+---
+title: Officer code creator
+---
+
+<div id="theform">
+
+  <form id="choose-office-group">
+    <select name="groupselect" id="groupselect">
+      <option value="Insulae Draconis-Dun in Mara">Dun in Mara</option>
+      <option value="Insulae Draconis">Insulae Draconis</option>
+    </select>
+
+    <select name="officeselect" id="officeselect">
+      <option value="">-- All --</option>
+      <option value="seneschal">Seneschal</option>
+      <option value="exchequer">Exchequer</option>
+    </select>
+
+    <button id="codegen" type="button">Generate code</button>
+
+  </form>
+
+</div>
+
+<div>
+  <pre>
+    <span id="thecode">
+      Code goes here
+    </span>
+  </pre>
+</div>
+
+<div id="thepreview">
+  <div id="officerspot"
+  group="Drachenwald">
+  Loading...
+  </div>
+</div>
+
+<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"></script>
+
+<script>
+  const setInnerHTML = function(elm, html) {
+    elm.innerHTML = html;
+    Array.from(elm.querySelectorAll("script")).forEach( oldScript => {
+      const newScript = document.createElement("script");
+      Array.from(oldScript.attributes)
+        .forEach( attr => newScript.setAttribute(attr.name, attr.value) );
+      newScript.appendChild(document.createTextNode(oldScript.innerHTML));
+      oldScript.parentNode.replaceChild(newScript, oldScript);
+    });
+  }
+
+  const button = document.getElementById('codegen')
+
+  button.addEventListener('click', (event) => {
+    const groupselect = document.getElementById('groupselect')
+    const officeselect = document.getElementById('officeselect')
+    const codediv = document.getElementById('thecode')
+    const previewdiv = document.getElementById('thepreview')
+
+    const officercode = `
+<div id="officerspot"
+group="${groupselect.value}"${ officeselect.value ? `\noffice="${ officeselect.value }"` : ''}>
+Loading...
+</div>
+    `
+
+    codediv.innerText = `
+${officercode}
+<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"><\/script>
+`
+    previewdiv.innerHTML = officercode
+    updatePage()
+
+
+  })
+
+</script>
