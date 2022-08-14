@@ -23,7 +23,6 @@ before_script:
   #- curl -L -o _data/academyofdefense.csv "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3yc9oe_Qj4-QW5BhLilEBSi8hWbw8bB0AWbeJdD53fDBtpXfcKsD1imp8H8C9Gf5NiwunTa0V0sTO/pub?gid=0&single=true&output=csv" 
   - 'pip3 install -r _server_scripts/requirements.txt'
   - 'python3 _server_scripts/fetch_rss.py'
-  - 'python3 _thisisdrachenwald/create_rss.py'
   - curl -L -k -o _data/academyofdefense.json  "https://scripts.drachenwald.sca.org/json/academyofdefense.json"
   - curl -k -o _data/groups/grouplist.json "https://scripts.drachenwald.sca.org/json/regnum-groups.json"
   - curl -k -o _data/groups/officerlist.json "https://scripts.drachenwald.sca.org/json/regnum-officers.json"
