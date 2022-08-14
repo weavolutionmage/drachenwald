@@ -161,8 +161,6 @@ side-offices:
 - title: Offices
   url: /offices/
   children:
-    - title: This is Drachenwald
-      url: /thisis/
     - title: Seneschal
       url: /offices/seneschal/
     - title: Exchequer
@@ -189,6 +187,8 @@ side-offices:
       url: /offices/signet/
     - title: Web Minister
       url: /offices/webminister/
+    - title: Social Media
+      url: /offices/socialmedia
 
 - title: Orders & Charter Groups
   url: /offices/

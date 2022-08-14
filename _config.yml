@@ -260,6 +260,11 @@ defaults:
       officer: "webminister"
   -
     scope:
+      path: "offices/socialmedia"
+    values:
+      officer: "socialmedia"    
+  -
+    scope:
       path: ""
       type: "posts"
     values:
