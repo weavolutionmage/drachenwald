@@ -12,7 +12,7 @@ with open('_data/google_sheets.json', 'r') as f:
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-
+ try:
     scopes = ['https://www.googleapis.com/auth/cloud-platform', 'https://www.googleapis.com/auth/spreadsheets.readonly']
     print(os.environ['GROUPSHEET'])
     key_id = os.environ['google_service_private_key_id']
@@ -59,7 +59,8 @@ if __name__ == '__main__':
 
         except HttpError as err:
             print(err)
-
+ except Exception as e:
+    print(e)
 
 
 
