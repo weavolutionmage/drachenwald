@@ -9,4 +9,3 @@ pyyaml
 Pillow
 feedgen
 pytz
-json
