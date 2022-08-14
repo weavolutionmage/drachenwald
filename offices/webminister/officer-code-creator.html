@@ -1,38 +1,106 @@
 ---
 title: Officer code creator
+classes: wide
 ---
+
+<p>
+  If you are a webminister and you would like to list your group's officers and their
+  contact details on your site, you may use the code generated on page.
+</p>
+  
+<p>
+  When you place the appropriate code snippet on your site, it will load the current
+  regnum data in the user's browser, and render the details of the offices for the group
+  you specify.
+</p>
+
+<p>
+  Officers may <a href="https://forms.drachenwald-sca.org/forms/regnum-officers/">update their contact
+  information in the Regnum</a>. When an officer's term has expired, their entry will
+  no longer be displayed. Should they withdraw consent for details to be published,
+  those details will no longer be displayed.
+</p>
+
+<h2>Generate code</h2>
 
 <div id="theform">
 
   <form id="choose-office-group">
-    <select name="groupselect" id="groupselect">
-      <option value="Insulae Draconis-Dun in Mara">Dun in Mara</option>
-      <option value="Insulae Draconis">Insulae Draconis</option>
-    </select>
+    <table>
 
-    <select name="officeselect" id="officeselect">
-      <option value="">-- All --</option>
-      <option value="seneschal">Seneschal</option>
-      <option value="exchequer">Exchequer</option>
-    </select>
+      <tr>
+        <th>Language</th>
+        <td class="text-left">
+          <select name="langselect" id="langselect">
+            <option value="en">English</option>
+          </select>
+        </td>
+      </tr>
 
-    <button id="codegen" type="button">Generate code</button>
+      <tr>
+        <th>Group</th>
+        <td class="text-left">
+          <select name="groupselect" id="groupselect">
+            {% for group in site.data.groups.grouplist %}
+              {% if group.group == "Drachenwald" %}
+                <option value="">-- Choose a group --</option>
+              {% elsif group.parent == "Drachenwald" %}
+                <option value="{{group.group}}">-- {{group.group}} --</option>
+              {% elsif group.parent == "Central" %}
+                <option value="{{group.group}}">{{group.group}}</option>
+              {% else %}
+                <option value="{{group.parent}}-{{group.group}}">{{group.group}}</option>
+              {% endif %}
+            {% endfor %}
+          </select>
+        </td>
+      </tr>
+
+      <tr>
+        <th>Office</th>
+        <td class="text-left">
+          <select name="officeselect" id="officeselect">
+            <option value="">-- All offices --</option>
+            {% for office in site.data.people.offices %}
+              <option value="{{office.shortname}}">{{office.longname | escape}}</option>
+            {% endfor %}
+          </select>
+        </td>
+      </tr>
+
+      <tr>
+        <th>Display</th>
+        <td class="text-left">
+          <select name="dispselect" id="dispselect">
+            <option value="compact">Compact</option>
+            <option value="" selected>Regular</option>
+            <option value="withdesc">Include office descriptions</option>
+          </select>
+        </td>
+      </tr>
+
+    </table>
+
+    <p class="text-center">
+      <button id="codegen" type="button" class="btn btn--primary">Generate code</button>
+    </p>
 
   </form>
 
 </div>
 
+<h2>Code snippet for your group's website</h2>
+
 <div>
-  <pre>
-    <span id="thecode">
-      Code goes here
-    </span>
-  </pre>
+  <figure class="highlight">
+    <pre><code class="language-html" data-lang="html"><span class="nx" id="thecode">Code snippet will appear here</span></code></pre>
+  </figure>
 </div>
 
-<div id="thepreview">
-  <div id="officerspot"
-  group="Drachenwald">
+<h2>Preview of the results</h2>
+
+<div id="thepreview" class="notice">
+  <div class="dw-live-officers" lang="en">
   Loading...
   </div>
 </div>
@@ -56,23 +124,26 @@ title: Officer code creator
   button.addEventListener('click', (event) => {
     const groupselect = document.getElementById('groupselect')
     const officeselect = document.getElementById('officeselect')
+    const langselect = document.getElementById('langselect')
+    const dispselect = document.getElementById('dispselect')
     const codediv = document.getElementById('thecode')
     const previewdiv = document.getElementById('thepreview')
 
-    const officercode = `
-<div id="officerspot"
-group="${groupselect.value}"${ officeselect.value ? `\noffice="${ officeselect.value }"` : ''}>
+    const officercode = `<div class="dw-live-officers" lang="${langselect.value}"${ dispselect.value ? ` display="${dispselect.value }"` : '' }
+     group="${groupselect.value}"${ officeselect.value ? ` office="${ officeselect.value }"` : ''}>
 Loading...
-</div>
-    `
+</div>`
 
-    codediv.innerText = `
-${officercode}
-<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"><\/script>
-`
+    if ( groupselect.value ) {
+      codediv.innerText = `${officercode}
+<script src="https://scripts.drachenwald.sca.org/regnum/regnum-fetch.js"><\/script>`
+    } else {
+      codediv.innerText = 'Code snippet will appear here'
+    }
+
     previewdiv.innerHTML = officercode
-    updatePage()
 
+    updatePage()
 
   })
 
