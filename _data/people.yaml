@@ -23,3 +23,5 @@ offices:
     longname: "Herald"
   - shortname: "signet"
     longname: "Signet"
+  - shortname: "socialmedia"
+    longname: "Social Media Minister"
