@@ -15,9 +15,11 @@ if __name__ == '__main__':
 
     scopes = ['https://www.googleapis.com/auth/cloud-platform', 'https://www.googleapis.com/auth/spreadsheets.readonly']
 
+	print(GROUPSHEET)
     key_id = os.environ['google_service_private_key_id']
+    print(key_id)
     key = os.environ['google_service_private_key']
-	
+	print(key)	
     cred_info = {"type": "service_account",
                  "project_id": "dw-website-updates",
                  "private_key_id": key_id,
