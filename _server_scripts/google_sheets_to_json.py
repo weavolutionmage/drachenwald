@@ -20,8 +20,12 @@ if __name__ == '__main__':
     key_path = "dw-website-updates-d1bfd5696e7a.json"
     scopes = ['https://www.googleapis.com/auth/cloud-platform', 'https://www.googleapis.com/auth/spreadsheets.readonly']
 
+    print(os.environ['google_service_private_key_id'])
+    print(os.environ['google_service_private_key'])
+ 
+
     cred_info = {"type": "service_account",
-                 "project_id": os.environ['google_service_project_id'],
+                 "project_id": "dw-website-updates",
                  "private_key_id": os.environ['google_service_private_key_id'],
                  "private_key": os.environ['google_service_private_key'],
                  "client_email": "artificial-artificer-website@dw-website-updates.iam.gserviceaccount.com",
