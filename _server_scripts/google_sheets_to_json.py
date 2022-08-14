@@ -1,7 +1,3 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -17,17 +13,15 @@ with open('_data/google_sheets.json', 'r') as f:
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
 
-    key_path = "dw-website-updates-d1bfd5696e7a.json"
     scopes = ['https://www.googleapis.com/auth/cloud-platform', 'https://www.googleapis.com/auth/spreadsheets.readonly']
 
-    print(os.environ['google_service_private_key_id'])
-    print(os.environ['google_service_private_key'])
- 
-
+    key_id = os.environ['google_service_private_key_id']
+    key = os.environ['google_service_private_key']
+	
     cred_info = {"type": "service_account",
                  "project_id": "dw-website-updates",
-                 "private_key_id": os.environ['google_service_private_key_id'],
-                 "private_key": os.environ['google_service_private_key'],
+                 "private_key_id": key_id,
+                 "private_key": key,
                  "client_email": "artificial-artificer-website@dw-website-updates.iam.gserviceaccount.com",
                  "client_id": "110303972029671992358",
                  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
