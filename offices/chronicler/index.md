@@ -22,9 +22,9 @@ The kingdom chronicler:
 
 For an event to be "official" for business, like royal investitures,  awards,  and proclamation of laws, the event must be a kingdom published event.
 
-1. Submit your event through the form
-2. Make sure all required information has been submitted through the form before the deadline . Inforamtion submitted to the form is copied to the chronicler automatically
-3. Check if your event shows as 'official' on the online calendar or that it has been published in the Dragons Tale.
+1. Submit your event through the [form]({{ site.baseurl }}{% link events/calendar-add.html %})
+2. Make sure all required information has been submitted through the form before the deadline. You will receive an email the day after you submit the form with your deadline and other information. If you did not receive this email after 2 days, contact webminister@drachenwald.sca.org.  Information submitted to the form is copied to the chronicler automatically
+3. Check if your event shows as 'official' or 'published' on the [online calendar]({{ site.baseurl }}{% link events/calendar/index.md %}) or that it has been published in the Dragons Tale.
 
 Any questions, contact the chronicler
 
@@ -41,7 +41,6 @@ For access to older editions, contact the [kingdom chronicler, chronicler@drache
 # Local Chroniclers
 
 Local branches are encouraged to have a newsletter, though it is only <em>required</em>for Baronies and above.
-
 
 * [Guidelines for local chroniclers]({{ site.baseurl }}{% link offices/chronicler/guidelines-local-chroniclers.md %})
 * [William Blackfox awards](https://www.sca.org/chronicler/)
