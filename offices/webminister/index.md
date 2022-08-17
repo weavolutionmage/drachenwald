@@ -17,6 +17,7 @@ These folks volunteer to work on the kingdom website and other IT affairs
 ## Google Workspace
 * [Dragon's tale articles](https://members.sca.org/apps/newsletters/Drachenwald/Drachenwald%20DRAGONS%20TALE%202204.pdf)
 * [FAQ](https://docs.google.com/document/d/1kQaMzJhJLQJAIPQKwkxPpGVFNGIl6WQId2WqTsaYc3g/edit)
+* [Drachenwald Google Workspace Policy](https://docs.google.com/document/d/1wgzxoUSlMYCvkeR2s7vwwBx70FPB3zfx1eTFnLLil0w/edit?usp=sharing)
 
 ## Reporting for principality and local webministers
 
