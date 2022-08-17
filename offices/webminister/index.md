@@ -32,4 +32,8 @@ Send a report to the Gitlab issues tracker: <a href="https://gitlab.com/sca-drac
 * [Update officer information](https://forms.gle/Xm7bCu7nkq5uMU5Z6)
 * [Adding a chartered group to the website]({{ site.baseurl}}{% link offices/webminister/content-policy.md %}) 
 
+## Tools for group webministers
+
+* [Live contact information for your group]({{ site.baseurl }}{% link offices/webminister/officer-code-creator.html %})
+
 {% include officer-contacts.html %}
