@@ -70,10 +70,10 @@ Account Number: 91484060
 Sort Code: 40-47-34  
 
 __Details for paying from outside UK__  
-IBAN: GB49MIDL40473491484060  
-BIC / SWIFT Code: MIDLGB2165G  
+IBAN: GB86HBUK40473491484060
+BIC: HBUKGB4165G
 Account Name: SCA - Kingdom of Drachenwald  
-Bank's Address: 2 North Walk, Yate, Bristol BS37 4AR  
+Bank's Address: 20 Badminton Road, Downend, Bristol, BS16 6BN
 Bank: HSBC  
 
 # Submission forms
