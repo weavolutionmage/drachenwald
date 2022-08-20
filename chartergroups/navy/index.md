@@ -25,7 +25,7 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 * e-mail address of the recipient
 * evidence of payment of the fees, for instance the date and name under which the payment was made so that confirmation can be requested from the kingdom exchequer
 
-# Current Commisions
+# Current Commissions
 
 {% if site.data.navy %}
   {% assign data = site.data.navy %}
@@ -37,22 +37,20 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 
 ## Admirals
 {% for item in data %}
-{% if item.rank == "Admiral" %}Letter of Marque
+{% if item.rank == "Admiral" %}
 {{ item.full-name }}
-: Rank: {{ item.rank }}
 : Region: {{ item.in-command-of }}
-: Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
 
 ## Captains
 {% for item in data %}
-{% if item.rank == "Captain" %}Letter of Marque
+{% if item.rank == "Captain" %}
 {{ item.full-name }}
-: Rank: {{ item.rank }}
 : Region: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
-: Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
  
@@ -60,10 +58,9 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% for item in data %}
 {% if item.rank == "Letter of Marque" %}
 {{ item.full-name }}
-: Rank: {{ item.rank }}
 : Region: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
-: Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
  
