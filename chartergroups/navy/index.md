@@ -35,14 +35,37 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
   No information on challenges available right now - please check back later.
 {% endif %}
 
+## Admirals
 {% for item in data %}
+{% if item.rank == "Admiral" %}Letter of Marque
+{{ item.full-name }}
+: Rank: {{ item.rank }}
+: Region: {{ item.in-command-of }}
+: Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+{% endif %}
+{% endfor %}
+
+## Captains
+{% for item in data %}
+{% if item.rank == "Captain" %}Letter of Marque
 {{ item.full-name }}
 : Rank: {{ item.rank }}
 : Region: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
 : Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+{% endif %}
 {% endfor %}
-
+ 
+## Holders of a letter of Marque
+{% for item in data %}
+{% if item.rank == "Letter of Marque" %}
+{{ item.full-name }}
+: Rank: {{ item.rank }}
+: Region: {{ item.in-command-of }}
+: Home Port: {{ item.home-port }}
+: Commisioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+{% endif %}
+{% endfor %}
  
 
 {% include chartered.html group="navy" %}
