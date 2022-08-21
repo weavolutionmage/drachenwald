@@ -1,5 +1,7 @@
 ---
 title: Society of the Golden Egg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 {% if site.data.golden-egg %}
@@ -38,9 +40,6 @@ title: Society of the Golden Egg
 : {{ item.officially-became-a-member-of-the-society }} - {{ item.member-until }}
 {% endif  %}
 {% endfor %}
-
-<br/>
-
 
 
 {% include chartered.html group="golden-egg" %}
