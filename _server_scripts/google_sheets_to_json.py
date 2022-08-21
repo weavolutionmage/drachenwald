@@ -50,7 +50,7 @@ if __name__ == '__main__':
                 #all rows need to be the same length, Google Sheets API doesn't return cells without values
                 corrected_values = [x + [''] * (max_col - len(x))for x in values]
                 #liquid works better with lower case letters and no spaces in the fieldnames
-                header_row = [x.lower().replace(' ','-') for x in corrected_values[0]]
+                header_row = [x.lower().replace(' ','-').replace('/','-') for x in corrected_values[0]]
                 df = pd.DataFrame(corrected_values[1:], columns=header_row).fillna('')
                 df.to_json(dest, orient="records")
 

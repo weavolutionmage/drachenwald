@@ -248,7 +248,7 @@ Sovereign / Herald
 Victor & Inspiration
 : I do.
 
-***Coronation Oath***
+*Coronation Oath***
 
 Sovereign / Herald
 : Let the Seneschal come forward and administer the coronation oath.
@@ -460,119 +460,97 @@ Herald
 
 : _The territorial nobles may withdraw in state. The members of the court may then withdraw as they please._
 
-## Part VII Royal Peers
+# Part VII Royal Peers
 
 The ceremonies assume that the reign that ended was either the first or second for both of them, and that the former Consort had not already reigned as Sovereign. If these assumptions do not hold please change the wording as appropriate and omit sections that are not relevant.
 
-### 1 Investiture of Counties
+## 1. Investiture of Counties
 
 _Adapt as necessary if only one person is receiving the rank._
 
-**Herald:**
-
-Their Majesties do hereby call before them ____________ and ____________ , for they have greatly enriched our realm and We would honour them.
+Herald
+: Their Majesties do hereby call before them ____________ and ____________ , for they have greatly enriched our realm and We would honour them.
 
 _They shall present themselves._
 
-**Sovereign:**
+Sovereign
+: ____________ , having won the Crown of this our beloved realm and having ruled honourably as its Sovereign, we do hereby affirm you as Count. Will you accept this honour from our hand?
 
-____________ , having won the Crown of this our beloved realm and having ruled honourably as its Sovereign, we do hereby affirm you as Count. Will you accept this honour from our hand?
+Ex-sovereign
+: I will, Your Majesty.
 
-**Ex-sovereign:**
-
-I will, Your Majesty.
-
-**Sovereign:**
-
-In consensus with the Peerage, make known Our Royal will.
+Sovereign
+: In consensus with the Peerage, make known Our Royal will.
 
 _Herald reads Count[ess]'s scroll, hands it to the Sovereign. The Sovereign hands it to the Count[ess]._
 
-**Consort:**
+Consort
+: ____________ , having by your wisdom, grace, and virtue inspired your champion to win for you the Royal Crown of this, our beloved Kingdom and having ruled as its honourable Sovereign, We do hereby affirm you as Count[ess]. Will you accept this honour from our hand?
 
-____________ , having by your wisdom, grace, and virtue inspired your champion to win for you the Royal Crown of this, our beloved Kingdom and having ruled as its honourable Sovereign, We do hereby affirm you as Count[ess]. Will you accept this honour from our hand?
+Ex-consort
+: I will, Your Majesty.
 
-**Ex-consort:**
-
-I will, Your Majesty.
-
-**Consort:**
-
-In consensus with the Peerage, let the scroll be read.
+Consort
+: In consensus with the Peerage, let the scroll be read.
 
 _Herald reads Count[ess]'s scroll, hands it to the Consort. The Consort hands it to Count[ess]._
 
-**Sovereign:**
-
-Let their Excellencies receive the Coronets of their new rank.
+Sovereign
+: Let their Excellencies receive the Coronets of their new rank.
 
 _Courtiers come forward from the Royal Entourage and kneel beside the recipients. The Crowns stand up and take the Coronets from the cushions. The Crowns hold the Coronets above the heads of their Excellencies and place the coronets on their heads, as they says the following._
 
-**The Crowns:**
+The Crowns
+: Be thou henceforth known as
 
-Be thou henceforth known as
+Sovereign
+: Count[ess] ____________ .
 
-**Sovereign:**
-
-Count[ess] ____________ .
-
-**Consort:**
-
-Count[ess] ____________ .
+Consort
+: Count[ess] ____________ .
 
 _The Crowns sit and usually make personal statements to their Excellencies._
 
 _If wanted:_
 
-**Count[ess]:**
-
-Your Majesties, we would swear fealty to you.
+Count[ess]
+: Your Majesties, we would swear fealty to you.
 
 _Their Excellencies kneel before the Crowns, they place their hands on the Sword of Stat., The Crowns place theirs above them._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, until the end of heir lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, until the end of heir lawful reign, and support their royal might and justice?
+Count[ess]es
+: I will.
 
-**Count[ess]es:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Count[ess]es
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their realm, and support them in upholding the laws and fulfilling their coronation oath?
+Count[ess]es
+: I will.
 
-**Count[ess]es:**
+Consort
+: And We in turn promise to grant you, Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
 
-I do.
+: So say We ____________ , Rex/Regina
 
-**Herald:**
+Sovereign
+:So say We ____________ , Rex/Regina.
 
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their realm?
-
-**Count[ess]es:**
-
-I will.
-
-**Consort:**
-
-And We in turn promise to grant you, Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
-
-So say We ____________ , Rex/Regina
-
-**Sovereign:**
-
-So say We ____________ , Rex/Regina.
-
-**Herald:**
-
-Count[ess] ____________ , you may depart; Count[ess] ____________ , please remain.
+Herald
+:Count[ess] ____________ , you may depart; Count[ess] ____________ , please remain.
 
 _The one stands, bows and departs._
 
-**Herald:**
-
-For Their Excellencies ____________ and ____________ , Vivant! Vivant! Vivant!
+Herald
+: For Their Excellencies ____________ and ____________ , Vivant! Vivant! Vivant!
 
 _Pause_
 
@@ -580,25 +558,21 @@ Their Majesties command the presence of all members of the Order of the Rose.
 
 _	Members of the order come forward and kneel._
 
-**Herald:**
+Herald
+: A rose is a glorious flower, worthy of all admiration, yet underneath all its elegance it has fierce thorns to defend itself. Similarly, a Consort inspires their subjects to noble deeds and fosters hospitality but will, when necessary, defend their realm and subjects with all their might.
 
-A rose is a glorious flower, worthy of all admiration, yet underneath all its elegance it has fierce thorns to defend itself. Similarly, a Consort inspires their subjects to noble deeds and fosters hospitality but will, when necessary, defend their realm and subjects with all their might.
-
-**Consort:**
-
-____________ , having ruled this Kingdom as its [King / Queen / Alt Title], we confirm you as a Companion of the Rose.
+Consort
+: ____________ , having ruled this Kingdom as its [King / Queen / Alt Title], we confirm you as a Companion of the Rose.
 
 _	The Consort gives a rose or a similar token._
 
-**Sovereign:**
-
-Let the new Companion of the Rose be vested as befits their rank.
+Sovereign
+: Let the new Companion of the Rose be vested as befits their rank.
 
 _Two members of the order place a cloak of the order around the new member’s shoulders._
 
-**Herald:**
-
-For the new Companion of the Rose, ____________ , Vivat! Vivat! Vivat!
+Herald
+: For the new Companion of the Rose, ____________ , Vivat! Vivat! Vivat!
 
 _	The order departs._
 
@@ -606,165 +580,135 @@ _	The order departs._
 
 _Adapt as necessary if only one person is receiving the rank._
 
-**Herald:**
-
-Their Majesties do hereby call before them ____________ and ____________ , for they have greatly enriched our realm and we would honour them.
+Herald
+: Their Majesties do hereby call before them ____________ and ____________ , for they have greatly enriched our realm and we would honour them.
 
 _They shall present themselves._
 
-**Sovereign:**
-
-____________ , having twice won the Crown of this our beloved realm and having twice ruled honourably as its Sovereign, We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
+Sovereign
+: ____________ , having twice won the Crown of this our beloved realm and having twice ruled honourably as its Sovereign, We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
 
 _Alternative:_
 
 ____________ , having won the Crown of this our beloved realm and having ruled honourably as Sovereign of Drachenwald and of ____________ , We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
 
-**Duke/Duchess:**
-
-I will, Your Majesty.
+Duke/Duchess
+: I will, Your Majesty.
 
 _Courtier comes forward from the Royal Escort and kneels beside the Duke/Duchess. The Sovereign stands, removes the County Coronet from recipient’s head and places it on the cushion. The Sovereign sits. Courtier stands up, bows before their Majesties and retires to the Royal Escort._
 
-**Sovereign:**
-
-In consensus with the Peerage, make known our Royal will.
+Sovereign
+: In consensus with the Peerage, make known our Royal will.
 
 _Herald reads the scroll, hands it to the Sovereign and the Sovereign hands it to Duke/Duchess._
 
-**Consort:**
-
-____________ , having by your wisdom, grace, and virtue twice inspired your champion to win for you the Crown of this, our beloved Realm and having twice ruled as its honourable Sovereign, We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
+Consort
+: ____________ , having by your wisdom, grace, and virtue twice inspired your champion to win for you the Crown of this, our beloved Realm and having twice ruled as its honourable Sovereign, We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
 
 _Alternative_
 
 __________, having by your wisom, grace and virtue twice inspired your champion to win for you the Crowns of the realms of Drachenwald and __________, and having ruled each honourably as Sovereign, We do hereby affirm you as Duke/Duchess. Will you accept this honour from our hand?
 
-**Duchess:**
-
-I will, Your Majesty.
+**Duchess
+: I will, Your Majesty.
 
 _Courtier comes forward from the Royal Escort and kneels beside the Duke/Duchess. The Consort stands, removes the County Coronet from the recipient’s head and places it on the cushion. The consort sits. Courtier stands up, bows before their Majesties and retires to the Royal Escort._
 
-**Consort:**
-
-In consensus with the Peerage, let the scroll be read.
+Consort
+: In consensus with the Peerage, let the scroll be read.
 
 _Herald reads the scroll, hands it to the Coronet and the Coronet hands it to Duke/Duchess._
 
-**Sovereign:**
-
-Let their Graces receive the Coronets of their new rank.
+Sovereign
+: Let their Graces receive the Coronets of their new rank.
 
 _Courtiers come forward from the Royal Escort, with Ducal Coronets on the cushions and kneel beside the recipients. The Crowns stand. The Crowns take the Ducal Coronets from the cushions, hold them above their Graces’ heads, and place the coronets on their Graces’ heads, as they say the following._
 
-**The Crowns:**
+The Crowns
+: Be thou henceforth known as
 
-Be thou henceforth known as
+Sovereign
+: Duke/Duchess ____________ .
 
-**Sovereign:**
-
-Duke/Duchess ____________ .
-
-**Consort:**
-
-Duke/Duchess ____________ .
+Consort
+: Duke/Duchess ____________ .
 
 _The Crowns sit and usually make personal statements to the new Dukes/Duchesses._
 
 _If wanted:_
 
-**Duke:**
-
-Your Majesties, we would swear fealty to you.
+Duke
+: Your Majesties, we would swear fealty to you.
 
 _They kneel before the Sovereigns place their hands on the Sword of State, and the Sovereigns place theirs above them._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, until the end of their lawful reign, and support their royal might and justice?
+Duke/Duchess
+: I will.
 
-**Duke/Duchess:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Duke/Duchess
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm Their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
+Duke & Duchess
+: We so swear.
 
-**Duke/Duchess:**
-
-I do.
-
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm Their Realm?
-
-**Duke & Duchess:**
-
-We so swear.
-
-**Consort:**
-
-And We in turn promise to grant you, Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
+Consort
+: And We in turn promise to grant you, Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Regina
 
-**Sovereign:**
-
-And so say We ____________ , Rex.
+Sovereign
+: And so say We ____________ , Rex.
 
 _If the first reign of the outgoing Consort was as Sovereign, insert the ceremony for the Order of the Rose here. Otherwise:_
 
 _Duke and Duchess stand up, bow and depart._
 
-**Herald:**
+Herald
+: For Their Graces ____________ and ____________ , Vivant! Vivant! Vivant!
 
-For Their Graces ____________ and ____________ , Vivant! Vivant! Vivant!
 
+# Part VIII Peerage Orders
+## 1. Order of Chivalry
 
-## Part VII Peerage Orders
-### 1 Order of Chivalry
+*** Invocation of the Vigil ****
 
-#### Invocation of the Vigil
-
-**Herald:**
-
-Their Majesties command the presence of all members of the Order of Chivalry.
+Herald
+: Their Majesties command the presence of all members of the Order of Chivalry.
 
 _The order comes forward._
 
-**Monarch:**
+Monarch
+: Good my Peers, We seek counsel! Will you give us this?
 
-Good my Peers, We seek counsel! Will you give us this?
+Order
+: Yes.
 
-**Order:**
+Monarch
+: Word has reached us that there is one amongst our people who is a Peer in truth, but not in name. Is this so?
 
-Yes.
+Order
+: Yes.
 
-**Monarch:**
+Monarch
+: Let us summon the candidate.
 
-Word has reached us that there is one amongst our people who is a Peer in truth, but not in name. Is this so?
+Herald
+: Their Majesties command the presence of __________________.	
 
-**Order:**
+Monarch
+: __________, your skill with arms is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of Chivalry.
 
-Yes.
-
-**Monarch:**
-
-Let us summon the candidate.
-
-**Herald:**
-
-Their Majesties command the presence of __________________.	
-
-**Monarch:**
-
-__________, your skill with arms is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of Chivalry.
-
-**Herald / Sponsor / Senior Chivalry:**
-
-It is necessary that I address you, concerning aspects of Peerage and Chivalry. It is often said that Peerage is an honour. It is surely that, but further, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
+Herald / Sponsor / Senior Chivalry
+: It is necessary that I address you, concerning aspects of Peerage and Chivalry. It is often said that Peerage is an honour. It is surely that, but further, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
 
 _The next paragraph may be read by a Member of the Pelican:_
 
@@ -784,177 +728,139 @@ The Knights and the Masters of Arms are the Order of Chivalry, and as such, they
 
 To accept elevation to the Peerage is to accept these responsibilities. I pray you, keep these words in your heart, as you prepare for your new status.
 
-**Monarch:**
+Monarch
+: Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
 
-Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
+*** Induction into the Order of Chivalry ***
 
-#### Induction into the Order of Chivalry
-
-**Herald:**
-
-Their Majesties command the presence of the Chivalry.
+Herald
+: Their Majesties command the presence of the Chivalry.
 
 _Members of the Order assemble._
 
-**Herald:**
-
-Since ancient times it has been recognised that there are certain warriors who are much deserving of high honour, not only by their skill at arms, but by their noble behaviour, which has come to define the meaning of Chivalry.
+Herald
+: Since ancient times it has been recognised that there are certain warriors who are much deserving of high honour, not only by their skill at arms, but by their noble behaviour, which has come to define the meaning of Chivalry.
 
 Therefore was created the Order of the Chivalry, to recognise those who, possessing all the other skills, virtues and attributes appropriate to members of the Peerage, shall also have distinguished themselves by their prowess in armoured combat and chivalrous demeanour. The Order consists of two equal parts, Knights and Masters of Arms.
 
 And the symbols of Knighthood are a white belt and an unadorned chain, while the symbol of Mastery of Arms is a white baldric. The white belt and baldric betoken the honour with which the knight or master girds himself, and the chain the fealty the knight swears. And this Order ranks in precedence with the Orders of the Laurel, the Pelican, and Defence. It carries with it a Patent of Arms.
 
-**Escort:**
+Escort
+: Your Majesties, having consulted with the Order, is it your desire to increase our numbers at this time?
 
-Your Majesties, having consulted with the Order, is it your desire to increase our numbers at this time?
-
-**Monarch:**
-
-It is. Please bring the candidate forward.
+Monarch
+: It is. Please bring the candidate forward.
 
 _Escort brings candidate forward._
 
-**Escort:**
-
-My liege, it is my privilege to present you ____________ , that they may be made a member of our order.
+Escort
+: My liege, it is my privilege to present you ____________ , that they may be made a member of our order.
 
 _At this point it is possible to have members of the peerage orders to speak for the candidate:_
 
-**Herald:**
+Herald
+: Not only the arts of Ssordmanship and eye of measure but also the strength of arm and chivalry of heart make one a true warrior. Order of Chivalry stands as primary of these attributes.
 
-Not only the arts of Ssordmanship and eye of measure but also the strength of arm and chivalry of heart make one a true warrior. Order of Chivalry stands as primary of these attributes.
+Monarch
+: Is there a member of the Order of the Chivalry to speak for the candidate?
 
-**Monarch:**
+Knight / Master of Arms
+: _Speaks about the chivalry and prowess in arms of the candidate._
 
-Is there a member of the Order of the Chivalry to speak for the candidate?
+Herald
+: But whilst Force of Arms may defend a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate what they fight for, a member of the Chivalry must have knowledge of the Arts and Sciences.
 
-**Knight / Master of Arms:**
+Monarch
+: Is there a member of the Order of the Laurel to speak for the candidate?
 
-_Speaks about the chivalry and prowess in arms of the candidate._
+Laurel
+: _Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
 
-**Herald:**
+Herald
+: No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a member of the Chivalry must also serve the Crown and the Realm.
 
-But whilst Force of Arms may defend a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate what they fight for, a member of the Chivalry must have knowledge of the Arts and Sciences.
+Monarch
+: Is there a member of the Order of the Pelican to speak for the candidate?
 
-**Monarch:**
+Pelican
+: _Speaks of the service done by the candidate._
 
-Is there a member of the Order of the Laurel to speak for the candidate?
+Herald
+: By all manner of arms and combat the Kingdom is defended and championed. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Chivalry is also a keen student and teacher of these arts.
 
-**Laurel:**
+Monarch
+: Is there a member of the Order of Defence to speak for the candidate?
 
-_Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
+Defence
+: _Speaks of the candidate’s long dedication, skill and inspiration in the arts of combat and of his grace in field and court_
 
-**Herald:**
+Monarch
+: Is there a member of the Order of the Rose to speak for the candidate?
 
-No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a member of the Chivalry must also serve the Crown and the Realm.
+Herald
+: A warrior may be mighty, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
 
-**Monarch:**
+Rose
+: _Speaks of the courtesy of the candidate._
 
-Is there a member of the Order of the Pelican to speak for the candidate?
+Herald
+: Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
 
-**Pelican:**
-
-_Speaks of the service done by the candidate._
-
-**Herald:**
-
-By all manner of arms and combat the Kingdom is defended and championed. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Chivalry is also a keen student and teacher of these arts.
-
-**Monarch:**
-
-Is there a member of the Order of Defence to speak for the candidate?
-
-**Defence:**
-
-_Speaks of the candidate’s long dedication, skill and inspiration in the arts of combat and of his grace in field and court_
-
-**Monarch:**
-
-Is there a member of the Order of the Rose to speak for the candidate?
-
-**Herald:**
-
-A warrior may be mighty, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
-
-**Rose:**
-
-_Speaks of the courtesy of the candidate._
-
-**Herald:**
-
-Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
-
-**Representative of the populace:**
-
-_Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
+**Representative of the populace
+: _Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
 
 _Crown turns to the sponsor._
 
-**Monarch:**
+Monarch
+: Do you, Sir/M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in chivalry, honour and valour upon the field?
 
-Do you, Sir/M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in chivalry, honour and valour upon the field?
+Knights
+: I do.
 
-**Knights:**
+Monarch
+: It is our judgement that the candidate fulfils all the requirements of the Order of Chivalry.
 
-I do.
+Monarch
+: ____________ , well pleased with your prowess on the field and your gentle conduct at all the times, responsive to the wishes of your peers, we are minded to create you a member of the Order of Chivalry. Will you accept from us this honour?
 
-**Monarch:**
+Candidate
+: I will, Your Majesty.
 
-It is our judgement that the candidate fulfils all the requirements of the Order of Chivalry.
+Monarch
+: Do you wish us to create you a Knight, and swear fealty to us, or would you rather become a M___ of Arms?
 
-**Monarch:**
+Candidate
+: ____________
 
-____________ , well pleased with your prowess on the field and your gentle conduct at all the times, responsive to the wishes of your peers, we are minded to create you a member of the Order of Chivalry. Will you accept from us this honour?
-
-**Candidate:**
-
-I will, Your Majesty.
-
-**Monarch:**
-
-Do you wish us to create you a Knight, and swear fealty to us, or would you rather become a M___ of Arms?
-
-**Candidate:**
-
-____________
-
-**Monarch:**
-
-Make known Our Royal will.
+Monarch
+: Make known Our Royal will.
 
 _Herald reads scroll, hands it to Monarch. Monarch hands it to candidate._
 
-#### **In case the candidate opts for Knighthood:**
-
-**Monarch:**
-
-Let the candidate's sword be brought forward.
+*** **In case the candidate opts for Knighthood ***
+: Monarch
+: Let the candidate's sword be brought forward.
 
 _The candidate' sponsor girds the candidate with the sword belt. During this, the Crown adds the following words._
 
-**Monarch:**
+Monarch
+: Remain forever worthy of this sword ____________ , and bear in mind that a sword has two edges, Justice and Mercy.
 
-Remain forever worthy of this sword ____________ , and bear in mind that a sword has two edges, Justice and Mercy.
-
-**Monarch:**
-
-Let the candidate be vested with his spurs.
+Monarch
+: Let the candidate be vested with his spurs.
 
 _A member of the Chivalry puts the spurs on the candidate._
 
-**Herald:**
+Herald
+: Be mindful that a knight guides, not only by his word, but also by the example he sets for others. Continue to live by the Code of Chivalry: protect the weak and defenceless, respect and defend the honour of ladies and teach these values to others that may seek the true standard of knighthood.
 
-Be mindful that a knight guides, not only by his word, but also by the example he sets for others. Continue to live by the Code of Chivalry: protect the weak and defenceless, respect and defend the honour of ladies and teach these values to others that may seek the true standard of knighthood.
-
-**Monarch:**
-
-With what sword do you wish to be knighted?
+Monarch
+: With what sword do you wish to be knighted?
 
 _Candidate answers, e.g. Sword of State, Sponsor's sword, etc.. Monarch receives the named sword and if the Crown is not a knight, the sponsor moves around to the right of the throne and lays his hand over the Crown’s. The candidate is struck with the flat side, once on the right shoulder, once on the left and then once on the top of head. During this, a Crown says the following._
 
-**Monarch:**
-
-I dub thee once, I dub thee twice, I name thee Knight!
+Monarch
+: I dub thee once, I dub thee twice, I name thee Knight!
 
 _Pause._
 
@@ -962,128 +868,101 @@ Sir ____________ , let this be the last blow you receive without giving answer.
 
 _Crown delivers the buffet, preferably to the right shoulder, firmly but not injuriously. The buffet may be left out completely if the candidate has strong hesitations. The other Crown, if present, receives the white belt and girds the knight with it._
 
-**Monarch:**
-
-Wear this belt, Sir ____________ , and keep it as you would your honour, unblemished and unstained.
+Monarch
+: Wear this belt, Sir ____________ , and keep it as you would your honour, unblemished and unstained.
 
 _Crown receives Sword of State. Knight places his hands on the sword, The Crowns place their hands upon knight's hands._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Knight
+: I will.
 
-**Knight:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Knight
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
+Knight
+: I will.
 
-**Knight:**
+Monarch
+: And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the law of the Realm.
 
-I do.
+Sovereign
+: So say We ____________ , Rex/Regina
 
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Knight:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the law of the Realm.
-
-**Sovereign:**
-
-So say We ____________ , Rex/Regina
-
-**Consort:**
-
-So say We ____________ , Rex/Regina.
+Consort
+: So say We ____________ , Rex/Regina.
 
 _Crown receives chain. Crown hangs chain around knights neck, as they say the following._
 
-**Monarch:**
+Monarch
+: Take this chain, and let its weight ever remind you of the fealty you have sworn.
 
-Take this chain, and let its weight ever remind you of the fealty you have sworn.
-
-#### **In case the candidate opts for Mastery of Arms:**
-
-**Monarch:**
-
-Let the candidate's sword be brought forward.
+*** **In case the candidate opts for Mastery of Arms ***
+: Monarch
+: Let the candidate's sword be brought forward.
 
 _The candidate' sponsor girds the candidate with the sword belt. During this, the Crown adds the following words._
 
-**Monarch:**
+Monarch
+: Remain forever worthy of this sword ____________ , and bear in mind that a sword has two edges, Justice and Mercy.
 
-Remain forever worthy of this sword ____________ , and bear in mind that a sword has two edges, Justice and Mercy.
-
-**Monarch:**
-
-Let the candidate be vested with his spurs.
+Monarch
+: Let the candidate be vested with his spurs.
 
 _A member of the Chivalry puts the spurs on the candidate._
 
-**Herald:**
-
-Be mindful that a Master of Arms guides, not only by his word, but also by the example he sets for others. Continue to live by the Code of Chivalry: protect the weak and defenceless, respect and defend the honour of ladies and teach these values to others that may seek the true standard of Chivalry.
+Herald
+: Be mindful that a Master of Arms guides, not only by his word, but also by the example he sets for others. Continue to live by the Code of Chivalry: protect the weak and defenceless, respect and defend the honour of ladies and teach these values to others that may seek the true standard of Chivalry.
 
 _Crown receives the white baldric and girds the m___ with it._
 
-**Monarch:**
+Monarch
+: Wear this baldric, M___ ____________ , and keep it as you would your honour, unblemished and unstained.
 
-Wear this baldric, M___ ____________ , and keep it as you would your honour, unblemished and unstained.
-
-**Monarch:**
-
-Congratulations, Sir/M___ ____________ . Go now to your peers.
+Monarch
+: Congratulations, Sir/M___ ____________ . Go now to your peers.
 
 
 ### 2 Order of the Laurel
 
-#### Invocation of the Vigil
+*** Invocation of the Vigil ***
 
-**Herald:**
-
-Their Majesties command the presence of all members of the Order of the Laurel.
+Herald
+: Their Majesties command the presence of all members of the Order of the Laurel.
 
 _The order comes forward._
 
-**Monarch:**
+Monarch
+: Good my Peers, We seek counsel! Will you give us this?
 
-Good my Peers, We seek counsel! Will you give us this?
+Order
+: Yes.
 
-**Order:**
+Monarch
+: Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
 
-Yes.
+Order
+: Yes.
 
-**Monarch:**
+Monarch
+: Let us summon the candidate.
 
-Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
+Herald
+: Their Majesties command the presence of __________________.	
 
-**Order:**
+Monarch
+: __________, your skill in the arts and sciences is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of the Laurel.
 
-Yes.
-
-**Monarch:**
-
-Let us summon the candidate.
-
-**Herald:**
-
-Their Majesties command the presence of __________________.	
-
-**Monarch:**
-
-__________, your skill in the arts and sciences is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of the Laurel.
-
-**Herald / Sponsor / Senior Laurel:**
-
-It is necessary that I address you, concerning aspects of the Peerage. It is often said that Peerage is an honour. It is surely that, but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
+Herald / Sponsor / Senior Laurel
+: It is necessary that I address you, concerning aspects of the Peerage. It is often said that Peerage is an honour. It is surely that, but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
 
 _The next paragraph may be read by a Member of the Chivalry:_
 
@@ -1103,248 +982,196 @@ The Order of the Laurel is the Order most noted for artistry and scholarship. Me
 
 To accept elevation to the Peerage is to accept these responsibilities. I pray you, keep these words in your heart, as you prepare for your new status.
 
-**Monarch:**
+Monarch
+: Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
 
-Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
+*** Induction to the Order of the Laurel ***
 
-#### Induction to the Order of the Laurel
-
-**Herald:**
-
-Their Majesties command the presence of the Members of the Order of the Laurel.
+Herald
+: Their Majesties command the presence of the Members of the Order of the Laurel.
 
 _Members of the Order assemble._
 
-**Herald:**
-
-It has long been recognised that there are those among us who are much deserving of high honour, but who, by reason of the nature and direction of their services and achievement, come not to the glory of warrior or throne, yet without whom our land would not be half so blessed.
+Herald
+: It has long been recognised that there are those among us who are much deserving of high honour, but who, by reason of the nature and direction of their services and achievement, come not to the glory of warrior or throne, yet without whom our land would not be half so blessed.
 
 Therefore was created the Order of the Laurel, to recognise those who, possessing all the other skills, virtues and attributes appropriate to members of the Peerage, shall also have distinguished themselves by their outstanding achievement in the Arts and Sciences.
 
 And the symbol of this Order is a medallion bearing a laurel wreath, for the chaplet of laurel has long been acknowledged as a mark of superior achievement, and this Order ranks in precedence with the Orders of Chivalry, the Pelican, and Defence. It carries with it a Patent of Arms.
 
-**Escort:**
+Escort
+: Your Majesties, having consulted with the Order, is it your desire to increase our numbers at this time?
 
-Your Majesties, having consulted with the Order, is it your desire to increase our numbers at this time?
-
-**Monarch:**
-
-It is. Please bring the candidate forward.
+Monarch
+: It is. Please bring the candidate forward.
 
 _Escort brings candidate forward._
 
-**Escort:**
-
-My liege, it is my privilege, to present ____________ , that they may be made a member of our order.
+Escort
+: My liege, it is my privilege, to present ____________ , that they may be made a member of our order.
 
 _At this point it is possible to have members of the peerage orders to speak for the candidate:_
 
-**Herald:**
+Herald
+: Without the Arts and Sciences, the land is bare and barren, for only they make the Realm flourish. The Order of the Laurel is the Order of the Arts and Sciences.
 
-Without the Arts and Sciences, the land is bare and barren, for only they make the Realm flourish. The Order of the Laurel is the Order of the Arts and Sciences.
+Monarch
+: Is there a member of the Order of the Laurel to speak for the candidate?
 
-**Monarch:**
+Laurel
+: _Speaks of the achievements of the candidate in the arts and sciences._
 
-Is there a member of the Order of the Laurel to speak for the candidate?
+Herald
+: But while the arts and sciences enhance the Realm, it must be fostered by strength and chivalry. The order of Chivalry stands as primary of these attributes, but they are also required of a member of the Order of the Laurel.
 
-**Laurel:**
+Monarch
+: Is there a member of the Order of Chivalry to speak for the candidate?
 
-_Speaks of the achievements of the candidate in the arts and sciences._
+Knight
+: _Speaks about the chivalry and/or prowess in arms of the candidate._
 
-**Herald:**
+Herald
+: No matter the greatness of the Artisan or the Warrior, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a member of the Order of the Laurel must also serve the Crown and the Realm.
 
-But while the arts and sciences enhance the Realm, it must be fostered by strength and chivalry. The order of Chivalry stands as primary of these attributes, but they are also required of a member of the Order of the Laurel.
+Monarch
+: Is there a member of the Order of the Pelican to speak for the candidate?
 
-**Monarch:**
+Pelican
+: _Speaks of the service done by the candidate._
 
-Is there a member of the Order of Chivalry to speak for the candidate?
+Herald
+: The Kingdom is defended and championed by many different arts. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Order of the Laurel is also a keen student and teacher of their own arts.
 
-**Knight:**
+Monarch
+: Is there a member of the Order of Defence to speak for the candidate?
 
-_Speaks about the chivalry and/or prowess in arms of the candidate._
+Defence
+: _Speaks about the candidate’s grace and long dedication to the art._
 
-**Herald:**
+Herald
+: An artisan may be skilled, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
 
-No matter the greatness of the Artisan or the Warrior, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a member of the Order of the Laurel must also serve the Crown and the Realm.
+Monarch
+: Is there a member of the Order of the Rose to speak for the candidate?
 
-**Monarch:**
+Rose
+: _Speaks of the courtesy of the candidate._
 
-Is there a member of the Order of the Pelican to speak for the candidate?
+Herald
+: Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
 
-**Pelican:**
-
-_Speaks of the service done by the candidate._
-
-**Herald:**
-
-The Kingdom is defended and championed by many different arts. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Order of the Laurel is also a keen student and teacher of their own arts.
-
-**Monarch:**
-
-Is there a member of the Order of Defence to speak for the candidate?
-
-**Defence:**
-
-_Speaks about the candidate’s grace and long dedication to the art._
-
-**Herald:**
-
-An artisan may be skilled, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
-
-**Monarch:**
-
-Is there a member of the Order of the Rose to speak for the candidate?
-
-**Rose:**
-
-_Speaks of the courtesy of the candidate._
-
-**Herald:**
-
-Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
-
-**Representative of the populace:**
-
-_Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
+**Representative of the populace
+: _Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
 
 _Monarch turns to the sponsor._
 
-**Monarch:**
+Monarch
+: Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in artistic and philosphic endeavour, and the other attributes of peerage?
 
-Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in artistic and philosphic endeavour, and the other attributes of peerage?
+Laurels
+: I do.
 
-**Laurels:**
+Monarch
+: It is our judgement that the candidate fulfils all the requirements of peerage and entry into the Order of the Laurel.
 
-I do.
+Monarch
+: ____________ , right mindful of your achievement and service to our land, and responsive to the wishes of your peers, We are minded to create you a M___ of the Laurel. Will you accept from us this honour and this badge of your achievement?
 
-**Monarch:**
+Candidate
+: I will, Your Majesty.
 
-It is our judgement that the candidate fulfils all the requirements of peerage and entry into the Order of the Laurel.
-
-**Monarch:**
-
-____________ , right mindful of your achievement and service to our land, and responsive to the wishes of your peers, We are minded to create you a M___ of the Laurel. Will you accept from us this honour and this badge of your achievement?
-
-**Candidate:**
-
-I will, Your Majesty.
-
-**Monarch:**
-
-Make known Our Royal will.
+Monarch
+: Make known Our Royal will.
 
 _Herald reads scroll, hands it to Monarch. Monarch hands it to candidate. Monarch receives the medallion from the provider, usually a member of the Order. It is appropriate to here relate to the history of the medallion, if any. Monarch places medallion around candidates neck, as he says the following._
 
-**Monarch:**
+Monarch
+: ____________ , take from our hands this token of your achievement and our esteem. Henceforth be M___ ____________ .
 
-____________ , take from our hands this token of your achievement and our esteem. Henceforth be M___ ____________ .
-
-**Monarch:**
-
-Let the new M___ be vested as befits their new rank.
+Monarch
+: Let the new M___ be vested as befits their new rank.
 
 _A chaplet of laurel leaves is placed on the new peer's head and a Laurel's cloak is placed around the peer's shoulders, while the herald says the following._
 
-**Herald:**
-
-From ancient times, the chaplet of laurel has been placed on the heads of those worthy of special honour and recognition.
+Herald
+: From ancient times, the chaplet of laurel has been placed on the heads of those worthy of special honour and recognition.
 
 The cloak is the outward sign of the Laurel's new status as a peer of the realm.
 
-**Monarch:**
+Monarch
+: M___ ____________ , is it your wish to swear fealty to us at this time?
 
-M___ ____________ , is it your wish to swear fealty to us at this time?
-
-**Laurel:**
-
-____________
+Laurel
+: ____________
 
 **_If yes:_**
 
 _Crown receives Sword of State. Laurel places their hands on the sword, Crowns place their hands upon Laurel's hands._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns right until the end of their lawful reign, and support their royal might and justice?
+Laurel
+: I will.
 
-**Laurel:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Laurel
+: I do.
 
-**Herald:**
+Herald
+: Will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
+Laurel
+: I will.
 
-**Laurel:**
-
-I do.
-
-**Herald:**
-
-Will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Laurel:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
+Monarch
+: And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Rex/Regina
 
-**Monarch:**
-
-So say We ____________ , Rex/Regina.
+Monarch
+: So say We ____________ , Rex/Regina.
 
 _Crown raises new Member of the Laurel_
 
-**Monarch:**
-
-Congratulations, M___ ____________ . Go now to your peers.
+Monarch
+: Congratulations, M___ ____________ . Go now to your peers.
 
 
 ### 3 Order of the Pelican
 
-#### Invocation of the Vigil
+*** Invocation of the Vigil ***
 
-**Herald:**
-
-Their Majesties command the presence of all members of the Order of the Pelican.
+Herald
+: Their Majesties command the presence of all members of the Order of the Pelican.
 
 _The order comes forward._
 
-**Monarch:**
+Monarch
+: Good my Peers, We seek counsel! Will you give us this?
 
-Good my Peers, We seek counsel! Will you give us this?
+Order
+: Yes.
 
-**Order:**
+Monarch
+: Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
 
-Yes.
+Order
+: Yes.
 
-**Monarch:**
+Monarch
+: Let us summon the candidate.
 
-Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
+Herald
+: Their Majesties command the presence of __________________.	
 
-**Order:**
+Monarch
+: My Lord/Lady/other appropriate title, your acts of service and counsel are known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of the Pelican.
 
-Yes.
-
-**Monarch:**
-
-Let us summon the candidate.
-
-**Herald:**
-
-Their Majesties command the presence of __________________.	
-
-**Monarch:**
-
-My Lord/Lady/other appropriate title, your acts of service and counsel are known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of the Pelican.
-
-**Herald / Sponsor / Senior Pelican:**
-
-It is necessary that I address you, concerning aspects of the Peerage. It is often said that Peerage is an honour. It is surely that – but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
+Herald / Sponsor / Senior Pelican
+: It is necessary that I address you, concerning aspects of the Peerage. It is often said that Peerage is an honour. It is surely that – but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oath you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
 
 _The next paragraph may be read by a Knight or Master / Mistress of Arms:_
 
@@ -1364,256 +1191,202 @@ The Order of the Pelican is unique among the four orders of Peerage. Every Peer 
 
 To accept elevation to the Peerage is to accept these responsibilities. I pray you, keep these words in your heart, as you prepare for your new status.
 
-**Monarch:**
+Monarch
+: Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
 
-Good peers, please escort __________________ to their vigil to consider 	our offer and please give them your guidance and counsel in this matter.
+*** Induction to the Order of the Pelican ***
 
-#### Induction to the Order of the Pelican
-
-**Herald:**
-
-Their Majesties command the presence of the Members of the Order of the Pelican.
+Herald
+: Their Majesties command the presence of the Members of the Order of the Pelican.
 
 _Members of the Order assemble._
 
-**Herald:**
-
-It has long been recognised that there are those among us who are much deserving of high honour, but who, by reason of the nature and direction of their services and achievement, come not to the glory of warrior or throne, yet without whom our land would not be half so blessed.
+Herald
+: It has long been recognised that there are those among us who are much deserving of high honour, but who, by reason of the nature and direction of their services and achievement, come not to the glory of warrior or throne, yet without whom our land would not be half so blessed.
 
 Therefore was created the Order of the Pelican, to recognise those who, possessing all the other skills, virtues and attributes appropriate to members of the Peerage, shall also have distinguished themselves by their sustained and exemplary service to the Society.
 
 The symbol of this Order is a medallion bearing a Pelican in her Piety, for as we all know, the Pelican will, when necessary, nourish her young with blood from her own breast. Hence, the Pelican has come to represent sacrifice, and become the symbol of the good servant. And this Order ranks in precedence with the Orders of Chivalry, Laurel, and Defence. It carries with it a Patent of Arms.
 
-**Escort:**
+Escort
+: Your Majesties, having consulted with the Order, is it Your desire to increase our numbers at this time?
 
-Your Majesties, having consulted with the Order, is it Your desire to increase our numbers at this time?
-
-**Monarch:**
-
-It is. Please bring the candidate forward.
+Monarch
+: It is. Please bring the candidate forward.
 
 _Escort brings candidate forward._
 
-**Escort:**
-
-Your Majesty, it is my privilege, to present____________ , that they may be made a member of our order.
+Escort
+: Your Majesty, it is my privilege, to present____________ , that they may be made a member of our order.
 
 _At this point it is possible to have members of the peerage orders to speak for the candidate:_
 
-**Herald:**
+Herald
+: No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service.
 
-No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service.
+Monarch
+: Is there a member of the Order of the Pelican to speak for the candidate?
 
-**Monarch:**
+Pelican
+: _Speaks of the service done by the candidate._
 
-Is there a member of the Order of the Pelican to speak for the candidate?
+Herald
+: But while service upholds the Realm, it must be done with strength and chivalry. The order of Chivalry stands as primary of these attributes, but they are also required of a member of the Order of the Pelican..
 
-**Pelican:**
+Monarch
+: Is there a member of the Order of the Chivalry to speak for the candidate?
 
-_Speaks of the service done by the candidate._
+Knight
+: _Speaks about the chivalry and/or prowess in arms of the candidate._
 
-**Herald:**
+Herald
+: But whilst service may uphold a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate why they serve the Kingdom, a member of the Pelican must have knowledge of the Arts and Sciences.
 
-But while service upholds the Realm, it must be done with strength and chivalry. The order of Chivalry stands as primary of these attributes, but they are also required of a member of the Order of the Pelican..
+Monarch
+: Is there a member of the Order of the Laurel to speak for the candidate?
 
-**Monarch:**
+Laurel
+: _Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
 
-Is there a member of the Order of the Chivalry to speak for the candidate?
+Herald
+: The Kingdom is defended and championed in many different ways. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Order of the Pelican is also defending the Realm in their own manner.
 
-**Knight:**
+Monarch
+: Is there a member of the Order of Defence to speak for the candidate?
 
-_Speaks about the chivalry and/or prowess in arms of the candidate._
+Defence
+: _Speaks about the candidate’s grace and long dedication to the kingdom and society._
 
-**Herald:**
+Herald
+: A servant may do great works, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
 
-But whilst service may uphold a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate why they serve the Kingdom, a member of the Pelican must have knowledge of the Arts and Sciences.
+Monarch
+: Is there a member of the Order of the Rose to speak for the candidate?
 
-**Monarch:**
+Rose
+: _Speaks of the courtesy of the candidate._
 
-Is there a member of the Order of the Laurel to speak for the candidate?
+Herald
+: Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
 
-**Laurel:**
-
-_Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
-
-**Herald:**
-
-The Kingdom is defended and championed in many different ways. While the Order of Defence is the Order of Steel, Swordsmanship and Art of Arms, a member of the Order of the Pelican is also defending the Realm in their own manner.
-
-**Monarch:**
-
-Is there a member of the Order of Defence to speak for the candidate?
-
-**Defence:**
-
-_Speaks about the candidate’s grace and long dedication to the kingdom and society._
-
-**Herald:**
-
-A servant may do great works, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
-
-**Monarch:**
-
-Is there a member of the Order of the Rose to speak for the candidate?
-
-**Rose:**
-
-_Speaks of the courtesy of the candidate._
-
-**Herald:**
-
-Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
-
-**Representative of the populace:**
-
-_Speaks of the largesse, humility or fairness the candidate exhibits in how they interact with the rest of the society._
+**Representative of the populace
+: _Speaks of the largesse, humility or fairness the candidate exhibits in how they interact with the rest of the society._
 
 _Monarch turns to the sponsor._
 
-**Monarch:**
+Monarch
+: Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in service and in the other attributes of peerage?
 
-Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in service and in the other attributes of peerage?
+Pelicans
+: I do.
 
-**Pelicans:**
+Monarch
+: It is our judgement that the candidate fulfils all the requirements of peerage.
 
-I do.
+Monarch
+: ____________ , right mindful of your achievement and service to Our land, and responsive to the wishes of your peers, We are minded to create you a Member of the Pelican. Will you accept from us this honour and the badge of your achievement?
 
-**Monarch:**
+Candidate
+: I will, Your Majesty.
 
-It is our judgement that the candidate fulfils all the requirements of peerage.
+Herald
+: Will you, to the best of your ability, continue in the cause of service, as you most surely have until now, and seek to increase your labours and talents nobly, and train any dependants you may have to do likewise, so far as it is within your powers?
 
-**Monarch:**
+Candidate
+: I will.
 
-____________ , right mindful of your achievement and service to Our land, and responsive to the wishes of your peers, We are minded to create you a Member of the Pelican. Will you accept from us this honour and the badge of your achievement?
-
-**Candidate:**
-
-I will, Your Majesty.
-
-**Herald:**
-
-Will you, to the best of your ability, continue in the cause of service, as you most surely have until now, and seek to increase your labours and talents nobly, and train any dependants you may have to do likewise, so far as it is within your powers?
-
-**Candidate:**
-
-I will.
-
-**Monarch:**
-
-Make known our Royal will.
+Monarch
+: Make known our Royal will.
 
 _Herald reads scroll, hands it to Monarch. Monarch hands it to candidate. Monarch receives the medallion from the provider, usually a member of the Order. It is appropriate to here relate to the history of the medallion, if any. Monarch places medallion around candidates neck, as he says the following._
 
-**Monarch:**
+Monarch
+: ____________ , take from our hands this token of your achievement and our esteem. Henceforth be M___ ____________ .
 
-____________ , take from our hands this token of your achievement and our esteem. Henceforth be M___ ____________ .
-
-**Monarch:**
-
-Let the new M___ be vested as befits their new rank.
+Monarch
+: Let the new M___ be vested as befits their new rank.
 
 _A cap of maintenance is placed on the new peer's head and a Pelican's cloak is placed around the peer's shoulders, while the herald says the following._
 
-**Herald:**
-
-Since times immemorial, the cap of maintenance is the symbol of the Pelican, for just as the cap of maintenance supports the crown and makes it easier to bear, so the Pelican supports the Kingdom and eases the burden of its rulers.
+Herald
+: Since times immemorial, the cap of maintenance is the symbol of the Pelican, for just as the cap of maintenance supports the crown and makes it easier to bear, so the Pelican supports the Kingdom and eases the burden of its rulers.
 
 The cloak is the outward sign of the Pelican's new status as a peer of the realm.
 
-**Monarch:**
+Monarch
+: M___ ____________ , is it your wish to swear fealty to us at this time?
 
-M___ ____________ , is it your wish to swear fealty to us at this time?
-
-**Pelican:**
-
-____________
+Pelican
+: ____________
 
 **_If yes:_**
 
 _Crown receives Sword of State. Pelican places his hands on the sword, The Crowns place their hands upon Pelican's hands._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Pelican
+: I will.
 
-**Pelican:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Pelican
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
+Pelican
+: I will.
 
-**Pelican:**
-
-I do.
-
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Pelican:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
+Monarch
+: And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Rex/Regina
 
-**Monarch:**
-
-So say We ____________ , Rex/Regina.
+Monarch
+: So say We ____________ , Rex/Regina.
 
 _Crown raises new Master/Mistress of the Pelican._
 
-**Monarch:**
-
-Congratulations, M___ ____________ . Go now to your peers.
+Monarch
+: Congratulations, M___ ____________ . Go now to your peers.
 
 
 ### 4 Order of Defence
 
-#### Invocation of the Vigil
+*** Invocation of the Vigil ***
 
-**Herald:**
-
-Their Majesties command the presence of all members of the Order of Defence.
+Herald
+: Their Majesties command the presence of all members of the Order of Defence.
 
 _The order comes forward._
 
-**Monarch:**
+Monarch
+: Good my Peers, We seek counsel! Will you give us this?
 
-Good my Peers, We seek counsel! Will you give us this?
+Order
+: Yes.
 
-**Order:**
+Monarch
+: Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
 
-Yes.
+Order
+: Yes.
 
-**Monarch:**
+Monarch
+: Let us summon the candidate.
 
-Word has reached us that there is one amongst Our people who is a Peer in truth, but not in name. Is this so?
+Herald
+: Their Majesties command the presence of __________________.	
 
-**Order:**
+Monarch
+: __________, your skill with arms is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of Defence.
 
-Yes.
-
-**Monarch:**
-
-Let us summon the candidate.
-
-**Herald:**
-
-Their Majesties command the presence of __________________.	
-
-**Monarch:**
-
-__________, your skill with arms is known to us, your virtues beyond reproach. It is our wish to make you a member of the Order of Defence.
-
-**Herald / Sponsor / Senior Defender:**
-
-It is necessary that I address you, concerning aspects of Peerage, Courtesy and the Scholarship of Defence. It is often said that Peerage is an honour. It is surely that - but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oaths you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
+Herald / Sponsor / Senior Defender
+: It is necessary that I address you, concerning aspects of Peerage, Courtesy and the Scholarship of Defence. It is often said that Peerage is an honour. It is surely that - but more, it is a responsibility, which you should not take upon yourself lightly, but with sobriety and sincerity. The oaths you will be offered will bind you in fealty to the Crown; and it is well that you should understand what you are about to promise.
 
 _The next paragraph may be read by a Member of the Pelican:_
 
@@ -1635,392 +1408,315 @@ As a swordmaster you need to continue your scholarship and study of not only the
 
 	To accept elevation to the Peerage is to accept these responsibilities. I pray you, keep these 	words in your heart, as you prepare for your new status.
 
-**Monarch:**
+Monarch
+: Good peers, please escort __________________ to their vigil to consider our offer and please give them your guidance and council in this matter.
 
-Good peers, please escort __________________ to their vigil to consider our offer and please give them your guidance and council in this matter.
+*** Induction to the Order of Defence ***
 
-#### Induction to the Order of Defence
-
-**Herald:**
-
-Their Majesties command the presence of the Members of the Order of Defence.
+Herald
+: Their Majesties command the presence of the Members of the Order of Defence.
 
 _Members of the Order assemble._
 
-**Herald:**
-
-It has long been recognized that not only in the tournament combat and melee, but in the study and practice of the Art of Defence as well, is the true strength and prowess of the Kingdom forged. Since times of antiquity has this art been practised, honed and taught by those first amongst the swordsmen who have dedicated themselves to pursuit of the mastery of steel. A number of these also possess the virtues we expect and demand from the peers of our Society, they are much deserving of our recognition and tribute, not only by their skills with true edge of steel, but their nobility of heart, grace of their manner and service to our realms as whole.
+Herald
+: It has long been recognized that not only in the tournament combat and melee, but in the study and practice of the Art of Defence as well, is the true strength and prowess of the Kingdom forged. Since times of antiquity has this art been practised, honed and taught by those first amongst the swordsmen who have dedicated themselves to pursuit of the mastery of steel. A number of these also possess the virtues we expect and demand from the peers of our Society, they are much deserving of our recognition and tribute, not only by their skills with true edge of steel, but their nobility of heart, grace of their manner and service to our realms as whole.
 
 Therefore was created the Order of Defence, the fourth Order of the Society bearing a Patent of Arms and ranking equally with the Orders of Chivalry, Laurel and Pelican, to be bestowed on the worthiest of our gentles when elevating them to the ranks of Peers of the realm. The Order of Defence exists to recognize those of our Swordsmen, Warriors and Scholars of the Arts of Arms who display not only these but also all other qualities expected from the Peers of the Realm and who by their love of Arts not only that of defence and their service and largesse support these lands and the Crown.
 
-**Escort:**
+Escort
+: Your Majesties, having consulted with the Order, is it Your desire to increase our numbers at this time?
 
-Your Majesties, having consulted with the Order, is it Your desire to increase our numbers at this time?
-
-**Monarch:**
-
-It is. Please bring the candidate forward.
+Monarch
+: It is. Please bring the candidate forward.
 
 _Escort brings candidate forward._
 
-**Escort:**
-
-Your Majesty, it is my privilege, to present____________ , that they may be made a member of our order.
+Escort
+: Your Majesty, it is my privilege, to present____________ , that they may be made a member of our order.
 
 _At this point it is possible to have members of the peerage orders to speak for the candidate:_
 
-**Herald:**
+Herald
+: By all manner of arms and combat the Kingdom is defended and championed. The Order of Defence is the Order of Steel, Swordsmanship and Art of Arms.
 
-By all manner of arms and combat the Kingdom is defended and championed. The Order of Defence is the Order of Steel, Swordsmanship and Art of Arms.
+Monarch
+: Is there a member of the Order of Defence to speak for the candidate?
 
-**Monarch:**
+Defence
+: _Speaks about the candidate’s long dedication, skill and inspiration in the art of defence and of his grace in field and court._
 
-Is there a member of the Order of Defence to speak for the candidate?
+Herald
+: No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a M______ of Defence must also serve the Crown and the Realm.
 
-**Defence:**
+Monarch
+: Is there a member of the Order of the Pelican to speak for the candidate?
 
-_Speaks about the candidate’s long dedication, skill and inspiration in the art of defence and of his grace in field and court._
+Pelican
+: _Speaks of the service done by the candidate._
 
-**Herald:**
+Herald
+: Not only Artfulness of Swordmanship and eye of measure but also the strength of arm and chivalry of heart make one a true warrior. The Order of Chivalry stands as primary of these attributes.
 
-No matter the greatness of the Warrior or the Artisan, without Service, they remain isolated, shared not with the Realm. The Order of the Pelican is the Order of Service, but a M______ of Defence must also serve the Crown and the Realm.
+Monarch
+: Is there a member of the Order of the Chivalry to speak for the candidate?
 
-**Monarch:**
+Chivalry
+: _Speaks about the chivalry and/or prowess in arms of the candidate._
 
-Is there a member of the Order of the Pelican to speak for the candidate?
+Herald
+: But whilst Force of Arms may defend a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate what they defend, a M_____ of Defence must have knowledge of the Arts and Sciences.
 
-**Pelican:**
+Monarch
+: Is there a member of the Order of the Laurel to speak for the candidate?
 
-_Speaks of the service done by the candidate._
+Laurel
+: _Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
 
-**Herald:**
+Herald
+: A swords__man may be mighty, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
 
-Not only Artfulness of Swordmanship and eye of measure but also the strength of arm and chivalry of heart make one a true warrior. The Order of Chivalry stands as primary of these attributes.
+Monarch
+: Is there a member of the Order of the Rose to speak for the candidate?
 
-**Monarch:**
+Rose
+: _Speaks of the courtesy of the candidate._
 
-Is there a member of the Order of the Chivalry to speak for the candidate?
+Herald
+: Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
 
-**Chivalry:**
-
-_Speaks about the chivalry and/or prowess in arms of the candidate._
-
-**Herald:**
-
-But whilst Force of Arms may defend a Realm, it does not make it flourish. Without the Arts and Sciences, the land is bare and barren. The Order of the Laurel is the Order of the Arts and Sciences. But to appreciate what they defend, a M_____ of Defence must have knowledge of the Arts and Sciences.
-
-**Monarch:**
-
-Is there a member of the Order of the Laurel to speak for the candidate?
-
-**Laurel:**
-
-_Speaks of the candidate in respect to their accomplishments in / appreciation of arts and sciences._
-
-**Herald:**
-
-A swords__man may be mighty, but without courtesy and honour they are no Peer. The Order of the Rose speaks for courtesy and honour.
-
-**Monarch:**
-
-Is there a member of the Order of the Rose to speak for the candidate?
-
-**Rose:**
-
-_Speaks of the courtesy of the candidate._
-
-**Herald:**
-
-Drachenwald has many Peers, but many more who are not Peers, and their voice is mighty, to be ignored at the peril of all! Is there a message from the People of the Realm in regard to this candidate?
-
-**Representative of the populace:**
-
-_Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
+**Representative of the populace
+: _Speaks of the largesse, humility or fairness the candidate exhibits in how he interacts with the rest of the society._
 
 _Monarch turns to the sponsor._
 
-**Monarch:**
+Monarch
+: Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in service and in the other attributes of peerage?
 
-Do you, M___ ____________ , and the other members of your order affirm their worthiness for this high honour, accepting them as your peer in service and in the other attributes of peerage?
+Defenders
+: I do.
 
-**Defenders:**
+Monarch
+: It is our judgement that the candidate fulfils all the requirements of peerage.
 
-I do.
+Monarch
+: ____________ , right mindful of your achievement and service to Our land, and responsive to the wishes of your peers, We are minded to create you a M___ of Defence. Will you accept from us this honour and the badge of your achievement?
 
-**Monarch:**
+Candidate
+: I will, Your Majesty.
 
-It is our judgement that the candidate fulfils all the requirements of peerage.
+Herald
+: Will you, to the best of your ability, continue in the cause of service, as you most surely have until now, and seek to increase your labours and talents nobly, and train any dependants you may have to do likewise, so far as it is within your powers?
 
-**Monarch:**
+Candidate
+: I will.
 
-____________ , right mindful of your achievement and service to Our land, and responsive to the wishes of your peers, We are minded to create you a M___ of Defence. Will you accept from us this honour and the badge of your achievement?
-
-**Candidate:**
-
-I will, Your Majesty.
-
-**Herald:**
-
-Will you, to the best of your ability, continue in the cause of service, as you most surely have until now, and seek to increase your labours and talents nobly, and train any dependants you may have to do likewise, so far as it is within your powers?
-
-**Candidate:**
-
-I will.
-
-**Monarch:**
-
-Make known Our Royal will.
+Monarch
+: Make known Our Royal will.
 
 _Herald reads scroll, hands it to Monarch. Monarch hands it to candidate. Monarch receives the collar of the order from the provider, usually a member of the Order. It is appropriate to here relate to the history of the collar, if any. Monarch places the collar around candidate’s neck, as he says the following._
 
-**Monarch:**
+Monarch
+: ____________ , take from Our hands this token of your achievement and Our esteem. Henceforth be M___ ____________ .
 
-____________ , take from Our hands this token of your achievement and Our esteem. Henceforth be M___ ____________ .
-
-**Monarch:**
-
-Let the new M___ be vested as befits their new rank.
+Monarch
+: Let the new M___ be vested as befits their new rank.
 
 _A cloak of the order is placed around the peer's shoulders, while the herald says the following._
 
-**Herald:**
-
-As a cape defends the body from cold, so defends a Master of Defence the realm and crown. As the cape displays the sign of the Masters' new status as a peer of the realm, underneath it carries the symbol of the Order of the Dragon's Steel so the heritage of the Order of Defence in the lands of Albion would not be forgotten.
+Herald
+: As a cape defends the body from cold, so defends a Master of Defence the realm and crown. As the cape displays the sign of the Masters' new status as a peer of the realm, underneath it carries the symbol of the Order of the Dragon's Steel so the heritage of the Order of Defence in the lands of Albion would not be forgotten.
 
 The particular sign for a Master of Defence is the white collar of maintenance where the collar's pure colour symbolizes his honour, intentions and aspirations the very name of the garment reminding him how he as a peer, ought to maintain the realm, the crown and our common ideals thus making the crown lighter to bear as he defends our Sovereigns and their realm from all that might wish harm or slurs upon the Golden shields of the Kingdom and Society.
 
-**Monarch:**
+Monarch
+: M___ ____________ , is it your wish to swear fealty to us at this time?
 
-M___ ____________ , is it your wish to swear fealty to us at this time?
-
-**Candidate:**
-
-____________
+Candidate
+: ____________
 
 **_If yes:_**
 
 _Monarch receives Sword of State. The new peer places his hands on the sword, the Crowns place their hands upon his hands._
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Candidate
+: I will.
 
-**Candidate:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
 
-I will.
+Defence
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of them and their Realm, and support them in upholding the laws and fulfilling their coronation oath?
+Defence
+: I will.
 
-**Defence:**
-
-I do.
-
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Defence:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
+Monarch
+: And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Rex/Regina
 
-**Monarch:**
-
-So say We ____________ , Rex/Regina.
+Monarch
+: So say We ____________ , Rex/Regina.
 
 _Crown raises the new Master/Mistress of Defence._
 
-**Monarch:**
+Monarch
+: Congratulations, M___ ____________ . Go now to your peers.
 
-Congratulations, M___ ____________ . Go now to your peers.
 
-
-Part IX Baronies
+# Part IX Baronies
 
 In Drachenwald, baronage, both territorial and of the court, ranks between peerage and grant-level awards. The ceremonies for investing barons and baronesses are accordingly listed in the section of grant-level awards. A Grant of Arms is often given with a court barony, but this is not automatic and so must be explicitly proclaimed at court.
 
-## 1 Investiture of Landed Baronies
+## 1. Investiture of Landed Baronies
 
-#### Divestiture
+*** Divestiture ***
 
 _If there were predecessor(s) to the Barony, this should be done either right before the investiture or at an earlier court._
 
-**Herald:**
-
-The Barons of ____________ have asked for an audience, and it is hereby granted.
+Herald
+: The Barons of ____________ have asked for an audience, and it is hereby granted.
 
 _The outgoing Barons come forward and kneel._
 
-**Barony:**
+Barony
+: Your Majesties, we have now served You and your predecessors as the Barons of ____________ for ____________ years, and we would retire from this office.
 
-Your Majesties, we have now served You and your predecessors as the Barons of ____________ for ____________ years, and we would retire from this office.
-
-**Monarch:**
-
-_Thanks the outgoing Barony._
+Monarch
+: _Thanks the outgoing Barony._
 
 _Royal retainers come forward with pillows. The outgoing Baronies take off their coronets and hand them to the Crown, who put them on the pillows. The retainers retire, and after a short pause so do the ex-Barons._
 
-**Herald:**
+Herald
+: For ____________ and __________, former Barons of ____________ , Vivat! Vivat! Vivat!
 
-For ____________ and __________, former Barons of ____________ , Vivat! Vivat! Vivat!
+*** Investiture ***
 
-#### Investiture
-
-**Herald:**
-
-Their Majesties call forward ____________ .
+Herald
+: Their Majesties call forward ____________ .
 
 _The incoming Barons come forward and kneel._
 
-**Monarch:**
+Monarch
+: It is Our wish to create you the Barons of ____________ . Will you accept this from us, and swear fealty to us?
 
-It is Our wish to create you the Barons of ____________ . Will you accept this from us, and swear fealty to us?
-
-**Barons:**
-
-I will.
+Barons
+: I will.
 
 _Royal retainers come forward with the baronial coronet(s) on pillow(s). If there are both a Baron and a Baroness, the Crowns both take a coronet and as simultaneously as possible put the coronet on the head of one of them, saying_
 
-**Crowns (one per Baron):**
-
-____________ , be Baron(ess) of ____________ .
+Crowns (one per Baron)
+: ____________ , be Baron(ess) of ____________ .
 
 _The Crowns receive the Sword of State. The Barons place their hands on the sword, and the Crowns their hands upon the Barons._
 
-**Herald:**
+Herald
+: Do you ____________ , Barons of ____________ , acknowledge verily to these ____________ and ____________ , Sovereigns of Drachenwald that you hold and ought to hold as a fief the Barony of ____________ , and make for the same homage and fealty with hands and with mouth to these your Sovereigns?
 
-Do you ____________ , Barons of ____________ , acknowledge verily to these ____________ and ____________ , Sovereigns of Drachenwald that you hold and ought to hold as a fief the Barony of ____________ , and make for the same homage and fealty with hands and with mouth to these your Sovereigns?
+Barons
+: I do.
 
-**Barons:**
+Herald
+: Do you swear that you will always be a faithful vassal to their Majesties in all things in which a vassal is required to be faithful, and defend Them and the Kingdom and ____________ against all malefactors and invaders, and give their Majesties power over all, or any portion of, the castles and manors in their fief, in peace and in war, whenever they shall be lawfully claimed?
 
-I do.
+Barons
+: I so swear.
 
-**Herald:**
+Herald
+: And if you do not observe to their Majesties each and all the things declared above, and should come against these things, the aforesaid fief should by that very fact be forfeit to their Majesties.
 
-Do you swear that you will always be a faithful vassal to their Majesties in all things in which a vassal is required to be faithful, and defend Them and the Kingdom and ____________ against all malefactors and invaders, and give their Majesties power over all, or any portion of, the castles and manors in their fief, in peace and in war, whenever they shall be lawfully claimed?
-
-**Barons:**
-
-I so swear.
-
-**Herald:**
-
-And if you do not observe to their Majesties each and all the things declared above, and should come against these things, the aforesaid fief should by that very fact be forfeit to their Majesties.
-
-**Barons:**
-
-I so swear.
+Barons
+: I so swear.
 
 _The Crowns raise the Barons._
 
-**Herald:**
-
-To ____________  and ___________, Barons of ____________ .
+Herald
+: To ____________  and ___________, Barons of ____________ .
 
 _[Followed by a cheer of some description.]_
 
 
-### 2 Investiture of a Court Baron / Baroness
+## 2. Investiture of a Court Baron / Baroness
 
-**Herald:**
-
-Their Majesties call forward ____________ .
+Herald
+: Their Majesties call forward ____________ .
 
 _The recipient comes forward and kneels._
 
-**Monarch:**
-
-_This is one of the times to reveal the Coronet, if there is one, permanent or temporary._
+Monarch
+: _This is one of the times to reveal the Coronet, if there is one, permanent or temporary._
 
 It is our wish to create you the Baron(ess) of our court Will you accept this from us?
 
-**Baron(ess):**
+Baron(ess)
+: I will.
 
-I will.
-
-**Monarch:**
-
-Let the scroll be read.
+Monarch
+: Let the scroll be read.
 
 _Herald reads the scroll and hands it to a Monarch._
 
-**Monarch:**
-
-Let Their Excellency receive the Coronet of their new rank.
+Monarch
+: Let Their Excellency receive the Coronet of their new rank.
 
 _A royal retainer can come forward with the baronial coronet on a pillow, or the Crowns may already have it via their attendants. A Monarch takes it and puts it on the head of one of them, whilst they say:_
 
-**Monarch:**
+Monarch
+: ____________ , be Baron(ess) of our Court of Drachenwald.
 
-____________ , be Baron(ess) of our Court of Drachenwald.
+Monarch
+: Baron(ess) ____________ , is it your wish to swear fealty to us at this time?
 
-**Monarch:**
-
-Baron(ess) ____________ , is it your wish to swear fealty to us at this time?
-
-**Baron(ess):**
-
-____________
+Baron(ess)
+: ____________
 
 **_If yes:_**
 
 _The Crowns receive the Sword of State. The Baron(ess) place their hands on the sword, and the Crowns their hands upon the Baron(esse)s. _ 
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Baron(ess)
+: I will
 
-**Baron(ess):**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of Them and their Realm, and support Them in upholding the laws and fulfilling their coronation Oath?
 
-I will
+Baron(ess)
+: I do.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of Them and their Realm, and support Them in upholding the laws and fulfilling their coronation Oath?
+Baron(ess)
+: I will.
 
-**Baron(ess):**
-
-I do.
-
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Baron(ess):**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
+Monarch
+: And We in turn promise to grant you and your household all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Rex/Regina
 
-**Monarch:**
-
-And so say We ____________ , Rex/Regina.
+Monarch
+: And so say We ____________ , Rex/Regina.
 
 _The Crowns raise the Baron(ess)._
 
-**Herald:**
-
-To ____________ , Baron(ess) of the Court of Drachenwald,
+Herald
+: To ____________ , Baron(ess) of the Court of Drachenwald,
 
 Vivat! Vivat! Vivat!
 
 
-## Part X  Grant of Arms Level Awards
+# Part X  Grant of Arms Level Awards
 
-**Court Note: **Ring and Wing sound almost identical in English, especially in the probably imperfect acoustics of a court. Sometimes the entire Ring may be addressed and others just those of the Wing. Make sure that it is very clear which is being referred to. I, Nicholas, have in the past already been caught out once by mishearing this in court.
+Court Note: **Ring and Wing sound almost identical in English, especially in the probably imperfect acoustics of a court. Sometimes the entire Ring may be addressed and others just those of the Wing. Make sure that it is very clear which is being referred to. I, Nicholas, have in the past already been caught out once by mishearing this in court.
 
 There is no formal ceremony for giving a plain Grant of Arms. The normal method is for the person to be called to the Royal presence; the Crown then has the opportunity to talk about the accomplishments of the person, after which the herald reads the scroll and calls for vivats.
 
@@ -2032,39 +1728,36 @@ It is traditional for the existing members of an Order to make themselves known,
 
 In some Kingdoms it is traditional to style gentles with a grant of arns as Honorable Lord/Lady. This is not an official title of the SCA, and whilst not officially recognised within Drachenwald, there is no barrier to using this style, especially if the holder or recipient desires it.
 
-**Herald:**
+Herald
+: _This introduction can be dispensed with if time is short._
 
-_This introduction can be dispensed with if time is short._
+: Drachenwald is rich with stories of rings. Rings of might, circles of knights and rings of legend: some made by gods of old, others forged by men seeking to build a better world and live by the greatest of ideals. Thus inspired, the rulers of Drachenwald added to this long tradition by creating our Kingdom’s own Order of the Ring, called in Latin, Ordo Annuli. This order is the circle of trust and protection around our Crown, this order is the circle of pillars supporting the thrones and this order is the chaplet of stars resting on the royal brow. The order is one unified circle, composed of three entwined companies of greatness.
 
-Drachenwald is rich with stories of rings. Rings of might, circles of knights and rings of legend: some made by gods of old, others forged by men seeking to build a better world and live by the greatest of ideals. Thus inspired, the rulers of Drachenwald added to this long tradition by creating our Kingdom’s own Order of the Ring, called in Latin, Ordo Annuli. This order is the circle of trust and protection around our Crown, this order is the circle of pillars supporting the thrones and this order is the chaplet of stars resting on the royal brow. The order is one unified circle, composed of three entwined companies of greatness.
+: _This ordering is arbitrary, and can be changed as appropriate or just to reinforce that no company is greater than the others._
 
-_This ordering is arbitrary, and can be changed as appropriate or just to reinforce that no company is greater than the others._
+: The Order of the Swallow, formally called Ordo Hirundinis, whose companions are noted for their service and diligence. The Order of the Swan, formally called Ordo Cygni, whose companions are noted for the grace of their art and philosophy. The Order of the Wing, formally called Ordo Alae, the Crown's allies in deeds of arms, noted for their prowess and courage.
 
-The Order of the Swallow, formally called Ordo Hirundinis, whose companions are noted for their service and diligence. The Order of the Swan, formally called Ordo Cygni, whose companions are noted for the grace of their art and philosophy. The Order of the Wing, formally called Ordo Alae, the Crown's allies in deeds of arms, noted for their prowess and courage.
+: _For longer courts, depending on which orders are being presented, and in what order, it may expedient to call upon the entire Order of the Ring, or just the Company specifically involved._
 
-_For longer courts, depending on which orders are being presented, and in what order, it may expedient to call upon the entire Order of the Ring, or just the Company specifically involved._
+Herald
+: _Be very clear here, where required, to distinguish between 'Ring' and 'Wing', hence why including the Latin form is a good idea._
 
-**Herald:**
-
-_Be very clear here, where required, to distinguish between 'Ring' and 'Wing', hence why including the Latin form is a good idea._
-
-Their Majesties call forth all companions of Ordo Annuli, the Order of the Ring, to bear witness and stand by them in their following deeds.1
+: Their Majesties call forth all companions of Ordo Annuli, the Order of the Ring, to bear witness and stand by them in their following deeds.1
 
 **or**
 
-Their Majesties bid all companions of Ordo Annuli, the Order of the Ring, to stand or make themselves known to witness their following deeds.
+: Their Majesties bid all companions of Ordo Annuli, the Order of the Ring, to stand or make themselves known to witness their following deeds.
 
 **or**
 
 _Substitute a specific order in one of the forms above._
 
-Their Majesties call before them _Title_ _________ __________.
+: Their Majesties call before them _Title_ _________ __________.
 
 _The recipient kneels before the Crown._
 
-**Monarch:**
-
-We are well pleased with
+Monarch
+: We are well pleased with
 
 
 * your prowess and courage on the field,
@@ -2081,26 +1774,23 @@ and, through that Company, create/confirm you as a member of the Order of the Ri
 
 Make known our command.
 
-**Herald:**
-
-_Reads the scroll text and hands it to the Crown._
+Herald
+: _Reads the scroll text and hands it to the Crown._
 
 _A token appropriate to the company is given to the Crown, either by an attendant or one of the appropriate Company. The Crown then bestows the token._
 
-**Monarch:**
-
-__________, take from Our hands this token of your achievement and rank, and of Our esteem. Henceforth you are a Companion of the Ring.
+Monarch
+: __________, take from Our hands this token of your achievement and rank, and of Our esteem. Henceforth you are a Companion of the Ring.
 
 Go forth and greet your companions.
 
-**Herald:**
-
-_Note a pre-existing title may trump that below._
+Herald
+: _Note a pre-existing title may trump that below._
 
 For _[the Honorable]_ Lord/Lady _________. Vivat! Vivat! Vivat!
 
 
-## Part XI Award of Arms Level Awards
+# Part XI Award of Arms Level Awards
 
 There is no formal ceremony for giving a plain Award of Arms. The normal method is for the person to be called to the Royal presence; the Crown then has the opportunity to talk about the accomplishments of the person, after which the herald reads the scroll and calls for vivats.
 
@@ -2111,17 +1801,15 @@ The three armigerous orders listed here rank above a plain Award of Arms, and if
 It is traditional for the existing members of an Order to make themselves known, either by being called forward, or more commonly as they increase in size, by simply standing in place. Neither is mandatory, and an easy win when faced with a long court is to omit this part.
 
 
-### 1 Orden des Lindquistringes
+## 1. Orden des Lindquistringes
 
-**Herald:**
-
-Their Majesties command all members of the Orden des Lindquistringes to stand / come forward..
+Herald
+: Their Majesties command all members of the Orden des Lindquistringes to stand / come forward..
 
 _T	he members do as they are bid._
 
-**Herald:**
-
-As the Crown serve the people of Drachenwald throughout their reign, they set the example of service for all their subjects. All those who enjoy the beauty and prosperity that is Drachenwald are expected to render service when required, to the best of their abilities.
+Herald
+: As the Crown serve the people of Drachenwald throughout their reign, they set the example of service for all their subjects. All those who enjoy the beauty and prosperity that is Drachenwald are expected to render service when required, to the best of their abilities.
 
 There are those few, however, whose service consistently exceeds the expectations of their offices or ranks and who are, therefore, especially worthy of reward.
 
@@ -2133,22 +1821,19 @@ _Recipient comes forward, bows and kneels. The Crowns may make personal statemen
 
 _Herald reads scroll and hands it to a Crown. The Crown names the artist of the scroll, shows it to the populace and hands it to recipient. The Crowns raise the recipient._
 
-**Herald:**
+Herald
+: For ____________ , the newest member of the Orden des Lindquistringes, Vivat! Vivat! Vivat!
 
-For ____________ , the newest member of the Orden des Lindquistringes, Vivat! Vivat! Vivat!
 
+## 2. Order of the Panache
 
-### 2 Order of the Panache
-
-**Herald:**
-
-Their Majesties command all members all members of the Order of the to stand / come forward..
+Herald
+: Their Majesties command all members all members of the Order of the to stand / come forward..
 
 _The members do as they are bid._
 
-**Herald:**
-
-As the Crown reward service and valour, so too do they seek to encourage the development of artistic skills and philosophic expertise among their subjects. When a person has excelled consistently in the Arts or Natural Phiosophy, and has shared that beauty and knowledge with others, it becomes not only the duty, but the joy of the Crown to recognize such endeavour.
+Herald
+: As the Crown reward service and valour, so too do they seek to encourage the development of artistic skills and philosophic expertise among their subjects. When a person has excelled consistently in the Arts or Natural Phiosophy, and has shared that beauty and knowledge with others, it becomes not only the duty, but the joy of the Crown to recognize such endeavour.
 
 Therefore was created the Order of the Panache, to be given as a sign of the Crown's recognition of the exceptional skill with which these individuals increase the beauty and wisdom of Drachenwald.
 
@@ -2158,22 +1843,19 @@ _Recipient comes forward, bows and kneels. The Crowns may make personal statemen
 
 _Herald reads scroll and hands it to a Crown. The Crown names the artist of the scroll, shows it to the populace and hands it to recipient. The Crowns raise the recipient._
 
-**Herald:**
+Herald
+: For ____________ , the newest member of the Order of the Panache, Vivat! Vivat! Vivat!
 
-For ____________ , the newest member of the Order of the Panache, Vivat! Vivat! Vivat!
 
+## 3.  Order of the Silver Guard
 
-### 3  Order of the Silver Guard
-
-**Herald:**
-
-Their Majesties command all members all members of the Order of the to stand / come forward..
+Herald
+: Their Majesties command all members all members of the Order of the to stand / come forward..
 
 _The members do as they are bid._
 
-**Herald:**
-
-Many a noble warrior has donned armour in order to pursue their fortunes upon the tourney field, defend their land from a foe or follow their Lord as sworn by oath.
+Herald
+: Many a noble warrior has donned armour in order to pursue their fortunes upon the tourney field, defend their land from a foe or follow their Lord as sworn by oath.
 
 There are those, however, whose prowess in combat inspires their companions-at-arms and whose noble demeanour brings glory and honour to Drachenwald. These are especially deserving of reward.
 
@@ -2185,23 +1867,21 @@ _Recipient comes forward, bows and kneels. The Crowns may make personal statemen
 
 _Herald reads scroll and hands it to a Crown. The Crown names the artist of the scroll, shows it to the populace and hands it to recipient. The Crowns raise the recipient._
 
-**Herald:**
+Herald
+: For ____________ , the newest member of the Order of the Silver Guard, Vivat! Vivat! Vivat!
 
-For ____________ , the newest member of the Order of the Silver Guard, Vivat! Vivat! Vivat!
 
-
-### 4  Non-Armigerous Awards
+## 4.  Non-Armigerous Awards
 
 For all these awards, after the recipients are called to the court, the Crown may address them. After this, the herald reads a scroll, if there is one, and the Crown hands the recipient the scroll or a token. While the recipient retires from the presence, the herald calls for vivats.
 
 
-### 5 The Order of the Companions of Albion
+## 5. The Order of the Companions of Albion
 
 _This is a very long ceremony. It is not recommended in full for courts which will be long for other reasons._
 
-**Herald:**
-
-In the years before history was recorded in our land, in a dark forest to the North, called in German the “Schwarzwald”, which means the “Black Forest”, there lived an ancient black dragon whose name was Albion. And it was in this forest one winter's day that Albion came across a young boy. He was but fifteen and he was Prince of the land, and his name was Yustav, and he was crying.
+Herald
+: In the years before history was recorded in our land, in a dark forest to the North, called in German the “Schwarzwald”, which means the “Black Forest”, there lived an ancient black dragon whose name was Albion. And it was in this forest one winter's day that Albion came across a young boy. He was but fifteen and he was Prince of the land, and his name was Yustav, and he was crying.
 
 And Albion said, “Your Highness, why dost thou sit so in the winter snow?”
 
@@ -2260,13 +1940,12 @@ And so does their Majesty call before them ____________ .
 _(The Albion story was written by Viscount Richard Gilchrest, who created the Order during his reign as Prince.)_
 
 
-### 6 The Order of Courtesy
+## 6. The Order of Courtesy
 
 _This is a very long ceremony. It is not recommended in full for courts which will be long for other reasons._
 
-**Herald:**
-
-Long ago, the lands of Drachenwald were forged into a mighty Kingdom, and in the King’s, army was a virtuous but impoverished noble. One day in the fierce heat of battle, a foul arrow struck them under the arm, where they were lightly armoured, and they fell. The chirurgeon, knowing the esteem in which the noble was held, worked long into the night to save them. Eventually, the arrowhead was withdrawn, but it was clear that they could play no further part in that campaign.
+Herald
+: Long ago, the lands of Drachenwald were forged into a mighty Kingdom, and in the King’s, army was a virtuous but impoverished noble. One day in the fierce heat of battle, a foul arrow struck them under the arm, where they were lightly armoured, and they fell. The chirurgeon, knowing the esteem in which the noble was held, worked long into the night to save them. Eventually, the arrowhead was withdrawn, but it was clear that they could play no further part in that campaign.
 
 “A good and courteous subject,” said the King to His Queen, “but they are now of no use to us. Lay them in a carriage and send them home to retire.”
 
@@ -2330,85 +2009,77 @@ And so does their Majesty call before them ____________ .
 
 _(The story was commissioned by Queen Honor of Restormel and written by Lord Heinrich von Westfelsen.)_
 
-### 7 Sigilla Coronarum
+## 7. Sigilla Coronarum
 
-#### By both Sovereign and Consort together
+*** By both Sovereign and Consort together ***
 
-**Herald:**
+Herald
+: The duties and responsibilities of the Crown are many. Our Sovereign by blood must be a source of strength and wisdom for the people. They must be foremost in valour upon the battlefield, yet gentlest in courtesy of any in the Realm. Their Consort must be a patron of artists and philosophers. They must be the embodiment of gentle grace, courtesy, virtue and love that her subjects deserve. Together, as one, they must govern and rule this land.
 
-The duties and responsibilities of the Crown are many. Our Sovereign by blood must be a source of strength and wisdom for the people. They must be foremost in valour upon the battlefield, yet gentlest in courtesy of any in the Realm. Their Consort must be a patron of artists and philosophers. They must be the embodiment of gentle grace, courtesy, virtue and love that her subjects deserve. Together, as one, they must govern and rule this land.
+: Although our Sovereigns are supported by all loyal subjects whose service they may command, there are those subjects without whom they could not rule half so joyously, for their constant attention to Royal needs makes light the day-to-day details of ruling and their tireless devotion serves to ease the burden of Royal responsibilities.
 
-Although our Sovereigns are supported by all loyal subjects whose service they may command, there are those subjects without whom they could not rule half so joyously, for their constant attention to Royal needs makes light the day-to-day details of ruling and their tireless devotion serves to ease the burden of Royal responsibilities.
+: Therefore was created the Sigillum Coronae, to recognise those individuals, whose personal service to the Crown far exceeds any expected measure. And the badge of the award shall be a white Edelweiss surmounted by a black dragon's head bearing the sigils of the Crown bestowing it.
 
-Therefore was created the Sigillum Coronae, to recognise those individuals, whose personal service to the Crown far exceeds any expected measure. And the badge of the award shall be a white Edelweiss surmounted by a black dragon's head bearing the sigils of the Crown bestowing it.
+: So now do their Majesties call before them ____________ .
 
-So now do their Majesties call before them ____________ .
+*** Sigillum Coronae/Regis/Reginae (by the Sovereign) ***
 
-#### Sigillum Coronae/Regis/Reginae (by the Sovereign)
+Herald
+: The duties and responsibilities of a Sovereign are many. They must govern and rule the land. They must be a source of strength and wisdom for their people. They must be foremost in valour upon the battlefield, yet gentlest in courtesy of any noble in the Realm.
 
-**Herald:**
+: Although They are supported by not only their Inspiration, but by all loyal subjects whose service They may command, there are those of Their subjects without whom the Crown could not rule half so joyously, for their constant attention to Their needs makes light the day-to-day job of ruling and their tireless devotion serves to ease the burden of Royal responsibility.
 
-The duties and responsibilities of a Sovereign are many. They must govern and rule the land. They must be a source of strength and wisdom for their people. They must be foremost in valour upon the battlefield, yet gentlest in courtesy of any noble in the Realm.
+: Therefore was created the Sigillum Coronae, to recognise those individuals, whose personal service to the Crown far exceeds any expected measure. And the badge of the award shall be a black dragon's head charged with the sigil of the Crown bestowing it.
 
-Although They are supported by not only their Inspiration, but by all loyal subjects whose service They may command, there are those of Their subjects without whom the Crown could not rule half so joyously, for their constant attention to Their needs makes light the day-to-day job of ruling and their tireless devotion serves to ease the burden of Royal responsibility.
+: So now does their Majesty call before them ____________ .
 
-Therefore was created the Sigillum Coronae, to recognise those individuals, whose personal service to the Crown far exceeds any expected measure. And the badge of the award shall be a black dragon's head charged with the sigil of the Crown bestowing it.
+*** Sigillum Consortis/Regis/Regina (by the Consort) ***
 
-So now does their Majesty call before them ____________ .
+Herald
+: The duties and responsibilities of a Consort are many. They must govern and rule the land. They must be a patron of the arts and natural philosophy. They must be the embodiment of gentle grace, courtesy, virtue and love that their subjects expect.
 
-#### Sigillum Consortis/Regis/Regina (by the Consort)
+: Although They are supported by not only their Champion, but by all loyal subjects whose service they may command, there are those of their subjects without whom the Crown could not rule half so joyously, for their constant attention to their needs makes light the day-to-day details of ruling and their tireless devotion serves to ease the burden of Royal responsibility.
 
-**Herald:**
+: Therefore was created the Sigillum Consortis, to recognise those individuals, whose personal service to the Consort far exceeds any expected measure. And the badge of the award shall be a white Edelweiss charged with the sigil of the Consort bestowing it.
 
-The duties and responsibilities of a Consort are many. They must govern and rule the land. They must be a patron of the arts and natural philosophy. They must be the embodiment of gentle grace, courtesy, virtue and love that their subjects expect.
+: So now does their Majesty call before them ____________ .
 
-Although They are supported by not only their Champion, but by all loyal subjects whose service they may command, there are those of their subjects without whom the Crown could not rule half so joyously, for their constant attention to their needs makes light the day-to-day details of ruling and their tireless devotion serves to ease the burden of Royal responsibility.
+## 8. The Order of the Dragon's Tear
 
-Therefore was created the Sigillum Consortis, to recognise those individuals, whose personal service to the Consort far exceeds any expected measure. And the badge of the award shall be a white Edelweiss charged with the sigil of the Consort bestowing it.
-
-So now does their Majesty call before them ____________ .
-
-### 8 The Order of the Dragon's Tear
-
-**Herald:**
-
-Whenever members of the Kingdom gather to fight or dance, revel or conduct business, there are responsibilities which fall to the hosts so that all may enjoy the event. It sometimes happens, however, that a heavy burden falls upon a single individual or small group, so that a great number of people might find special enjoyment.
+Herald
+: Whenever members of the Kingdom gather to fight or dance, revel or conduct business, there are responsibilities which fall to the hosts so that all may enjoy the event. It sometimes happens, however, that a heavy burden falls upon a single individual or small group, so that a great number of people might find special enjoyment.
 
 Thus was created the Order of the Dragon's Tear, for those worthy souls who, as event stewards, overcome special difficulties or provide a particularly enriching experience for the populace. And these gentles shall be known by a teardrop-shaped pendant worn on a cord in the colours of Drachenwald.
 
 Now therefore do their Majesties call before them ____________ .
 
-### 9 The Order of the Dragon's Bowle
+## 9. The Order of the Dragon's Bowle
 
-**Herald:**
-
-The occasion is always joyous when we gather together. However, the occasion is doubly blessed when we can also enjoy a special display of beauty and art. Therefore was created the Order of the Dragon's Bowle, to be given at the Crown's discretion to those gentles whose care, attention and artfulness in equipping themselves enhances the spirit of the event to the delight of all.
-
-And so do their Majesties call before them ____________ .
-
-### 10 The Order of the Dragon's Jewel
-
-**Herald:**
-
-We delight in the presence of children, because We know they represent the future of all We hold all dear; but there are those young nobles who contribute to our Kingdom and the Society not only beyond the measure of their fellows, but also beyond the measure of their years.
+Herald
+: The occasion is always joyous when we gather together. However, the occasion is doubly blessed when we can also enjoy a special display of beauty and art. Therefore was created the Order of the Dragon's Bowle, to be given at the Crown's discretion to those gentles whose care, attention and artfulness in equipping themselves enhances the spirit of the event to the delight of all.
 
 And so do their Majesties call before them ____________ .
 
-### 11 The Order of the Dragon's Pride
+## 10. The Order of the Dragon's Jewel
 
-**Herald:**
+Herald
+: We delight in the presence of children, because We know they represent the future of all We hold all dear; but there are those young nobles who contribute to our Kingdom and the Society not only beyond the measure of their fellows, but also beyond the measure of their years.
 
-The reward of artistic achievement and scientific knowledge is a joyful duty for the Crown, as the product of such labour brings delight to all who are touched by it; but when the skill resides in one of tender years, the joy is especially great, since the Crown rewards not only the work itself, but the promise of greater things to come.
+And so do their Majesties call before them ____________ .
+
+## 11. The Order of the Dragon's Pride
+
+Herald
+: The reward of artistic achievement and scientific knowledge is a joyful duty for the Crown, as the product of such labour brings delight to all who are touched by it; but when the skill resides in one of tender years, the joy is especially great, since the Crown rewards not only the work itself, but the promise of greater things to come.
 
 Therefore was created the Order of the Dragon's Pride, to reward artistic or philosophic achievement in a young member of the people.
 
 And so do their Majesties call before them ____________ .
 
-### 12 Popular Company of Sojourners
+## 12. Popular Company of Sojourners
 
-**Herald:**
-
-Our beloved realm was founded by travellers who came to this land from distant shores and made it their home. We are proud that to this day, travellers still come and abide in our land.
+Herald
+: Our beloved realm was founded by travellers who came to this land from distant shores and made it their home. We are proud that to this day, travellers still come and abide in our land.
 
 But alas, as travellers come, they also go, and often it is our sad task to bid farewell to those whose path leads them away from Drachenwald. It is especially sad when those travellers have served the Kingdom well and become beloved of the people.
 
@@ -2416,54 +2087,47 @@ Thus was created the Popular Company of Sojourners, to recognise those who leave
 
 And so do their Majesties call before them ____________
 
-### 13 The Order of the Hospitallers of Albion
+## 13. The Order of the Hospitallers of Albion
 
-**Herald:**
-
-There are times when the Crown of Drachenwald travels to distant lands either to stand with other kingdoms on the field of battle, fighting injustice and defending the weak, or for the pleasure to be gained from foreign travels where the beauty of the Known World may be experienced and enjoyed. During these travels, the Crown is sometimes aided and supported by gentles of those foreign lands, whose sacrifice on behalf of our Crown may be great indeed.
+Herald
+: There are times when the Crown of Drachenwald travels to distant lands either to stand with other kingdoms on the field of battle, fighting injustice and defending the weak, or for the pleasure to be gained from foreign travels where the beauty of the Known World may be experienced and enjoyed. During these travels, the Crown is sometimes aided and supported by gentles of those foreign lands, whose sacrifice on behalf of our Crown may be great indeed.
 
 Therefore was created the Order of the Hospitallers of Albion, to reward and thank those gentles or groups who, while not subjects of Drachenwald, have shown unselfish service to our Kingdom and its Crown during these travels.
 
 And so do their Majesties call before them ____________
 
-## Part XII  Other Ceremonies
-### 1. Creation of a Pursuivant or Herald
+# Part II  Other Ceremonies
+## 1. Creation of a Pursuivant or Herald
 
 _In theory any noble, singly or as a couple, can appoint their own herald._
 
-**Herald:**
-
-Know that We _____________ [and _____________ ], _____________ [and _____________] of _____________ , have need of a pursuivant / herald to carry our messages in peace and war, to be our voice, and to teach the noble arts of heraldry. Know also that hearing good report of our faithful servant _____________ as a gentle(wo)man skilled in the arts of honour we are minded to appoint them as our Pursuivant / Herald [Extraordinary].
+Herald
+: Know that We _____________ [and _____________ ], _____________ [and _____________] of _____________ , have need of a pursuivant / herald to carry our messages in peace and war, to be our voice, and to teach the noble arts of heraldry. Know also that hearing good report of our faithful servant _____________ as a gentle(wo)man skilled in the arts of honour we are minded to appoint them as our Pursuivant / Herald [Extraordinary].
 
 In witness thereof we call forth all and any members of the College of Heralds here present and direct them to present _____________ before Us!
 
 _The heralds come forward, escorting the candidate, and stand aside._
 
-**Herald:**
+Herald
+: Do you _____________ , of your own free will, swear to serve __________ [and __________] as pursuivant / herald?
 
-Do you _____________ , of your own free will, swear to serve __________ [and __________] as pursuivant / herald?
-
-**Candidate:**
-
-________
+Candidate
+: ________
 
 **_If swearing:_**
 
-**Herald:**
-
-You shall swear by the faith that you owe to the _Lords / Barons / Princes / Sovereigns_ whose arms you shall bear, that you shall truly keep such things as are comprised in the articles following:
+Herald
+: You shall swear by the faith that you owe to the _Lords / Barons / Princes / Sovereigns_ whose arms you shall bear, that you shall truly keep such things as are comprised in the articles following:
 
 _Following each of the articles, the candidate responds “I so swear”._
 
 **_If not swearing:_**
 
-**Herald:**
+Herald
+: By the faith that you owe to the _Lords / Barons / Princes / Sovereigns_ whose arms you shallbear, you shall truly keep such things as are comprised in the articles following:
 
-By the faith that you owe to the _Lords / Barons / Princes / Sovereigns_ whose arms you shallbear, you shall truly keep such things as are comprised in the articles following:
-
-**Herald:**
-
-First, you shall be true to our high and most excellent _Lords / Barons / Princes / Sovereigns_ that they are, and to them that make you a herald. And if you should have any knowledge or hear any imagination of treason, you shall discover it to them or to their noble council; and counsel it in no manner.
+Herald
+: First, you shall be true to our high and most excellent _Lords / Barons / Princes / Sovereigns_ that they are, and to them that make you a herald. And if you should have any knowledge or hear any imagination of treason, you shall discover it to them or to their noble council; and counsel it in no manner.
 
 You shall be serviceable to all gentle persons to do their commandments to their worship of noble deeds; and to excuse their worship by your good counsel, and ever ready to offer your service to them.
 
@@ -2479,171 +2143,141 @@ You shall forsake all places of dishonesty and hazard and dishonestly going to c
 
 **_If swearing_ (_Be aware of the potential religious sensitivities of this action. It may be omitted.)_**
 
-**Herald:**
-
-These articles you have sworn truly to keep with all your might and power.
+Herald
+: These articles you have sworn truly to keep with all your might and power.
 
 _An attendant moves forward and gives the goblet of water to the appointing noble who slowly pours a bit of water from the goblet over the candidate's head while speaking these words:_
 
 **_If swearing_**
 
-**Presiding noble:**
-
-Then, by your oath, I do create you pursuivant / herald by the name of _____________ . As you shall serve Us as pursuivant / herald, We shall reward you with largesse.
+**Presiding noble
+: Then, by your oath, I do create you pursuivant / herald by the name of _____________ . As you shall serve Us as pursuivant / herald, We shall reward you with largesse.
 
 **_If not swearing_**
 
-**Presiding noble:**
-
-I hereby create you pursuivant / herald by the name of _____________ . As you shall serve Us as pursuivant / herald, We shall reward you with largesse.
+**Presiding noble
+: I hereby create you pursuivant / herald by the name of _____________ . As you shall serve Us as pursuivant / herald, We shall reward you with largesse.
 
 _Sovereign/Baron gives the cup to the candidate._
 
 **_If creating a Pursuivant_**
 
-**Herald:**
-
-Let the pursuivant be invested with his tabard of office, and let him wear it athwart as befits his rank of pursuivant, and in no other way.
+Herald
+: Let the pursuivant be invested with his tabard of office, and let him wear it athwart as befits his rank of pursuivant, and in no other way.
 
 _Attendents move forward and put a tabard on the candidate. The tabard should be put on so that the arms of the tabard are on the candidate's chest and the front and back drape over the candidate's shoulders and arms._
 
 **_If creating a Herald_**
 
-**Herald:**
-
-Let the herald be invested with his tabard of office and let him wear it so that he may be known as a herald.
+Herald
+: Let the herald be invested with his tabard of office and let him wear it so that he may be known as a herald.
 
 _Attendants move forward and put a tabard over the head of the candidate so that it is athwart. Then, in a separate and obvious motion, the tabard is turned so that it is worn properly. If the candidate was already wearing a tabard athwart then the attendants turn the tabard so that it is worn properly._
 
-**Presiding Noble:**
-
-Arise, _____________ , and go forth.
+**Presiding Noble
+: Arise, _____________ , and go forth.
 
 _The herald exhorts cheers from the populace._
 
-#### Acknowledgements
+*** Acknowledgements ***
 
 This is heavily based on a ceremony composed by Lothar von Katzenellenbogen and subsequently adapted by Eiríkr Sigurðarson for use within the Caidan College of Heralds.
 
-### Part XIV Oaths
+# Part XIV Oaths
 
 Oaths are a very personal thing and the ceremonies below should be taken as templates. Custom varied in period, as do preferences now, as to whether an oath is to the person or the office, to successors or not, what exactly is sworn to by the person giving the oath and whether it is done publicly or privately. The Crown, heralds and oath-givers should be flexible in how this aspect of fealty is handled.
 
-## 1 Coronation Oath
+## 1. Coronation Oath
 
-**Seneschal:**
+Seneschal
+: Will You love all that is true and fair, and fight all falsehoods, lies and injustice, both with Your Royal powers and with justice?
 
-Will You love all that is true and fair, and fight all falsehoods, lies and injustice, both with Your Royal powers and with justice?
+Coronets
+: I will.
 
-**Coronets:**
+Seneschal
+: Will You be true to Your people, confirm to them their old rights and privileges, and not take away from anyone what is rightfully theirs, except after proper verdict of law?
 
-I will.
+Coronets
+: I will.
 
-**Seneschal:**
+Seneschal
+: Will You protect the Realm to the best of Your ability, so that when the time comes You will leave Your successors a strong Kingdom, as is their due?
 
-Will You be true to Your people, confirm to them their old rights and privileges, and not take away from anyone what is rightfully theirs, except after proper verdict of law?
-
-**Coronets:**
-
-I will.
-
-**Seneschal:**
-
-Will You protect the Realm to the best of Your ability, so that when the time comes You will leave Your successors a strong Kingdom, as is their due?
-
-**Coronets:**
-
-I will.
+Coronets
+: I will.
 
 _Modelled after the coronation oath in the King Christopher law of 1440's Scandinavia._
 
-## 2 Kingdom Officers' Oath
+## 2. Kingdom Officers' Oath
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Officers
+: I will.
 
-**Officers:**
+Herald
+: Will you give Them such obedience as is their due, obeying their commands in such matters as are theirs to command?
 
-I will.
+Officers
+: I will.
 
-**Herald:**
+Herald
+: Will you be a true officer of the Kingdom, discharging your duties to the best of your ability?
 
-Will you give Them such obedience as is their due, obeying their commands in such matters as are theirs to command?
+Officers
+: I will.
 
-**Officers:**
-
-I will.
-
-**Herald:**
-
-Will you be a true officer of the Kingdom, discharging your duties to the best of your ability?
-
-**Officers:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to support you with Our royal power and justice.
+Monarch
+: And We in turn promise to support you with Our royal power and justice.
 
 So say We ____________ , Rex/Regina.
 
-**Monarch:**
-
-So say We ____________ , Rex/Regina.
+Monarch
+: So say We ____________ , Rex/Regina.
 
 _Modelled after the oath of allegiance for populace in the King Christopher law of 1440's Scandinavia._
 
-## 3 Peers' Oath
+## 3. Peers' Oath
 
-**Herald:**
+Herald
+: Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
 
-Will you hold ____________ and ____________ your rightful Sovereigns, right until the end of their lawful reign, and support their royal might and justice?
+Peer
+: I will
 
-**Peer:**
+Herald
+: Do you wish to give the Crown such counsel which is to the benefit of Them and their Realm, and support Them in upholding the laws and fulfilling their coronation oath?
 
-I will
+Peer
+: I will.
 
-**Herald:**
+Herald
+: And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
 
-Do you wish to give the Crown such counsel which is to the benefit of Them and their Realm, and support Them in upholding the laws and fulfilling their coronation oath?
+Peer
+: I will.
 
-**Peer:**
-
-I will.
-
-**Herald:**
-
-And will you keep secret such matters as the Crown wants to keep in confidence, and not divulge such secrets that could harm their Realm?
-
-**Peer:**
-
-I will.
-
-**Monarch:**
-
-And We in turn promise to grant you, the Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
+Monarch
+: And We in turn promise to grant you, the Peers of our Realm, and your households, all the rights and privileges of old, and to protect you with the Law of the Realm.
 
 So say We ____________ , Rex/Regina
 
-**Monarch:**
-
-So say We ____________ , Rex/Regina
+Monarch
+: So say We ____________ , Rex/Regina
 
 _Modelled after the oaths of allegiance for populace and for the King's Council in the King Christopher law of 1440's Scandinavia._
 
-## 4 Oath of Fealty for Principalities and Baronies
+## 4. Oath of Fealty for Principalities and Baronies
 
-**Herald:**
-
-Let all present and to come know that I ____________ , ____________ of ____________, acknowledge to You ____________ and ____________ , Sovereigns of Drachenwald, that I hold and ought to hold as a fief the ____________ of ____________ . For this I make homage and fealty with hands and with mouth to You my Sovereigns, and I swear that I will always be a faithful vassal to You in all things in which a vassal is required to be faithful, and I will defend You and the Kingdom and ____________ against all malefactors and invaders, and I will give You power over all the castles and manors in the ____________ , in peace and in war, whenever they shall be lawfully claimed by You.
+Herald
+: Let all present and to come know that I ____________ , ____________ of ____________, acknowledge to You ____________ and ____________ , Sovereigns of Drachenwald, that I hold and ought to hold as a fief the ____________ of ____________ . For this I make homage and fealty with hands and with mouth to You my Sovereigns, and I swear that I will always be a faithful vassal to You in all things in which a vassal is required to be faithful, and I will defend You and the Kingdom and ____________ against all malefactors and invaders, and I will give You power over all the castles and manors in the ____________ , in peace and in war, whenever they shall be lawfully claimed by You.
 
 And if I do not observe to You each and all the things declared above, and should come against these things, I wish that the aforesaid fief should by that very fact be handed over to You and to the Kingdom of Drachenwald.
 
-**Ruling Noble:**
-
-So say I ____________ , ____________ .
+Ruling Noble
+: So say I ____________ , ____________ .
 
 _Modelled after the oath of fealty of the Viscount of Carcassonne, 1110._
 
