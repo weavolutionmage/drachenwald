@@ -40,7 +40,7 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% if item.rank == "Admiral" %}
 {{ item.full-name }}
 : Region: {{ item.in-command-of }}
-: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: First Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
 
@@ -48,9 +48,9 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% for item in data %}
 {% if item.rank == "Captain" %}
 {{ item.full-name }}
-: Region: {{ item.in-command-of }}
+: Ship: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
-: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: First Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
  
@@ -58,9 +58,9 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% for item in data %}
 {% if item.rank == "Letter of Marque" %}
 {{ item.full-name }}
-: Region: {{ item.in-command-of }}
+: Ship: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
-: Commissioned/Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Letter granted: {{ item.commissioned }}
 {% endif %}
 {% endfor %}
  
