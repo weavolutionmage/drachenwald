@@ -20,8 +20,10 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install dependencies
       run: bundle install
+      run: pwd
+      run: ls
     - name: Fetch external data
-      run: _build.sh
+      run: ./_build.sh
     - name: Build site
       run: LC_ALL="C.UTF-8" LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" bundle exec jekyll build
     - name: 'Upload Artifact'
