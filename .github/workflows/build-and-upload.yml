@@ -24,8 +24,8 @@ jobs:
     - run: ./_build.sh
     - name: Fetch external data
       env:
-        GOOGLE_SERVICE_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
-        GOOGLE_SERVICE_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
+        google_service_private_key: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
+        google_service_private_key_id: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
         HELLO_WORLD: 'hello i am here'
       run: python3 _server_scripts/google_sheets_to_json.py
     - name: Build site
