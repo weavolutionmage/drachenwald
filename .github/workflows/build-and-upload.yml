@@ -23,6 +23,9 @@ jobs:
     - run: pwd
     - run: ls
     - name: Fetch external data
+      env:
+        GOOGLE_SERVICE_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
+        GOOGLE_SERVICE_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
       run: ./_build.sh
     - name: Build site
       run: LC_ALL="C.UTF-8" LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" bundle exec jekyll build
