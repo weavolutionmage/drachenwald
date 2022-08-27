@@ -10,12 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip' # caching pip dependencies
     - uses: ruby/setup-ruby@v1
       with:
         ruby-version: '2.6' # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install dependencies
       run: bundle install
+    - run: pip install -r requirements.txt
+    - name: Fetch external data
+      run: _build.sh
     - name: Build site
       run: LC_ALL="C.UTF-8" LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" bundle exec jekyll build
     - name: 'Upload Artifact'
