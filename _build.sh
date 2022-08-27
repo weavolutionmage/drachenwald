@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo $HELLO_WORLD
 pip3 install -r _server_scripts/requirements.txt
 python3 _server_scripts/google_sheets_to_json.py
 curl -L -k -o _data/academyofdefense.json  "https://scripts.drachenwald.sca.org/json/academyofdefense.json"
