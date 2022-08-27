@@ -21,15 +21,13 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install dependencies
       run: bundle install
-    - run: pwd
-    - run: ls
+    - run: ./_build.sh
     - name: Fetch external data
-      shell: bash
       env:
         GOOGLE_SERVICE_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
         GOOGLE_SERVICE_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
         HELLO_WORLD: 'hello i am here'
-      run: ./_build.sh
+      run: python3 _server_scripts/google_sheets_to_json.py
     - name: Build site
       run: LC_ALL="C.UTF-8" LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" bundle exec jekyll build
     - name: 'Upload Artifact'
