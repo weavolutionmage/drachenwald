@@ -24,6 +24,7 @@ jobs:
     - run: pwd
     - run: ls
     - name: Fetch external data
+      shell: bash
       env:
         GOOGLE_SERVICE_PRIVATE_KEY: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
         GOOGLE_SERVICE_PRIVATE_KEY_ID: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
