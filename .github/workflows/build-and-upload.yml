@@ -20,8 +20,8 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Install dependencies
       run: bundle install
-      run: pwd
-      run: ls
+    - run: pwd
+    - run: ls
     - name: Fetch external data
       run: ./_build.sh
     - name: Build site
