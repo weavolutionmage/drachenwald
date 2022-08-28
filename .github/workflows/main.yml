@@ -34,9 +34,3 @@ jobs:
         OVH_PRIVATE: ${{ secrets.OVH_PRIVATE }}
         WEBHOST_OVH: ${{ secrets.WEBHOST_OVH }}
       run: _bin/deploy.sh
-    - name: 'Upload Artifact'
-      uses: actions/upload-artifact@v3
-      with:
-        name: html
-        path: _site
-        retention-days: 1
