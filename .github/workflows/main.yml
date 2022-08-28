@@ -1,4 +1,4 @@
-name: My workflow
+name: Build and upload
 on: 
   push:
     branches: [main]
@@ -19,13 +19,21 @@ jobs:
       with:
         ruby-version: '2.6' # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    - name: Fetch external data
+    - name: Fetch external data and build site
       env:
         google_service_private_key: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
         google_service_private_key_id: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
-      run: ./_build.sh
-    - name: Build site
-      run: LC_ALL="C.UTF-8" LANG="en_US.UTF-8" LANGUAGE="en_US.UTF-8" bundle exec jekyll build
+        JEKYLL_ENV: production 
+        LC_ALL: "C.UTF-8"
+        LANG: "en_US.UTF-8"
+        LANGUAGE: "en_US.UTF-8" 
+      run: _bin/build.sh
+    - name: Deploy site
+      env:
+        SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+        OVH_PRIVATE: ${{ secrets.OVH_PRIVATE }}
+        WEBHOST_OVH: ${{ secrets.WEBHOST_OVH }}
+      run: _bin/deploy.sh
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:
