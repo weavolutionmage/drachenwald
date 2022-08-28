@@ -1,9 +1,9 @@
 name: Build and upload
 on: 
   push:
-    branches: [main]
+    branches: [main, staging]
   workflow_dispatch:
-    branches: [main]
+    branches: [main, staging]
 
 jobs:
   build:
