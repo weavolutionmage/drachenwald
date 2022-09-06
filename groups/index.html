@@ -72,7 +72,7 @@ title: Where we are
   <section>
 
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
-        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
+        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.mundanely }}<br>{% endunless %}
         <strong>Online:</strong> {% unless subgroup.website == "" %}<a href="{{ subgroup.website }}">{{ subgroup.website }} </a> {% endunless %}
               {% unless subgroup.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
         {% unless subgroup.twitter == "" %} <a href="{{ subgroup.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
