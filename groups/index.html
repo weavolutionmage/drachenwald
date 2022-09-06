@@ -31,19 +31,23 @@ title: Where we are
       {% endif %}
 
   <strong>Region:</strong> {{ item.mundanely }}<br>
-        {% unless item.website == "" %}<strong>Website:</strong> <a href="{{ item.website }}">{{ item.website }}</a>{% endunless %}
-        <br>{% unless item.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}">Facebook Page </a> {% endunless %}
-        <br>{% unless item.twitter == "" %} <a href="{{ subgroup.twitter }}"> Twitter </a> {% endunless %}
-        <br>{% unless item.facebook == "" %} <a href="{{ subgroup.facebook }}"> Facebook Group </a> {% endunless %}
-        <br>{% unless item.instagram == "" %} <a href="{{ subgroup.instagram }}"> Instagram </a> {% endunless %}
-       <br> {% unless item.discord == "" %} <a href="{{ subgroup.discord }}"> Discord </a> {% endunless %}
-        <br>{% unless item.youtube == "" %} <a href="{{ subgroup.youtube }}"> Youtube </a> {% endunless %}
- 
+        <strong>Online:</strong> {% unless item.website == "" %}<a href="{{ item.website }}">{{ item.website }} </a> {% endunless %}
+        {% unless item.facebook-page == "" %} <a href="{{ item.facebook-page }}">Facebook Page </a> {% endunless %}
+        {% unless item.twitter == "" %} <a href="{{ item.twitter }}"> Twitter </a> {% endunless %}
+        {% unless item.facebook == "" %} <a href="{{ item.facebook }}"> Facebook Group </a> {% endunless %}
+        {% unless item.instagram == "" %} <a href="{{ item.instagram }}"> Instagram </a> {% endunless %}
+       {% unless item.discord == "" %} <a href="{{ item.discord }}"> Discord </a> {% endunless %}
+        {% unless item.youtube == "" %} <a href="{{ item.youtube }}"> Youtube </a> {% endunless %}
+ 		<br/>	
+ 		
+ 		{{ item.group }}
+ 		
+ 		{{ site.data.groups.officerlist }}
         {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
         {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
 
         {% if seneschal %}
- <br> <strong>Seneschal:</strong>  {{ seneschal.scaname }}
+ <strong>Seneschal:</strong>  {{ seneschal.scaname }}
           {% unless seneschal.email == "" %} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>) {% endunless %}
             {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
   <br>
@@ -71,16 +75,15 @@ title: Where we are
   <section>
 
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
-      
         {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
-        {% unless subgroup.website == "" %}<strong>Website:</strong> <a href="{{ subgroup.website }}">{{ subgroup.website }}</a> <br/>{% endunless %}
+        <strong>Online:</strong> {% unless subgroup.website == "" %}<a href="{{ subgroup.website }}">{{ subgroup.website }} </a> {% endunless %}
         {% unless subgroup.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}">Facebook Page </a> {% endunless %}
         {% unless subgroup.twitter == "" %} <a href="{{ subgroup.twitter }}"> Twitter </a> {% endunless %}
         {% unless subgroup.facebook == "" %} <a href="{{ subgroup.facebook }}"> Facebook Group </a> {% endunless %}
         {% unless subgroup.instagram == "" %} <a href="{{ subgroup.instagram }}"> Instagram </a> {% endunless %}
         {% unless subgroup.discord == "" %} <a href="{{ subgroup.discord }}"> Discord </a> {% endunless %}
         {% unless subgroup.youtube == "" %} <a href="{{ subgroup.youtube }}"> Youtube </a> {% endunless %}
-
+		<br/>
 
         {% if item.group == "Insulae Draconis" or item.group == "Nordmark" or item.group == "Aarnimetsä" or item.group == "Knights Crossing" %}
           {% assign groupslug = item.group | append: '-' | append: subgroup.group %}
