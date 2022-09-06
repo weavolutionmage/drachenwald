@@ -1,9 +1,13 @@
 ---
 title: Where we are
 ---
-{% assign parents = site.data.branches | map: "parent" | sort | uniq %}
+{% assign groups = site.data.branches.data %}
 
+{{ groups }}
 
+{% assign parents = groups | map: "parent" | sort | uniq %}
+
+{{ parents }}
 
 <p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 
@@ -32,15 +36,14 @@ title: Where we are
 
   <strong>Region:</strong> {{ item.mundanely }}<br>
         <strong>Online:</strong> {% unless item.website == "" %}<a href="{{ item.website }}">{{ item.website }} </a> {% endunless %}
-        {% unless item.facebook-page == "" %} <a href="{{ item.facebook-page }}">Facebook Page </a> {% endunless %}
-        {% unless item.twitter == "" %} <a href="{{ item.twitter }}"> Twitter </a> {% endunless %}
-        {% unless item.facebook == "" %} <a href="{{ item.facebook }}"> Facebook Group </a> {% endunless %}
-        {% unless item.instagram == "" %} <a href="{{ item.instagram }}"> Instagram </a> {% endunless %}
-       {% unless item.discord == "" %} <a href="{{ item.discord }}"> Discord </a> {% endunless %}
-        {% unless item.youtube == "" %} <a href="{{ item.youtube }}"> Youtube </a> {% endunless %}
+        {% unless item.facebook-page == "" %} <a href="{{ item.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
+        {% unless item.twitter == "" %} <a href="{{ item.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i> </a> {% endunless %}
+        {% unless item.facebook == "" %} <a href="{{ item.facebook }}"><i class="fab fa-fw fa-facebook" aria-hidden="true" style="color:blue"></i> </a> {% endunless %}
+        {% unless item.instagram == "" %} <a href="{{ item.instagram }}"><i class="fab fa-fw fa-instagram"  aria-hidden="true"></i> </a> {% endunless %}
+       {% unless item.discord == "" %} <a href="{{ item.discord }}"> <i class="fab fa-fw fa-discord" style="color:blue" aria-hidden="true"></i> </a> {% endunless %}
+        {% unless item.youtube == "" %} <a href="{{ item.youtube }}"> <i class="fab fa-fw fa-youtube" aria-hidden="true" style="color:red"></i> </a> {% endunless %}
  		<br/>	
  		
-
         {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
         {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
 
@@ -75,13 +78,12 @@ title: Where we are
   <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
         {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.region }}<br>{% endunless %}
         <strong>Online:</strong> {% unless subgroup.website == "" %}<a href="{{ subgroup.website }}">{{ subgroup.website }} </a> {% endunless %}
-        {% unless subgroup.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}">Facebook Page </a> {% endunless %}
-        {% unless subgroup.twitter == "" %} <a href="{{ subgroup.twitter }}"> Twitter </a> {% endunless %}
-        {% unless subgroup.facebook == "" %} <a href="{{ subgroup.facebook }}"> Facebook Group </a> {% endunless %}
-        {% unless subgroup.instagram == "" %} <a href="{{ subgroup.instagram }}"> Instagram </a> {% endunless %}
-        {% unless subgroup.discord == "" %} <a href="{{ subgroup.discord }}"> Discord </a> {% endunless %}
-        {% unless subgroup.youtube == "" %} <a href="{{ subgroup.youtube }}"> Youtube </a> {% endunless %}
-		<br/>
+              {% unless subgroup.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
+        {% unless subgroup.twitter == "" %} <a href="{{ subgroup.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i> </a> {% endunless %}
+        {% unless subgroup.facebook == "" %} <a href="{{ subgroup.facebook }}"><i class="fab fa-fw fa-facebook" aria-hidden="true" style="color:blue"></i> </a> {% endunless %}
+        {% unless subgroup.instagram == "" %} <a href="{{ subgroup.instagram }}"><i class="fab fa-fw fa-instagram"  aria-hidden="true"></i> </a> {% endunless %}
+       {% unless subgroup.discord == "" %} <a href="{{ subgroup.discord }}"> <i class="fab fa-fw fa-discord" style="color:blue" aria-hidden="true"></i> </a> {% endunless %}
+        {% unless subgroup.youtube == "" %} <a href="{{ subgroup.youtube }}"> <i class="fab fa-fw fa-youtube" aria-hidden="true" style="color:red"></i> </a> {% endunless %}	<br/>
 
         {% if item.group == "Insulae Draconis" or item.group == "Nordmark" or item.group == "Aarnimetsä" or item.group == "Knights Crossing" %}
           {% assign groupslug = item.group | append: '-' | append: subgroup.group %}
