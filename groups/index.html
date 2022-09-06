@@ -40,9 +40,7 @@ title: Where we are
         {% unless item.youtube == "" %} <a href="{{ item.youtube }}"> Youtube </a> {% endunless %}
  		<br/>	
  		
- 		{{ item.group }}
- 		
- 		{{ site.data.groups.officerlist }}
+
         {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
         {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
 
