@@ -3,11 +3,7 @@ title: Where we are
 ---
 {% assign groups = site.data.branches.data %}
 
-{{ groups }}
-
 {% assign parents = groups | map: "parent" | sort | uniq %}
-
-{{ parents }}
 
 <p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 

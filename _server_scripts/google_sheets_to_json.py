@@ -74,7 +74,7 @@ if __name__ == '__main__':
                   #liquid works better with lower case letters and no spaces in the fieldnames
                   header_row = [x.lower().replace(' ','-').replace('/','-') for x in corrected_values[0]]
                   df = pd.DataFrame(corrected_values[1:], columns=header_row).fillna('')
-                  data={"data":df.to_json(orient="records")}
+                  data={"data":df.to_dict(orient="records")}
 
               SAMPLE_RANGE_NAME = p["meta"]
 
