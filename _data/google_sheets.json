@@ -69,6 +69,13 @@
          "sheet":"public-calendar",
          "dest":"_data/calendar.json",
          "comment":"calendar"
+      },
+       {
+         "sheetId":"17sggZ9kXlaKRboEFTO2YJSoXAzx2ZjpUcg_wEsqRWmA",
+         "sheet":"export",
+         "dest":"_data/branches.json",
+         "comment":"new groups file"
       }
    ]
 }
+
