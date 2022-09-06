@@ -12,7 +12,7 @@ title: Where we are
 
 {% for parent in parents %}
   {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
-    {% assign item = site.data.branches | where: "group", parent | first %}
+    {% assign item = groups | where: "group", parent | first %}
 <b>{{ parent }}</b> ({{ item.mundanely }})<br>
   {% endunless %}
 {% endfor %}
@@ -20,7 +20,7 @@ title: Where we are
 
 {% for parent in parents %}
   {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
-    {% assign item = site.data.branches | where: "group", parent | first %}
+    {% assign item = groups | where: "group", parent | first %}
     {% unless item == null %}
   <a name="{{ item.group }}"></a>
 
@@ -62,7 +62,7 @@ title: Where we are
 
 
 
-    {% assign subgroups = site.data.branches | where: "parent", item.group %}
+    {% assign subgroups = groups | where: "parent", item.group %}
 
     {% for subgroup in subgroups %}
 
