@@ -16,14 +16,42 @@ Naval commissions and letters of marque are subject to a small administrative fe
 
 Commissions in the regular Navy are for a period of five years after which the officer will be retired, although renewals for expired commissions will be available at half price. Letters of Marque are valid unless and until revoked by the Crown.
 
-In addition to paying the appropriate fee, a person wishing to join the Navy or obtain a Letter of Marque should write an application to the Clerk of the Crowns Ships. The application should include the following information:
+## Obtaining a commission
 
-* the name of the prospective naval officer
-* in case of an Admiral's commission, the region for which the Admiral will be responsible
+To obtain a commission in the Navy or a Letter of Marque, you need to do three things:
+
+### Pay the appropriate fees, as listed above:
+
+Payments within the UK
+
+    Kingdom of Drachenwald
+    HSBC
+    Account Number: 91484060
+    Sort Code: 40-47-34
+
+Payments elsewhere in the kingdom
+
+    IBAN: GB86HBUK40473491484060
+    BIC: HBUKGB4165G
+    Account Name: SCA - Kingdom of Drachenwald
+    Bank’s Address: 20 Badminton Road, Downend, Bristol, BS16 6BN
+    Bank: HSBC
+
+### Send e-mail to the Drachenwald Chancellor of the Exchequer, including
+
+* your name as it appears on the payment (ie. mundane name)
+* amount paid
+* date of the payment
+* reason for the payment: Drachenwald Navy
+
+### Send e-mail to the Clerk of the Crowns Ships, including
+
+* the name of the prospective officer as it will appear on the Navy roster (ie. SCA name)
+* in case of an Admiral's commission, the region or other command for which the Admiral will be responsible
 * in case of a Captain's commission, the name of the ship
 *  in case of a Letter of Marque, the name of the ship and its home port
 * e-mail address of the recipient
-* evidence of payment of the fees, for instance the date and name under which the payment was made so that confirmation can be requested from the kingdom exchequer
+* evidence of payment of the fees – a copy of the information you sent to the Chancellor of the Exchequer is sufficient
 
 # Current Commissions
 
@@ -39,8 +67,8 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% for item in data %}
 {% if item.rank == "Admiral" %}
 {{ item.full-name }}
-: Region: {{ item.in-command-of }}
-: First Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Command: {{ item.in-command-of }}
+: Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
 
@@ -49,8 +77,7 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {% if item.rank == "Captain" %}
 {{ item.full-name }}
 : Ship: {{ item.in-command-of }}
-: Home Port: {{ item.home-port }}
-: First Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
+: Commissioned / Last Renewed: {{ item.commissioned }} / {{ item.last-renewed }}
 {% endif %}
 {% endfor %}
  
@@ -60,7 +87,7 @@ In addition to paying the appropriate fee, a person wishing to join the Navy or 
 {{ item.full-name }}
 : Ship: {{ item.in-command-of }}
 : Home Port: {{ item.home-port }}
-: Letter granted: {{ item.commissioned }}
+: Letter Granted: {{ item.commissioned }}
 {% endif %}
 {% endfor %}
  
