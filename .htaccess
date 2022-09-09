@@ -69,7 +69,7 @@ Redirect 301 /forms/ https://forms.drachenwald-sca.org/forms/
 Redirect 301 /forms https://forms.drachenwald-sca.org/forms/
 
 RewriteEngine On
-#RewriteCond %{HTTPS} off [OR]
+RewriteCond %{ENV:HTTPS} !on [OR]
 RewriteCond %{HTTP_HOST} ^www\. [NC]
 RewriteRule ^ https://drachenwald.sca.org%{REQUEST_URI} [L,NE,R=301]
 
