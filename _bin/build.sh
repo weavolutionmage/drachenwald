@@ -15,3 +15,5 @@ curl -k -o _data/fullcalendar.json "https://scripts.drachenwald.sca.org/json/ful
 curl -k -o _data/groups/groups-special.json "https://scripts.drachenwald.sca.org/json/groups-special.json"
 python3 _thisisdrachenwald/fetch_rss.py
 python3 _thisisdrachenwald/create_rss.py
+mkdir dis
+cp _data/branches.json dis 
