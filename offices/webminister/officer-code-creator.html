@@ -139,7 +139,8 @@ classes: wide
     const codediv = document.getElementById('thecode')
     const previewdiv = document.getElementById('thepreview')
 
-    const officercode = `<div class="dw-live-officers" lang="${langselect.value}"${ dispselect.value ? ` display="${dispselect.value }"` : '' }
+    const officercode = `<link rel="preconnect" href="https://dis.drachenwald.sca.org" />
+<div class="dw-live-officers" lang="${langselect.value}"${ dispselect.value ? ` display="${dispselect.value }"` : '' }
      group="${groupselect.value}"${ officeselect.value ? ` office="${ officeselect.value }"` : ''}>
 Loading...
 </div>`
