@@ -19,7 +19,14 @@ jobs:
       with:
         ruby-version: '2.6' # Not needed with a .ruby-version file
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-    - name: Fetch external data and build site
+    - name: python deps
+      run: pip3 install -r _server_scripts/requirements.txt
+    - name: Fetch data from google api
+      env:
+        google_service_private_key: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
+        google_service_private_key_id: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
+      run: python3 _server_scripts/google_sheets_to_json.py
+    - name: Fetch external data
       env:
         google_service_private_key: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY }}
         google_service_private_key_id: ${{ secrets.GOOGLE_SERVICE_PRIVATE_KEY_ID }}
