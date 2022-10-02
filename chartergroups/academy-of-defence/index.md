@@ -16,8 +16,9 @@ Akin to a guild, the Academy has ranks which candidates challenge into, by meeti
 
 # The Academy 
 
-{% if site.data.thisisdrachenwald %}
+{% if site.data.academyofdefense %}
   {% assign roster = site.data.academyofdefense %}
+  
   
 {% else %}
   {% assign roster = "" %}
@@ -26,18 +27,18 @@ Akin to a guild, the Academy has ranks which candidates challenge into, by meeti
 
 # Academy Roster
 ## Companions: who support the Academy and its members through their service
-{% for itemAll in roster %}{% if itemAll.Rank == "Companion" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
+{% for itemAll in roster %}{% if itemAll.rank == "Companion" %}{{ itemAll.scaname }}  <br />{% endif %}{% endfor %}
 
 ## Members: who aspire to enter its ranks
-{% for itemAll in roster %}{% if itemAll.Rank == "Member" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
+{% for itemAll in roster %}{% if itemAll.rank == "Member" %}{{ itemAll.scaname }}  <br />{% endif %}{% endfor %}
 
 ## Free Scholars: who have achieved the first rank of the Academy
-{% for itemAll in roster %}{% if itemAll.Rank == "Free Scholar" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %} 
+{% for itemAll in roster %}{% if itemAll.rank == "Free Scholar" %}{{ itemAll.scaname }}  <br />{% endif %}{% endfor %} 
 
 ## Provosts: who have achieved the middle rank of the Academy
-{% for itemAll in roster %}{% if itemAll.Rank == "Provost" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
+{% for itemAll in roster %}{% if itemAll.rank == "Provost" %}{{ itemAll.scaname }}  <br />{% endif %}{% endfor %}
 
 ## Prefects: who hold the highest rank of the Academy
- {% for itemAll in roster %}{% if itemAll.Rank == "Prefect" %}{{ itemAll.SCAName }}  <br />{% endif %}{% endfor %}
+ {% for itemAll in roster %}{% if itemAll.rank == "Prefect" %}{{ itemAll.scaname }}  <br />{% endif %}{% endfor %}
 
 {% include chartered.html group="academy-of-defence" %}
