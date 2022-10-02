@@ -1,7 +1,8 @@
 #!/bin/bash
 
 echo $HELLO_WORLD
-curl -L -k -o _data/academyofdefense.json  "https://scripts.drachenwald.sca.org/json/academyofdefense.json"
+pip3 install -r _server_scripts/requirements.txt
+python3 _server_scripts/google_sheets_to_json.py
 curl -k -o _data/groups/grouplist.json "https://scripts.drachenwald.sca.org/json/regnum-groups.json"
 curl -k -o _data/groups/officerlist.json "https://scripts.drachenwald.sca.org/json/regnum-officers.json"
 curl -k -o _data/archery-ranks.json "https://scripts.drachenwald.sca.org/json/archery-ranks.json"
