@@ -4,6 +4,8 @@ on:
     branches: [main, staging]
   workflow_dispatch:
     branches: [main, staging]
+  schedule:
+  - cron: "5 20 * * 1-7"
 
 jobs:
   build:
