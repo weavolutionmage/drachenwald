@@ -7,12 +7,13 @@ excerpt: Who keeps this online circus running?
 ## Kingdom web artificers
 
 These folks volunteer to work on the kingdom website and other IT affairs
-
+* Yda v Boulogne
+* Menja (Mallymkun Galpin)
+* Maria Harsick
 * Sela de la Rosa
 * Genevieve la flechiere
 * Marcella di Cavellino
-* Menja (Mallymkun Galpin)
-* Maria Harsick
+
 
 ## Google Workspace
 * [Dragon's tale articles](https://members.sca.org/apps/newsletters/Drachenwald/Drachenwald%20DRAGONS%20TALE%202204.pdf)
@@ -22,6 +23,8 @@ These folks volunteer to work on the kingdom website and other IT affairs
 ## Reporting for principality and local webministers
 
 Mostly, Yda would like to hear from web ministers and would like to know if there's anything you're running into that kingdom web artificers can help with. Beyond that she appreciates getting an update on major things planned or that happened.  
+
+* [Reports](https://docs.google.com/document/d/1mfo0QJxps8tIa1yqA5Bg0PRjHfb0GT-Ls-rv0C6ZHeA/edit?usp=sharing)
 
 ## Kingdom site issues
 
