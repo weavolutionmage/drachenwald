@@ -291,6 +291,10 @@ Thisis for conducting oneself in a truly chivalrous manner and it is quite rare.
 
 This is for scholarly works and sciences.
 
+## Vaaleanpunainen virvaliekki (Pink)  
+
+This is for support and work for children and youth.
+
 ## Hopeisen Solmun ritarikunta (meaning the order of the Silver Knot) 
 
 This is the barony's order for artisans and scholars. 
@@ -480,6 +484,64 @@ Those who selflessly work to improve and expand the base of our common medieval 
 ## Order of the Silver Dolphin of Gotvik
 
 The former baron couple is awarded an award in recognition of their work for Gotvik during their reign
+
+
+
+# Eplaheimr Awards
+
+As a Barony, the Baronage of Eplaheimr can also give out awards to the populace.
+
+## Tuatha de Dillon 
+
+Award for youth excellence and example in behaviour. Given to reward children for setting good examples of manners and behaviour and also to commemorate Lord Dylan, who passed far too young.
+
+## Tuatha de Clogh Ogham 
+
+Award for achievement in Arts and Sciences. Given to reward children who show promise, dedication and improvement in single or multiple areas of the Arts and Sciences.
+
+## Tuatha de Cú Seirbhís 
+
+Award for youth service to the Barony and the SCA. Given to reward children who continually display willingness to help out, who make a good contribution, and can be pro-active.
+
+## Tuatha de Setanta 
+
+Award for Youth prowess in combat and arts martial. Given to children who show progress and eagerness to further their training in any combat type.
+
+## Tuatha de Craiftine 
+
+Award for youth achievement in Bardic arts and performance. Given to children who demonstrate ability and continued advancement in a Bardic art.
+
+## Tuatha de Charbahd Óir 
+
+Award for service to the Barony and the SCA. Given to those who demonstrate continued dedication and willingness to serve the Barony and the SCA in whatever capacity their skills are best suited to, and who do so with distinction.
+
+## Tuatha de Lunula 
+
+Award for achievements in the Arts. Given to those who continue to show achievement in their knowledge, skill in execution, and willingness to teach in their chosen arts.
+
+## Tuatha de Dhéise 
+
+Award for achievements in the Sciences. Given to those who continue to show achievement in their knowledge, skill in execution, and willingness to teach in their chosen sciences.
+
+## Tuatha de Lámh Airgid 
+
+Award for excellence and example in noble speech and behaviour. Given to those who, by their words and actions, bring harmony to the Barony and the SCA, with no thought of reward.
+
+## Tuatha Corn na Cogadh 
+
+ Award for prowess in combat and arts martial. Given to those who demonstrate ongoing achievement and dedication to their chosen martial arts.
+
+ ## Tuatha de Filí 
+
+Award for achievement in bardic arts and performance. Given for excellence and achievements in entertainment, skill in execution, talent and ability in their chosen Bardic arts.
+
+## Tuatha d'Coire 
+
+Award for hospitality, care and assistance given without thought of reward, for the benefit of any. Given to those who welcome all, give of theirs so that others may have, are the first to render aid, and ensure that all feel welcome.
+
+## Tuatha d'Eala 
+
+Award for a friend to the Barony. One who does not reside within the Barony (never, or not any more), but whose actions and words have benefited the Barony greatly or those who live within it. Given also to members of the Barony who leave it's borders.
 
 
 
