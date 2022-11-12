@@ -3,12 +3,13 @@ title: Where we are
 ---
 {% assign groups = site.data.branches.data %}
 
-{% assign parents = groups | map: "parent" | sort | uniq %}
+{% assign parents = groups | where: "parent", "Drachenwald" | map: "group" | sort | uniq %}
+
+{{ parents }}
 
 <p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 
 <p>To find an SCA group outside of Europe, the Middle East or Africa, see <a href="https://www.sca.org/about/kingdoms/">the main SCA website</a>.</p>
-
 
 {% for parent in parents %}
   {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
@@ -16,6 +17,25 @@ title: Where we are
 <b>{{ parent }}</b> ({{ item.mundanely }})<br>
   {% endunless %}
 {% endfor %}
+  
+{% for parent in parents %}
+	{% assign branch = groups | where: "group", parent | first %}
+	{% if branch.status == "Region" %}
+		<h2>{{ branch.group }} Region</h2>
+	{% else %}
+		<h2>{{ branch.status }} of {{ branch.group }}</h2>
+	{% endif %}
+	
+	{% include branch_details.md branch=branch %}		
+		
+ {% endfor %}
+
+
+
+
+
+<h1>old content </h1>
+
 
 
 {% for parent in parents %}
