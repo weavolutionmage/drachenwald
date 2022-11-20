@@ -1,11 +1,10 @@
 ---
 title: Where we are
 ---
+
 {% assign groups = site.data.branches.data %}
 
 {% assign parents = groups | where: "parent", "Drachenwald" | map: "group" | sort | uniq %}
-
-{{ parents }}
 
 <p><i>Groups are listed in alphabetical order by name of region, Principality or Barony.</i></p>
 
@@ -21,126 +20,31 @@ title: Where we are
 {% for parent in parents %}
 	{% assign branch = groups | where: "group", parent | first %}
 	{% if branch.status == "Region" %}
-		<h2>{{ branch.group }} Region</h2>
+		<h2 style="font-size: 1.35em;">{{ branch.group }} Region</h2>
 	{% else %}
-		<h2>{{ branch.status }} of {{ branch.group }}</h2>
+		<h2 style="font-size: 1.35em;">{{ branch.status }} of {{ branch.group }}</h2>
 	{% endif %}
-	
-	{% include branch_details.md branch=branch %}		
+		{% include branch_details.md branch=branch %}		
 		
+	{% assign child_branches = groups | where: "parent", branch.group %}	
+
+	{% for child in child_branches  %}	
+		<h3 style="font-size: 1.25em;">{{ child.status }} of {{ child.group }}</h3>
+		{% include branch_details.md branch=child %}		
+
+		{% assign grandchild_branches = groups | where: "parent", child.group %}	
+<ul>
+		{% for grandchild in grandchild_branches  %}	
+		<li><b><h4 style="font-size: 1.15em;">{{ grandchild.status }} of {{ grandchild.group }}</h4></b>
+		{% include branch_details.md branch=grandchild %}		</li>
+
+	{% endfor %}
+		</ul>
+
+	{% endfor %}
+
+
  {% endfor %}
-
-
-
-
-
-<h1>old content </h1>
-
-
-
-{% for parent in parents %}
-  {% unless parent == "" or parent == "Drachenwald" or parent == " " %}
-    {% assign item = groups | where: "group", parent | first %}
-    {% unless item == null %}
-  <a name="{{ item.group }}"></a>
-
-      {% if item.status == "Region" %}
-  <h2>{{ item.group }} Region</h2>
-      {% else %}
-  <h2>{{ item.status }} of {{ item.group }}</h2>
-      {% endif %}
-
-  <strong>Region:</strong> {{ item.mundanely }}<br>
-        <strong>Online:</strong> {% unless item.website == "" %}<a href="{{ item.website }}">{{ item.website }} </a> {% endunless %}
-        {% unless item.facebook-page == "" %} <a href="{{ item.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless item.twitter == "" %} <a href="{{ item.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless item.facebook == "" %} <a href="{{ item.facebook }}"><i class="fab fa-fw fa-facebook" aria-hidden="true" style="color:blue"></i></a> {% endunless %}
-        {% unless item.instagram == "" %} <a href="{{ item.instagram }}"><i class="fab fa-fw fa-instagram"  aria-hidden="true"></i></a> {% endunless %}
-       {% unless item.discord == "" %} <a href="{{ item.discord }}"> <i class="fab fa-fw fa-discord" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless item.youtube == "" %} <a href="{{ item.youtube }}"> <i class="fab fa-fw fa-youtube" aria-hidden="true" style="color:red"></i></a> {% endunless %}
- 		<br/>	
- 		
-        {% assign seneschal = site.data.groups.officerlist | where: "group", item.group | where: "office", "seneschal" | first %}
-        {% assign chatelaine = site.data.groups.officerlist | where: "group", item.group | where: "office", "chatelaine" | first %}
-
-        {% if seneschal %}
- <strong>Seneschal:</strong>  {{ seneschal.scaname }}
-          {% unless seneschal.email == "" %} (<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>) {% endunless %}
-            {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
-  <br>
-        {% endif %}
-
-        {% if chatelaine %}
- <br> <strong>Chatelaine:</strong> {{ chatelaine.scaname }} 
-          {% unless chatelaine.email == "" %} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>){% endunless %}
-            {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
-  <br>
-        {% endif %}
-
-    {% endunless %}
-
-
-
-
-    {% assign subgroups = groups | where: "parent", item.group %}
-
-    {% for subgroup in subgroups %}
-
-      {% assign mod = forloop.index | modulo:"3" %}
-
-      {% unless subgroup.status == "Dormant" %}
-  <section>
-
-  <h3>{{ subgroup.status }} of {{ subgroup.group }}</h3>
-        {% unless subgroup.region == "" %}<strong>Region:</strong> {{ subgroup.mundanely }}<br>{% endunless %}
-        <strong>Online:</strong> {% unless subgroup.website == "" %}<a href="{{ subgroup.website }}">{{ subgroup.website }} </a> {% endunless %}
-              {% unless subgroup.facebook-page == "" %} <a href="{{ subgroup.facebook-page }}"><i class="fab fa-fw fa-facebook" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless subgroup.twitter == "" %} <a href="{{ subgroup.twitter }}"> <i class="fab fa-fw fa-twitter" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless subgroup.facebook == "" %} <a href="{{ subgroup.facebook }}"><i class="fab fa-fw fa-facebook" aria-hidden="true" style="color:blue"></i></a> {% endunless %}
-        {% unless subgroup.instagram == "" %} <a href="{{ subgroup.instagram }}"><i class="fab fa-fw fa-instagram"  aria-hidden="true"></i></a> {% endunless %}
-       {% unless subgroup.discord == "" %} <a href="{{ subgroup.discord }}"> <i class="fab fa-fw fa-discord" style="color:blue" aria-hidden="true"></i></a> {% endunless %}
-        {% unless subgroup.youtube == "" %} <a href="{{ subgroup.youtube }}"> <i class="fab fa-fw fa-youtube" aria-hidden="true" style="color:red"></i></a> {% endunless %}	<br/>
-
-        {% if item.group == "Insulae Draconis" or item.group == "Nordmark" or item.group == "Aarnimetsä" or item.group == "Knights Crossing" %}
-          {% assign groupslug = item.group | append: '-' | append: subgroup.group %}
-        {% else %}
-          {% assign groupslug = subgroup.group %}
-        {% endif %}
-
-        {% assign seneschal = site.data.groups.officerlist | where: "group", groupslug | where: "office", "seneschal" | first %}
-        {% assign chatelaine = site.data.groups.officerlist | where: "group", groupslug | where: "office", "chatelaine" | first %}
-
-        {% if seneschal %}
-          {% unless seneschal.scaname == "" %}
-            
-    <strong>Seneschal:</strong> {{ seneschal.scaname }} 
-    {% unless seneschal.email == "" %}(<a href="mailto:{{ seneschal.email }}">{{ seneschal.email }}</a>){% endunless %}
-              {% unless seneschal.mundanename == "" %}({{ seneschal.mundanename }}){% endunless %}
-    <br>
-            
-          {% endunless %}
-        {% endif %}
-
-        {% if chatelaine %}
-          {% unless chatelaine.scname == "" %}
-            {% unless chatelaine.email == "" %}
-    <strong>Chatelaine:</strong> {{ chatelaine.scaname }} (<a href="mailto:{{ chatelaine.email }}">{{ chatelaine.email }}</a>)
-              {% unless chatelaine.mundanename == "" %}({{ chatelaine.mundanename }}){% endunless %}
-    <br>
-            {% endunless %}
-          {% endunless %}
-        {% endif %}
-      
-    </section>
-    {% endunless %}
-  
-    {% endfor %}
-
-
-
-  {% endunless %}
-
-{% endfor %}
 
 <h2>Far away places</h2>
 
