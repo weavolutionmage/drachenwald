@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "faraday", "0.15.4"
+gem "faraday", "2.7.1"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,10 +10,10 @@ gem "faraday", "0.15.4"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "4.3.1"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minimal-mistakes-jekyll", "4.13.0"
+gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -25,8 +25,8 @@ gem "kramdown-parser-gfm"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate-v2", "2.0.0"
+  gem "jekyll-feed"
+  gem "jekyll-paginate-v2"
   gem "jekyll-redirect-from"
   gem "jekyll-sitemap"
 end

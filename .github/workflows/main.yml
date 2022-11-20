@@ -1,9 +1,9 @@
 name: Build and upload
 on: 
   push:
-    branches: [main, staging]
+    branches: [main, staging, 'update-versions']
   workflow_dispatch:
-    branches: [main, staging]
+    branches: [main, staging, 'update-versions']
   schedule:
   - cron: "39 6,10,14,18,20,22 * * *"
 
