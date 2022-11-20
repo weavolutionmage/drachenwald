@@ -22,7 +22,8 @@ then
     rsync -rvzc --exclude '.htaccess' --delete -e 'ssh -p 45333' public/ $WEBHOST_OVH:drach-staging/public/
     rsync -rvzc --delete -e 'ssh -p 45333' public/.htaccess $WEBHOST_OVH:drach-staging/
   else
-    echo "Not acting on branch ${GITHUB_REF_NAME}"
+    echo "Not uploading on branch ${GITHUB_REF_NAME}"
+    JEKYLL_ENV=development bundle exec jekyll build -d public
   fi
 else
   echo "No branch specified"
