@@ -1,8 +1,7 @@
-
-{% assign q = site.data.groups.groups-special | where: "website-section", include.group | first %}
+{% assign q = site.data.groups-special | where: "website-section", include.group | first %}
 {% assign groupname = q.name %}
 
-{% assign people = site.data.groups.officerlist | where: "group",  groupname  %}
+{% assign people = site.data.regnum-officers | where: "group",  groupname  %}
 
 # Charter
 
