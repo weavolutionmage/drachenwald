@@ -42,8 +42,8 @@
   ({{ p.pronouns }})
   {% endunless %}
   <br>
-  {% unless p.email == "" %}Email: <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endunless %}
-  {% unless p.phone == "" %}Phone: {{ p.phone }}<br>{% endunless %}
+  {% unless p.email == "" %} <a href="mailto:{{ p.email }}">{{ p.email }}</a><br>{% endunless %}
+  {% unless p.phone == "" %} Phone: {{ p.phone }}<br>{% endunless %}
   {% unless p.address == "" %}{{ p.address }}<br>{% endunless %}
 
 

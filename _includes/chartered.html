@@ -1,8 +1,7 @@
-
-{% assign q = site.data.groups.groups-special | where: "website-section", include.group | first %}
+{% assign q = site.data.groups-special | where: "website-section", include.group | first %}
 {% assign groupname = q.name %}
 
-{% assign people = site.data.groups.officerlist | where: "group",  groupname  %}
+{% assign people = site.data.regnum-officers | where: "group",  groupname  %}
 
 # Charter
 
@@ -14,7 +13,7 @@
 # Contact Information
 
 {% for p in people %}
-{{ p.role }}: {{ p.scaname }} {% unless p.pronouns == "" %}({{ p.pronouns }}){% endunless %}{% unless p.email == "" %}, <a href="mailto:{{ p.email }}">{{ p.email }}</a>{% endunless %}
+* <strong>{{ p.role }}</strong>: {{ p.scaname }} {% unless p.pronouns == "" %}({{ p.pronouns }}){% endunless %}{% unless p.email == "" %}, <a href="mailto:{{ p.email }}">{{ p.email }}</a>{% endunless %}
 {% endfor %}
 
 {% unless q.facebook == "" %}
