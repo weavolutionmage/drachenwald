@@ -16,5 +16,5 @@ them a medallion bearing the badge of the order.
 [The Roster of the Order of Defense]({% link peers/defence/defence-roster.md %})
 
 
-{% include peer-secretary.html order="peers/defence" %}
+{% include peer-secretary.html order="Drachenwald - Order of Defence" %}
 
