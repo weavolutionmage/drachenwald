@@ -48,6 +48,7 @@ Drachenwald is home to several groups which hold charters of the Crown, as guild
 * [Practical Drachenwald] ({{ site.baseurl }}{% link chartergroups/practical-drachenwald/index.md %})
 * [Drachenwald Navy] ({{ site.baseurl }}{% link chartergroups/navy/index.md %})
 * [Drachenwald Herbalist Guild] ({{ site.baseurl }}{% link chartergroups/herbalist-guild/index.md %})
+* [Drachenwald Armourers Guild] ({{ site.baseurl }}{% link chartergroups/armourers-guild/index.md %})
 
 # Bestowed peers
 The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. These are honours recognised across the Society.

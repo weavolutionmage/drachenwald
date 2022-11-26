@@ -212,7 +212,9 @@ side-offices:
     - title: Drachenwald Navy
       url: /chartergroups/navy/
     - title: Herbalist Guild
-      url: /chartergroups/herbalist-guild/      
+      url: /chartergroups/herbalist-guild/   
+    - title: Armourers Guild
+      url: /chartergroups/armourers-guild/            
       
 - title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
