@@ -18,10 +18,7 @@ No court reports available right now, please come back later.
 # Court reports in the queue
 {% for itemAll in courtreports %}
 {% unless itemAll.status == 'Completed' %}
-* {{ itemAll.event_name }}: {{ itemAll.court }} court, {{ itemAll.court_name }}, {{ itemAll.court_date }} submitted by {{ itemAll.filed_by }} on {{ itemAll.date_submitted }}. 
-{% unless itemAll.status == "" %}
-The report  is currently {{ itemAll.status }}.
-{% endunless %}
+* {{ itemAll.event_name }}: {{ itemAll.court }} court, {{ itemAll.court_name }}, {{ itemAll.court_date }} submitted by {{ itemAll.filed_by }} on {{ itemAll.date_submitted }}. {% unless itemAll.status == "" %} The report  is currently {{ itemAll.status }}. {% endunless %}
 {% endunless %}
 {% endfor %}
 
