@@ -45,28 +45,3 @@
 
 
 
-<!-- 
-
-
-## Kingdom of Drachenwald
-<dl>  
- {% for item in q %}
-<hr> {{ item }} <hr/>
- {% assign group = site.data.groups.grouplist | where: "group", item.group | first %}
-  {% if group.group == "Drachenwald" or group.group == "Southern" or group.group == "Central" %}
-    {% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
-  {% endif %}
-  {% endfor %}
-</dl>
-
-## Principality and Baronial Contacts
-<dl>
-  {% for item in q %}
-  {% assign group = site.data.groups.grouplist | where: "group", item.group | first %}
-  {% if  group.group == "Nordmark"  or group.group == "Aarnimetsä" or group.group == "Insulae Draconis" %}
-    {% include officer-bio.html holder=item group=group longname=office.longname sidebar=false showbio=true %}
-  {% endif %}
-  {% endfor %}
-</dl>
--->
-
