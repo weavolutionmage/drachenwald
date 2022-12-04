@@ -247,6 +247,6 @@ html {
   .navicon,
   .navicon:before,
   .navicon:after {
-    background: mix(#000, $masthead-link-color-color, 25%); // change color
+    background: mix(#000, $masthead-link-color, 25%); // change color
   }
 }
