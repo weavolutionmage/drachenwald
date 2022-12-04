@@ -43,6 +43,12 @@ These pages provide the forms, handbooks and guidance for local and regional off
 Drachenwald is home to several groups which hold charters of the Crown, as guilds and schools. While they have the patronage of the Crown, the groups define their own ranks and entry requirements, and bestow their own recognitions for gaining skills.
 
 * [Drachenwald Academy of Defence]({{ site.baseurl }}{% link chartergroups/academy-of-defence/index.md %}) 
+* [Society of the Golden Egg]({{ site.baseurl }}{% link chartergroups/golden-egg/index.md %})
+* [Drachenwald Cooks Guild]({{ site.baseurl }}{% link chartergroups/cooks-guild/index.md %})
+* [Practical Drachenwald]({{ site.baseurl }}{% link chartergroups/practical-drachenwald/index.md %})
+* [Drachenwald Navy]({{ site.baseurl }}{% link chartergroups/navy/index.md %})
+* [Drachenwald Herbalist Guild]({{ site.baseurl }}{% link chartergroups/herbalist-guild/index.md %})
+* [Drachenwald Armourers Guild]({{ site.baseurl }}{% link chartergroups/armourers-guild/index.md %})
 
 # Bestowed peers
 The 'bestowed peerages' refer to those peerages which come from the hand of the king and queen. These are honours recognised across the Society.

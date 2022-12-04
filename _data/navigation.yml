@@ -188,7 +188,7 @@ side-offices:
     - title: Web Minister
       url: /offices/webminister/
     - title: Social Media
-      url: /offices/socialmedia
+      url: /offices/socialmedia/
 
 - title: Orders & Charter Groups
   url: /offices/
@@ -210,7 +210,11 @@ side-offices:
     - title: Practical Drachenwald
       url: /chartergroups/practical-drachenwald/
     - title: Drachenwald Navy
-      url: /chartergroups/navy
+      url: /chartergroups/navy/
+    - title: Herbalist Guild
+      url: /chartergroups/herbalist-guild/   
+    - title: Armourers Guild
+      url: /chartergroups/armourers-guild/            
       
 - title: Diversity & Inclusion
   url: /offices/seneschal/diversity-equity-inclusion-council/
