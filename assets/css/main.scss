@@ -19,7 +19,7 @@ $footer-background-color: $primary-color !default;
 $link-color: #393e46 !default;
 $masthead-link-color: #fffb00 !default;
 $masthead-link-color-hover: #ffae00 !default;
-$navicon-link-color-hover: #fffb00 !default;
+// $navicon-link-color-hover: #fffb00 !default;
 
 .masthead {
   background-color: #660000;
@@ -232,4 +232,21 @@ html {
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+}
+
+.navicon {
+  background: $masthead-link-color; // change color
+
+  &:before,
+  &:after {
+    background: $masthead-link-color; // change color
+  }
+}
+
+.greedy-nav__toggle:hover {
+  .navicon,
+  .navicon:before,
+  .navicon:after {
+    background: mix(#000, $masthead-link-color-color, 25%); // change color
+  }
 }
