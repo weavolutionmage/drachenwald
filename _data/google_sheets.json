@@ -1,14 +1,26 @@
 {
    "sheets":[
-   1aq76tjaxOT5q4c0vIRRJ6GuEaRHVmguao_XLCpZ8jVM
-          {
+    {
          "sheetId":"1aq76tjaxOT5q4c0vIRRJ6GuEaRHVmguao_XLCpZ8jVM",
          "data":"export",
          "meta":"metadata",
          "dest":"_data/chartered_peerage.json",
          "comment":"new special interests file"
       },
-   
+    {
+         "sheetId":"1N5PsRwDtc5S0S1SwBdzlTyL-kc6pf_4psgKW7s3bpv0",
+         "data":"RO: roles",
+         "meta":"metadata",
+         "dest":"_data/roles.json",
+         "comment":"roles"
+      },
+    {
+         "sheetId":"1N5PsRwDtc5S0S1SwBdzlTyL-kc6pf_4psgKW7s3bpv0",
+         "data":"Currently Active Officers",
+         "meta":"metadata",
+         "dest":"_data/people.json",
+         "comment":"officers, vips & royals"
+      },
           {
          "sheetId":"17sggZ9kXlaKRboEFTO2YJSoXAzx2ZjpUcg_wEsqRWmA",
          "data":"export",
