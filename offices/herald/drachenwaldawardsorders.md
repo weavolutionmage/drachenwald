@@ -42,7 +42,7 @@ In Drachenwald, the Landed/Territorial Baronage is Granted Arms upon successful 
 
 ## Court Baronage	
 
-In Drachenwald, the Court Baronage carries a Grant of Arms.
+In Drachenwald, the Court Baronage can be given for any reason the Crown decrees.  It often carries a Grant of Arms.
 
 
 
@@ -387,9 +387,6 @@ Awarded to a male Styring, for spreading knowledge about Styringheim, for servic
 
 Awarded to a group, for spreading knowledge about Styringheim, for service or for representing good “Styring-ship”.
 
-## Havdes Följe
-
-Given to former Barons and Baronesses of Styringheim.
 
 
 
