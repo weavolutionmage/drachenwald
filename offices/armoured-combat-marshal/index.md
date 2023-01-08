@@ -17,7 +17,7 @@ Our focus is on safety first, and capacity to take part, over perfect execution.
 
 People of any size and gender, after age 16 (UK and Europe) can train and authorise (get a Society fighting permit). Combat has some base requirements for physical capacity: to wear the armour comfortably, and to throw and accept blows. SCA fighters include those in wheelchairs, and amputees.
 
-* [Drachenwald marshal's handbook for armoured combat]({{ site.baseurl }}{% link offices/armoured-combat-marshal/files/armour_marshal_handbook_8_1_2016.pdf %}), covering the armour requirements, basic skills to learn for authorisation, and supporting fighters on the field
+* [Drachenwald marshal's handbook for armoured combat]({{ site.baseurl }}{% link offices/armoured-combat-marshal/files/armour_marshal_handbook.pdf %}), covering the armour requirements, basic skills to learn for authorisation, and supporting fighters on the field
 
 * [Armoured combat authorisation form]({{ site.baseurl }}{% link offices/armoured-combat-marshal/files/armoured_combat_authorisation_form.pdf %}), PDF format, for those who  successfully learn new weapons forms for SCA use. Armoured fighters and marshals must complete a form to record your authorisation.
 
