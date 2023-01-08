@@ -14,3 +14,6 @@ python3 _thisisdrachenwald/fetch_rss.py
 python3 _thisisdrachenwald/create_rss.py
 mkdir dis
 cp _data/branches.json dis 
+cp _data/chartered_peerage.json dis
+cp _data/roles.json dis
+cp _data/people.json dis
