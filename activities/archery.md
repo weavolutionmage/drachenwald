@@ -1,7 +1,7 @@
 ---
 title: Archery
 ---
-The bow is one of the oldest weapons and has been used both for hunting and in warfare for thousands of years.
+The bow is one of the oldest weapons and has been used both for hunting and in warfare for thousands of years. Archers are the best!
 
 Drachenwald offers many opportunities to practice the important medieval skill of archery and to take part in competitions in both target and field archery. Lots of events will include opportunities for complete beginners, or those who have tried archery briefly elsewhere, to take part in a shoot. Some events make archery their main focus, with a mixture of training and contests in a variety of fun formats.
 
