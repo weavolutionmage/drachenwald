@@ -8,4 +8,4 @@ services:
       - .:/build
     stdin_open: true
     tty: true
-    command: bash -c "apt-get update && apt-get install -y locales python3-pip ruby-full curl && gem install bundler && cd /build && bundle install && pip3 install -r _thisisdrachenwald/requirements.txt && _bin/build.sh && bundle exec jekyll serve --watch --host 0.0.0.0"
+    command: bash -c "apt-get update && apt-get install -y locales python3-pip ruby-full curl && gem install bundler && cd /build && bundle install && pip3 install -r _thisisdrachenwald/requirements.txt && _bin/build-local.sh && bundle exec jekyll serve --watch --host 0.0.0.0"
